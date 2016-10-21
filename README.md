@@ -12,7 +12,7 @@ Table of Contents
 
 
 - [Introduction to CS](#introduction-to-cs)
-- [Algorithms](#algorithms)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Systems](#systems)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
@@ -41,6 +41,27 @@ Courses
 - [CS 107 - Programming Paradigms, Stanford University](http://see.stanford.edu/see/lecturelist.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
 
 ------
+
+### Data Structures and Algorithms
+
+- [CS 61B - Data Structures, UC Berkeley](https://people.eecs.berkeley.edu/~jrs/61b/) 
+	- [Fall 2006 - Prof. Jonathan Shewchuk](https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C)
+	- [Spring 16 - Josh Hug](http://datastructur.es/sp16/) 
+- [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+- [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/) 
+- [6.046J - Introduction to Algorithms - Fall 2005, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
+- [6.046 - Design and Analysis of Algorithms, Spring 2015 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
+- [Programming Challenges - Prof Skiena](http://www.algorist.com/programming_challenges/)
+- [16s-4102 - Algorithms, University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
+- [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Lectures](http://theory.stanford.edu/~tim/w16/w16.html)) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
+- [CS 224 - Advanced Algorithms, Harvard University](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) ([Lecture Videos](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf))
+- [ECS 122A - Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
+- [CS 6150 - Advanced Algorithms (Fall 2016), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCp8X9FHOglnLqFjyvqGLftx)
+- [ECS 222A - Graduate Level Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
+- [6.851 - Advanced Data Structures, MIT](http://courses.csail.mit.edu/6.851/spring14/lectures/) ([MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/))
+- [6.854 - Advanced Algorithms, MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c) ([Prof. Karger lectures](https://www.youtube.com/channel/UCtv9PiQVUDzsT4yl7524DCg/videos))
+
+---------------------------------
 
 ### Systems
 
