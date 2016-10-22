@@ -18,6 +18,7 @@ Table of Contents
 - [Machine Learning](#machine-learning)
 - [Math for Computer Scientist](math-for-computer-scientist)
 - [Theoretical CS and Programming Languages](theoretical-cs-and-programming-languages)
+- [Computer Organization and Architecture](computer-organization-and-architecture)
 - [Security](#security)
 - [Computer Graphics](#computer-graphics)
 - [Misc](#misc)
@@ -142,6 +143,13 @@ Courses
 - [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/) ([Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a))
 - [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
 
+-------------------------------
+
+### Computer Organization and Architecture
+- [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
+- [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_))
+- [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt))
+- [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 
 -------
 
