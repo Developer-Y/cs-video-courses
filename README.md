@@ -113,3 +113,29 @@ Courses
 
 -------
 
+###Artificial Intelligence
+- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley](http://ai.berkeley.edu/home.html)
+- [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+
+
+-------
+
+### Computer Graphics
+- [CAP 5415 - Computer Vision, University of Central Florida](http://crcv.ucf.edu/videos/Lecture_Videos/)
+- [CS 5630/6630 - Visualization, Fall 2016, University of Utah](http://dataviscourse.net/2016/index.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpQY3miQpTJtnHgCLze2lr0))
+
+-------
+
+### Misc
+- [CS 193a - Android App Development, Spring 2016, Stanford University](http://web.stanford.edu/class/cs193a/lectures.shtml)
+- [Skiena's Computational Biology Lectures](http://www.algorist.com/computational_biology/)
+- [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
+- [AM 207 - Monte Carlo Methods and Stochastic Optimization, Harvard University](http://am207.github.io/2016/index.html)
+- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) 
+- [CS 223A - Introduction to Robotics, Stanford University](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
+- [CS 411 - Software Architecture Design, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
+- [CS 3152 - Introduction to Computer Game Development, Cornell University](http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php)
+- [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](http://www.schneems.com/ut-rails/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
+- [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) ([Lectures - Youtube](https://www.youtube.com/user/fillwithlight/videos))
+
+-------------------------
