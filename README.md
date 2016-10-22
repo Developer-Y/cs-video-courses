@@ -5,7 +5,7 @@ Introduction
 
 List of Computer Science courses with video lectures. For more courses, please refer [MIT OCW](https://ocw.mit.edu/index.htm) and [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
-Focus would be to act as general undergraduate/graduate CS University curriculum. Brevity would be preferred over comprehensiveness/details in order to maintain the list readable and usable. Please visit link to course for more details.
+Focus would be to keep the list to the point in order keep it readable and usable. To access syllabus/notes/assignments, please visit link to the course or use Google search.
 
 Table of Contents
 -----------------
