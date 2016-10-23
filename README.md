@@ -13,13 +13,16 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Systems](#systems)
+- [Systems Programming](#systems-programming)
+- [Distributed Systems](#distributed-systems)
 - [Database Systems](#database-systems)
 - [Object Oriented Design and Software Engineering](#object-oriented-design-and-software-engineering)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
-- [Math for Computer Scientist](math-for-computer-scientist)
 - [Web Programming](#web-programming)
+- [Concurrency](#concurrency)
+- [Computer Networks](#computer-networks)
+- [Math for Computer Scientist](math-for-computer-scientist)
 - [Theoretical CS and Programming Languages](theoretical-cs-and-programming-languages)
 - [Computer Organization and Architecture](computer-organization-and-architecture)
 - [Security](#security)
@@ -39,6 +42,8 @@ Courses
 - [CS 50 - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/lectures)
 - [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/)
 - [CS 101 - Computer Science 101, Stanford University](http://online.stanford.edu/course/computer-science-101-self-paced) (Register free  to access Videos)
+- [CS E-1 Understanding Computers and the Internet - Harvard University](http://computerscience1.tv/2011/spring/)
+- [CSE 142 Computer Programming I (C Programming), Autumn 200 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
 - [CS 106A - Programming Methodology, Stanford University](http://see.stanford.edu/see/lecturelist.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
 - [CS 106B - Programming Abstractions, Stanford University](http://see.stanford.edu/see/lecturelist.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e)
 - [CS 107 - Programming Paradigms, Stanford University](http://see.stanford.edu/see/lecturelist.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
@@ -49,7 +54,8 @@ Courses
 
 - [CS 61B - Data Structures, UC Berkeley](https://people.eecs.berkeley.edu/~jrs/61b/) 
 	- [Fall 2006 - Prof. Jonathan Shewchuk](https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C)
-	- [Spring 16 - Josh Hug](http://datastructur.es/sp16/) 
+	- [Spring 16 - Josh Hug](http://datastructur.es/sp16/)
+- [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/presentations.htm) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
 - [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/) 
@@ -58,9 +64,11 @@ Courses
 - [Programming Challenges - Prof Skiena](http://www.algorist.com/programming_challenges/)
 - [16s-4102 - Algorithms, University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
 - [CS 170 Algorithms - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDbtIylJDpPPJfaFweeaR-3)
+- [COP 5536 Advanced Data Structures, Prof Sahni - UFL](http://www.cise.ufl.edu/~sahni/cop5536/index.html) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop5536sahni/))
 - [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Lectures](http://theory.stanford.edu/~tim/w16/w16.html)) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
 - [CS 224 - Advanced Algorithms, Harvard University](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) ([Lecture Videos](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf))
 - [ECS 122A - Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
+- [CSEP 521: Applied Algorithms, Winter 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep521/13wi/) ([Videos](http://courses.cs.washington.edu/courses/csep521/13wi/video/))
 - [CS 6150 - Advanced Algorithms (Fall 2016), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCp8X9FHOglnLqFjyvqGLftx)
 - [ECS 222A - Graduate Level Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
 - [6.851 - Advanced Data Structures, MIT](http://courses.csail.mit.edu/6.851/spring14/lectures/) ([MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/))
@@ -68,7 +76,7 @@ Courses
 
 ---------------------------------
 
-### Systems
+### Systems Programming
 
 - [6.033 Computer System Engineering - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/video-lectures/)
 - [CS 162 - Operating Systems and Systems Programming, UC Berkeley](http://cs162.eecs.berkeley.edu/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c))
@@ -76,18 +84,25 @@ Courses
 - [CSE 421/521 - Introduction to Operating Systems, SUNY University at Buffalo, NY - Spring 2016](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3))
 - [CS 377 Fall 16: Operating Systems - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbDTmsCRGWsMW_PzIOpXnckw)
 - [6.828: Operating System Engineering [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
-- [VU:Distributed Systems: Principles and Paradigms by Maarten van Steen (Fall 2012), Vrije Universiteit, Amsterdam](http://www.distributed-systems.net/courses/ds/ds-screencasts/)
-- [CS 677 Spring 16: Distributed Operating Systems - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
-- [CS 436: Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
-- [6.824: Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
+- [CSEP 551 Operating Systems Autumn 2014 - University of Washington](http://courses.cs.washington.edu/courses/csep551/14au/video/)
 - [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013, UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
 - [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
 - [CS 251: Intermediate Software Design (C++ version)](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4ZsvD10uXmClGnukcu3Uff)
 - [CS 251 (2015): Intermediate Software Design](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne)
-- [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
-- [Distributed Algorithms, https://canvas.instructure.com/courses/902299](https://www.youtube.com/playlist?list=PL700757A5D4B3F368)
 
-------------------------------
+-----------------------------
+
+### Distributed Systems
+- [VU:Distributed Systems: Principles and Paradigms by Maarten van Steen (Fall 2012), Vrije Universiteit, Amsterdam](http://www.distributed-systems.net/courses/ds/ds-screencasts/)
+- [CS 677 Spring 16: Distributed Operating Systems - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
+- [CS 436: Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
+- [6.824: Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
+- [Distributed Algorithms, https://canvas.instructure.com/courses/902299](https://www.youtube.com/playlist?list=PL700757A5D4B3F368)
+- [CSEP 552: PMP Distributed Systems, Spring 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep552/13sp/) ([Videos](http://courses.cs.washington.edu/courses/csep552/13sp/video/))
+- [CSE 490H: Scalable Systems: Design, Implementation and Use of Large Scale Clusters, Autumn 2008 - University of Washington](http://courses.cs.washington.edu/courses/cse490h/08au/lectures.htm) ([Videos](http://courses.cs.washington.edu/courses/cse490h/08au/video.htm))
+
+------------------------------------------------------------
+
 
 ### Database Systems
 - [CS 5530 - Database Systems, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrercQNP9tTsjjPdgRVYvC7)
@@ -113,6 +128,7 @@ Courses
 ### Artificial Intelligence
 - [CS 188 - Introduction to Artificial Intelligence, UC Berkeley](http://ai.berkeley.edu/home.html)
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+- [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](http://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
 
 --------------
 
@@ -152,13 +168,25 @@ Courses
 - [Deep Learning - University of Waterloo](https://uwaterloo.ca/data-science/deep-learning)
 - [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
 - [STA 4273H (Winter 2015): Large Scale Machine Learning](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
-- [CSEP 546, Machine Learning, Sp 2016 - University of Washington](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr)
+- [CSEP 546, Machine Learning, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
 - [Machine Learning for Computer Vision - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
 - [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
 - [CAP 5415 - Computer Vision, University of Central Florida](http://crcv.ucf.edu/videos/Lecture_Videos/)
 
 
--------
+------------------------------
+### Concurrency
+- [CSE P 506 – Concurrency (Spring 2011) University of Washington](http://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](http://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
+- [CSEP 524 - Parallel Computation - University of Washington](http://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](http://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
+- [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
+
+----------------------------
+
+### Computer Networks
+- [CSEP 561: PMP Network Systems, Fall 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/13au/video/))
+- [CSEP 561 – Network Systems, Autumn 2008 - University of Washington](http://courses.cs.washington.edu/courses/csep561/08au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/08au/lectures/))
+
+-------------------------------
 
 ### Math for Computer Scientist
 - [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
@@ -176,6 +204,7 @@ Courses
 
 ### Web Programming
 - [CS 75 Building Dynamic Websites - Harvard University](http://cs75.tv/2012/summer/)
+- [CSEP545: Transaction Processing for E-Commerce, Winter 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](http://courses.cs.washington.edu/courses/csep545/12wi/video/))
 
 ---------------------------
 
@@ -187,6 +216,7 @@ Courses
 - [CS 421 - Programming Languages and Compilers, UIUC](https://courses.engr.illinois.edu/cs421/fa2014/) ([Videos](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f))
 - [CSC 253 - CPython internals: A ten-hour codewalk through the Python interpreter source code, University of Rochester](http://pgbovine.net/cpython-internals.htm)
 - [CSEP 501 - Compiler Construction, University of Washington](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C))
+- [CSEP 505 Programming Languages, Winter 2015 - University of Washington](http://courses.cs.washington.edu/courses/csep505/15wi/video/)
 - [DMFP - Discrete Mathematics and Functional Programming, Wheaton College](http://cs.wheaton.edu/~tvandrun/dmfp/) 
 - [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/) ([Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a))
 - [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
@@ -197,6 +227,7 @@ Courses
 - [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 - [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_))
 - [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt))
+- [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
 - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 - [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 - [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
@@ -229,5 +260,7 @@ Courses
 - [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
 - [Lecture: Visual Navigation for Flying Robots - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha)
 - [Image Processing and Analysis (Course) UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
+- [CSEP590A: Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](http://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](http://courses.cs.washington.edu/courses/csep590a/11wi/video/))
+- [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
 
 -------------------------
