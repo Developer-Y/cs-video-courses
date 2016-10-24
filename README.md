@@ -138,6 +138,7 @@ Courses
 ### Artificial Intelligence
 - [CS 188 - Introduction to Artificial Intelligence, UC Berkeley](http://ai.berkeley.edu/home.html)
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+- [15-780: Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
 - [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](http://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
 
 --------------
@@ -209,12 +210,13 @@ Courses
 - [6.042J - Mathematics for Computer Science, Spring 15, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [Computer Science 70, 001 - Fall 2012](https://www.youtube.com/playlist?list=PL1A2EBAC4283FE3EA)
 - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+- [10-600 Math Background for ML - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
+- [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
 - [STATS 250 - Introduction to Statistics and Data Analysis, UMichigan](https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F)
 - [131B - Introduction to Probability and Statistics, UCI](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
 - [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [Multiple View Geometry - Lecture 1 (Prof. Daniel Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
-- [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
 
 -------------------------
 
