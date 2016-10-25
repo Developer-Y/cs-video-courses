@@ -3,7 +3,7 @@
 Introduction
 ------------
 
-List of Computer Science courses with video lectures. For more courses, please refer [MIT OCW](https://ocw.mit.edu/index.htm) and [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+List of Computer Science courses with video lectures. For more courses, please refer [MIT OCW](https://ocw.mit.edu/index.htm), YouTube channels for Universities, Google, itunes U and similar sites like [awesome-courses](https://github.com/prakhar1989/awesome-courses) etc.
 
 Focus would be to keep the list to the point in order keep it readable and usable. To access syllabus/notes/assignments, please visit link to the course or use Google search.
 
@@ -239,6 +239,7 @@ Courses
 - [DMFP - Discrete Mathematics and Functional Programming, Wheaton College](http://cs.wheaton.edu/~tvandrun/dmfp/) 
 - [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/) ([Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a))
 - [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
+- [CS581 Theory of Computation - Portland State University](http://web.cecs.pdx.edu/~harry/videos/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
 
 -------------------------------
 
@@ -250,6 +251,7 @@ Courses
 - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 - [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 - [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
+- [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
 
 -------
 
@@ -267,7 +269,7 @@ Courses
 -------
 
 ### Misc
-- [CS 193a - Android App Development, Spring 2016, Stanford University](http://web.stanford.edu/class/cs193a/lectures.shtml)
+- [CS 193a - Android App Development, Spring 2016, Stanford University](https://web.stanford.edu/class/cs193a/videos.shtml)
 - [Skiena's Computational Biology Lectures](http://www.algorist.com/computational_biology/)
 - [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
 - [AM 207 - Monte Carlo Methods and Stochastic Optimization, Harvard University](http://am207.github.io/2016/index.html)
