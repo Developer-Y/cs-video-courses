@@ -3,9 +3,14 @@
 Introduction
 ------------
 
-List of Computer Science courses with video lectures. For more courses, please refer [MIT OCW](https://ocw.mit.edu/index.htm), YouTube channels for Universities, Google, itunes U and similar sites like [awesome-courses](https://github.com/prakhar1989/awesome-courses) etc.
+List of Computer Science courses with video lectures. 
 
-Focus would be to keep the list to the point in order keep it readable and usable. To access syllabus/notes/assignments, please visit link to the course or use Google search.
+- Please note:
+	- Focus would be to keep the list to the point so that it is readable and usable. To access syllabus/notes/assignments, please visit link to the course or use Google search with course number/name.
+	- Only MOOCs with comprehensive lecture material which may be equivalent to a standard University course will be added.
+	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, Google, itunes U and similar sites like [awesome-courses](https://github.com/prakhar1989/awesome-courses) etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details and some proof of ownership.
+
+
 
 Table of Contents
 -----------------
@@ -19,9 +24,10 @@ Table of Contents
 - [Object Oriented Design and Software Engineering](#object-oriented-design-and-software-engineering)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
-- [Web Programming](#web-programming)
+- [Web Programming and Internet Technologies](#web-programming-and-internet-technologies)
 - [Concurrency](#concurrency)
 - [Computer Networks](#computer-networks)
+- [Mobile Applications Development](#mobile-applications-development)
 - [Math for Computer Scientist](math-for-computer-scientist)
 - [Theoretical CS and Programming Languages](theoretical-cs-and-programming-languages)
 - [Computer Organization and Architecture](computer-organization-and-architecture)
@@ -156,7 +162,7 @@ Courses
 
 - **Introduction to Machine Learning**
 	- [MOOC Machine Learning Andrew Ng](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC)
-	- [MOOC StatLearning - Intro to Statistical Learning, Stanford University](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
+	- [MOOC - Statistical Learning, Stanford University](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 	- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
 	- [10-601 - Introduction to Machine Learning (MS), Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
@@ -195,8 +201,6 @@ Courses
 	- [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 	- [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
 	- [Machine Learning for Computer Vision - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
-	- [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
-	- [CAP 5415 - Computer Vision, University of Central Florida](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)
 - **Misc Machine Learning Topics**
 	- [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
 	- [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
@@ -206,6 +210,7 @@ Courses
 	- [CAM 383M - Statistical and Discrete Methods for Scientific Computing, University of Texas](http://granite.ices.utexas.edu/coursewiki/index.php/Main_Page)
 	- [Statistical Learning- Classification - University of Waterloo](https://uwaterloo.ca/data-science/statistical-learning-classification)
 	- [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
+	- [Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLacBNHqv7n9gp9cBMrA6oDbzz_8JqhSKo)
 
 ------------------------------
 ### Concurrency
@@ -218,12 +223,21 @@ Courses
 ### Computer Networks
 - [Prof. Shiv Kalyanaraman's Online Audio and Video Lectures on Computer Networking](https://www.ecse.rpi.edu/homepages/koushik/shivkuma-teaching/video_index.html)
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm)
-- [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
+- [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) ([U Washington MOOC](https://www.youtube.com/playlist?list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj))
 - [CSEP 561: PMP Network Systems, Fall 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/13au/video/))
 - [CSEP 561 – Network Systems, Autumn 2008 - University of Washington](http://courses.cs.washington.edu/courses/csep561/08au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/08au/lectures/))
-
+- [Introduction to Data Communications 2013, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
 
 -------------------------------
+
+### Mobile Applications Development
+- [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
+- [CS 193a - Android App Development, Spring 2016, Stanford University](https://web.stanford.edu/class/cs193a/videos.shtml)
+- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+- [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
+
+
+-------------------------
 
 ### Math for Computer Scientist
 - [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
@@ -242,16 +256,18 @@ Courses
 
 -------------------------
 
-### Web Programming
+### Web Programming and Internet Technologies
 - [CS 75 Building Dynamic Websites - Harvard University](http://cs75.tv/2012/summer/)
 - [CSEP545: Transaction Processing for E-Commerce, Winter 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](http://courses.cs.washington.edu/courses/csep545/12wi/video/))
 - [CT 310 Web Development - Colorado State University](https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php)
+- [Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
 
 ---------------------------
 
 
 ### Theoretical CS and Programming Languages
 
+- [MOOC - Compilers - Stanford University](https://www.youtube.com/playlist?list=PLkHsKoi6eZnyEj2pz3R_ER7izlenSxP-I)
 - [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F))
 - [CS 173 Programming Languages, Brown University](http://cs.brown.edu/courses/cs173/2012/Videos/) ([Book](http://cs.brown.edu/courses/cs173/2012/book/))
 - [CS 421 - Programming Languages and Compilers, UIUC](https://courses.engr.illinois.edu/cs421/fa2014/) ([Videos](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f))
@@ -262,6 +278,7 @@ Courses
 - [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/) ([Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a))
 - [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
 - [CS581 Theory of Computation - Portland State University](http://web.cecs.pdx.edu/~harry/videos/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
+- [Theory of Computation - Fall 2011 UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
 
 -------------------------------
 
@@ -281,22 +298,32 @@ Courses
 - [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
 - [CIS 4930/ CIS 5930 - Offensive Computer Security, Florida State University](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 - [18-636 Browser Security, Stanford](https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013)
+- [IT Security, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9-XSGfm-3uA9DfF7plasCF)
+- [Security and Cryptography, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF-z2sfMb3w0uQzd7PfaLFlU)
 
 -------
 
 ### Computer Graphics
 
 - [CS 5630/6630 - Visualization, Fall 2016, University of Utah](http://dataviscourse.net/2016/index.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpQY3miQpTJtnHgCLze2lr0))
+- [Advanced Visualization UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBNnySlj9TlL-n-4jNEK-xgi)
+- [Computer Graphics Fall 2011](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
+- [Introduction to Graphics Architecture](https://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0)
 
 -------
 
+### Computer Vision
+- [Image Processing and Analysis UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
+- [CAP 5415 - Computer Vision, University of Central Florida](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)
+- [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
+
+---------------------------
+
 ### Misc
-- [CS 193a - Android App Development, Spring 2016, Stanford University](https://web.stanford.edu/class/cs193a/videos.shtml)
 - [Skiena's Computational Biology Lectures](http://www.algorist.com/computational_biology/)
 - [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
 - [AM 207 - Monte Carlo Methods and Stochastic Optimization, Harvard University](http://am207.github.io/2016/index.html)
-- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) 
-- [CS 223A - Introduction to Robotics, Stanford University](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
+ - [CS 223A - Introduction to Robotics, Stanford University](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
 - [CS 3152 - Introduction to Computer Game Development, Cornell University](http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php)
 - [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](http://www.schneems.com/ut-rails/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
 - [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) ([Lectures - Youtube](https://www.youtube.com/user/fillwithlight/videos))
@@ -306,9 +333,9 @@ Courses
 - [CSEP590A: Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](http://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](http://courses.cs.washington.edu/courses/csep590a/11wi/video/))
 - [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
 - [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
-- [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
 - [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
 - [Introduction to Vision and Robotics](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm)
 - [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
+- [EENG 512 / CSCI 512 - Computer Vision - Colorado School of Mines](http://inside.mines.edu/~whoff/courses/EENG512/lectures/)
 
 -------------------------
