@@ -56,6 +56,8 @@ Courses
 - [CS 61B - Data Structures, UC Berkeley](https://people.eecs.berkeley.edu/~jrs/61b/) 
 	- [Fall 2006 - Prof. Jonathan Shewchuk](https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C)
 	- [Spring 16 - Josh Hug](http://datastructur.es/sp16/)
+- [MOOC - Design and Analysis of Algorithms Part 1 - Prof Roughgarden - Coursera](https://www.youtube.com/playlist?list=PLLH73N9cB21W1TZ6zz1dLkyIm50HylGyg) ([Part 2](https://www.youtube.com/playlist?list=PLLH73N9cB21VPj3H2xwTTye5TC8-UniA2))
+- [MOOC - Algorithms Part 1 - Prof Sedgewick](https://www.youtube.com/playlist?list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q) ([Part 2](https://www.youtube.com/playlist?list=PLqD_OdMOd_6YixsHkd9f4sNdof4IhIima))
 - [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/presentations.htm) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
 - [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
@@ -76,6 +78,9 @@ Courses
 - [ECS 222A - Graduate Level Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
 - [6.851 - Advanced Data Structures, MIT](http://courses.csail.mit.edu/6.851/spring14/lectures/) ([MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/))
 - [6.854 - Advanced Algorithms, MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c) ([Prof. Karger lectures](https://www.youtube.com/channel/UCtv9PiQVUDzsT4yl7524DCg/videos))
+- [CS264 Beyond Worst-Case Analysis, Fall 2014 - Tim Roughgarden Lecture](http://theory.stanford.edu/~tim/f14/f14.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RL8jsZpaf2tLHa5LotFEt5b))
+- [CS364A Algorithmic Game Theory, Fall 2013 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
+- [CS364B Advanced Mechanism Design, Winter 2014 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 
 ---------------------------------
 
@@ -109,13 +114,16 @@ Courses
 - [CS138 Distributed Computer Systems Spring 2016 - Brown University](http://cs.brown.edu/courses/csci1380/s16/syllabus.html)
 - [CSEP 552: PMP Distributed Systems, Spring 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep552/13sp/) ([Videos](http://courses.cs.washington.edu/courses/csep552/13sp/video/))
 - [CSE 490H: Scalable Systems: Design, Implementation and Use of Large Scale Clusters, Autumn 2008 - University of Washington](http://courses.cs.washington.edu/courses/cse490h/08au/lectures.htm) ([Videos](http://courses.cs.washington.edu/courses/cse490h/08au/video.htm))
+- [MOOC - Cloud Computing Concepts - UIUC](https://www.youtube.com/playlist?list=PLFd87qVsaLhOkTLvfp6MC94iFa_1c9wrU)
 
 ------------------------------------------------------------
 
 
 ### Database Systems
 - [CS 5530 - Database Systems, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrercQNP9tTsjjPdgRVYvC7)
+- [MOOC - Database Stanford Dbclass](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
 - [CSEP 544, Database Management Systems, Au 2015 - University of Washington](https://www.youtube.com/playlist?list=PLTPQEx-31JXjQYrUKvAjUTWgCYluHGs_L)
+- [Principles of Database Management, Bart Baesens](https://www.youtube.com/playlist?list=PLdQddgMBv5zEhlpqdiUcf9aTNEtmESgyl)
 - [15-721 - Database Systems, CMU](http://15721.courses.cs.cmu.edu/spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O))
 - [CS 186 - Database Systems, UC Berkeley, Spring 2015](https://sites.google.com/site/cs186spring2015/home/schedule-and-notes) ([Lectures- YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y))
 - [CS 6530 - Graduate-level Database Systems, Fall 2016, University of Utah](https://www.cs.utah.edu/~lifeifei/cs6530/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI))
@@ -143,49 +151,60 @@ Courses
 
 --------------
 
-
 ### Machine Learning
 
-- [StatLearning - Intro to Statistical Learning, Stanford University](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
-- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
-- [10-601 - Machine Learning, Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
-- [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
-- [CS 446 - Machine Learning, Fall 2016, UIUC](http://l2r.cs.illinois.edu/~danr/Teaching/CS446-16/schedule.html)([Fall 2015 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91n10wPxeRh-45-8HATwc8W))
-- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
-- [CS 229 - Machine Learning - Stanford University](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
-- [CS 189/289A Introduction to Machine Learning, Prof Jonathan Shewchuk - UCBerkeley](https://people.eecs.berkeley.edu/~jrs/189/)
-- [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
-- [CS 5350/6350 - Machine Learning, Fall 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCozRSsdueVwX7CF9N4QWL0B)
-- [ECE 5984 Introduction to Machine Learning, Spring 2015 - Virginia Tech](https://filebox.ece.vt.edu/~s15ece5984/)
-- [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
-- [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
-- [DS-GA 1008 - Deep Learning, New York University](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
-- [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
-- [Machine Learning 2013 - Nando de Freitas, UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
-- [Machine Learning: 2014-2015, University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) 
-- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-- [10-701 Machine Learning - Tom Mitchell, Spring 2011, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
-- [10-702/36-702 - Statistical Machine Learning - Larry Wasserman, Spring 2016, CMU](http://www.stat.cmu.edu/~larry/=sml/) ([Spring 2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r))
-- [10-708 - Probabilistic Graphical Models, Carnegie Mellon University](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
-- [10-725 Convex Optimization: Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
-- [10-801 Advanced Optimization and Randomized Algorithms](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d)
-- [36-705 - Intermediate Statistics - Larry Wasserman, CMU](http://www.stat.cmu.edu/~larry/=stat705/)
-- [CS 224d - Deep Learning for Natural Language Processing, Stanford University](http://cs224d.stanford.edu/syllabus.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_))
-- [CS 224N - Natural Language Processing, Stanford University](https://www.youtube.com/playlist?list=PLgtM85Maly3n2Fp1gJVvqb0bTC39CPn1N)
-- [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
-- [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
-- [CAM 383M - Statistical and Discrete Methods for Scientific Computing, University of Texas](http://granite.ices.utexas.edu/coursewiki/index.php/Main_Page)
-- [Probabilistic Graphical Models, Daphne Koller, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
-- [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
-- [Statistical Learning- Classification - University of Waterloo](https://uwaterloo.ca/data-science/statistical-learning-classification)
-- [Deep Learning - University of Waterloo](https://uwaterloo.ca/data-science/deep-learning)
-- [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
-- [STA 4273H (Winter 2015): Large Scale Machine Learning](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
-- [CSEP 546, Machine Learning, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
-- [Machine Learning for Computer Vision - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
-- [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
-- [CAP 5415 - Computer Vision, University of Central Florida](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)
-
+- **Machine Learning**
+	- [Stanford: Machine Learning](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC)
+	- [StatLearning - Intro to Statistical Learning, Stanford University](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
+	- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
+	- [10-601 - Machine Learning, Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
+	- [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
+	- [CS 446 - Machine Learning, Fall 2016, UIUC](http://l2r.cs.illinois.edu/~danr/Teaching/CS446-16/schedule.html)([Fall 2015 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91n10wPxeRh-45-8HATwc8W))
+	- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
+	- [CS 229 - Machine Learning - Stanford University](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+	- [CS 189/289A Introduction to Machine Learning, Prof Jonathan Shewchuk - UCBerkeley](https://people.eecs.berkeley.edu/~jrs/189/)
+	- [CS 5350/6350 - Machine Learning, Fall 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCozRSsdueVwX7CF9N4QWL0B)
+	- [ECE 5984 Introduction to Machine Learning, Spring 2015 - Virginia Tech](https://filebox.ece.vt.edu/~s15ece5984/)
+	- [CSEP 546, Machine Learning, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
+	- [STA 4273H (Winter 2015): Large Scale Machine Learning](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
+- **Data Mining**
+	- [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
+	- [Statistical Aspects of Data Mining (Stats 202) - Google](https://www.youtube.com/playlist?list=PLFE776F2C513A744E)
+	- [MOOC - Text Mining and Analytics by ChengXiang Zhai](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt)
+	- [MOOC - Data Mining with Weka](https://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPD)
+	- [CS 290 DataMining Lectures](https://www.youtube.com/playlist?list=PLB4CCA346A5741C4C)
+- **Probabilistic Graphical Modeling**
+	- [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
+	- [10-708 - Probabilistic Graphical Models, Carnegie Mellon University](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
+	- [Probabilistic Graphical Models, Daphne Koller, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
+- **Deep Learning**
+	- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+	- [DS-GA 1008 - Deep Learning, New York University](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
+	- [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
+	- [Deep Learning - University of Waterloo](https://uwaterloo.ca/data-science/deep-learning)
+- **Advanced Machine Learning**
+	- [Machine Learning 2013 - Nando de Freitas, UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
+	- [Machine Learning: 2014-2015, University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+	- [10-701 Machine Learning - Tom Mitchell, Spring 2011, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
+	- [10-702/36-702 - Statistical Machine Learning - Larry Wasserman, Spring 2016, CMU](http://www.stat.cmu.edu/~larry/=sml/) ([Spring 2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r))
+	- [10-715 Advanced Introduction to Machine Learning - CMU](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/) ([YouTube](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ))
+- **Natural Language Processing and Computer Vision**
+	- [CS 224d - Deep Learning for Natural Language Processing, Stanford University](http://cs224d.stanford.edu/syllabus.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_))
+	- [CS 224N - Natural Language Processing, Stanford University](https://www.youtube.com/playlist?list=PLgtM85Maly3n2Fp1gJVvqb0bTC39CPn1N)
+	- [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
+	- [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
+	- [Machine Learning for Computer Vision - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
+	- [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
+	- [CAP 5415 - Computer Vision, University of Central Florida](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)
+- **Misc Machine Learning Topics**
+	- [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
+	- [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
+	- [10-725 Convex Optimization: Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
+	- [10-801 Advanced Optimization and Randomized Algorithms](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d)
+	- [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
+	- [CAM 383M - Statistical and Discrete Methods for Scientific Computing, University of Texas](http://granite.ices.utexas.edu/coursewiki/index.php/Main_Page)
+	- [Statistical Learning- Classification - University of Waterloo](https://uwaterloo.ca/data-science/statistical-learning-classification)
+	- [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
 
 ------------------------------
 ### Concurrency
@@ -209,14 +228,16 @@ Courses
 - [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 - [6.042J - Mathematics for Computer Science, Spring 15, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [Computer Science 70, 001 - Fall 2012](https://www.youtube.com/playlist?list=PL1A2EBAC4283FE3EA)
-- [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 - [10-600 Math Background for ML - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
 - [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
-- [STATS 250 - Introduction to Statistics and Data Analysis, UMichigan](https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F)
-- [131B - Introduction to Probability and Statistics, UCI](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
 - [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+- [36-705 - Intermediate Statistics - Larry Wasserman, CMU](http://www.stat.cmu.edu/~larry/=stat705/)
+- [STATS 250 - Introduction to Statistics and Data Analysis, UMichigan](https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F)
+- [131B - Introduction to Probability and Statistics, UCI](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
 - [Multiple View Geometry - Lecture 1 (Prof. Daniel Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
+- [The Probability and Statistics Full Course - YouTube](https://www.youtube.com/playlist?list=PLLssT5z_DsK_WYzNXVjT695FdxRxvlSF8)
 
 -------------------------
 
