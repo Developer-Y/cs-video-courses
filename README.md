@@ -89,6 +89,7 @@ Courses
 - [6.033 Computer System Engineering - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/video-lectures/)
 - [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/CS361fall13)
 - [CS24 Introduction to Computing Systems - California Institute of Technology](http://courses.cms.caltech.edu/cs24/) ([Spring 15 version](http://users.cms.caltech.edu/~donnie/cs24/))
+- [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
 - [CS124 Operating Systems - California Institute of Technology](http://users.cms.caltech.edu/~donnie/cs124/)
 - [CS 162 - Operating Systems and Systems Programming, UC Berkeley](http://cs162.eecs.berkeley.edu/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c))
 - [CS 4414 - Operating Systems, University of Virginia](http://rust-class.org/pages/classes.html)
@@ -153,11 +154,12 @@ Courses
 
 ### Machine Learning
 
-- **Machine Learning**
-	- [Stanford: Machine Learning](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC)
-	- [StatLearning - Intro to Statistical Learning, Stanford University](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
+- **Introduction to Machine Learning**
+	- [MOOC Machine Learning Andrew Ng](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC)
+	- [MOOC StatLearning - Intro to Statistical Learning, Stanford University](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 	- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
-	- [10-601 - Machine Learning, Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
+	- [10-601 - Introduction to Machine Learning (MS), Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
+	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
 	- [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
 	- [CS 446 - Machine Learning, Fall 2016, UIUC](http://l2r.cs.illinois.edu/~danr/Teaching/CS446-16/schedule.html)([Fall 2015 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91n10wPxeRh-45-8HATwc8W))
 	- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
@@ -185,7 +187,6 @@ Courses
 - **Advanced Machine Learning**
 	- [Machine Learning 2013 - Nando de Freitas, UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 	- [Machine Learning: 2014-2015, University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-	- [10-701 Machine Learning - Tom Mitchell, Spring 2011, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
 	- [10-702/36-702 - Statistical Machine Learning - Larry Wasserman, Spring 2016, CMU](http://www.stat.cmu.edu/~larry/=sml/) ([Spring 2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r))
 	- [10-715 Advanced Introduction to Machine Learning - CMU](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/) ([YouTube](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ))
 - **Natural Language Processing and Computer Vision**
