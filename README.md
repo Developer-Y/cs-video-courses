@@ -8,7 +8,8 @@ List of Computer Science courses with video lectures.
 - Please note:
 	- Focus would be to keep the list to the point so that it is readable and usable. To access syllabus/notes/assignments, please visit link to the course or use Google search with course number/name.
 	- Only MOOCs with comprehensive lecture material which may be equivalent to a standard University course will be added.
-	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, Google, itunes U and similar sites like [awesome-courses](https://github.com/prakhar1989/awesome-courses) etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details and some proof of ownership.
+	- [NPTEL](http://nptel.ac.in/) contains large number of good Computer Science courses. To check courses by Indian IIT's, please refer nptel site.
+	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, University pages, Google, itunes U, blog posts and similar sites like [awesome-courses](https://github.com/prakhar1989/awesome-courses) etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details.
 
 
 
@@ -87,6 +88,7 @@ Courses
 - [CS264 Beyond Worst-Case Analysis, Fall 2014 - Tim Roughgarden Lecture](http://theory.stanford.edu/~tim/f14/f14.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RL8jsZpaf2tLHa5LotFEt5b))
 - [CS364A Algorithmic Game Theory, Fall 2013 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
 - [CS364B Advanced Mechanism Design, Winter 2014 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
+- [Algorithms - Aduni](http://aduni.org/courses/algorithms/index.php?view=cw)
 
 ---------------------------------
 
@@ -97,6 +99,7 @@ Courses
 - [CS24 Introduction to Computing Systems - California Institute of Technology](http://courses.cms.caltech.edu/cs24/) ([Spring 15 version](http://users.cms.caltech.edu/~donnie/cs24/))
 - [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
 - [CS124 Operating Systems - California Institute of Technology](http://users.cms.caltech.edu/~donnie/cs124/)
+- [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
 - [CS 162 - Operating Systems and Systems Programming, UC Berkeley](http://cs162.eecs.berkeley.edu/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c))
 - [CS 4414 - Operating Systems, University of Virginia](http://rust-class.org/pages/classes.html)
 - [CSE 421/521 - Introduction to Operating Systems, SUNY University at Buffalo, NY - Spring 2016](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3))
@@ -135,12 +138,14 @@ Courses
 - [CS 186 - Database Systems, UC Berkeley, Spring 2015](https://sites.google.com/site/cs186spring2015/home/schedule-and-notes) ([Lectures- YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y))
 - [CS 6530 - Graduate-level Database Systems, Fall 2016, University of Utah](https://www.cs.utah.edu/~lifeifei/cs6530/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI))
 - [6.830/6.814: Database Systems [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
+- [FIT9003 Database Systems Design, Rob Meredith, Monash University](https://itunes.apple.com/us/podcast/fit9003-database-systems-design/id306569364?ign-mpt=uo%3D8)
 
 ------------------------------
 
 ### Object Oriented Design and Software Engineering
 
 - [ECE 462 Object-Oriented Programming using C++ and Java - Purdue](https://engineering.purdue.edu/OOSD/F2008/F2008.html)
+- [Object-oriented Program Design and Software Engineering - Aduni](http://aduni.org/courses/java/index.php?view=cw)
 - [Object Oriented Systems Analysis and Design (Systems Analysis and Design in a Changing World)](https://www.youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra)
 - [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF)
 - [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
@@ -235,7 +240,8 @@ Courses
 - [CS 193a - Android App Development, Spring 2016, Stanford University](https://web.stanford.edu/class/cs193a/videos.shtml)
 - [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 - [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
-
+- [CSSE490 Android Development Rose-Hulman Winter 2010-2011, Dave Fisher](https://www.youtube.com/playlist?list=PLF3EEB647F6B52F03)
+- [iOS Course, Dave Fisher](https://www.youtube.com/playlist?list=PL96C635E4DCD393A8)
 
 -------------------------
 
@@ -283,14 +289,17 @@ Courses
 -------------------------------
 
 ### Computer Organization and Architecture
+- [How Computers Work - Aduni](http://aduni.org/courses/hcw/index.php?view=cw)
 - [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 - [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_))
 - [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt))
+- [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
 - [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
 - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 - [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 - [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
 - [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
+- [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
 
 -------
 
@@ -309,6 +318,7 @@ Courses
 - [Advanced Visualization UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBNnySlj9TlL-n-4jNEK-xgi)
 - [Computer Graphics Fall 2011](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
 - [Introduction to Graphics Architecture](https://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0)
+- [CS184 Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
 
 -------
 
@@ -323,7 +333,7 @@ Courses
 - [Skiena's Computational Biology Lectures](http://www.algorist.com/computational_biology/)
 - [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
 - [AM 207 - Monte Carlo Methods and Stochastic Optimization, Harvard University](http://am207.github.io/2016/index.html)
- - [CS 223A - Introduction to Robotics, Stanford University](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
+- [CS 223A - Introduction to Robotics, Stanford University](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
 - [CS 3152 - Introduction to Computer Game Development, Cornell University](http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php)
 - [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](http://www.schneems.com/ut-rails/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
 - [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) ([Lectures - Youtube](https://www.youtube.com/user/fillwithlight/videos))
