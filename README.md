@@ -114,6 +114,8 @@ Courses
 - [CS 251 (2015): Intermediate Software Design](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne)
 - [CSE 30341 - Spr 2008: Operating Systems](https://www.youtube.com/view_play_list?p=AB7D5CA7E262B0E2)
 - [CSE 60641 - Fall 08: Graduate Operating Systems](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
+- [6.172 Performance Engineering of Software Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
+- [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
 
 -----------------------------
 
@@ -187,6 +189,7 @@ Courses
 	- [CS 5955/6955 - Data Mining, University of Utah](http://www.cs.utah.edu/~jeffp/teaching/cs5955.html) ([YouTube](https://www.youtube.com/channel/UCcrlwW88yMcXujhGjSP2WBg/videos))
 	- [Statistical Aspects of Data Mining (Stats 202) - Google](https://www.youtube.com/playlist?list=PLFE776F2C513A744E)
 	- [MOOC - Text Mining and Analytics by ChengXiang Zhai](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt)
+	- [Information Retrieval SS 2014, iTunes - HPI](https://itunes.apple.com/us/itunes-u/information-retrieval-ss-2014/id874200291)
 	- [MOOC - Data Mining with Weka](https://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPD)
 	- [CS 290 DataMining Lectures](https://www.youtube.com/playlist?list=PLB4CCA346A5741C4C)
 - **Probabilistic Graphical Modeling**
@@ -270,6 +273,8 @@ Courses
 - [CSEP545: Transaction Processing for E-Commerce, Winter 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](http://courses.cs.washington.edu/courses/csep545/12wi/video/))
 - [CT 310 Web Development - Colorado State University](https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php)
 - [Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
+- [CSCI 3110 Advanced Topics in Web Development, Fall 2011 - ETSU iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=454017618)
+- [CSCI 5710 e-Commerce Implementation, Fall 2015 - ETSU iTunes](https://itunes.apple.com/us/itunes-u/e-commerce-implementation/id1020427670)
 
 ---------------------------
 
@@ -303,6 +308,8 @@ Courses
 - [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
 - [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
 - [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
+- [CMPE 118/L(218/L) - Mechatronics - Fall 2015](https://classes.soe.ucsc.edu/cmpe118/Fall15/)
+- [Software Engineering for Embedded Systems - WS 2010/11 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id429175114)
 
 -------
 
@@ -311,6 +318,7 @@ Courses
 - [CSEP590A: Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](http://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](http://courses.cs.washington.edu/courses/csep590a/11wi/video/))
 - [CIS 4930/ CIS 5930 - Offensive Computer Security, Florida State University](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 - [18-636 Browser Security, Stanford](https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013)
+- [Internet Security - Weaknesses and Targets (WT 2015/16)](https://www.tele-task.de/archive/series/overview/1084/) ([WT 2012/13](https://www.tele-task.de/archive/series/overview/921/) ([YouTube](https://www.youtube.com/playlist?list=PLVWVhkyKd-7taP50fB9PeZ2W_EPTOLD8o)))
 - [IT Security, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9-XSGfm-3uA9DfF7plasCF)
 - [Security and Cryptography, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF-z2sfMb3w0uQzd7PfaLFlU)
 
