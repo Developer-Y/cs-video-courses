@@ -34,6 +34,8 @@ Table of Contents
 - [Computer Organization and Architecture](computer-organization-and-architecture)
 - [Security](#security)
 - [Computer Graphics](#computer-graphics)
+- [Computer Vision](#computer-vision)
+- [HCI](#hci)
 - [Misc](#misc)
 
 Courses
@@ -306,6 +308,7 @@ Courses
 
 ### Security
 - [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+- [CSEP590A: Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](http://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](http://courses.cs.washington.edu/courses/csep590a/11wi/video/))
 - [CIS 4930/ CIS 5930 - Offensive Computer Security, Florida State University](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 - [18-636 Browser Security, Stanford](https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013)
 - [IT Security, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9-XSGfm-3uA9DfF7plasCF)
@@ -327,6 +330,14 @@ Courses
 - [Image Processing and Analysis UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
 - [CAP 5415 - Computer Vision, University of Central Florida](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)
 - [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
+- [Image Processing and Analysis (Course) UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
+- [Introduction to Vision and Robotics](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm)
+- [EENG 512 / CSCI 512 - Computer Vision - Colorado School of Mines](http://inside.mines.edu/~whoff/courses/EENG512/lectures/)
+
+--------------------------
+### HCI
+- [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
+- [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
 
 ---------------------------
 
@@ -340,13 +351,7 @@ Courses
 - [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) ([Lectures - Youtube](https://www.youtube.com/user/fillwithlight/videos))
 - [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
 - [Lecture: Visual Navigation for Flying Robots - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha)
-- [Image Processing and Analysis (Course) UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
-- [CSEP590A: Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](http://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](http://courses.cs.washington.edu/courses/csep590a/11wi/video/))
-- [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
 - [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
 - [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
-- [Introduction to Vision and Robotics](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm)
-- [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
-- [EENG 512 / CSCI 512 - Computer Vision - Colorado School of Mines](http://inside.mines.edu/~whoff/courses/EENG512/lectures/)
 
 -------------------------
