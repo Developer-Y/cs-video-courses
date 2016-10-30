@@ -246,7 +246,6 @@ Courses
 
 ### Mobile Applications Development
 - [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
-- [CS 193a - Android App Development, Spring 2016, Stanford University](https://web.stanford.edu/class/cs193a/videos.shtml)
 - [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 - [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
 - [CSSE490 Android Development Rose-Hulman Winter 2010-2011, Dave Fisher](https://www.youtube.com/playlist?list=PLF3EEB647F6B52F03)
