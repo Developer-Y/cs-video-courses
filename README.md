@@ -9,7 +9,7 @@ List of Computer Science courses with video lectures.
 	- Focus would be to keep the list to the point so that it is readable and usable. To access syllabus/notes/assignments, please visit link to the course or use Google search with course number/name.
 	- Only MOOCs with comprehensive lecture material which may be equivalent to a standard University course will be added.
 	- [NPTEL](http://nptel.ac.in/) contains large number of good Computer Science courses. To check courses by Indian IIT's, please refer nptel site.
-	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, University pages, Google, itunes U, blog posts and similar sites like [awesome-courses](https://github.com/prakhar1989/awesome-courses) etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details.
+	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, University pages, Google, itunes U, blog posts and similar sites like awesome-courses etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details.
 
 
 
@@ -67,7 +67,7 @@ Courses
 	- [Spring 16 - Josh Hug](http://datastructur.es/sp16/)
 - [MOOC - Design and Analysis of Algorithms Part 1 - Prof Roughgarden - Coursera](https://www.youtube.com/playlist?list=PLLH73N9cB21W1TZ6zz1dLkyIm50HylGyg) ([Part 2](https://www.youtube.com/playlist?list=PLLH73N9cB21VPj3H2xwTTye5TC8-UniA2))
 - [MOOC - Algorithms Part 1 - Prof Sedgewick](https://www.youtube.com/playlist?list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q) ([Part 2](https://www.youtube.com/playlist?list=PLqD_OdMOd_6YixsHkd9f4sNdof4IhIima))
-- [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/presentations.htm) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
+- [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
 - [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/)
