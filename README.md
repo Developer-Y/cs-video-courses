@@ -51,7 +51,7 @@ Courses
 - [CS 50 - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/lectures) ([cs50.tv](http://cs50.tv/2015/fall/))
 - [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/)
 - [CS 101 - Computer Science 101, Stanford University](http://online.stanford.edu/course/computer-science-101-self-paced) (Register free  to access Videos)
-- [CS E-1 Understanding Computers and the Internet - Harvard University](http://computerscience1.tv/2011/spring/)
+- [CS E-1 Understanding Computers and the Internet, Spring 2013 - Harvard Extension School](http://cse1.net/lectures) ([Spring 2011](http://computerscience1.tv/2011/spring/))
 - [CSE 142 Computer Programming I (C Programming), Autumn 200 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
 - [CS1301 Intro to computing - Gatech](http://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
 - [CS 106A - Programming Methodology, Stanford University](http://see.stanford.edu/see/lecturelist.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
