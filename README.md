@@ -173,7 +173,7 @@ Courses
 ### Machine Learning
 
 - **Introduction to Machine Learning**
-	- [MOOC Machine Learning Andrew Ng](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC)
+	- [MOOC Machine Learning Andrew Ng - Coursera/Stanford](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC) ([Notes](http://www.holehouse.org/mlclass/))
 	- [MOOC - Statistical Learning, Stanford University](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 	- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
 	- [10-601 - Introduction to Machine Learning (MS), Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
