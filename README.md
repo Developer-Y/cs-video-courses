@@ -68,6 +68,7 @@ Courses
 - [MOOC - Design and Analysis of Algorithms Part 1 - Prof Roughgarden - Coursera](https://www.youtube.com/playlist?list=PLLH73N9cB21W1TZ6zz1dLkyIm50HylGyg) ([Part 2](https://www.youtube.com/playlist?list=PLLH73N9cB21VPj3H2xwTTye5TC8-UniA2))
 - [MOOC - Algorithms Part 1 - Prof Sedgewick](https://www.youtube.com/playlist?list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q) ([Part 2](https://www.youtube.com/playlist?list=PLqD_OdMOd_6YixsHkd9f4sNdof4IhIima))
 - [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
+- [CS2: Data Structures and Algorithms - Richard Buckland - UNSW](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
 - [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/)
@@ -238,7 +239,7 @@ Courses
 
 ### Computer Networks
 - [Prof. Shiv Kalyanaraman's Online Audio and Video Lectures on Computer Networking](https://www.ecse.rpi.edu/homepages/koushik/shivkuma-teaching/video_index.html)
-- [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm)
+- [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) ([U Washington MOOC](https://www.youtube.com/playlist?list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj))
 - [CSEP 561: PMP Network Systems, Fall 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/13au/video/))
 - [CSEP 561 – Network Systems, Autumn 2008 - University of Washington](http://courses.cs.washington.edu/courses/csep561/08au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/08au/lectures/))
@@ -269,6 +270,7 @@ Courses
 - [131B - Introduction to Probability and Statistics, UCI](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
 - [Multiple View Geometry - Lecture 1 (Prof. Daniel Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
 - [The Probability and Statistics Full Course - YouTube](https://www.youtube.com/playlist?list=PLLssT5z_DsK_WYzNXVjT695FdxRxvlSF8)
+- [A first course in Linear Algebra - N J Wildberger - UNSW](https://www.youtube.com/playlist?list=PL44B6B54CBF6A72DF)
 
 -------------------------
 
@@ -304,6 +306,7 @@ Courses
 - [How Computers Work - Aduni](http://aduni.org/courses/hcw/index.php?view=cw)
 - [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 - [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_))
+- [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
 - [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt))
 - [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
 - [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
@@ -314,6 +317,7 @@ Courses
 - [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
 - [CMPE 118/L(218/L) - Mechatronics - Fall 2015](https://classes.soe.ucsc.edu/cmpe118/Fall15/)
 - [Software Engineering for Embedded Systems - WS 2010/11 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id429175114)
+- [ELEC2141 Digital Circuit Design, UNSW](https://www.youtube.com/playlist?list=PLB52B8F4E464CEEF7)
 
 -------
 
@@ -350,6 +354,7 @@ Courses
 ### HCI
 - [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
 - [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
+- [Programming for Designers - COMP1400-T2 (2010) - UNSW](https://www.youtube.com/playlist?list=PL9444191613E018CC)
 
 ---------------------------
 
@@ -365,5 +370,7 @@ Courses
 - [Lecture: Visual Navigation for Flying Robots - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha)
 - [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
 - [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
+- [Exposing Digital Photography - Harvard Extension School](http://tv.digitalphotography.exposed/2010/fall/)
+- [6.802J/ 6.874J Foundations of Computational and Systems Biology - MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
 
 -------------------------
