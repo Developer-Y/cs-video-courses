@@ -1,17 +1,15 @@
 # Computer Science video courses
 
 Introduction
-------------
-
-List of Computer Science courses with video lectures. 
+-----------------
+List of Computer Science courses with video lectures.
 
 - Please note:
 	- Focus would be to keep the list to the point so that it is readable and usable. To access syllabus/notes/assignments, please visit link to the course or use Google search with course number/name.
 	- Only MOOCs with comprehensive lecture material which may be equivalent to a standard University course will be added.
 	- [NPTEL](http://nptel.ac.in/) contains large number of good Computer Science courses. To check courses by Indian IIT's, please refer nptel site.
-	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, University pages, Google, itunes U, blog posts and similar sites like awesome-courses etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details.
 
-
+------------------------------
 
 Table of Contents
 -----------------
@@ -34,8 +32,9 @@ Table of Contents
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
 - [Security](#security)
 - [Computer Graphics](#computer-graphics)
-- [Computer Vision](#computer-vision)
+- [Image Processing and Computer Vision](#image-processing-and-computer-vision)
 - [HCI](#hci)
+- [Computational Biology](#computational-biology)
 - [Misc](#misc)
 
 Courses
@@ -92,6 +91,9 @@ Courses
 - [CS364A Algorithmic Game Theory, Fall 2013 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
 - [CS364B Advanced Mechanism Design, Winter 2014 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 - [Algorithms - Aduni](http://aduni.org/courses/algorithms/index.php?view=cw)
+- [Advanced Topics in Algorithms and Datastructures - SS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4/252/)
+- [Algorithmentheorie/Algorithms Theory - WS 2013 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5402/16009/) ([WS 2011](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4003/12514/))
+- [Theory I - SS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/2103/8701/)
 
 ---------------------------------
 
@@ -117,6 +119,8 @@ Courses
 - [CSE 60641 - Fall 08: Graduate Operating Systems](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
 - [6.172 Performance Engineering of Software Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
 - [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
+- [Real-Time Systems - SS 2013 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5201/15648/)
+- [System Infrastructure For Data Science - WS 2012 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4808/14532/)
 
 -----------------------------
 
@@ -160,6 +164,8 @@ Courses
 - [OOSE: Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
 - [CS 411 - Software Architecture Design, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 - [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
+- [Model Driven Archtitecture - WS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/83/3022/)
+- [Software Design, Modelling and Analysis in UML - WS 2012 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5405/16022/)
 
 ------------------------------
 
@@ -168,6 +174,7 @@ Courses
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [15-780: Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
 - [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](http://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
+- [Advanced AI Techniques - WS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/1/349/) ([WS 2004](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/2/335/))
 
 --------------
 
@@ -188,6 +195,7 @@ Courses
 	- [ECE 5984 Introduction to Machine Learning, Spring 2015 - Virginia Tech](https://filebox.ece.vt.edu/~s15ece5984/)
 	- [STA 4273H (Winter 2015): Large Scale Machine Learning](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
 	- [CS 485/685 Machine Learning, Shai Ben-David, University of Waterloo](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q/videos)
+	- [Machine Learning and Data Mining - WS 2004 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/75/3164/)
 - **Data Mining**
 	- [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
 	- [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
@@ -234,6 +242,7 @@ Courses
 - [CSE P 506 – Concurrency (Spring 2011) University of Washington](http://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](http://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
 - [CSEP 524 - Parallel Computation - University of Washington](http://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](http://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
 - [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
+- [Concurrency Theory and Practice - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3303/12101/)
 
 ----------------------------
 
@@ -244,6 +253,13 @@ Courses
 - [CSEP 561: PMP Network Systems, Fall 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/13au/video/))
 - [CSEP 561 – Network Systems, Autumn 2008 - University of Washington](http://courses.cs.washington.edu/courses/csep561/08au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/08au/lectures/))
 - [Introduction to Data Communications 2013, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
+- [Communication Systems - SS 2008 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/16/2825/)
+- [Communication Systems (Telecommunication from ISDN/GSM to VoIP) - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3003/10016/)
+- [Internetworking - SS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/73/2764/)
+- [Mobile Computing - WS 2004 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/82/2991/)
+- [Network Algorithms - SS 2013	- Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5103/15465/)
+- [Telecommunication Systems - SS 2012 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4509/13493/)
+- [Wireless Sensor Networks - WS 2006 (English) - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/112/4172/)
 
 -------------------------------
 
@@ -276,11 +292,13 @@ Courses
 
 ### Web Programming and Internet Technologies
 - [CS 75 Building Dynamic Websites - Harvard University](http://cs75.tv/2012/summer/)
+- [Web Search - SS 2006 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/110/423/)
 - [CSEP545: Transaction Processing for E-Commerce, Winter 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](http://courses.cs.washington.edu/courses/csep545/12wi/video/))
 - [CT 310 Web Development - Colorado State University](https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php)
 - [Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
 - [CSCI 3110 Advanced Topics in Web Development, Fall 2011 - ETSU iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=454017618)
 - [CSCI 5710 e-Commerce Implementation, Fall 2015 - ETSU iTunes](https://itunes.apple.com/us/itunes-u/e-commerce-implementation/id1020427670)
+- [XML and Semantic Web-Technologies - SS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/114/4215/)
 
 ---------------------------
 
@@ -329,6 +347,7 @@ Courses
 - [Internet Security - Weaknesses and Targets (WT 2015/16)](https://www.tele-task.de/archive/series/overview/1084/) ([WT 2012/13](https://www.tele-task.de/archive/series/overview/921/) ([YouTube](https://www.youtube.com/playlist?list=PLVWVhkyKd-7taP50fB9PeZ2W_EPTOLD8o)))
 - [IT Security, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9-XSGfm-3uA9DfF7plasCF)
 - [Security and Cryptography, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF-z2sfMb3w0uQzd7PfaLFlU)
+- [Web Security - SS 2008 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/111/4163/)
 
 -------
 
@@ -342,7 +361,10 @@ Courses
 
 -------
 
-### Computer Vision
+### Image Processing and Computer Vision
+
+- [EE225B Digital Image Processing, Spring 2014 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee225b/sp14/) ([Videos - Spring 2006](http://www-video.eecs.berkeley.edu/~avz/video_225b.html))
+- [EE637: Digital Image Processing I - Purdue University](https://engineering.purdue.edu/~bouman/ece637/) ([Videos - Sp 2011 ](https://www.youtube.com/user/ModelBasedImaging),[Videos - Sp 2007](https://engineering.purdue.edu/~bouman/ece637/lectures/lectures07/))
 - [Image Processing and Analysis UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
 - [CAP 5415 - Computer Vision, University of Central Florida](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)
 - [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
@@ -358,8 +380,16 @@ Courses
 
 ---------------------------
 
-### Misc
+### Computational Biology
 - [Skiena's Computational Biology Lectures](http://www.algorist.com/computational_biology/)
+- [6.802J/ 6.874J Foundations of Computational and Systems Biology - MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
+- [Bioinformatic II - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3013/10069/)
+
+---------------------------
+
+
+### Misc
+
 - [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
 - [AM 207 - Monte Carlo Methods and Stochastic Optimization, Harvard University](http://am207.github.io/2016/index.html)
 - [CS 223A - Introduction to Robotics, Stanford University](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
@@ -371,6 +401,11 @@ Courses
 - [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
 - [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
 - [Exposing Digital Photography - Harvard Extension School](http://tv.digitalphotography.exposed/2010/fall/)
-- [6.802J/ 6.874J Foundations of Computational and Systems Biology - MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
+- [XML and Databases - WS 2011 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4006/12519/)
 
 -------------------------
+
+- Additional Information
+	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, University pages, Google, itunes U, blog posts and similar sites like awesome-courses etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details.
+
+--------------------------
