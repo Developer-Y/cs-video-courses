@@ -380,7 +380,7 @@ Courses
 - [Image Processing and Analysis (Course) UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
 - [Introduction to Vision and Robotics](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm)
 - [EENG 512 / CSCI 512 - Computer Vision - Colorado School of Mines](http://inside.mines.edu/~whoff/courses/EENG512/lectures/)
-
+- [Statistical Shape Modelling - University of Basel] (http://shapemodelling.cs.unibas.ch/StatisticalShapeModelling.html)
 --------------------------
 ### HCI
 - [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
