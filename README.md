@@ -211,6 +211,7 @@ Courses
 	- [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
 	- [10-708 - Probabilistic Graphical Models, Carnegie Mellon University](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 	- [Probabilistic Graphical Models, Daphne Koller, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
+	- [CS246 - Mining Massive Data Sets, Winter 2016, Stanford University](https://web.stanford.edu/class/cs246/)
 - **Deep Learning**
 	- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 	- [DS-GA 1008 - Deep Learning, New York University](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
@@ -319,6 +320,10 @@ Courses
 - [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
 - [CS581 Theory of Computation - Portland State University](http://web.cecs.pdx.edu/~harry/videos/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
 - [Theory of Computation - Fall 2011 UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
+- [TDA555 Introduction to Functional Programming - Chalmers University of Technology](http://www.cse.chalmers.se/edu/course/TDA555/index.html) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLIQ9jYeUxhgqEnjey91yRTITaXqZQy3Ta))
+- [Philip Wadler Haskell lecture recordings](https://www.youtube.com/playlist?list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3)
+- [Functional Programming - University of Edinburgh - 2016-17](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
+- [MOOC - Functional Programming Principles in Scala by Martin Odersky](https://www.coursera.org/learn/progfun1)
 
 -------------------------------
 
