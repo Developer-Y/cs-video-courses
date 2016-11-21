@@ -94,6 +94,7 @@ Courses
 - [Advanced Topics in Algorithms and Datastructures - SS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4/252/)
 - [Algorithmentheorie/Algorithms Theory - WS 2013 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5402/16009/) ([WS 2011](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4003/12514/))
 - [Theory I - SS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/2103/8701/)
+- [CS225 - Data Structures - University of Illinois at Urbana-Champaign](https://chara.cs.illinois.edu/cs225/lectures/)
 
 ---------------------------------
 
@@ -348,6 +349,7 @@ Courses
 - [IT Security, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9-XSGfm-3uA9DfF7plasCF)
 - [Security and Cryptography, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF-z2sfMb3w0uQzd7PfaLFlU)
 - [Web Security - SS 2008 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/111/4163/)
+- [CS461/ECE422 - Computer Security - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs461/sp2016/) ([Videos](https://recordings.engineering.illinois.edu:8443/ess/portal/section/8a560718-345a-417a-b665-6bd375a71ee2))
 
 -------
 
