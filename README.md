@@ -1,13 +1,6 @@
 # Computer Science video courses
 
-Introduction
------------------
-List of Computer Science courses with video lectures.
-
-- Please note:
-	- Focus would be to keep the list to the point so that it is easy to browse. To access syllabus/notes/assignments, please visit link to the course or use Google search with course number/name.
-	- Only MOOCs with comprehensive lecture material which cover a subject/topic in ample detail will be added. For example, MOOC on Computer Networks or Machine Learning with 3-4 hours may not be able to cover all topics in sufficient detail and thus should be avoided.
-	- [NPTEL](http://nptel.ac.in/) contains large number of good Computer Science courses. To check courses by Indian IIT's, please refer nptel site.
+For Introduction/Contribution guidelines, please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md)
 
 ------------------------------
 
@@ -445,8 +438,3 @@ Courses
 - [Computing for Computer Scientists - University of Michigan](https://c4cs.github.io)
 
 -------------------------
-
-- Additional Information
-	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, University pages, Google, itunes U, blog posts and similar sites like awesome-courses etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details.
-
---------------------------
