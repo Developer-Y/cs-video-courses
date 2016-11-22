@@ -387,6 +387,7 @@ Courses
 - [Computer Graphics Fall 2011](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
 - [Introduction to Graphics Architecture](https://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0)
 - [CS184 Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
+- [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
 -------
 
