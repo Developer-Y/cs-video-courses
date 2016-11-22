@@ -55,16 +55,16 @@ Courses
 - [CSE 142 Computer Programming I (C Programming), Autumn 200 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
 - [CS1301 Intro to computing - Gatech](http://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
 - [MOOC: Introduction to Computer Science - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW)
-- [CS 106A - Programming Methodology, Stanford University](http://see.stanford.edu/see/lecturelist.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
-- [CS 106B - Programming Abstractions, Stanford University](http://see.stanford.edu/see/lecturelist.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e)
-- [CS 107 - Programming Paradigms, Stanford University](http://see.stanford.edu/see/lecturelist.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
+- [CS 106A - Programming Methodology, Stanford University](https://see.stanford.edu/Course/CS106A)
+- [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B)
+- [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
 - [Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
 
 ------
 
 ### Data Structures and Algorithms
 
-- [CS 61B - Data Structures, UC Berkeley](https://people.eecs.berkeley.edu/~jrs/61b/) 
+- [CS 61B - Data Structures, UC Berkeley](https://people.eecs.berkeley.edu/~jrs/61b/)
 	- [Fall 2006 - Prof. Jonathan Shewchuk](https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C)
 	- [Spring 16 - Josh Hug](http://datastructur.es/sp16/)
 - [MOOC - Design and Analysis of Algorithms Part 1 - Prof Roughgarden - Coursera](https://www.youtube.com/playlist?list=PLLH73N9cB21W1TZ6zz1dLkyIm50HylGyg) ([Part 2](https://www.youtube.com/playlist?list=PLLH73N9cB21VPj3H2xwTTye5TC8-UniA2))
@@ -330,7 +330,7 @@ Courses
 - [CSC 253 - CPython internals: A ten-hour codewalk through the Python interpreter source code, University of Rochester](http://pgbovine.net/cpython-internals.htm)
 - [CSEP 501 - Compiler Construction, University of Washington](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C))
 - [CSEP 505 Programming Languages, Winter 2015 - University of Washington](http://courses.cs.washington.edu/courses/csep505/15wi/video/)
-- [DMFP - Discrete Mathematics and Functional Programming, Wheaton College](http://cs.wheaton.edu/~tvandrun/dmfp/) 
+- [DMFP - Discrete Mathematics and Functional Programming, Wheaton College](http://cs.wheaton.edu/~tvandrun/dmfp/)
 - [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/) ([Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a))
 - [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
 - [MOOC: Automata - Jeffrey Ullman - Coursera](https://www.youtube.com/playlist?list=PL82C4B8475CAC3F95)
