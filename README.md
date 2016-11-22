@@ -96,6 +96,7 @@ Courses
 - [Advanced Topics in Algorithms and Datastructures - SS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4/252/)
 - [Algorithmentheorie/Algorithms Theory - WS 2013 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5402/16009/) ([WS 2011](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4003/12514/))
 - [Theory I - SS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/2103/8701/)
+- [MOOC - Data Structures and Algorithms 6 course specialization - UCSD, Higher School of Economics (Russia), Computer Science Center (Russia), Yandex](https://www.coursera.org/specializations/data-structures-algorithms)
 
 ---------------------------------
 
