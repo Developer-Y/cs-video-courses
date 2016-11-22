@@ -333,6 +333,7 @@ Courses
 - [Philip Wadler Haskell lecture recordings](https://www.youtube.com/playlist?list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3)
 - [Functional Programming - University of Edinburgh - 2016-17](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
 - [MOOC - Functional Programming Principles in Scala by Martin Odersky](https://www.coursera.org/learn/progfun1) ([YouTube](https://www.youtube.com/user/afigfigueira/playlists?sort=dd&view=50&shelf_id=9))
+- [MOOC - Programming Languages, Part A by Dan Grossman](https://www.coursera.org/learn/programming-languages/)
 - [CS294: Program Synthesis for Everyone](https://people.eecs.berkeley.edu/~bodik/cs294fa12)
 - [MOOC: Principles of Reactive Programming, Scala - Coursera](https://www.youtube.com/playlist?list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 
