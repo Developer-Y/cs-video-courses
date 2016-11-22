@@ -361,6 +361,8 @@ Courses
 - [CMPE 118/L(218/L) - Mechatronics - Fall 2015](https://classes.soe.ucsc.edu/cmpe118/Fall15/)
 - [Software Engineering for Embedded Systems - WS 2010/11 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id429175114)
 - [ELEC2141 Digital Circuit Design, UNSW](https://www.youtube.com/playlist?list=PLB52B8F4E464CEEF7)
+- [Build a Modern Computer from First Principles: From Nand to Tetris  ](https://www.coursera.org/learn/build-a-computer)
+
 
 -------
 
