@@ -290,7 +290,7 @@ Courses
 ### Math for Computer Scientist
 - [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 - [6.042J - Mathematics for Computer Science, Spring 15, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
-- [Computer Science 70, 001 - Fall 2012](https://www.youtube.com/playlist?list=PL1A2EBAC4283FE3EA)
+- [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 - [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 - [10-600 Math Background for ML - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
 - [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
