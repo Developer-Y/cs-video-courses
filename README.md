@@ -337,6 +337,7 @@ Courses
 - [MOOC - Functional Programming Principles in Scala by Martin Odersky](https://www.coursera.org/learn/progfun1) ([YouTube](https://www.youtube.com/user/afigfigueira/playlists?sort=dd&view=50&shelf_id=9))
 - [CS294: Program Synthesis for Everyone](https://people.eecs.berkeley.edu/~bodik/cs294fa12)
 - [MOOC: Principles of Reactive Programming, Scala - Coursera](https://www.youtube.com/playlist?list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+- [Category Theory for Programmers, 2014 - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([YouTube](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_))
 
 -------------------------------
 
