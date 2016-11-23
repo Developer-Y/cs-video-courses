@@ -239,6 +239,7 @@ Courses
 	- [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
 	- [Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLacBNHqv7n9gp9cBMrA6oDbzz_8JqhSKo)
 	- [Regularization Methods for Machine Learning 2016](http://academictorrents.com/details/493251615310f9b6ae1f483126292378137074cd) ([YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO))
+	- [Music Information Retrieval - University of Victoria, 2014](http://marsyas.cs.uvic.ca/mirBook/course/) 
 
 ------------------------------
 ### Concurrency
