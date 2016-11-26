@@ -346,6 +346,12 @@ Courses
 - [CS294: Program Synthesis for Everyone](https://people.eecs.berkeley.edu/~bodik/cs294fa12)
 - [MOOC: Principles of Reactive Programming, Scala - Coursera](https://www.youtube.com/playlist?list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 - [Category Theory for Programmers, 2014 - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([YouTube](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_))
+- Oregon Programming Languages Summer School (Proof theory, type theory, category theory, verification)
+	- [2012 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+	- [2013 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
+	- [2014 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
+	- [2015 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
+	- [2016 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
 
 -------------------------------
 
