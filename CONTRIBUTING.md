@@ -1,0 +1,4 @@
+## Contribution Guidelines
+- Recently quality of MOOCs has diminished, therefore only MOOCs with comprehensive lecture material which cover a subject/topic in ample detail will be added. For example, MOOC on Computer Networks or Machine Learning with 4-5 hours may not be able to cover all topics in sufficient detail and thus should be avoided.
+- One philosophy used in this list while integrating MOOCs is that link should directly point to videos for viewing/downloading than registration and waiting for the next session. If videos are directly accessible through the platform/youtube or any other source, please use the direct source. This is list of video courses, not a list of MOOCs.
+- [NPTEL](http://nptel.ac.in/) contains large number of good Computer Science courses. To check out courses by Indian IIT's, please refer nptel site. For MOOCs, please check out class-central.
