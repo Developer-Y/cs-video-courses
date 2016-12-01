@@ -30,7 +30,6 @@ Table of Contents
 - [Security](#security)
 - [Computer Graphics](#computer-graphics)
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
-- [HCI](#hci)
 - [Misc](#misc)
 
 Courses
@@ -427,22 +426,18 @@ Courses
 - [MOOC: Introduction to Computer Vision - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 
 --------------------------
-### HCI
-- [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
-- [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
-- [Programming for Designers - COMP1400-T2 (2010) - UNSW](https://www.youtube.com/playlist?list=PL9444191613E018CC)
-
-
----------------------------
-
 
 ### Misc
 
 - Computational Biology
 	- [Skiena's Computational Biology Lectures](http://www.algorist.com/computational_biology/)
 	- [6.802J/ 6.874J Foundations of Computational and Systems Biology - MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
+	- [Bio 84: Your Genes and Your Health, Stanford University](http://bio84.stanford.edu/)
 	- [BioMedical Informatics 231 Computational Molecular Biology, Stanford University](http://biochem218.stanford.edu/)
+	- [BioMedical Informatics 258 Genomics, Bioinformatics & Medicine, Stanford University](http://biochem158.stanford.edu/)
+	- [ECS 124 - Foundations of Algorithms for Bioinformatics - Dan Gusfield, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs124videos/videolist.html) ([YouTube](https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL))
 	- [Bioinformatic II - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3013/10069/)
+	- [Introduction to Bioinformatics, METUOpenCourseWare](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_)
 	- [MOOC: Algorithms for DNA Sequencing, Coursera](https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA)
 - Computational Finance
 	- [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
@@ -455,6 +450,10 @@ Courses
 	- [Lecture: Visual Navigation for Flying Robots - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha)
 	- [Robotics 1, Prof. De Luca, Università di Roma](http://www.dis.uniroma1.it/~deluca/rob1_en/material_rob1_en_2014-15.html) ([YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt))
 	- [Robotics 2, Prof. De Luca, Università di Roma](http://www.diag.uniroma1.it/~deluca/rob2_en/material_rob2_en.html)
+- HCI
+	- [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
+	- [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
+	- [Programming for Designers - COMP1400-T2 (2010) - UNSW](https://www.youtube.com/playlist?list=PL9444191613E018CC)
 - Game Development
 	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
 	- [Unity3D Tutorials](https://www.youtube.com/playlist?list=PL5FMIyKmleRwYdMIuejPS5csShp237A3X)
