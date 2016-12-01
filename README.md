@@ -187,7 +187,7 @@ Courses
 
 - **Introduction to Machine Learning**
 	- [MOOC Machine Learning Andrew Ng - Coursera/Stanford](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC) ([Notes](http://www.holehouse.org/mlclass/))
-	- [MOOC - Statistical Learning, Stanford University](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
+	- [MOOC - Statistical Learning, Stanford University](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 	- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
 	- [10-601 - Introduction to Machine Learning (MS), Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
@@ -211,6 +211,10 @@ Courses
 	- [MOOC - Data Mining with Weka](https://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPD)
 	- [CS 290 DataMining Lectures](https://www.youtube.com/playlist?list=PLB4CCA346A5741C4C)
 	- [CS246 - Mining Massive Data Sets, Winter 2016, Stanford University](https://web.stanford.edu/class/cs246/) ([YouTube](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos))
+- **Data Science**
+	- [Data 8: Foundations of Data Science, UC Berkeley](http://data8.org/fa16/) 
+	- [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
+	- [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
 - **Probabilistic Graphical Modeling**
 	- [MOOC: Probabilistic Graphical Models - Coursera](https://www.youtube.com/playlist?list=PLvfF4UFg6Ejj6SX-ffw-O4--SPbB9P7eP)
 	- [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
@@ -433,6 +437,7 @@ Courses
 - Computational Biology
 	- [Skiena's Computational Biology Lectures](http://www.algorist.com/computational_biology/)
 	- [6.802J/ 6.874J Foundations of Computational and Systems Biology - MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
+	- [BioMedical Informatics 231 Computational Molecular Biology, Stanford University](http://biochem218.stanford.edu/)
 	- [Bioinformatic II - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3013/10069/)
 - Computational Finance
 	- [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
@@ -440,10 +445,8 @@ Courses
 	- [18.S096 Topics in Mathematics with Applications in Finance, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
 - Game Development
 	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
-	- [CS 3152 - Introduction to Computer Game Development, Cornell University](http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php)
 	- [Unity3D Tutorials](https://www.youtube.com/playlist?list=PL5FMIyKmleRwYdMIuejPS5csShp237A3X)
 	- [MOOC: Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
-- [AM 207 - Monte Carlo Methods and Stochastic Optimization, Harvard University](http://am207.github.io/2016/index.html)
 - [CS 223A - Introduction to Robotics, Stanford University](https://see.stanford.edu/Course/CS223A)
 - [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](http://www.schneems.com/ut-rails/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
 - [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) ([Lectures - Youtube](https://www.youtube.com/user/fillwithlight/videos))
