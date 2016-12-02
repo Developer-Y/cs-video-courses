@@ -159,6 +159,7 @@ Courses
 
 - [ECE 462 Object-Oriented Programming using C++ and Java - Purdue](https://engineering.purdue.edu/OOSD/F2008/F2008.html)
 - [Object-oriented Program Design and Software Engineering - Aduni](http://aduni.org/courses/java/index.php?view=cw)
+- [OOSE - Object-Oriented Software Engineering, Dr. Tim Lethbridge](https://www.youtube.com/playlist?list=PL6iDJCG2nkhfNlig8NY5ePPfGvtQX6yLa)
 - [Object Oriented Systems Analysis and Design (Systems Analysis and Design in a Changing World)](https://www.youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra)
 - [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF)
 - [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
@@ -252,6 +253,7 @@ Courses
 	- [Music Information Retrieval - University of Victoria, 2014](http://marsyas.cs.uvic.ca/mirBook/course/) 
 
 ------------------------------
+
 ### Concurrency
 - [CSE P 506 – Concurrency (Spring 2011) University of Washington](http://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](http://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
 - [CSEP 524 - Parallel Computation - University of Washington](http://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](http://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
@@ -396,6 +398,7 @@ Courses
 - [MOOC: Cryptography - Coursera](https://www.youtube.com/playlist?list=PL3F2F89F4CD1E1DF4)
 - [MOOC: Intro to Information Security - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak)
 - [Introduction to Cryptography, Christof Paar - Ruhr University Bochum, Germany](https://www.youtube.com/playlist?list=PLwJWuZfL_Ga2KJrTf9hOIgAQWkSpn9RNm)
+- [ICS 444: Computer & Network Security](https://www.youtube.com/playlist?list=PLciCszvvRCTV09wIXJwiPmYF7thHiq4En)
 
 -------
 
