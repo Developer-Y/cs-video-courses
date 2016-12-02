@@ -43,7 +43,7 @@ Courses
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures) ([Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html))
 - [CS 10 The Beauty & Joy of Computing, Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iC17q7Pydw_RernkItDJePz)
 - [CS 50 - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/lectures) ([cs50.tv](http://cs50.tv/2015/fall/))
-- [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/)
+- [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/) ([CS 98 - Additional Topics on SICP](https://itunes.apple.com/us/itunes-u/computer-science-98-052-spring/id964668866))
 - [SPD1 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
 - [CS E-1 Understanding Computers and the Internet, Spring 2013 - Harvard Extension School](http://cse1.net/lectures) ([Spring 2011](http://computerscience1.tv/2011/spring/))
 - [CSE 142 Computer Programming I (C Programming), Autumn 2000 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
@@ -312,6 +312,7 @@ Courses
 -------------------------
 
 ### Web Programming and Internet Technologies
+- [Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley](http://live.wdd.io/)
 - [CS 75 Building Dynamic Websites - Harvard University](http://cs75.tv/2012/summer/)
 - [CSE 199 : How the Internet Works, Fall 2016 - University of Buffalo](https://www.youtube.com/playlist?list=PLk97mPCd8nvbxGGfkYkBXrSEvpTc1xTF8)
 - [Web Search - SS 2006 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/110/423/)
@@ -366,6 +367,8 @@ Courses
 - [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt))
 - [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
 - [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
+- [CS/ECE 3810 Computer Organization, Fall 2015, , University of Utah](http://www.cs.utah.edu/~rajeev/cs3810/) ([YouTube](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy))
+- [CS/ECE 6810 Computer Architecture, Spring 2016, University of Utah](http://www.cs.utah.edu/~rajeev/cs6810/) ([YouTube](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6))
 - [CS-224 - Computer Organization, 2009-2010 Spring, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=16) ([YouTube playlist](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu))
 - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 - [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
