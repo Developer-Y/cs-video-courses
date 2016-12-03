@@ -55,6 +55,7 @@ Courses
 - [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
 - [Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
 - [MOOC: Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX](https://www.youtube.com/playlist?list=PLw454N-VXALSIzIe_eL5U8L4S68v2X_ak)
+- [Introduction to Functional Programming, TU Delft](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/)
 
 ------
 
@@ -152,6 +153,7 @@ Courses
 - [CS 6530 - Graduate-level Database Systems, Fall 2016, University of Utah](https://www.cs.utah.edu/~lifeifei/cs6530/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI))
 - [6.830/6.814: Database Systems [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
 - [FIT9003 Database Systems Design, Rob Meredith, Monash University](https://itunes.apple.com/us/podcast/fit9003-database-systems-design/id306569364?ign-mpt=uo%3D8)
+- [Database Management Systems, Aduni](http://aduni.org/courses/databases/index.php?view=cw)
 
 ------------------------------
 
@@ -264,7 +266,7 @@ Courses
 ----------------------------
 
 ### Computer Networks
-- [Prof. Shiv Kalyanaraman's Online Audio and Video Lectures on Computer Networking](https://www.ecse.rpi.edu/homepages/koushik/shivkuma-teaching/video_index.html)
+- [Prof. Shiv Kalyanaraman's Online Audio and Video Lectures on Computer Networking - RPI](https://www.ecse.rpi.edu/homepages/koushik/shivkuma-teaching/video_index.html)
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) ([U Washington MOOC](https://www.youtube.com/playlist?list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj))
 - [CSEP 561: PMP Network Systems, Fall 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/13au/video/))
@@ -277,6 +279,8 @@ Courses
 - [Network Algorithms - SS 2013	- Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5103/15465/)
 - [Telecommunication Systems - SS 2012 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4509/13493/)
 - [Wireless Sensor Networks - WS 2006 (English) - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/112/4172/)
+- [Introduction to Complex Networks - RIT](https://www.youtube.com/playlist?list=PLE9AAD550EA21F3DC)
+- [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
 
 -------------------------------
 
@@ -382,6 +386,7 @@ Courses
 - [MOOC: Computer Architecture, David Wentzlaff - Princeton University/Coursera](http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426)
 - [MOOC: From NAND to TetrisBuilding a Modern Computer From First Principles](http://www.nand2tetris.org/course.php) ([YouTube](https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1))
 - [MOOC: Heterogeneous Parallel Programming	- Coursera](http://academictorrents.com/details/8903d0871c652b96c7b29db738cea76902d65888)
+- [System Validation, TU Delft](https://ocw.tudelft.nl/courses/system-validation/)
 
 -------
 
