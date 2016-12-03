@@ -4,7 +4,7 @@
 
 - Please check [NOTES](https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md) for general information about this list.
 - Please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md) for contribution guidelines.
-- Please check out [NPTEL](http://nptel.ac.in/) for courses by Indian IIT's
+- Please check out [NPTEL](http://nptel.ac.in/) for hundreds of high quality courses on all topics including Computer Science and Engineering, by IISc and IITs in  India.
 
 ------------------------------
 
@@ -30,7 +30,6 @@ Table of Contents
 - [Security](#security)
 - [Computer Graphics](#computer-graphics)
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
-- [HCI](#hci)
 - [Misc](#misc)
 
 Courses
@@ -44,7 +43,7 @@ Courses
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures) ([Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html))
 - [CS 10 The Beauty & Joy of Computing, Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iC17q7Pydw_RernkItDJePz)
 - [CS 50 - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/lectures) ([cs50.tv](http://cs50.tv/2015/fall/))
-- [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/)
+- [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/) ([CS 98 - Additional Topics on SICP](https://itunes.apple.com/us/itunes-u/computer-science-98-052-spring/id964668866))
 - [SPD1 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
 - [CS E-1 Understanding Computers and the Internet, Spring 2013 - Harvard Extension School](http://cse1.net/lectures) ([Spring 2011](http://computerscience1.tv/2011/spring/))
 - [CSE 142 Computer Programming I (C Programming), Autumn 2000 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
@@ -160,6 +159,7 @@ Courses
 
 - [ECE 462 Object-Oriented Programming using C++ and Java - Purdue](https://engineering.purdue.edu/OOSD/F2008/F2008.html)
 - [Object-oriented Program Design and Software Engineering - Aduni](http://aduni.org/courses/java/index.php?view=cw)
+- [OOSE - Object-Oriented Software Engineering, Dr. Tim Lethbridge](https://www.youtube.com/playlist?list=PL6iDJCG2nkhfNlig8NY5ePPfGvtQX6yLa)
 - [Object Oriented Systems Analysis and Design (Systems Analysis and Design in a Changing World)](https://www.youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra)
 - [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF)
 - [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
@@ -187,7 +187,7 @@ Courses
 
 - **Introduction to Machine Learning**
 	- [MOOC Machine Learning Andrew Ng - Coursera/Stanford](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC) ([Notes](http://www.holehouse.org/mlclass/))
-	- [MOOC - Statistical Learning, Stanford University](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
+	- [MOOC - Statistical Learning, Stanford University](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 	- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
 	- [10-601 - Introduction to Machine Learning (MS), Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
@@ -211,6 +211,10 @@ Courses
 	- [MOOC - Data Mining with Weka](https://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPD)
 	- [CS 290 DataMining Lectures](https://www.youtube.com/playlist?list=PLB4CCA346A5741C4C)
 	- [CS246 - Mining Massive Data Sets, Winter 2016, Stanford University](https://web.stanford.edu/class/cs246/) ([YouTube](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos))
+- **Data Science**
+	- [Data 8: Foundations of Data Science, UC Berkeley](http://data8.org/fa16/) 
+	- [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
+	- [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
 - **Probabilistic Graphical Modeling**
 	- [MOOC: Probabilistic Graphical Models - Coursera](https://www.youtube.com/playlist?list=PLvfF4UFg6Ejj6SX-ffw-O4--SPbB9P7eP)
 	- [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
@@ -249,6 +253,7 @@ Courses
 	- [Music Information Retrieval - University of Victoria, 2014](http://marsyas.cs.uvic.ca/mirBook/course/) 
 
 ------------------------------
+
 ### Concurrency
 - [CSE P 506 – Concurrency (Spring 2011) University of Washington](http://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](http://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
 - [CSEP 524 - Parallel Computation - University of Washington](http://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](http://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
@@ -309,6 +314,7 @@ Courses
 -------------------------
 
 ### Web Programming and Internet Technologies
+- [Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley](http://live.wdd.io/)
 - [CS 75 Building Dynamic Websites - Harvard University](http://cs75.tv/2012/summer/)
 - [CSE 199 : How the Internet Works, Fall 2016 - University of Buffalo](https://www.youtube.com/playlist?list=PLk97mPCd8nvbxGGfkYkBXrSEvpTc1xTF8)
 - [Web Search - SS 2006 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/110/423/)
@@ -346,6 +352,12 @@ Courses
 - [CS294: Program Synthesis for Everyone](https://people.eecs.berkeley.edu/~bodik/cs294fa12)
 - [MOOC: Principles of Reactive Programming, Scala - Coursera](https://www.youtube.com/playlist?list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 - [Category Theory for Programmers, 2014 - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([YouTube](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_))
+- Oregon Programming Languages Summer School (Proof theory, type theory, category theory, verification)
+	- [2012 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+	- [2013 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
+	- [2014 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
+	- [2015 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
+	- [2016 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
 
 -------------------------------
 
@@ -357,13 +369,14 @@ Courses
 - [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt))
 - [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
 - [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
+- [CS/ECE 3810 Computer Organization, Fall 2015, , University of Utah](http://www.cs.utah.edu/~rajeev/cs3810/) ([YouTube](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy))
+- [CS/ECE 6810 Computer Architecture, Spring 2016, University of Utah](http://www.cs.utah.edu/~rajeev/cs6810/) ([YouTube](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6))
 - [CS-224 - Computer Organization, 2009-2010 Spring, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=16) ([YouTube playlist](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu))
 - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 - [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 - [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
 - [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
 - [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
-- [CMPE 118/L(218/L) - Mechatronics - Fall 2015](https://classes.soe.ucsc.edu/cmpe118/Fall15/)
 - [Software Engineering for Embedded Systems - WS 2010/11 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id429175114)
 - [ELEC2141 Digital Circuit Design, UNSW](https://www.youtube.com/playlist?list=PLB52B8F4E464CEEF7)
 - [MOOC: Computer Architecture, David Wentzlaff - Princeton University/Coursera](http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426)
@@ -385,17 +398,23 @@ Courses
 - [MOOC: Cryptography - Coursera](https://www.youtube.com/playlist?list=PL3F2F89F4CD1E1DF4)
 - [MOOC: Intro to Information Security - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak)
 - [Introduction to Cryptography, Christof Paar - Ruhr University Bochum, Germany](https://www.youtube.com/playlist?list=PLwJWuZfL_Ga2KJrTf9hOIgAQWkSpn9RNm)
+- [ICS 444: Computer & Network Security](https://www.youtube.com/playlist?list=PLciCszvvRCTV09wIXJwiPmYF7thHiq4En)
 
 -------
 
 ### Computer Graphics
 
+- [ECS 175 Computer Graphics, Fall 2009, UC Davis](https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10)
+- [Computer Graphics 2012, Wolfgang Huerst, Utrecht University](https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE)
 - [CS 5630/6630 - Visualization, Fall 2016, University of Utah](http://dataviscourse.net/2016/index.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpQY3miQpTJtnHgCLze2lr0))
 - [Advanced Visualization UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBNnySlj9TlL-n-4jNEK-xgi)
-- [Computer Graphics Fall 2011](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
+- [CSCI E-234: Introduction to Computer Graphics and GPU Programming, Harvard Extension School](https://itunes.apple.com/us/itunes-u/csci-e-234-introduction-to/id429428034?mt=10)
+- [Computer Graphics Fall 2011, Barbara Hecker](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
 - [Introduction to Graphics Architecture](https://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0)
 - [CS184 Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
+- [Ray Tracing for Global Illumination, UCDavis](https://www.youtube.com/playlist?list=PLslgisHe5tBPckSYyKoU3jEA4bqiFmNBJ)
 - [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+- [ECS 178 Introduction to Geometric Modeling, Fall 2012, UC Davis](http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html) ([iTunes](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246?mt=10))
 
 -------
 
@@ -413,35 +432,42 @@ Courses
 - [MOOC: Introduction to Computer Vision - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 
 --------------------------
-### HCI
-- [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
-- [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
-- [Programming for Designers - COMP1400-T2 (2010) - UNSW](https://www.youtube.com/playlist?list=PL9444191613E018CC)
-
-
----------------------------
-
 
 ### Misc
 
 - Computational Biology
 	- [Skiena's Computational Biology Lectures](http://www.algorist.com/computational_biology/)
 	- [6.802J/ 6.874J Foundations of Computational and Systems Biology - MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
+	- [Bio 84: Your Genes and Your Health, Stanford University](http://bio84.stanford.edu/)
+	- [BioMedical Informatics 231 Computational Molecular Biology, Stanford University](http://biochem218.stanford.edu/)
+	- [BioMedical Informatics 258 Genomics, Bioinformatics & Medicine, Stanford University](http://biochem158.stanford.edu/)
+	- [ECS 124 - Foundations of Algorithms for Bioinformatics - Dan Gusfield, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs124videos/videolist.html) ([YouTube](https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL))
 	- [Bioinformatic II - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3013/10069/)
+	- [Introduction to Bioinformatics, METUOpenCourseWare](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_)
+	- [MOOC: Algorithms for DNA Sequencing, Coursera](https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA)
 - Computational Finance
 	- [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
 	- [MOOC: Mathematical Methods for Quantitative Finance, University of Washington/Coursera)](http://academictorrents.com/details/dfc1ddde962101f00ef9764b91181bd6bb5c9e93)
 	- [18.S096 Topics in Mathematics with Applications in Finance, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
+- Robotics
+	- [6.832 Underactuated Robotics - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/)
+	- [CS 223A - Introduction to Robotics, Stanford University](https://see.stanford.edu/Course/CS223A)
+	- [CMPE 118/L(218/L) - Mechatronics - Fall 2015](https://classes.soe.ucsc.edu/cmpe118/Fall15/)
+	- [CS 287: Advanced Robotics, Fall 2011, UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa11/) ([Videos](http://rll.berkeley.edu/cs287/lecture_videos/))
+	- [Lecture: Visual Navigation for Flying Robots - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha)
+	- [Robotics 1, Prof. De Luca, Università di Roma](http://www.dis.uniroma1.it/~deluca/rob1_en/material_rob1_en_2014-15.html) ([YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt))
+	- [Robotics 2, Prof. De Luca, Università di Roma](http://www.diag.uniroma1.it/~deluca/rob2_en/material_rob2_en.html)
+	- [Robot Mechanics and Control, SNU](https://www.youtube.com/playlist?list=PLkjy3Accn-E7mlbuSF4aajcMMckG4wLvW)
+- HCI
+	- [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
+	- [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
+	- [Programming for Designers - COMP1400-T2 (2010) - UNSW](https://www.youtube.com/playlist?list=PL9444191613E018CC)
 - Game Development
 	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
-	- [CS 3152 - Introduction to Computer Game Development, Cornell University](http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php)
 	- [Unity3D Tutorials](https://www.youtube.com/playlist?list=PL5FMIyKmleRwYdMIuejPS5csShp237A3X)
 	- [MOOC: Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
-- [AM 207 - Monte Carlo Methods and Stochastic Optimization, Harvard University](http://am207.github.io/2016/index.html)
-- [CS 223A - Introduction to Robotics, Stanford University](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
 - [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](http://www.schneems.com/ut-rails/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
 - [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) ([Lectures - Youtube](https://www.youtube.com/user/fillwithlight/videos))
-- [Lecture: Visual Navigation for Flying Robots - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha)
 - [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
 - [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
 - [Exposing Digital Photography - Harvard Extension School](http://tv.digitalphotography.exposed/2010/fall/)
