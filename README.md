@@ -176,6 +176,7 @@ Courses
 - [OOSE: Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
 - [CS 411 - Software Architecture Design, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 - [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
+- [CS 5150 -  Software Engineering,Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
 - [Model Driven Archtitecture - WS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/83/3022/)
 - [Software Design, Modelling and Analysis in UML - WS 2012 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5405/16022/)
 - [MOOC: Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
@@ -252,7 +253,7 @@ Courses
 	- [Machine Learning for Computer Vision - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
 - **Misc Machine Learning Topics**
 	- [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
-	- [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
+	- [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://blogs.ischool.berkeley.edu/i290-abdt-s12/) ([YouTube](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F))
 	- [10-725 Convex Optimization: Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
 	- [10-801 Advanced Optimization and Randomized Algorithms](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d)
 	- [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
@@ -275,6 +276,7 @@ Courses
 ----------------------------
 
 ### Computer Networks
+- [14-740 - Fundamenals of Computer Networks, Fall 2016 - CMU](http://ini740.com/F16/)
 - [Prof. Shiv Kalyanaraman's Online Audio and Video Lectures on Computer Networking - RPI](https://www.ecse.rpi.edu/homepages/koushik/shivkuma-teaching/video_index.html)
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) ([U Washington MOOC](https://www.youtube.com/playlist?list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj))
