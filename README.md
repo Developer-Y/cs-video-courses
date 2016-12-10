@@ -208,10 +208,12 @@ Courses
 	- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
 	- [CS 229 - Machine Learning - Stanford University](https://see.stanford.edu/Course/CS229)
 	- [CS 189/289A Introduction to Machine Learning, Prof Jonathan Shewchuk - UCBerkeley](https://people.eecs.berkeley.edu/~jrs/189/)
+	- [CS4780/5780 Machine Learning, Fall 2013 - Cornell University](http://www.cs.cornell.edu/courses/cs4780/2013fa/)
 	- [CS 5350/6350 - Machine Learning, Fall 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCozRSsdueVwX7CF9N4QWL0B)
 	- [ECE 5984 Introduction to Machine Learning, Spring 2015 - Virginia Tech](https://filebox.ece.vt.edu/~s15ece5984/)
 	- [STA 4273H (Winter 2015): Large Scale Machine Learning](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
 	- [CS 485/685 Machine Learning, Shai Ben-David, University of Waterloo](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q/videos)
+	- [Information Theory, Pattern Recognition, and Neural Networks - University of Cambridge](http://www.inference.phy.cam.ac.uk/itprnn_lectures/)
 	- [Machine Learning and Data Mining - WS 2004 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/75/3164/)
 - **Data Mining**
 	- [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
@@ -232,6 +234,7 @@ Courses
 	- [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
 	- [10-708 - Probabilistic Graphical Models, Carnegie Mellon University](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 	- [Probabilistic Graphical Models, Daphne Koller, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
+	- [Probabilistic Models - UNIVERSITY OF HELSINKI](https://www.cs.helsinki.fi/en/courses/582636/2015/K/K/1)
 - **Deep Learning**
 	- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 	- [DS-GA 1008 - Deep Learning, New York University](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
@@ -244,6 +247,7 @@ Courses
 	- [Machine Learning: 2014-2015, University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 	- [10-702/36-702 - Statistical Machine Learning - Larry Wasserman, Spring 2016, CMU](http://www.stat.cmu.edu/~larry/=sml/) ([Spring 2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r))
 	- [10-715 Advanced Introduction to Machine Learning - CMU](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/) ([YouTube](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ))
+	- [CS 281B - Scalable Machine Learning, Alex Smola, UC Berkeley](http://alex.smola.org/teaching/berkeley2012/syllabus.html)
 - **Natural Language Processing and Computer Vision**
 	- [CS 224d - Deep Learning for Natural Language Processing, Stanford University](http://cs224d.stanford.edu/syllabus.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_))
 	- [CS 224N - Natural Language Processing, Stanford University](https://www.youtube.com/playlist?list=PLgtM85Maly3n2Fp1gJVvqb0bTC39CPn1N)
@@ -251,18 +255,22 @@ Courses
 	- [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 	- [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
 	- [Machine Learning for Computer Vision - TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
+	- [INFORMATICS 1 COGNITIVE SCIENCE - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1cs.htm)
+	- [INFORMATICS 2A: PROCESSING FORMAL AND NATURAL LANGUAGES (2016-17) - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html)
 - **Misc Machine Learning Topics**
 	- [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
 	- [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://blogs.ischool.berkeley.edu/i290-abdt-s12/) ([YouTube](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F))
 	- [10-725 Convex Optimization: Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
-	- [10-801 Advanced Optimization and Randomized Algorithms](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d)
 	- [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
 	- [CAM 383M - Statistical and Discrete Methods for Scientific Computing, University of Texas](http://granite.ices.utexas.edu/coursewiki/index.php/Main_Page)
 	- [Statistical Learning- Classification - University of Waterloo](https://uwaterloo.ca/data-science/statistical-learning-classification)
 	- [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
 	- [Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLacBNHqv7n9gp9cBMrA6oDbzz_8JqhSKo)
 	- [Regularization Methods for Machine Learning 2016](http://academictorrents.com/details/493251615310f9b6ae1f483126292378137074cd) ([YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO))
-	- [Music Information Retrieval - University of Victoria, 2014](http://marsyas.cs.uvic.ca/mirBook/course/) 
+	- [Music Information Retrieval - University of Victoria, 2014](http://marsyas.cs.uvic.ca/mirBook/course/)
+	- [Statistical Inference in Big Data - University of Toronto](http://fields2015bigdata2inference.weebly.com/materials.html)
+	- [10-725 Optimization Fall 2012 - CMU](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
+	- [10-801 Advanced Optimization and Randomized Methods - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html) ([YouTube](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d))
 
 ------------------------------
 
@@ -376,6 +384,8 @@ Courses
 	- [2014 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
 	- [2015 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
 	- [2016 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
+- [Inf1: Computation and Logic 2015 - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf1/cl/)
+- [INFORMATICS 1: FUNCTIONAL PROGRAMMING - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/) ([Videos](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1fp.htm))
 
 -------------------------------
 
@@ -401,6 +411,8 @@ Courses
 - [MOOC: From NAND to TetrisBuilding a Modern Computer From First Principles](http://www.nand2tetris.org/course.php) ([YouTube](https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1))
 - [MOOC: Heterogeneous Parallel Programming	- Coursera](http://academictorrents.com/details/8903d0871c652b96c7b29db738cea76902d65888)
 - [System Validation, TU Delft](https://ocw.tudelft.nl/courses/system-validation/)
+- [INFORMATICS 2C - INTRODUCTION TO COMPUTER SYSTEMS (AUTUMN 2016) - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2c-cs.htm)
+- [ECE 498AL: Programming Massively Parallel Processors](https://nanohub.org/resources/7225)
 
 -------
 
@@ -447,7 +459,14 @@ Courses
 - [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers) TUM](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
 - [Image Processing and Analysis (Course) UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
 - [Introduction to Vision and Robotics](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm)
+- [EGGN 510 - Image and Multidimensional Signal Processing - Colorado School of Mines](http://inside.mines.edu/~whoff/courses/EENG510/lectures/)
 - [EENG 512 / CSCI 512 - Computer Vision - Colorado School of Mines](http://inside.mines.edu/~whoff/courses/EENG512/lectures/)
+- [Computer Vision for Visual Effects - RPI](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) ([YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a))
+- [Introduction to Image Processing - RPI](https://www.ecse.rpi.edu/~rjradke/improccourse.html) ([YouTube](Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015))
+- [Digital Signal Processing - RPI](https://www.ecse.rpi.edu/~rjradke/dspcourse.html)
+- [Advanced Vision 2014 - University of Edinburgh](http://homepages.inf.ed.ac.uk/rbf/AVINVERTED/main_av.htm)
+- [Computer Vision 2011, EPFL, Switzerland](http://www.klewel.com/conferences/epfl-computer-vision/)
+- [Photogrammetry Course - 2015/16 - University of Bonn, Germany](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
 - [MOOC: Digital Image procesing - Duke/Coursera](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
 - [MOOC: Introduction to Computer Vision - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 
@@ -458,11 +477,14 @@ Courses
 - Computational Biology
 	- [Skiena's Computational Biology Lectures](http://www.algorist.com/computational_biology/)
 	- [6.802J/ 6.874J Foundations of Computational and Systems Biology - MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
+	- [6.047/6.878 Public Lectures on Computational Biology: Genomes, Networks, Evolution - MIT](http://compbio.mit.edu/lectures.html)
 	- [Bio 84: Your Genes and Your Health, Stanford University](http://bio84.stanford.edu/)
 	- [BioMedical Informatics 231 Computational Molecular Biology, Stanford University](http://biochem218.stanford.edu/)
 	- [BioMedical Informatics 258 Genomics, Bioinformatics & Medicine, Stanford University](http://biochem158.stanford.edu/)
 	- [ECS 124 - Foundations of Algorithms for Bioinformatics - Dan Gusfield, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs124videos/videolist.html) ([YouTube](https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL))
 	- [Bioinformatic II - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3013/10069/)
+	- [7.32 Systems Biology, Fall 2014 - MIT OCW](https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/)
+	- [AN INTRODUCTION TO SYSTEMS BIOLOGY](http://www.weizmann.ac.il/mcb/UriAlon/introduction-systems-biology-design-principles-biological-circuits)
 	- [Introduction to Bioinformatics, METUOpenCourseWare](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_)
 	- [MOOC: Algorithms for DNA Sequencing, Coursera](https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA)
 - Computational Finance
@@ -478,6 +500,8 @@ Courses
 	- [Robotics 1, Prof. De Luca, Università di Roma](http://www.dis.uniroma1.it/~deluca/rob1_en/material_rob1_en_2014-15.html) ([YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt))
 	- [Robotics 2, Prof. De Luca, Università di Roma](http://www.diag.uniroma1.it/~deluca/rob2_en/material_rob2_en.html)
 	- [Robot Mechanics and Control, SNU](https://www.youtube.com/playlist?list=PLkjy3Accn-E7mlbuSF4aajcMMckG4wLvW)
+	- [Robot Mapping - WS 2013/14 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) ([YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_))
+	- [SLAM Lectures](https://www.youtube.com/playlist?list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm)
 - HCI
 	- [CS147: Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
 	- [CSEP 510: Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
