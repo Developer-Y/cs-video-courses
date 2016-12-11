@@ -61,6 +61,7 @@ Courses
 - [Introduction to Problem Solving and Programming - IIT Kanpur](http://nptel.ac.in/courses/106104074/)
 - [Introduction to programming in C - IIT Kanpur](http://nptel.ac.in/courses/106104128/)
 - [Programming in C++ - IIT Kharagpur](http://nptel.ac.in/courses/106105151/)
+- [CS 101 - Introduction to Computer Science - University of Virginia](http://www.cs.virginia.edu/~asb/teaching/cs101-spring07/lectures/lectures.html)
 
 ------
 
@@ -151,7 +152,6 @@ Courses
 	- [Real Time Systems - IIT Kharagpur](http://nptel.ac.in/courses/106105036/)
 	- [Real-Time Systems - SS 2013 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5201/15648/)
 - [6.172 Performance Engineering of Software Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
-- [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
 - [System Infrastructure For Data Science - WS 2012 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4808/14532/)
 - [Performance Evaluation of Computer Systems - IIT Madras](http://nptel.ac.in/courses/106106048/)
 - [Storage Systems - IISC Bangalore](http://nptel.ac.in/courses/106108058/)
@@ -238,6 +238,7 @@ Courses
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
 - [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](http://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
+- [CS322 - Introduction to Artificial Intelligence, Winter 2012-13 - UBC](http://www.cs.ubc.ca/~mack/CS322/) ([YouTube](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU))
 - [Artificial Intelligence - IIT Kharagpur](http://nptel.ac.in/courses/106105077/)
 - [Artificial Intelligence - IIT Madras](http://nptel.ac.in/courses/106106126/)
 - [Artificial Intelligence(Prof.P.Dasgupta) - IIT Kharagpur](http://nptel.ac.in/courses/106105079/)
@@ -247,6 +248,7 @@ Courses
 - [Advanced AI Techniques - WS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/1/349/) ([WS 2004](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/2/335/))
 - [Agent-Based Systems 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/abs.htm)
 - [Informatics 2D - Reasoning and Agents 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2d.htm)
+- [Artificial Intelligence - Hochschule Ravensburg-Weingarten](https://www.youtube.com/playlist?list=PL39B5D3AFC249556A)
 
 --------------
 
@@ -497,10 +499,14 @@ Courses
 	- [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 	- [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
 	- [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
-	- [Software Engineering for Embedded Systems - WS 2010/11 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id429175114)
+	- [ECE 5760 - Advanced Microcontroller Design and system-on-chip, Spring 2016 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5760/)
+	- [ECE 5030 - Electronic Bioinstrumentation, Spring 2014 - Cornell University ](http://people.ece.cornell.edu/land/courses/ece5030/)
+	- [ELEC2142 - Embedded Systems Design - UNSW](http://eemedia.ee.unsw.edu.au/ELEC2142/index.htm)
+	- [Software Engineering for Embedded Systems - WS 2011/12 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id483124850)
 	- [Embedded Software Testing - IIT Madras](http://nptel.ac.in/courses/117106112/)
 	- [Embedded Systems - IIT Delhi](http://nptel.ac.in/courses/108102045/)
 	- [ARM Based Development - IIT Madras](http://nptel.ac.in/courses/117106111/)
+	- [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
 - Parallel Computer Architecture
 	- [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 	- [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
