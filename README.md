@@ -62,6 +62,7 @@ Courses
 - [Introduction to programming in C - IIT Kanpur](http://nptel.ac.in/courses/106104128/)
 - [Programming in C++ - IIT Kharagpur](http://nptel.ac.in/courses/106105151/)
 - [CS 101 - Introduction to Computer Science - University of Virginia](http://www.cs.virginia.edu/~asb/teaching/cs101-spring07/lectures/lectures.html)
+- [Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
 
 ------
 
@@ -96,7 +97,7 @@ Courses
 - [Programming, Data Structures and Algorithms in Python - IIT Madras](http://nptel.ac.in/courses/106106145/)
 - [Programming and Data structures (PDS) - IIT Madras](http://nptel.ac.in/courses/106106130/)
 - [COP 5536 Advanced Data Structures, Prof Sahni - UFL](http://www.cise.ufl.edu/~sahni/cop5536/index.html) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop5536sahni/))
-- [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Lectures](http://theory.stanford.edu/~tim/w16/w16.html)) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
+- [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
 - [Informatics 2B - Algorithms, Data Structures and Learning- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2013/inf2b-adsl.htm)
 - [CS 224 - Advanced Algorithms, Harvard University](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) ([Lecture Videos](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf))
 - [CS 6150 - Advanced Algorithms (Fall 2016), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCp8X9FHOglnLqFjyvqGLftx)
@@ -443,7 +444,7 @@ Courses
 - [CSEP 501 - Compiler Construction, University of Washington](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C))
 - [CSEP 505 Programming Languages, Winter 2015 - University of Washington](http://courses.cs.washington.edu/courses/csep505/15wi/video/)
 - [DMFP - Discrete Mathematics and Functional Programming, Wheaton College](http://cs.wheaton.edu/~tvandrun/dmfp/)
-- [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/) ([Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a))
+- [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html) ([Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a))
 - [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
 - [MOOC - Automata - Jeffrey Ullman - Coursera](https://www.youtube.com/playlist?list=PL82C4B8475CAC3F95)
 - [CS581 Theory of Computation - Portland State University](http://web.cecs.pdx.edu/~harry/videos/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
@@ -520,6 +521,9 @@ Courses
 - [System Validation, TU Delft](https://ocw.tudelft.nl/courses/system-validation/)
 - [High Performance Computing - IISC Bangalore](http://nptel.ac.in/courses/106108055/)
 - [Digital Systems Design - IIT Kharagpur](http://nptel.ac.in/courses/117105080/)
+- [Introduction to ARM - Open SecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n91t_AX5zO007Giz1INwPd)
+- [Intro x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
+- [Intermediate x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
 
 
 -------
@@ -544,6 +548,7 @@ Courses
 - [MOOC - Intro to Information Security - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak)
 - [ICS 444 - Computer & Network Security](https://www.youtube.com/playlist?list=PLciCszvvRCTV09wIXJwiPmYF7thHiq4En)
 - [Privacy and Security in Online Social Networks - IIT Madras](http://nptel.ac.in/courses/106106146/)
+- [Malware Dynamic Analysis - Open SecurityTraining](http://opensecuritytraining.info/MalwareDynamicAnalysis.html) ([YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z))
 
 -------
 
@@ -607,7 +612,6 @@ Courses
 
 ----------------------------------
 ### Robotics
-- [CMPE 118/L(218/L) - Mechatronics - Fall 2015](https://classes.soe.ucsc.edu/cmpe118/Fall15/)
 - [CS 223A - Introduction to Robotics, Stanford University](https://see.stanford.edu/Course/CS223A)
 - [6.832 Underactuated Robotics - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/)
 - [CS 287 - Advanced Robotics, Fall 2011, UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa11/) ([Videos](http://rll.berkeley.edu/cs287/lecture_videos/))
