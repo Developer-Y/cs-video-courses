@@ -69,6 +69,7 @@ Courses
 ### Data Structures and Algorithms
 
 - [CS 61B - Data Structures, Jonathan Shewchuk - UC Berkeley](https://people.eecs.berkeley.edu/~jrs/61b/) ([Videos](https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C))
+- [CS 61B - Data Structures, Josh Hug, Spring 2016 - UC Berkeley](http://datastructur.es/sp16/)
 - [MOOC - Design and Analysis of Algorithms Part 1 - Prof Roughgarden - Coursera](https://www.youtube.com/playlist?list=PLLH73N9cB21W1TZ6zz1dLkyIm50HylGyg) ([Part 2](https://www.youtube.com/playlist?list=PLLH73N9cB21VPj3H2xwTTye5TC8-UniA2))
 - [MOOC - Algorithms Part 1 - Prof Sedgewick](https://www.youtube.com/playlist?list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q) ([Part 2](https://www.youtube.com/playlist?list=PLqD_OdMOd_6YixsHkd9f4sNdof4IhIima))
 - [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
@@ -126,7 +127,7 @@ Courses
 - [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
 - [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/CS361fall13)
 - [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
-- Operating Systems
+- **Operating Systems**
 	- [CS124 Operating Systems - California Institute of Technology](http://users.cms.caltech.edu/~donnie/cs124/)
 	- [CS 162 - Operating Systems and Systems Programming, UC Berkeley](http://cs162.eecs.berkeley.edu/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c))
 	- [CS 4414 - Operating Systems, University of Virginia](http://rust-class.org/pages/classes.html)
@@ -138,7 +139,7 @@ Courses
 	- [Introduction to Operating Systems - IIT Madras](http://nptel.ac.in/courses/106106144/)
 	- [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013, UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
 	- [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
-- Distributed Systems
+- **Distributed Systems**
 	- [VU:Distributed Systems: Principles and Paradigms by Maarten van Steen (Fall 2012), Vrije Universiteit, Amsterdam](http://www.distributed-systems.net/courses/ds/ds-screencasts/)
 	- [CS 677 - Distributed Operating Systems, Spring 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
 	- [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
@@ -148,7 +149,7 @@ Courses
 	- [CSEP 552 - PMP Distributed Systems, Spring 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep552/13sp/) ([Videos](http://courses.cs.washington.edu/courses/csep552/13sp/video/))
 	- [CSE 490H - Scalable Systems: Design, Implementation and Use of Large Scale Clusters, Autumn 2008 - University of Washington](http://courses.cs.washington.edu/courses/cse490h/08au/lectures.htm) ([Videos](http://courses.cs.washington.edu/courses/cse490h/08au/video.htm))
 	- [MOOC - Cloud Computing Concepts - UIUC](https://www.youtube.com/playlist?list=PLFd87qVsaLhOkTLvfp6MC94iFa_1c9wrU)
-- Real-Time Systems
+- **Real-Time Systems**
 	- [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
 	- [Real Time Systems - IIT Kharagpur](http://nptel.ac.in/courses/106105036/)
 	- [Real-Time Systems - SS 2013 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5201/15648/)
@@ -157,6 +158,7 @@ Courses
 - [Performance Evaluation of Computer Systems - IIT Madras](http://nptel.ac.in/courses/106106048/)
 - [Storage Systems - IISC Bangalore](http://nptel.ac.in/courses/106108058/)
 - [MAP6264 - Queueing Theory - FAU](https://vimeo.com/album/171324/)
+- [EE380-Colloquim on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 
 
 ------------------------------------------------------------
@@ -187,7 +189,7 @@ Courses
 
 ### Software Engineering
 
-- Object Oriented Design
+- **Object Oriented Design**
 	- [ECE 462 Object-Oriented Programming using C++ and Java - Purdue](https://engineering.purdue.edu/OOSD/F2008/F2008.html)
 	- [Object-oriented Program Design and Software Engineering - Aduni](http://aduni.org/courses/java/index.php?view=cw)
 	- [OOSE - Object-Oriented Software Engineering, Dr. Tim Lethbridge](https://www.youtube.com/playlist?list=PL6iDJCG2nkhfNlig8NY5ePPfGvtQX6yLa)
@@ -198,7 +200,7 @@ Courses
 	- [CS3 - Design in Computing - Richard Buckland UNSW](https://www.youtube.com/course?list=EC0C5D85DBA20E685C)
 	- [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
 	- [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
-- Software Engineering
+- **Software Engineering**
 	- [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF)
 	- [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
 	- [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
@@ -207,18 +209,18 @@ Courses
 	- [Software Engineering - IIT Bombay](http://nptel.ac.in/courses/106101061/)
 	- [Software Testing - IIT Kharagpur](http://nptel.ac.in/courses/106105150/)
 	- [Informatics 2C - Software Engineering 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2SE.htm)
-- Software Architecture
+- **Software Architecture**
 	- [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 	- [Model Driven Archtitecture - WS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/83/3022/)
 	- [Software Design, Modelling and Analysis in UML, WS 2012 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5405/16022/)
 	- [MOOC - Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
-- Concurrency
+- **Concurrency**
 	- [CS176 - Multiprocessor Synchronization - Brown University](http://cs.brown.edu/courses/cs176/course_information.shtml) ([Videos from 2012](http://www.brown.edu/cis/sta/dev/herlihy_csci1760_fa12/#vid))
 	- [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
 	- [CSE P 506 – Concurrency, Spring 2011 - University of Washington](http://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](http://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
 	- [CSEP 524 - Parallel Computation - University of Washington](http://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](http://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
 	- [Concurrency Theory and Practice - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3303/12101/)
-- Mobile Application Development
+- **Mobile Application Development**
 	- [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
 	- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
 	- [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
@@ -385,7 +387,7 @@ Courses
 -------------------------
 
 ### Math for Computer Scientist
-- Discrete Math
+- **Discrete Math**
 	- [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) ([Spring 15](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm))
 	- [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 	- [CSE 547 Discrete Mathematics, Prof Skiena, University of Stony Brook](http://www3.cs.stonybrook.edu/~algorith/math-video/)
@@ -393,7 +395,7 @@ Courses
 	- [Discrete Mathematics and Mathematical Reasoning 2015/16 - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/dmmr.htm)
 	- [Discrete Mathematical Structures - IIT Madras](http://nptel.ac.in/courses/106106094/)
 	- [Discrete Structures - Pepperdine University](https://itunes.apple.com/us/course/discrete-structures/id546468789)
-- Probability & Statistics
+- **Probability & Statistics**
 	- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 	- [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 	- [MOOC - Statistics: Making Sense of Data, Coursera](http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2)
@@ -402,7 +404,7 @@ Courses
 	- [131B - Introduction to Probability and Statistics, UCI](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
 	- [The Probability and Statistics Full Course - YouTube](https://www.youtube.com/playlist?list=PLLssT5z_DsK_WYzNXVjT695FdxRxvlSF8)
 	- [STATS 250 - Introduction to Statistics and Data Analysis, UMichigan](https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F)
-- Linear Algebra
+- **Linear Algebra**
 	- [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 	- [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
 	- [A first course in Linear Algebra - N J Wildberger - UNSW](https://www.youtube.com/playlist?list=PL44B6B54CBF6A72DF)
@@ -478,7 +480,7 @@ Courses
 -------------------------------
 
 ### Computer Organization and Architecture
-- Computer Organization
+- **Computer Organization**
 	- [How Computers Work - Aduni](http://aduni.org/courses/hcw/index.php?view=cw)
 	- [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_))
 	- [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
@@ -487,7 +489,7 @@ Courses
 	- [Computer Organization - IIT Madras](http://nptel.ac.in/courses/106106092/)
 	- [CS-224 - Computer Organization, 2009-2010 Spring, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=16) ([YouTube playlist](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu))
 	- [INFORMATICS 2C - INTRODUCTION TO COMPUTER SYSTEMS (AUTUMN 2016) - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2c-cs.htm)
-- Computer Architecture
+- **Computer Architecture**
 	- [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt))
 	- [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
 	- [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
@@ -497,7 +499,7 @@ Courses
 	- [Computer Architecture - IIT Kanpur](http://nptel.ac.in/courses/106104122/)
 	- [Computer Architecture - IIT Madras](http://nptel.ac.in/courses/106106134/)
 	- [High Performance Computer Architecture - IIT Kharagpur](http://nptel.ac.in/courses/106105033/)
-- Embedded Systems
+- **Embedded Systems**
 	- [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 	- [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
 	- [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
@@ -509,7 +511,7 @@ Courses
 	- [Embedded Systems - IIT Delhi](http://nptel.ac.in/courses/108102045/)
 	- [ARM Based Development - IIT Madras](http://nptel.ac.in/courses/117106111/)
 	- [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
-- Parallel Computer Architecture
+- **Parallel Computer Architecture**
 	- [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 	- [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
 	- [MOOC - Heterogeneous Parallel Programming	- Coursera](http://academictorrents.com/details/8903d0871c652b96c7b29db738cea76902d65888)
@@ -605,6 +607,9 @@ Courses
 - [Bio 84 - Your Genes and Your Health, Stanford University](http://bio84.stanford.edu/)
 - [BioMedical Informatics 231 Computational Molecular Biology, Stanford University](http://biochem218.stanford.edu/)
 - [BioMedical Informatics 258 Genomics, Bioinformatics & Medicine, Stanford University](http://biochem158.stanford.edu/)
+- [MOOC - Bioinformatics Algorithms: An Active Learning Approach - UC San Diego/Coursera](http://bioinformaticsalgorithms.com/videos.htm)
+- [Neural Networks and Biological Modeling - Lecturer: Prof. Wulfram Gerstner - EPFL](http://www.klewel.com/conferences/epfl-neural-networks/)
+- [Video Lectures of Wulfram Gerstner: Computational Neuroscience - EPFL](http://lcn.epfl.ch/~gerstner/VideoLecturesGerstner.html)
 - [Bioinformatic II - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3013/10069/)
 - [An Introduction To Systems Biology](http://www.weizmann.ac.il/mcb/UriAlon/introduction-systems-biology-design-principles-biological-circuits)
 - [Introduction to Bioinformatics, METUOpenCourseWare](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_)
@@ -629,15 +634,15 @@ Courses
 
 ### Misc
 
-- Computational Finance
+- **Computational Finance**
 	- [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
 	- [MOOC - Mathematical Methods for Quantitative Finance, University of Washington/Coursera)](http://academictorrents.com/details/dfc1ddde962101f00ef9764b91181bd6bb5c9e93)
 	- [18.S096 Topics in Mathematics with Applications in Finance, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
-- HCI
+- **HCI**
 	- [CS147 - Introduction to Human-Computer Interaction Design - Stanford](http://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
 	- [CSEP 510 - Human Computer Interaction](http://courses.cs.washington.edu/courses/csep510/04wi/)
 	- [Programming for Designers - COMP1400-T2 (2010) - UNSW](https://www.youtube.com/playlist?list=PL9444191613E018CC)
-- Game Development
+- **Game Development**
 	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
 	- [Unity3D Tutorials](https://www.youtube.com/playlist?list=PL5FMIyKmleRwYdMIuejPS5csShp237A3X)
 	- [MOOC - Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
