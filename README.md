@@ -294,8 +294,8 @@ Courses
 	- [CS246 - Mining Massive Data Sets, Winter 2016, Stanford University](https://web.stanford.edu/class/cs246/) ([YouTube](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos))
 	- [CAP6673 - Data Mining and Machine Learning - FAU](https://vimeo.com/album/1505953)
 - **Data Science**
-	- [Data 8 - Foundations of Data Science, UC Berkeley](https://data-8.appspot.com/sp16/course) 
 	- [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
+	- [Statistics 133 - Concepts in Computing with Data, Fall 2013 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDsSPnMJlnhIyADGUmikoIO)
 	- [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
 	- [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
 	- [Algorithms for Big Data - IIT Madras](http://nptel.ac.in/courses/106106142/)
@@ -314,6 +314,7 @@ Courses
 	- [Deep Learning - University of Waterloo](https://uwaterloo.ca/data-science/deep-learning)
 	- [Neural networks class - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 	- [Neural Networks and Applications - IIT Kharagpur](http://nptel.ac.in/courses/117105084/)
+	- [Practical Deep Learning For Coders](http://course.fast.ai/lessons/lessons.html)
 - **Advanced Machine Learning**
 	- [Machine Learning 2013 - Nando de Freitas, UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 	- [Machine Learning, 2014-2015, University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
@@ -396,6 +397,7 @@ Courses
 - **Probability & Statistics**
 	- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 	- [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+	- [Statistics 20, Fall 2010 - UC Berkeley](https://www.youtube.com/playlist?list=PLnzPXnz47JdHX8mjs2inYX8Ijrde6mUUS)
 	- [MOOC - Statistics: Making Sense of Data, Coursera](http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2)
 	- [Probability and Random Processes - IIT Kharagpur](http://nptel.ac.in/courses/117105085/)
 	- [MOOC - Statistical Inference - Coursera](https://www.youtube.com/playlist?list=PLgIPpm6tJZoSvrYM54BUqJJ4CWrYeGO40)
@@ -474,6 +476,7 @@ Courses
 - [Theory of Automata, Formal Languages and Computation - IIT Madras](http://nptel.ac.in/courses/106106049/)
 - [Theory of Computation - IIT Kanpur](http://nptel.ac.in/courses/106104028/)
 - [Logic for CS - IIT Delhi](http://nptel.ac.in/courses/106102013/)
+- [Principles of Compiler Design - Swarthmore College](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
 
 -------------------------------
 
