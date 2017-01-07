@@ -206,6 +206,7 @@ Courses
 	- [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
 	- [System Analysis and Design - IISC Bangalore](http://nptel.ac.in/courses/106108102/)
 	- [Software Engineering - IIT Bombay](http://nptel.ac.in/courses/106101061/)
+	- [Dependable Systems (SS 2014)- HPI](https://itunes.apple.com/us/itunes-u/dependable-systems-ss-2014/id874200249)
 	- [Software Testing - IIT Kharagpur](http://nptel.ac.in/courses/106105150/)
 	- [Informatics 2C - Software Engineering 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2SE.htm)
 - **Software Architecture**
@@ -218,6 +219,8 @@ Courses
 	- [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
 	- [CSE P 506 – Concurrency, Spring 2011 - University of Washington](http://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](http://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
 	- [CSEP 524 - Parallel Computation - University of Washington](http://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](http://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
+	- [Parallel Programming Concepts (WT 2013/14) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id728270905)
+	- [Parallel Programming Concepts (WT 2012/13) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id597821383)
 	- [Concurrency Theory and Practice - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3303/12101/)
 - **Mobile Application Development**
 	- [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
@@ -296,6 +299,7 @@ Courses
 - **Data Science**
 	- [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
 	- [Statistics 133 - Concepts in Computing with Data, Fall 2013 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDsSPnMJlnhIyADGUmikoIO)
+	- [Data Profiling and Data Cleansing (WS 2014/15) - HPI](https://itunes.apple.com/us/itunes-u/data-profiling-data-cleansing/id938216307)
 	- [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
 	- [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
 	- [Algorithms for Big Data - IIT Madras](http://nptel.ac.in/courses/106106142/)
@@ -406,6 +410,7 @@ Courses
 	- [STATS 250 - Introduction to Statistics and Data Analysis, UMichigan](https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F)
 - **Linear Algebra**
 	- [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+	- [Linear Algebra (Princeton University)](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
 	- [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
 	- [A first course in Linear Algebra - N J Wildberger - UNSW](https://www.youtube.com/playlist?list=PL44B6B54CBF6A72DF)
 	- [INTRODUCTION TO MATRIX ALGEBRA](http://ma.mathforcollege.com/youtube/index.html)
