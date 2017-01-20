@@ -79,7 +79,6 @@ Courses
 - [CS2 - Data Structures and Algorithms - Richard Buckland - UNSW](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
 - [Data Structures - Pepperdine University](https://itunes.apple.com/us/course/data-structures/id546468797)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
-- [CS16 Introduction to Algorithms and Data Structures - Brown University](http://cs.brown.edu/courses/csci0160/lectures.html)
 - [6.046J - Introduction to Algorithms - Fall 2005, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
 - [6.046 - Design and Analysis of Algorithms, Spring 2015 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
 - [CS 473 - Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html) ([Notes - Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/))
@@ -675,5 +674,6 @@ Courses
 - [Linux Programming & Scripting - IIT Madras](http://nptel.ac.in/courses/117106113/)
 - [Model Checking - IIT Madras](http://nptel.ac.in/courses/106106136/)
 - [Virtual Reality - IIT Madras](http://nptel.ac.in/courses/106106138/)
+- [CS 195 - Social Implications of Computing, Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs195/sp15/) ([YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e))
 
 -------------------------
