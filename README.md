@@ -358,7 +358,7 @@ Courses
 
 
 ### Computer Networks
-- [14-740 - Fundamenals of Computer Networks, Fall 2016 - CMU](http://ini740.com/F16/)
+- [14-740 - Fundamentals of Computer Networks, Spring 2017 - CMU](http://www.ini740.com/S17/index.html#videos)
 - [Prof. Shiv Kalyanaraman's Online Audio and Video Lectures on Computer Networking - RPI](https://www.ecse.rpi.edu/homepages/koushik/shivkuma-teaching/video_index.html)
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) ([U Washington MOOC](https://www.youtube.com/playlist?list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj))
