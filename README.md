@@ -262,10 +262,10 @@ Courses
 	- [MOOC Machine Learning Andrew Ng - Coursera/Stanford](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC) ([Notes](http://www.holehouse.org/mlclass/))
 	- [MOOC - Statistical Learning, Stanford University](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 	- [Foundations of Machine Learning Boot Camp, Berkeley Simons Institute](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
+	- [CS155 - Machine Learning & Data Mining, 2017 - Caltech](https://www.youtube.com/playlist?list=PLuz4CTPOUNi6BfMrltePqMAHdl5W33-bC) ([Notes](http://www.yisongyue.com/courses/cs155/2017_winter/)) ([2016](https://www.youtube.com/playlist?list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb))
 	- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
-	- [CS155 2017 Machine Learning & Data Mining - Caltech](https://www.youtube.com/playlist?list=PLuz4CTPOUNi6BfMrltePqMAHdl5W33-bC) ([Notes](http://www.yisongyue.com/courses/cs155/2017_winter/)) ([2016](https://www.youtube.com/playlist?list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb))
-	- [10-601 - Introduction to Machine Learning (MS), Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
-	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
+	- [10-601 - Introduction to Machine Learning (MS), CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
+	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
 	- [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
 	- [CS 446 - Machine Learning, Fall 2016, UIUC](http://l2r.cs.illinois.edu/~danr/Teaching/CS446-16/schedule.html)([Fall 2015 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91n10wPxeRh-45-8HATwc8W))
 	- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
@@ -314,7 +314,7 @@ Courses
 - **Deep Learning**
 	- [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/schedule.html)
 	- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-    - [MIT 6.S094: Deep Learning for Self-Driving Cars](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+	- [6.S094: Deep Learning for Self-Driving Cars - MIT](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 	- [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
 	- [CS294-112, Deep Reinforcement Learning Sp17](http://rll.berkeley.edu/deeprlcourse/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX))
 	- [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
@@ -363,8 +363,7 @@ Courses
 
 ### Computer Networks
 - [14-740 - Fundamentals of Computer Networks, Spring 2017 - CMU](http://www.ini740.com/S17/index.html#videos)
-- [Introduction to Computer Networking - Stanford University](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about
-) [(YouTube)](https://www.youtube.com/watch?v=_BC5ALTJDXo&list=PLb9DZOrm6ibgwCLh3ghsw0Pke13JA3znj&index=1)
+- [Introduction to Computer Networking - Stanford University](https://www.youtube.com/playlist?list=PLb9DZOrm6ibgwCLh3ghsw0Pke13JA3znj)
 - [Prof. Shiv Kalyanaraman's Online Audio and Video Lectures on Computer Networking - RPI](https://www.ecse.rpi.edu/homepages/koushik/shivkuma-teaching/video_index.html)
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
@@ -451,7 +450,7 @@ Courses
 ### Theoretical CS and Programming Languages
 
 
-- [MOOC - Compilers - Stanford University](https://www.youtube.com/playlist?list=PLkHsKoi6eZnyEj2pz3R_ER7izlenSxP-I)
+- [MOOC - Compilers - Stanford University](https://www.youtube.com/playlist?list=PL34iyE0uXtxrgPZMv0dVmq1P8Io889oWZ)
 - [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F))
 - [CS 173 Programming Languages, Brown University](http://cs.brown.edu/courses/cs173/2012/Videos/) ([Book](http://cs.brown.edu/courses/cs173/2012/book/))
 - [CS 421 - Programming Languages and Compilers, UIUC](https://courses.engr.illinois.edu/cs421/fa2014/) ([Videos](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f))
