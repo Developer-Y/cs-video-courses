@@ -319,7 +319,7 @@ Courses
 	- [CS294-112, Deep Reinforcement Learning Sp17](http://rll.berkeley.edu/deeprlcourse/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX))
 	- [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
 	- [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-	- [Deep Learning - University of Waterloo](https://uwaterloo.ca/data-science/deep-learning)
+	- [Deep Learning - University of Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE)
 	- [Neural networks class - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 	- [Neural Networks and Applications - IIT Kharagpur](http://nptel.ac.in/courses/117105084/)
 	- [Practical Deep Learning For Coders](http://course.fast.ai/lessons/lessons.html)
@@ -363,9 +363,11 @@ Courses
 
 ### Computer Networks
 - [14-740 - Fundamentals of Computer Networks, Spring 2017 - CMU](http://www.ini740.com/S17/index.html#videos)
+- [Introduction to Computer Networking - Stanford University](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about
+) [(YouTube)](https://www.youtube.com/watch?v=_BC5ALTJDXo&list=PLb9DZOrm6ibgwCLh3ghsw0Pke13JA3znj&index=1)
 - [Prof. Shiv Kalyanaraman's Online Audio and Video Lectures on Computer Networking - RPI](https://www.ecse.rpi.edu/homepages/koushik/shivkuma-teaching/video_index.html)
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
-- [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) ([U Washington MOOC](https://www.youtube.com/playlist?list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj))
+- [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
 - [CSEP 561 - PMP Network Systems, Fall 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/13au/video/))
 - [CSEP 561 – Network Systems, Autumn 2008 - University of Washington](http://courses.cs.washington.edu/courses/csep561/08au/) ([Videos](http://courses.cs.washington.edu/courses/csep561/08au/lectures/))
 - [Computer Networks - IIT Kharagpur](http://nptel.ac.in/courses/106105081/)
