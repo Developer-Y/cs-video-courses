@@ -335,6 +335,7 @@ Courses
 	- [MOOC - Natural Language Processing, Dan Jurafsky & Chris Manning - Coursera](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
 	- [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 	- [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
+	- [Deep Learning for Natural Language Processing, 2017 - Oxford University](https://github.com/oxford-cs-deepnlp-2017/lectures)
 	- [Machine Learning for Robotics and Computer Vision, WS 2013/2014 - TU München](http://vision.in.tum.de/teaching/ws2013/ml_ws13) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl))
 	- [Informatics 1 - Cognitive Science 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1cs.htm)
 	- [Informatics 2A - Processing Formal and Natural Languages 2016-17 - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html)
