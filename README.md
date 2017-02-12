@@ -591,7 +591,7 @@ Courses
 - [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 - [ECS 178 Introduction to Geometric Modeling, Fall 2012, UC Davis](http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html) ([iTunes](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246))
 - [Computational Geometry - IIT Delhi](http://nptel.ac.in/courses/106102011/)
-
+- [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html)
 
 -------
 
