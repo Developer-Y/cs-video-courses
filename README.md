@@ -259,6 +259,7 @@ Courses
 ### Machine Learning
 
 - **Introduction to Machine Learning**
+	- [Winter 2017 STAT 441 / 841 Classification, Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG)
 	- [MOOC Machine Learning Andrew Ng - Coursera/Stanford](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC) ([Notes](http://www.holehouse.org/mlclass/))
 	- [MOOC - Statistical Learning, Stanford University](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 	- [Foundations of Machine Learning Boot Camp, Berkeley Simons Institute](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
@@ -342,6 +343,7 @@ Courses
 	- [Accelerated Natural Language Processing 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/anlp.htm)
 	- [Natural Language Processing - IIT Bombay](http://nptel.ac.in/courses/106101007/)
 - **Misc Machine Learning Topics**
+	- [Winter 2017, STAT 442 / 842 Data Visualization, Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)
 	- [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
 	- [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://blogs.ischool.berkeley.edu/i290-abdt-s12/) ([YouTube](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F))
 	- [10-725 Convex Optimization, Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
