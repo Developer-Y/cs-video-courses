@@ -270,7 +270,6 @@ Courses
 	- [CS 446 - Machine Learning, Fall 2016, UIUC](http://l2r.cs.illinois.edu/~danr/Teaching/CS446-16/schedule.html)([Fall 2015 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91n10wPxeRh-45-8HATwc8W))
 	- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
 	- [CS 229 - Machine Learning - Stanford University](https://see.stanford.edu/Course/CS229)
-	- [Winter 2017 STAT 441 / 841 Classification, Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG)
 	- [CS 189/289A Introduction to Machine Learning, Prof Jonathan Shewchuk - UCBerkeley](https://people.eecs.berkeley.edu/~jrs/189/)
 	- [CS4780/5780 Machine Learning, Fall 2013 - Cornell University](http://www.cs.cornell.edu/courses/cs4780/2013fa/)
 	- [CS 5350/6350 - Machine Learning, Fall 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCozRSsdueVwX7CF9N4QWL0B)
@@ -344,7 +343,6 @@ Courses
 	- [Natural Language Processing - IIT Bombay](http://nptel.ac.in/courses/106101007/)
 - **Misc Machine Learning Topics**
 	- [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
-	- [Winter 2017, STAT 442 / 842 Data Visualization, Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)
 	- [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://blogs.ischool.berkeley.edu/i290-abdt-s12/) ([YouTube](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F))
 	- [10-725 Convex Optimization, Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
 	- [CAM 383M - Statistical and Discrete Methods for Scientific Computing, University of Texas](http://granite.ices.utexas.edu/coursewiki/index.php/Main_Page)
