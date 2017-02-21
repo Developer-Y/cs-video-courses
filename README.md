@@ -259,6 +259,7 @@ Courses
 ### Machine Learning
 
 - **Introduction to Machine Learning**
+	- [COM4509/COM6509 Machine Learning and Adaptive Intelligence 2015-16](http://inverseprobability.com/mlai2015/)
 	- [Winter 2017 STAT 441 / 841 Classification, Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG)
 	- [MOOC Machine Learning Andrew Ng - Coursera/Stanford](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC) ([Notes](http://www.holehouse.org/mlclass/))
 	- [MOOC - Statistical Learning, Stanford University](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
