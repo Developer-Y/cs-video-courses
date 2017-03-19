@@ -668,6 +668,7 @@ Courses
 - [Introduction to Robotics Course - UNCC](https://www.youtube.com/playlist?list=PL4847E1D1C121292F)
 - [Robot Mapping - WS 2013/14 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) ([YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_))
 - [SLAM Lectures](https://www.youtube.com/playlist?list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm)
+- [Modern Robotics - Twente University](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdRZPGjoYchMGzTo1fE1kSL)
 - [Introduction to Vision and Robotics 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm)
 
 ----------------------------------
