@@ -314,6 +314,7 @@ Courses
 	- [CS246 - Mining Massive Data Sets, Winter 2016, Stanford University](https://web.stanford.edu/class/cs246/) ([YouTube](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos))
 	- [CAP6673 - Data Mining and Machine Learning - FAU](https://vimeo.com/album/1505953)
 - **Data Science**
+	- [Data 8: The Foundations of Data Science - UC Berkeley](http://data8.org/)
 	- [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
 	- [Statistics 133 - Concepts in Computing with Data, Fall 2013 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDsSPnMJlnhIyADGUmikoIO)
 	- [Data Profiling and Data Cleansing (WS 2014/15) - HPI](https://itunes.apple.com/us/itunes-u/data-profiling-data-cleansing/id938216307)
