@@ -271,7 +271,7 @@ Courses
 	- [CS155 - Machine Learning & Data Mining, 2017 - Caltech](https://www.youtube.com/playlist?list=PLuz4CTPOUNi6BfMrltePqMAHdl5W33-bC) ([Notes](http://www.yisongyue.com/courses/cs155/2017_winter/)) ([2016](https://www.youtube.com/playlist?list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb))
 	- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
 	- [10-601 - Introduction to Machine Learning (MS), CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) ([YouTube](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ))
-	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B))
+	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B)) ([Spring 2015 by Alex Smola])(https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn)
 	- [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
 	- [CS 446 - Machine Learning, Fall 2016, UIUC](http://l2r.cs.illinois.edu/~danr/Teaching/CS446-16/schedule.html)([Fall 2015 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91n10wPxeRh-45-8HATwc8W))
 	- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
