@@ -271,7 +271,7 @@ Courses
 	- [CS155 - Machine Learning & Data Mining, 2017 - Caltech](https://www.youtube.com/playlist?list=PLuz4CTPOUNi6BfMrltePqMAHdl5W33-bC) ([Notes](http://www.yisongyue.com/courses/cs155/2017_winter/)) ([2016](https://www.youtube.com/playlist?list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb))
 	- [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
 	- [10-601 - Introduction to Machine Learning (MS), CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) ([YouTube](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ))
-	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B)) ([Spring 2015 by Alex Smola])(https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn)
+	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B)) ([Spring 2015 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn))
 	- [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
 	- [CS 446 - Machine Learning, Fall 2016, UIUC](http://l2r.cs.illinois.edu/~danr/Teaching/CS446-16/schedule.html)([Fall 2015 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91n10wPxeRh-45-8HATwc8W))
 	- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
@@ -416,6 +416,12 @@ Courses
 -------------------------
 
 ### Math for Computer Scientist
+- [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
+- **Calculus**
+	- [18.01 Single Variable Calculus, Fall 2006 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+	- [18.02 Multivariable Calculus, Fall 2007 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+	- [18.03 Differential Equations, Spring 2010 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
+	- [Highlights of Calculus - Gilbert Strang, MIT OCW](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
 - **Discrete Math**
 	- [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) ([Spring 15](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm))
 	- [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
