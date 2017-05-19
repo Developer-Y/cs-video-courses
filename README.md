@@ -152,6 +152,8 @@ Courses
 	- [MOOC - Cloud Computing Concepts - UIUC](https://www.youtube.com/playlist?list=PLFd87qVsaLhOkTLvfp6MC94iFa_1c9wrU)
 	- [Distributed Systems (Prof. Pallab Dasgupta)](https://www.youtube.com/playlist?list=PLUJ7JmcrTifBROWODSG8wgyl20XgBuE-N)
 	- [EdX KTHx ID2203 Reliable Distributed Algorithms](https://www.youtube.com/playlist?list=PLx3mQFFeHPjndmQ0iP9j6C58b90hqGa0X)
+	- [Distributed Data Management - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ss-15/ddm)
+	- [Information Retrieval and Web Search Engines - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
 - **Real-Time Systems**
 	- [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
 	- [Real Time Systems - IIT Kharagpur](http://nptel.ac.in/courses/106105036/)
@@ -259,6 +261,7 @@ Courses
 - [Agent-Based Systems 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/abs.htm)
 - [Informatics 2D - Reasoning and Agents 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2d.htm)
 - [Artificial Intelligence - Hochschule Ravensburg-Weingarten](https://www.youtube.com/playlist?list=PL39B5D3AFC249556A)
+- [Deductive Databases and Knowledge-Based Systems - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/KBS)
 
 --------------
 
@@ -313,6 +316,7 @@ Courses
 	- [CS 290 DataMining Lectures](https://www.youtube.com/playlist?list=PLB4CCA346A5741C4C)
 	- [CS246 - Mining Massive Data Sets, Winter 2016, Stanford University](https://web.stanford.edu/class/cs246/) ([YouTube](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos))
 	- [CAP6673 - Data Mining and Machine Learning - FAU](https://vimeo.com/album/1505953)
+	- [Data Warehousing and Data Mining Techniques - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/dwh)
 - **Data Science**
 	- [Data 8: The Foundations of Data Science - UC Berkeley](http://data8.org/)
 	- [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
@@ -710,5 +714,6 @@ Courses
 - [Model Checking - IIT Madras](http://nptel.ac.in/courses/106106136/)
 - [Virtual Reality - IIT Madras](http://nptel.ac.in/courses/106106138/)
 - [CS 195 - Social Implications of Computing, Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs195/sp15/) ([YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e))
+- [Spatial Databases and Geographic Information Systems - Technische Universität Braunschweig, Germany (in German)](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/gis)
 
 -------------------------
