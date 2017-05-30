@@ -666,6 +666,7 @@ Courses
 - [An Introduction To Systems Biology](http://www.weizmann.ac.il/mcb/UriAlon/introduction-systems-biology-design-principles-biological-circuits)
 - [Introduction to Bioinformatics, METUOpenCourseWare](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_)
 - [MOOC - Algorithms for DNA Sequencing, Coursera](https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA)
+- [Frontiers of Biomedical Engineering with W. Mark Saltzman - Yale](https://www.youtube.com/playlist?list=PL27E877E8206F196B)
 
 
 ----------------------------------
