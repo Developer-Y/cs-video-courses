@@ -681,10 +681,17 @@ Courses
 - [Robotics 2, Prof. De Luca, Università di Roma](http://www.diag.uniroma1.it/~deluca/rob2_en/material_rob2_en.html)
 - [Robot Mechanics and Control, SNU](https://www.youtube.com/playlist?list=PLkjy3Accn-E7mlbuSF4aajcMMckG4wLvW)
 - [Introduction to Robotics Course - UNCC](https://www.youtube.com/playlist?list=PL4847E1D1C121292F)
-- [Robot Mapping - WS 2013/14 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) ([YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_))
 - [SLAM Lectures](https://www.youtube.com/playlist?list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm)
 - [Modern Robotics - Twente University](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdRZPGjoYchMGzTo1fE1kSL)
 - [Introduction to Vision and Robotics 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm)
+- [ME 597 – Autonomous Mobile Robotics – Fall 2014 - U Waterloo](http://wavelab.uwaterloo.ca/?page_id=267)
+- [NEURONAL DYNAMICS APPROACHES TO COGNITIVE ROBOTICS - Ruhr-Universität Bochum, Germany](http://roboticsschool.ini.rub.de/lectures.php)
+- [METR 4202/7202 -- Robotics & Automation - University of Queensland](http://robotics.itee.uq.edu.au/~metr4202/lectures.html)
+- [Robotics - IIT Bombay](http://nptel.ac.in/courses/112101099/)
+- [Introduction to Machine Vision](https://www.youtube.com/playlist?list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY)
+- [Introduction to Mobile Robotics - SS 2017 - University of Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ss17/robotics/)
+- [Robot Mapping - WS 2015/16 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ws15/mapping/)
+
 
 ----------------------------------
 
