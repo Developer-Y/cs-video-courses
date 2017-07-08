@@ -415,6 +415,7 @@ Courses
 - [Coding Theory - IIT Madras](http://nptel.ac.in/courses/117106031/)
 - [Digital Communication - IIT Bombay](http://nptel.ac.in/courses/117101051/)
 - [Digital Voice & Picture Communication - IIT Kharagpur](http://nptel.ac.in/courses/117105081/)
+- [Wireless Ad Hoc and Sensor Networks - IIT Kharagpur](http://nptel.ac.in/courses/106105160/)
 
 
 
@@ -559,6 +560,7 @@ Courses
 	- [Software Engineering for Embedded Systems - WS 2011/12 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id483124850)
 	- [Embedded Software Testing - IIT Madras](http://nptel.ac.in/courses/117106112/)
 	- [Embedded Systems - IIT Delhi](http://nptel.ac.in/courses/108102045/)
+	- [Embedded Systems Design - IIT Kharagpur](http://nptel.ac.in/courses/106105159/)
 	- [ARM Based Development - IIT Madras](http://nptel.ac.in/courses/117106111/)
 	- [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
 	- [EE260 Embedded Systems by Robert Paz](https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__)
