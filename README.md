@@ -128,6 +128,7 @@ Courses
 - [CS24 Introduction to Computing Systems - California Institute of Technology](http://courses.cms.caltech.edu/cs24/) ([Spring 15 version](http://users.cms.caltech.edu/~donnie/cs24/))
 - [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
 - [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/CS361fall13)
+- [CS 4400 – Computer Systems   Fall 2016 - UoUtah](https://www.eng.utah.edu/~cs4400/)
 - [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
 - **Operating Systems**
 	- [CS124 Operating Systems - California Institute of Technology](http://users.cms.caltech.edu/~donnie/cs124/)
@@ -551,6 +552,7 @@ Courses
 	- [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
 	- [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
 	- [ECE 5760 - Advanced Microcontroller Design and system-on-chip, Spring 2016 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5760/)
+	- [Internet of Things by Prof. Dr.-Ing. Dietmar P. F. Möller](https://video.tu-clausthal.de/vorlesung/408.html)
 	- [CSE 351 - The Hardware/Software Interface, Spring 16 - University of Washington](https://courses.cs.washington.edu/courses/cse351/16sp/videos.html) ([Coursera](http://academictorrents.com/details/f1384286c8581bffba11e378fdb37608e649d82a))
 	- [ECE 5030 - Electronic Bioinstrumentation, Spring 2014 - Cornell University ](http://people.ece.cornell.edu/land/courses/ece5030/)
 	- [ECE/CS 5780/6780 - Embedded Systems Design, Spring 14 - University of Utah](https://www.youtube.com/playlist?list=PLQefpK95HyFmao3zi-WDOMkeSev-Je5dE)
@@ -564,6 +566,7 @@ Courses
 	- [ARM Based Development - IIT Madras](http://nptel.ac.in/courses/117106111/)
 	- [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
 	- [EE260 Embedded Systems by Robert Paz](https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__)
+	- [IoT Summer School](https://www.youtube.com/playlist?list=PLHih6DnKQaoYQ5PIT3Tp-UrqUguDYWYQu)
 - **Parallel Computer Architecture**
 	- [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 	- [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
