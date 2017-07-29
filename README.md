@@ -189,6 +189,7 @@ Courses
 - [Informatics 1 - Data & Analysis 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm)
 - [Database Management Systems, Aduni](http://aduni.org/courses/databases/index.php?view=cw)
 - [D4M - Signal Processing on Databases](https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/lecture-notes-and-class-videos/)
+- [In-Memory Data Management (2015)- HPI](https://open.hpi.de/courses/imdb2015/items/1kQcnYbS9jdnfZldRJFwGs)
 
 
 ------------------------------
