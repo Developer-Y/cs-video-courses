@@ -24,6 +24,7 @@ Table of Contents
 - [Computer Networks](#computer-networks)
 - [Math for Computer Scientist](#math-for-computer-scientist)
 - [Theoretical CS and Programming Languages](#theoretical-cs-and-programming-languages)
+- [Embedded Systems](#embedded-systems)
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
 - [Security](#security)
 - [Computer Graphics](#computer-graphics)
@@ -527,6 +528,37 @@ Courses
 
 -------------------------------
 
+### Embedded Systems
+  - [EE319K Embedded Systems - UT Austin](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm)
+  - [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
+  - [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
+  - [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
+  - [ECE 5760 - Advanced Microcontroller Design and system-on-chip, Spring 2016 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5760/)
+  - [CSE 438/598 Embedded Systems Programming ASU](http://rts.lab.asu.edu/web_438_Fall_2014/CSE438_Fall2014_Main_page.htm)
+  - [Summer Short Course on Embedded Systems Programming](http://rts.lab.asu.edu/web_ESP_Summer2014/ESP_Main_page.htm)
+  - [Internet of Things by Prof. Dr.-Ing. Dietmar P. F. Möller](https://video.tu-clausthal.de/vorlesung/408.html)
+  - [CSE 351 - The Hardware/Software Interface, Spring 16 - University of Washington](https://courses.cs.washington.edu/courses/cse351/16sp/videos.html) ([Coursera](http://academictorrents.com/details/f1384286c8581bffba11e378fdb37608e649d82a))
+  - [ECE 5030 - Electronic Bioinstrumentation, Spring 2014 - Cornell University ](http://people.ece.cornell.edu/land/courses/ece5030/)
+  - [ECE/CS 5780/6780 - Embedded Systems Design, Spring 14 - University of Utah](https://www.youtube.com/playlist?list=PLQefpK95HyFmao3zi-WDOMkeSev-Je5dE)
+  - [Embedded Systems Class - Version 1 - 2011 - UNCC](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
+  - [Embedded Systems using the Renesas RX63N Processor - Version 3 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
+  - [ELEC2142 - Embedded Systems Design - UNSW](http://eemedia.ee.unsw.edu.au/ELEC2142/index.htm)
+  - [Software Engineering for Embedded Systems - WS 2011/12 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id483124850)
+  - [Embedded Software Testing - IIT Madras](http://nptel.ac.in/courses/117106112/)
+  - [Embedded Systems - IIT Delhi](http://nptel.ac.in/courses/108102045/)
+  - [Embedded Systems Design - IIT Kharagpur](http://nptel.ac.in/courses/106105159/)
+  - [ARM Based Development - IIT Madras](http://nptel.ac.in/courses/117106111/)
+  - [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
+  - [EE260 Embedded Systems by Robert Paz](https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__)
+  - [IoT Summer School](https://www.youtube.com/playlist?list=PLHih6DnKQaoYQ5PIT3Tp-UrqUguDYWYQu)
+
+
+
+
+-------------------------------
+
+
+
 ### Computer Organization and Architecture
 - **Computer Organization**
 	- [How Computers Work - Aduni](http://aduni.org/courses/hcw/index.php?view=cw)
@@ -547,26 +579,6 @@ Courses
 	- [Computer Architecture - IIT Kanpur](http://nptel.ac.in/courses/106104122/)
 	- [Computer Architecture - IIT Madras](http://nptel.ac.in/courses/106106134/)
 	- [High Performance Computer Architecture - IIT Kharagpur](http://nptel.ac.in/courses/106105033/)
-- **Embedded Systems**
-	- [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
-	- [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
-	- [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
-	- [ECE 5760 - Advanced Microcontroller Design and system-on-chip, Spring 2016 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5760/)
-	- [Internet of Things by Prof. Dr.-Ing. Dietmar P. F. Möller](https://video.tu-clausthal.de/vorlesung/408.html)
-	- [CSE 351 - The Hardware/Software Interface, Spring 16 - University of Washington](https://courses.cs.washington.edu/courses/cse351/16sp/videos.html) ([Coursera](http://academictorrents.com/details/f1384286c8581bffba11e378fdb37608e649d82a))
-	- [ECE 5030 - Electronic Bioinstrumentation, Spring 2014 - Cornell University ](http://people.ece.cornell.edu/land/courses/ece5030/)
-	- [ECE/CS 5780/6780 - Embedded Systems Design, Spring 14 - University of Utah](https://www.youtube.com/playlist?list=PLQefpK95HyFmao3zi-WDOMkeSev-Je5dE)
-	- [Embedded Systems Class - Version 1 - 2011 - UNCC](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
-	- [Embedded Systems using the Renesas RX63N Processor - Version 3 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
-	- [ELEC2142 - Embedded Systems Design - UNSW](http://eemedia.ee.unsw.edu.au/ELEC2142/index.htm)
-	- [Software Engineering for Embedded Systems - WS 2011/12 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id483124850)
-	- [Embedded Software Testing - IIT Madras](http://nptel.ac.in/courses/117106112/)
-	- [Embedded Systems - IIT Delhi](http://nptel.ac.in/courses/108102045/)
-	- [Embedded Systems Design - IIT Kharagpur](http://nptel.ac.in/courses/106105159/)
-	- [ARM Based Development - IIT Madras](http://nptel.ac.in/courses/117106111/)
-	- [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
-	- [EE260 Embedded Systems by Robert Paz](https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__)
-	- [IoT Summer School](https://www.youtube.com/playlist?list=PLHih6DnKQaoYQ5PIT3Tp-UrqUguDYWYQu)
 - **Parallel Computer Architecture**
 	- [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 	- [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
