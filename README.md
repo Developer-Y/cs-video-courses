@@ -344,6 +344,7 @@ Courses
 	- [Neural networks class - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 	- [Neural Networks and Applications - IIT Kharagpur](http://nptel.ac.in/courses/117105084/)
 	- [Practical Deep Learning For Coders](http://course.fast.ai/lessons/lessons.html)
+	- [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
 	- [Nvidia Machine Learning Class](https://www.youtube.com/playlist?list=PLTIkHmXc-7an8xbwhAJX-LQ4D4Uf-ar5I)
 - **Advanced Machine Learning**
 	- [Machine Learning 2013 - Nando de Freitas, UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
