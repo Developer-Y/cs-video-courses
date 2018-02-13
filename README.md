@@ -577,6 +577,8 @@ Courses
 	- [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
 	- [CS/ECE 6810 Computer Architecture, Spring 2016, University of Utah](http://www.cs.utah.edu/~rajeev/cs6810/) ([YouTube](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6))
 	- [MOOC - Computer Architecture, David Wentzlaff - Princeton University/Coursera](http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426)
+	- [Computer Architecture - ETH Zürich - Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)
+	- [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
 	- [Computer Architecture - IIT Delhi](http://nptel.ac.in/courses/106102062/)
 	- [Computer Architecture - IIT Kanpur](http://nptel.ac.in/courses/106104122/)
 	- [Computer Architecture - IIT Madras](http://nptel.ac.in/courses/106106134/)
