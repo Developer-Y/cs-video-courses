@@ -731,7 +731,11 @@ Courses
 - **Game Development**
 	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
 	- [MOOC - Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
-- [Introduction to Geographic Information Systems - IIT Roorkee](http://nptel.ac.in/courses/105107155/)
+- **Geospatial**
+	- [Introduction to Spatial Data Science, Autumn 2016, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkr2vtYgbP4hs44HO_s_qEO)
+	- [Spatial Regression Analysis, Spring 2017, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkk7x197-CKPFZ0BuAOCRGT)
+	- [Spatial Data Science, Autumn 2017, University of Chicago]()
+	- [Introduction to Geographic Information Systems - IIT Roorkee](http://nptel.ac.in/courses/105107155/)
 - [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) ([Lectures - Youtube](https://www.youtube.com/user/fillwithlight/videos))
 - [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
 - [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
