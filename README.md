@@ -31,6 +31,7 @@ Table of Contents
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
 - [Computational Biology](#computational-biology)
 - [Robotics](#robotics)
+- [Social Network Analysis](#socialnetworkanalysis)
 - [Misc](#misc)
 
 Courses
@@ -715,6 +716,12 @@ Courses
 - [Introduction to Machine Vision](https://www.youtube.com/playlist?list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY)
 - [Introduction to Mobile Robotics - SS 2017 - University of Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ss17/robotics/)
 - [Robot Mapping - WS 2015/16 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ws15/mapping/)
+
+
+----------------------------------
+### Social Network Analysis
+- [CS224w – Social Network Analysis – Autumn 2017 - Stanford University](http://snap.stanford.edu/class/cs224w-videos-2017/)
+
 
 
 ----------------------------------
