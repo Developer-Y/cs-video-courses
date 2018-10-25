@@ -452,7 +452,6 @@ Courses
 - **Probability & Statistics**
 	- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 	- [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-	- [Statistics 20, Fall 2010 - UC Berkeley](https://www.youtube.com/playlist?list=PLnzPXnz47JdHX8mjs2inYX8Ijrde6mUUS)
 	- [MOOC - Statistics: Making Sense of Data, Coursera](http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2)
 	- [MOOC - Statistics One - Coursera](https://www.youtube.com/playlist?list=PLycnP7USbo1V3jlyjAzWUB201cLxPq4NP)
 	- [Probability and Random Processes - IIT Kharagpur](http://nptel.ac.in/courses/117105085/)
