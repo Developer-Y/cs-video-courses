@@ -44,7 +44,6 @@ Courses
 - [6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/)
 - [6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures) ([Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html))
-- [CS 10 The Beauty & Joy of Computing, Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iC17q7Pydw_RernkItDJePz)
 - [CS 50 - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/lectures) ([cs50.tv](http://cs50.tv/2015/fall/))
 - [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/) ([CS 98 - Additional Topics on SICP](https://itunes.apple.com/us/itunes-u/computer-science-98-052-spring/id964668866))
 - [SPD1 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
