@@ -134,7 +134,6 @@ Courses
 - [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
 - **Operating Systems**
 	- [CS124 Operating Systems - California Institute of Technology](http://users.cms.caltech.edu/~donnie/cs124/)
-	- [CS 162 - Operating Systems and Systems Programming, UC Berkeley](http://cs162.eecs.berkeley.edu/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c))
 	- [CS 4414 - Operating Systems, University of Virginia](http://rust-class.org/pages/classes.html)
 	- [CSE 421/521 - Introduction to Operating Systems, SUNY University at Buffalo, NY - Spring 2016](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3)) ([Recitations 2016](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_YJn8wu9aJTPOgeWqiaJDF))
 	- [CS 377 - Operating Systems, Fall 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbDTmsCRGWsMW_PzIOpXnckw)
