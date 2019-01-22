@@ -735,7 +735,6 @@ Courses
 ### Misc
 
 - **Computational Finance**
-	- [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
 	- [MOOC - Mathematical Methods for Quantitative Finance, University of Washington/Coursera)](http://academictorrents.com/details/dfc1ddde962101f00ef9764b91181bd6bb5c9e93)
 	- [18.S096 Topics in Mathematics with Applications in Finance, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
 - **HCI**
