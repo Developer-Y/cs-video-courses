@@ -47,7 +47,7 @@ Courses
 - [CS 50 - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/lectures) ([cs50.tv](http://cs50.tv/2015/fall/))
 - [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/) ([CS 98 - Additional Topics on SICP](https://itunes.apple.com/us/itunes-u/computer-science-98-052-spring/id964668866))
 - [CPSC 110 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
-- [CS E-1 Understanding Computers and the Internet, Spring 2013 - Harvard Extension School](http://cse1.net/lectures) ([Spring 2011](http://computerscience1.tv/2011/spring/))
+- [CS50's Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 - [CSE 142 Computer Programming I (C Programming), Autumn 2000 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
 - [CSE 142 Computer Programming I (Java Programming), Spring 2016 - University of Washington](https://courses.cs.washington.edu/courses/cse142/16sp/calendar.shtml)
 - [CS 1301 Intro to computing - Gatech](http://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
