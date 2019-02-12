@@ -39,33 +39,28 @@ Courses
 
 ### Introduction to Computer Science
 
+- [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
 - [6.00SC - Introduction to Computer Science and Programming (Spring 2011) - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 - [6.00	- Introduction to Computer Science and Programming (Fall 2008) - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
 - [6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/)
 - [6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures) ([Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html))
 - [CS 50 - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/lectures) ([cs50.tv](http://cs50.tv/2015/fall/))
-- [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/) ([CS 98 - Additional Topics on SICP](https://itunes.apple.com/us/itunes-u/computer-science-98-052-spring/id964668866))
-- [SPD1 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
-- [CS E-1 Understanding Computers and the Internet, Spring 2013 - Harvard Extension School](http://cse1.net/lectures) ([Spring 2011](http://computerscience1.tv/2011/spring/))
-- [CSE 142 Computer Programming I (C Programming), Autumn 2000 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
+- [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/)
+- [CPSC 110 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
+- [CS50's Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 - [CSE 142 Computer Programming I (Java Programming), Spring 2016 - University of Washington](https://courses.cs.washington.edu/courses/cse142/16sp/calendar.shtml)
-- [CS1301 Intro to computing - Gatech](http://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
-- [MOOC - Introduction to Computer Science - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW)
+- [CS 1301 Intro to computing - Gatech](http://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
+- [CS 101 - Introduction to Computer Science - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW)
 - [CS 106A - Programming Methodology, Stanford University](https://see.stanford.edu/Course/CS106A)
 - [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B)
 - [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
-- [Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
-- [MOOC - Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX](https://www.youtube.com/playlist?list=PLw454N-VXALSIzIe_eL5U8L4S68v2X_ak)
-- [Introduction to Functional Programming, TU Delft](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/)
-- [Engineering 7 - Introduction to Computer Programming for Scientists and Engineers - UC Berkeley](https://itunes.apple.com/us/itunes-u/engineering-7-001-fall-2009/id354821676)
-- [CS105 - Great Insights in Computer Science (Spring 2007) - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/cs105-great-insights-in-computer/id698728833)
-- [CS110 - Introduction to Computing, Fall 2011 - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/cs110-introduction-to-computing/id681331934)
-- [Computer Programming - Skills and Concepts 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/cp.htm)
+- [CmSc 150 - Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
+- [LINFO 1104 - Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX](https://www.youtube.com/playlist?list=PLw454N-VXALSIzIe_eL5U8L4S68v2X_ak)
+- [FP 101x - Introduction to Functional Programming, TU Delft](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/)
 - [Introduction to Problem Solving and Programming - IIT Kanpur](http://nptel.ac.in/courses/106104074/)
 - [Introduction to programming in C - IIT Kanpur](http://nptel.ac.in/courses/106104128/)
 - [Programming in C++ - IIT Kharagpur](http://nptel.ac.in/courses/106105151/)
-- [CS 101 - Introduction to Computer Science - University of Virginia](http://www.cs.virginia.edu/~asb/teaching/cs101-spring07/lectures/lectures.html)
 - [Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
 
 ------
@@ -271,6 +266,7 @@ Courses
 
 - **Introduction to Machine Learning**
 	- [MOOC Machine Learning Andrew Ng - Coursera/Stanford](https://www.youtube.com/playlist?list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC) ([Notes](http://www.holehouse.org/mlclass/))
+	- [Introduction to Machine Learning for Coders](https://course.fast.ai/ml.html)
 	- [MOOC - Statistical Learning, Stanford University](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 	- [Foundations of Machine Learning Boot Camp, Berkeley Simons Institute](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
 	- [CS155 - Machine Learning & Data Mining, 2017 - Caltech](https://www.youtube.com/playlist?list=PLuz4CTPOUNi6BfMrltePqMAHdl5W33-bC) ([Notes](http://www.yisongyue.com/courses/cs155/2017_winter/)) ([2016](https://www.youtube.com/playlist?list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb))
@@ -339,6 +335,7 @@ Courses
 	- [Probabilistic Modelling and Reasoning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/pmr.htm)
 - **Deep Learning**
 	- [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/schedule.html)
+	- [Deep Learning CMU](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
 	- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 	- [6.S094: Deep Learning for Self-Driving Cars - MIT](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 	- [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
@@ -392,6 +389,8 @@ Courses
 	- [Music Information Retrieval - University of Victoria, 2014](http://marsyas.cs.uvic.ca/mirBook/course/)
 	- [PURDUE Machine Learning Summer School 2011](https://www.youtube.com/playlist?list=PL2A65507F7D725EFB)
 	- [Foundations of Machine Learning - Blmmoberg Edu](https://bloomberg.github.io/foml/#home)
+	- [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+	- [Advanced Deep Learning & Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 	
 
 ------------------------------
@@ -570,7 +569,7 @@ Courses
 ### Computer Organization and Architecture
 - **Computer Organization**
 	- [How Computers Work - Aduni](http://aduni.org/courses/hcw/index.php?view=cw)
-	- [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_))
+	- [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html))
 	- [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 	- [CS/ECE 3810 Computer Organization, Fall 2015, , University of Utah](http://www.cs.utah.edu/~rajeev/cs3810/) ([YouTube](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy))
 	- [Digital Computer Organization - IIT Kharagpur](http://nptel.ac.in/courses/117105078/)
@@ -731,7 +730,6 @@ Courses
 ### Misc
 
 - **Computational Finance**
-	- [Skiena's Computational Finance Lectures](http://www.algorist.com/computational_finance/index.html)
 	- [MOOC - Mathematical Methods for Quantitative Finance, University of Washington/Coursera)](http://academictorrents.com/details/dfc1ddde962101f00ef9764b91181bd6bb5c9e93)
 	- [18.S096 Topics in Mathematics with Applications in Finance, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
 - **HCI**
