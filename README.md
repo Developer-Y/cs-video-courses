@@ -717,6 +717,7 @@ Courses
 - [Introduction to Machine Vision](https://www.youtube.com/playlist?list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY)
 - [Introduction to Mobile Robotics - SS 2017 - University of Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ss17/robotics/)
 - [Robot Mapping - WS 2015/16 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ws15/mapping/)
+- [6.834J Cognitive Robotics - MIT OCW ](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/)
 
 
 ----------------------------------
