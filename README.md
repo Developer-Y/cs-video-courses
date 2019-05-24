@@ -70,6 +70,7 @@ Courses
 - [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Algorithms: Design and Analysis 2 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
+- [CSE 331 Introduction to Algorithm Design and Analysis, SUNY University at Buffalo, NY - Fall 2017](http://www-student.cse.buffalo.edu/~atri/cse331/fall17/index.html) ([Lectures](https://www.youtube.com/playlist?list=PLZBCR-EGqNpoiHeO17FlLADJ38Kb3EiPU)) ([Homework Walkthroughs](https://www.youtube.com/playlist?list=PLZBCR-EGqNpoVyQCIUDHiXnL-zdFD_ixk))
 - [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/)
 - [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
 - [CS225 - Data Structures - University of Illinois at Urbana-Champaign](https://chara.cs.illinois.edu/cs225/lectures/)
@@ -127,8 +128,9 @@ Courses
 - [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
 - **Operating Systems**
 	- [CS124 Operating Systems - California Institute of Technology](http://users.cms.caltech.edu/~donnie/cs124/)
+	- [CS 162 Operating Systems and Systems Programming, Spring 2015 - University of California, Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c?sort=titleSorter)
 	- [CS 4414 - Operating Systems, University of Virginia](http://rust-class.org/pages/classes.html)
-	- [CSE 421/521 - Introduction to Operating Systems, SUNY University at Buffalo, NY - Spring 2016](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3)) ([Recitations 2016](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_YJn8wu9aJTPOgeWqiaJDF))
+	- [CSE 421/521 - Introduction to Operating Systems, SUNY University at Buffalo, NY - Spring 2016](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3)) ([Recitations 2016](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_YJn8wu9aJTPOgeWqiaJDF)) ([Assignment walkthroughs](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp9PC8fyzc2meL4XvrVSyP8O))
 	- [CS 377 - Operating Systems, Fall 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbDTmsCRGWsMW_PzIOpXnckw)
 	- [6.828 - Operating System Engineering [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
 	- [CSE 30341 - Operating Systems, Spr 2008](https://www.youtube.com/view_play_list?p=AB7D5CA7E262B0E2)
