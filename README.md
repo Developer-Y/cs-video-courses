@@ -82,7 +82,7 @@ Courses
 - [CS 473 - Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html) ([Notes - Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/))
 - [Programming Challenges - Prof Skiena](http://www.algorist.com/programming_challenges/)
 - [16s-4102 - Algorithms, University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
-- [CS 170 Algorithms - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDbtIylJDpPPJfaFweeaR-3)
+- [CS 170 Algorithms - UCBerkeley](https://cs170.org/) [Fall 2018, Youtube](https://www.youtube.com/watch?v=fd5P-8IQwMY&list=PLkFD6_40KJIx8lWWbE-Uk069aZ1R-W-VU&index=2&t=0s) [Fall 2018,Bilibili](https://www.bilibili.com/video/av43955743/?p=1) [2013 Bilibili](https://www.bilibili.com/video/av26670685/)
 - [ECS 122A - Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
 - [CSEP 521 - Applied Algorithms, Winter 2013 - University of Washington](http://courses.cs.washington.edu/courses/csep521/13wi/) ([Videos](http://courses.cs.washington.edu/courses/csep521/13wi/video/))
 - [Data Structures And Algorithms - IIT Delhi](http://nptel.ac.in/courses/106102064/)
