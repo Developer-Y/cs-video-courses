@@ -138,7 +138,7 @@ Courses
 	- [CSE 30341 - Operating Systems, Spr 2008](https://www.youtube.com/view_play_list?p=AB7D5CA7E262B0E2)
 	- [CSEP 551 Operating Systems Autumn 2014 - University of Washington](http://courses.cs.washington.edu/courses/csep551/14au/video/)
 	- [Introduction to Operating Systems - IIT Madras](http://nptel.ac.in/courses/106106144/)
-	- [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013, UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
+	- [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013 InfoCoBuild, UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
 	- [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
 - **Distributed Systems**
 	- [VU:Distributed Systems: Principles and Paradigms by Maarten van Steen (Fall 2012), Vrije Universiteit, Amsterdam](http://www.distributed-systems.net/courses/ds/ds-screencasts/)
