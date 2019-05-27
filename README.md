@@ -245,7 +245,7 @@ Courses
 ------------------------------
 
 ### Artificial Intelligence
-- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley](http://ai.berkeley.edu/home.html)
+- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html)
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
 - [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](http://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
