@@ -404,7 +404,7 @@ Courses
 
 ### Computer Networks
 - [14-740 - Fundamentals of Computer Networks, Fall 2017 - CMU](http://www.ini740.com/F18/index.html#videos)
-- [Introduction to Computer Networking - Stanford University](https://www.youtube.com/playlist?list=PLb9DZOrm6ibgwCLh3ghsw0Pke13JA3znj)
+- [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
 - [Computer Communication Networks, Rensselaer Polytechnic Institute - Fall 2001](http://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html) ([Videos](http://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_video)) ([Slides](http://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_foils))
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
