@@ -48,8 +48,10 @@ Courses
 - [CS50's Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 - [CSE 142 Computer Programming I (Java Programming), Spring 2016 - University of Washington](https://courses.cs.washington.edu/courses/cse142/16sp/calendar.shtml)
 - [CS 1301 Intro to computing - Gatech](http://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
-- [CS 106A - Programming Methodology, Stanford University](https://see.stanford.edu/Course/CS106A)
-- [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B)
+- [CS 106A - Programming Methodology, Stanford University](https://see.stanford.edu/Course/CS106A) ([Lecture Videos](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852))
+- [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B) ([Lecture Videos](https://www.youtube.com/playlist?list=PLnfg8b9vdpLn9exZweTJx44CII1bYczuk))
+- [CS 106X - Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) ([Lecture Videos](https://www.youtube.com/playlist?list=PLrivl8gTKLcpIJ-ktHCxMEgWOn8LawYhb))
+
 - [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
 - [CmSc 150 - Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
 - [LINFO 1104 - Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX](https://www.youtube.com/playlist?list=PLw454N-VXALSIzIe_eL5U8L4S68v2X_ak)
@@ -162,7 +164,7 @@ Courses
 - [Performance Evaluation of Computer Systems - IIT Madras](https://nptel.ac.in/courses/106106048/)
 - [Storage Systems - IISC Bangalore](https://nptel.ac.in/courses/106108058/)
 - [MAP6264 - Queueing Theory - FAU](https://vimeo.com/album/171324/)
-- [EE380-Colloquim on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
+- [EE 380 Colloquim on Computer Systems - Stanford University](http://web.stanford.edu/class/ee380/) ([Lecture videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu))
 
 
 ------------------------------------------------------------
@@ -364,8 +366,7 @@ Courses
 	- [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
 - **ML based Natural Language Processing and Computer Vision**
 	- [CS 224d - Deep Learning for Natural Language Processing, Stanford University](http://cs224d.stanford.edu/syllabus.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_))
-	- [CS 224N - Natural Language Processing, Stanford University](https://www.youtube.com/playlist?list=PLgtM85Maly3n2Fp1gJVvqb0bTC39CPn1N)
-	- [Natural Language Processing with Deep Learning, Winter 2017, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+	- [CS 224N - Natural Language Processing, Stanford University](http://web.stanford.edu/class/cs224n/) ([Lecture videos](https://www.youtube.com/playlist?list=PLgtM85Maly3n2Fp1gJVvqb0bTC39CPn1N))
 	- [MOOC - Natural Language Processing, Dan Jurafsky & Chris Manning - Coursera](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
 	- [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 	- [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -404,7 +405,7 @@ Courses
 
 ### Computer Networks
 - [14-740 - Fundamentals of Computer Networks, Fall 2017 - CMU](http://www.ini740.com/F18/index.html#videos)
-- [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
+- [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](http://www.scs.stanford.edu/10au-cs144/) ([Lecture videos](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z))
 - [Computer Communication Networks, Rensselaer Polytechnic Institute - Fall 2001](http://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html) ([Videos](http://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_video)) ([Slides](http://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_foils))
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
@@ -657,7 +658,7 @@ Courses
 - [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 - [ECS 178 Introduction to Geometric Modeling, Fall 2012, UC Davis](http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html) ([iTunes](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246))
 - [Computational Geometry - IIT Delhi](https://nptel.ac.in/courses/106102011/)
-- [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html)
+- [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL_deCdukpyu1rdH85XsEEREbpoqEauiJl))
 
 -------
 
