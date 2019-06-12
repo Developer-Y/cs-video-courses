@@ -654,11 +654,13 @@ Courses
 - [EENG 512/CSCI 512 - Computer Vision - Colorado School of Mines](http://inside.mines.edu/~whoff/courses/EENG512/lectures/)
 - [Computer Vision for Visual Effects - RPI](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) ([YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a))
 - [Introduction to Image Processing - RPI](https://www.ecse.rpi.edu/~rjradke/improccourse.html) ([YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX))
+- [CAP 6412 - Advanced Computer Vision - University of Central Florida](https://www.crcv.ucf.edu/cap6412-spring-2013/)([Video lectures](https://www.crcv.ucf.edu/cap6412-spring-2013/))
 - [Digital Signal Processing - RPI](https://www.ecse.rpi.edu/~rjradke/dspcourse.html)
 - [Advanced Vision 2014 - University of Edinburgh](http://homepages.inf.ed.ac.uk/rbf/AVINVERTED/main_av.htm)
 - [Photogrammetry Course - 2015/16 - University of Bonn, Germany](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
 - [MOOC - Introduction to Computer Vision - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 - [Biometrics - IIT Kanpur](https://nptel.ac.in/courses/106104119/)
+
 
 
 --------------------------------
