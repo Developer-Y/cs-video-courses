@@ -165,6 +165,7 @@ Courses
 - [CMPSC 431W Database Management Systems, Fall 2015 - Penn State University](http://www.cse.psu.edu/~wul2/cmpsc431w/) [Lectures - YouTube](https://www.youtube.com/playlist?list=PLstRzn3gXZMdXqAiVJ1NN2CoyXHqma7pQ)
 - [CS121 - Introduction to Relational Database Systems, Fall 2016 - Caltech](http://users.cms.caltech.edu/~donnie/cs121/)
 - [CS 5530 - Database Systems, Spring 2016 - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrercQNP9tTsjjPdgRVYvC7)
+- [Distributed Data Management (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1224/)
 - [MOOC - Database Stanford Dbclass](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
 - [CSEP 544, Database Management Systems, Au 2015 - University of Washington](https://www.youtube.com/playlist?list=PLTPQEx-31JXjQYrUKvAjUTWgCYluHGs_L)
 - [Database Design - IIT Madras](https://nptel.ac.in/courses/106106093/)
@@ -204,7 +205,7 @@ Courses
 	- [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
 	- [System Analysis and Design - IISC Bangalore](https://nptel.ac.in/courses/106108102/)
 	- [Software Engineering - IIT Bombay](https://nptel.ac.in/courses/106101061/)
-	- [Dependable Systems (SS 2014)- HPI](https://itunes.apple.com/us/itunes-u/dependable-systems-ss-2014/id874200249)
+	- [Dependable Systems (SS 2014)- HPI University of Potsdam](https://www.tele-task.de/series/1005/)
 	- [Software Testing - IIT Kharagpur](https://nptel.ac.in/courses/106105150/)
 	- [Informatics 2C - Software Engineering 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2SE.htm)
 - **Software Architecture**
@@ -215,8 +216,8 @@ Courses
 	- [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
 	- [CSE P 506 – Concurrency, Spring 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](https://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
 	- [CSEP 524 - Parallel Computation - University of Washington](https://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](https://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
-	- [Parallel Programming Concepts (WT 2013/14) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id728270905)
-	- [Parallel Programming Concepts (WT 2012/13) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id597821383)
+	- [Parallel Programming Concepts (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/977/)
+	- [Parallel Programming Concepts (WT 2012/13) - HPI University of Potsdam](https://www.tele-task.de/series/924/)
 - **Mobile Application Development**
 	- [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
 	- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
@@ -315,8 +316,9 @@ Courses
 	- [CSE519 - Data Science Fall 2016 - Skiena, SBU](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo)
 	- [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
 	- [6.0002 Introduction to Computational Thinking and Data Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/)
+	- [Distributed Data Analytics (WT 2017/18) - HPI University of Potsdam](https://www.tele-task.de/series/1179/)
 	- [Statistics 133 - Concepts in Computing with Data, Fall 2013 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDsSPnMJlnhIyADGUmikoIO)
-	- [Data Profiling and Data Cleansing (WS 2014/15) - HPI](https://itunes.apple.com/us/itunes-u/data-profiling-data-cleansing/id938216307)
+	- [Data Profiling and Data Cleansing (WS 2014/15) - HPI University of Potsdam](https://www.tele-task.de/series/1027/)
 	- [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
 	- [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
 	- [Algorithms for Big Data - IIT Madras](https://nptel.ac.in/courses/106106142/)
@@ -532,12 +534,12 @@ Courses
   - [Embedded Systems Class - Version 1 - 2011 - UNCC](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
   - [Embedded Systems using the Renesas RX63N Processor - Version 3 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
   - [ELEC2142 - Embedded Systems Design - UNSW](http://eemedia.ee.unsw.edu.au/ELEC2142/index.htm)
-  - [Software Engineering for Embedded Systems - WS 2011/12 - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-embedded/id483124850)
+  - [Software Engineering for Embedded Systems (WS 2011/12) - HPI Univesrity of Potsdam](https://www.tele-task.de/series/864/)
   - [Embedded Software Testing - IIT Madras](https://nptel.ac.in/courses/117106112/)
   - [Embedded Systems - IIT Delhi](https://nptel.ac.in/courses/108102045/)
   - [Embedded Systems Design - IIT Kharagpur](https://nptel.ac.in/courses/106105159/)
   - [ARM Based Development - IIT Madras](https://nptel.ac.in/courses/117106111/)
-  - [Software Engineering for Self Adaptive Systems - iTunes - HPI](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
+  - [Software Engineering for Self Adaptive Systems - iTunes - HPI Univesrity of Potsdam](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
   - [EE260 Embedded Systems by Robert Paz](https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__)
   - [IoT Summer School](https://www.youtube.com/playlist?list=PLHih6DnKQaoYQ5PIT3Tp-UrqUguDYWYQu)
   - [ECSE 421 - Embedded Systems - McGill](http://www.cim.mcgill.ca/~jer/courses/es/)
@@ -595,6 +597,7 @@ Courses
 -------
 
 ### Security
+- [Internet Security (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1227/)
 - [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
 - [CSEP590A - Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](https://courses.cs.washington.edu/courses/csep590a/11wi/video/))
 - [CS461/ECE422 - Computer Security - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs461/sp2016/) ([Videos](https://recordings.engineering.illinois.edu:8443/ess/portal/section/8a560718-345a-417a-b665-6bd375a71ee2))
@@ -745,5 +748,7 @@ Courses
 - [Virtual Reality - IIT Madras](https://nptel.ac.in/courses/106106138/)
 - [CS 195 - Social Implications of Computing, Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs195/sp15/) ([YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e))
 - [Spatial Databases and Geographic Information Systems - Technische Universität Braunschweig, Germany (in German)](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/gis)
+- [Dependable Systems (SS 2014) - HPI University of Potsdam](https://www.tele-task.de/series/1005/)
+- [Business Process Compliance (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/979/)
 
 -------------------------
