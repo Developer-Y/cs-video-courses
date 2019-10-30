@@ -617,6 +617,12 @@ Courses
 - [ICS 444 - Computer & Network Security](https://www.youtube.com/playlist?list=PLciCszvvRCTV09wIXJwiPmYF7thHiq4En)
 - [Privacy and Security in Online Social Networks - IIT Madras](https://nptel.ac.in/courses/106106146/)
 - [Malware Dynamic Analysis - Open SecurityTraining](http://opensecuritytraining.info/MalwareDynamicAnalysis.html) ([YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z))
+- [CSN09112 - Network Security and Cryptography - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn09112)
+- [CSN10107 - Security Testing and Network Forensics - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn10107)
+- [CSN11123 - Advanced Cloud and Network Forensics - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn11123)
+- [CSN11117 - e-Security - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn11117)
+- [CSN08704 - Telecommunications - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn08704)
+- [CSN11128 - Incident Response and Malware Analysus - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/CSN11128)
 
 -------
 
