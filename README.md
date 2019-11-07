@@ -111,6 +111,9 @@ Courses
 - [Computer Algorithms - 2 - IIT Kanpur](https://nptel.ac.in/courses/106104019/)
 - [Parallel Algorithm - IIT Kanpur](https://nptel.ac.in/courses/106104120/)
 - [Graph Theory - IISC Bangalore](https://nptel.ac.in/courses/106108054/)
+- [Easy to Advanced Data Structures](https://www.simpliv.com/java/easy-to-advanced-data-structures)
+- [Data Structures & Algorithms in Java](https://www.simpliv.com/java/from-0-to-1-data-structures-algorithms-in-java)
+- [Advance MATLAB Data Types and Data Structures](https://www.simpliv.com/developmenttool/advance-matlab-data-types-and-data-structures)
 
 ---------------------------------
 
@@ -156,7 +159,6 @@ Courses
 - [MAP6264 - Queueing Theory - FAU](http://www.cse.fau.edu/~bob/courses/map6264/)([Video Lectures](https://vimeo.com/album/171324/))
 - [EE 380 Colloquim on Computer Systems - Stanford University](http://web.stanford.edu/class/ee380/) ([Lecture videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu))
 
-
 ------------------------------------------------------------
 
 
@@ -181,7 +183,8 @@ Courses
 - [Informatics 1 - Data & Analysis 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm)
 - [Database Management Systems, Aduni](http://aduni.org/courses/databases/index.php?view=cw)
 - [D4M - Signal Processing on Databases](https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/)
-
+- [Database Services on Microsoft AZURE](https://www.simpliv.com/cloud/database-services-on-microsoft-azure)
+- [Database Management Systems - MySQL](https://www.simpliv.com/mysql/database-management-systems-mysql)
 
 ------------------------------
 
@@ -231,7 +234,13 @@ Courses
 	- [iOS Course, Dave Fisher](https://www.youtube.com/playlist?list=PL96C635E4DCD393A8)
 	- [Developing iPad Applications for Visualization and Insight - Carnegie Mellon University](https://itunes.apple.com/us/course/developing-ipad-applications/id499050344)
 	- [Mobile Computing - IIT Madras](https://nptel.ac.in/courses/106106147/)
-
+        - [IT for dummies | IT for beginners | IT for non-IT](https://www.simpliv.com/softwareengineering/it-for-dummies-it-for-beginners-it-for-non-it)
+	- [Continuous Integration Concepts and Tools](https://www.simpliv.com/softwareengineering/continuous-integration-concepts-and-tools)
+	- [Create Your Calculator - Learn R Programming Fast](https://www.simpliv.com/softwareengineering/create-your-calculator-learn-r-programming-fast)
+	- [Applied Statistics using R with Data Processing](https://www.simpliv.com/softwareengineering/applied-statistics-using-r-with-data-processing)
+	- [Data Visualizations using R with Data Processing](https://www.simpliv.com/softwareengineering/data-visualizations-using-r-with-data-processing)
+	- [Machine Learning with Python](https://www.simpliv.com/softwareengineering/machine-learning-with-python)
+	
 ------------------------------
 
 ### Artificial Intelligence
@@ -253,6 +262,11 @@ Courses
 - [Informatics 2D - Reasoning and Agents 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2d.htm)
 - [Artificial Intelligence - Hochschule Ravensburg-Weingarten](https://www.youtube.com/playlist?list=PL39B5D3AFC249556A)
 - [Deductive Databases and Knowledge-Based Systems - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/KBS)
+- [Learn the Basic Fundamentals of Artificial Intelligence ](https://www.simpliv.com/softwaretesting/introduction-to-artificial-intelligence-in-software-testing)
+- [Let WIX, Artificial Intelligence (ADI) Build Your Website](https://www.simpliv.com/developmenttool/let-wix-artificial-intelligence-adi-build-your-web-site)
+- [Learn Artificial Intelligence for Beginners](https://www.simpliv.com/machinelearning/learn-artificial-intelligence-for-beginners)
+- [Road Map to Artificial Intelligence and Machine Learning](https://www.simpliv.com/machinelearning/road-map-to-artificial-intelligence-and-machine-learning)
+- [Artificial Intelligence in FinTech](https://www.simpliv.com/machinelearning/artificial-intelligence-in-fintech)
 
 --------------
 
@@ -344,6 +358,16 @@ Courses
 	- [Neural Networks and Applications - IIT Kharagpur](https://nptel.ac.in/courses/117105084/)
 	- [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
 	- [Nvidia Machine Learning Class](https://www.youtube.com/playlist?list=PLTIkHmXc-7an8xbwhAJX-LQ4D4Uf-ar5I)
+	- [Machine Learning In The Cloud With Azure Machine Learning](https://www.simpliv.com/machinelearning/machine-learning-in-the-cloud-with-azure-machine-learning)
+	- [Machine Learning with AWS](https://www.simpliv.com/machinelearning/machine-learning-with-aws)
+	- [MACHINE LEARNING with Microsoft AZURE](https://www.simpliv.com/machinelearning/machine-learning-with-microsoft-azure)
+	- [Machine Learning Python: Regression Modeling](https://www.simpliv.com/machinelearning/machine-learning-basics-regression-modeling-in-python)
+	- [Complete iOS 11 Machine Learning Masterclass](https://www.simpliv.com/machinelearning/complete-ios-11-machine-learning-masterclass)
+	- [Machine Learning from scratch through Python](https://www.simpliv.com/machinelearning/machine-learning-from-scratch-through-python)
+	- [Machine Learning and Training Neural Network in MATLAB](https://www.simpliv.com/machinelearning/machine-learning-and-training-neural-network-in-matlab)
+	- [Machine Learning and Data Science using Python for Beginners](https://www.simpliv.com/machinelearning/machine-learning-and-data-science-using-python-for-beginners)
+	- [Machine Learning Basics: Classification models in R](https://www.simpliv.com/machinelearning/machine-learning-basics-classification-models-in-r)
+	
 - **Advanced Machine Learning**
 	- [Machine Learning 2013 - Nando de Freitas, UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 	- [Machine Learning, 2014-2015, University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
@@ -412,8 +436,10 @@ Courses
 - [Digital Communication - IIT Bombay](https://nptel.ac.in/courses/117101051/)
 - [Digital Voice & Picture Communication - IIT Kharagpur](https://nptel.ac.in/courses/117105081/)
 - [Wireless Ad Hoc and Sensor Networks - IIT Kharagpur](https://nptel.ac.in/courses/106105160/)
-
-
+- [Networking with Microsoft AZURE](https://www.simpliv.com/networkingandsecurity/networking-with-microsoft-azure)
+- [IT Security Gumbo: Cloud Security Technology](https://www.simpliv.com/networkingandsecurity/it-security-gumbo-cloud-security-technology)
+- [Practical Blockchain & Smart Contracts: Ethereum & Solidity](https://www.simpliv.com/networkingandsecurity/practical-blockchain-and-smart-contracts-ethereum-solidity)
+- [How Hackers Find SQL Injections in Minutes with Sqlmap](https://www.simpliv.com/networkingandsecurity/how-hackers-find-sql-injections-in-minutes-with-sqlmap)
 
 -------------------------
 
@@ -470,6 +496,13 @@ Courses
 - [CSCI 3110 Advanced Topics in Web Development, Fall 2011 - ETSU iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=454017618)
 - [CSCI 5710 e-Commerce Implementation, Fall 2015 - ETSU iTunes](https://itunes.apple.com/us/itunes-u/e-commerce-implementation/id1020427670)
 - [MOOC - Web Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI)
+- [Basic HTML5 & CSS3 for beginners (Build One Project)](https://www.simpliv.com/webdevelopment/basic-html5-css3-for-beginners-build-one-project)
+- [Develop CHATBOT with Microsoft Azure 2019](https://www.simpliv.com/webdevelopment/develop-chatbot-with-microsoft-azure-2019)
+- [Learn Spring Boot in 100 Steps - Beginner to Expert](https://www.simpliv.com/webdevelopment/learn-spring-boot-in-100-steps-beginner-to-expert)
+- [WordPress, Magento, Joomla & Drupal Websites Design](https://www.simpliv.com/webdevelopment/wordpress-magento-joomla-drupal-websites-design-and-development-course-2018)
+- [jQuery for Beginner to Advanced: 12 Projects included!](https://www.simpliv.com/webdevelopment/jquery-for-beginner-to-advanced-12-projects-included)
+- [Step by Step Guide : Angular for Beginners](https://www.simpliv.com/webdevelopment/step-by-step-guide-angular-for-beginners)
+
 
 ---------------------------
 
