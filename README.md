@@ -568,7 +568,7 @@ Courses
 	- [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](https://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
 	- [CS/ECE 6810 Computer Architecture, Spring 2016, University of Utah](http://www.cs.utah.edu/~rajeev/cs6810/) ([YouTube](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6))
 	- [MOOC - Computer Architecture, David Wentzlaff - Princeton University/Coursera](http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426)
-	- [Computer Architecture - ETH Zürich - Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)
+	- [Computer Architecture - ETH Zürich - Fall 2019](https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule)
 	- [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
 	- [Computer Architecture - IIT Delhi](https://nptel.ac.in/courses/106102062/)
 	- [Computer Architecture - IIT Kanpur](https://nptel.ac.in/courses/106104122/)
@@ -592,6 +592,9 @@ Courses
 - [Introduction to ARM - Open SecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n91t_AX5zO007Giz1INwPd)
 - [Intro x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 - [Intermediate x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
+- [Design of Digital Circuits - ETH Zürich - Spring 2019](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9)
+- [Onur Mutlu @ TU Wien 2019 - Memory Systems](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_gntM55VoMlKlw7YrXOhbl)
+- [Memory Systems Course - Technion, Summer 2018](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9)
 
 
 -------
