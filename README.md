@@ -237,6 +237,7 @@ Courses
 ### Artificial Intelligence
 - [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html)
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+- [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
 - [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](https://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
 - [CS322 - Introduction to Artificial Intelligence, Winter 2012-13 - UBC](http://www.cs.ubc.ca/~mack/CS322/) ([YouTube](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU))
@@ -273,6 +274,7 @@ Courses
 	- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
 	- [CS 229 - Machine Learning - Stanford University](https://see.stanford.edu/Course/CS229)
 	- [CS 189/289A Introduction to Machine Learning, Prof Jonathan Shewchuk - UCBerkeley](https://people.eecs.berkeley.edu/~jrs/189/)
+	- [CPSC 340: Machine Learning and Data Mining (2018) - UBC](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b)
 	- [CS4780/5780 Machine Learning, Fall 2013 - Cornell University](http://www.cs.cornell.edu/courses/cs4780/2013fa/)
 	- [CSE474/574 Introduction to Machine Learning - SUNY University at Buffalo](https://www.youtube.com/playlist?list=PLEQDy5tl3xkMzk_zlo2DPzXteCquHA8bQ)
 	- [CS 5350/6350 - Machine Learning, Fall 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCozRSsdueVwX7CF9N4QWL0B)
@@ -329,14 +331,17 @@ Courses
 	- [Probabilistic Graphical Models, Daphne Koller, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
 	- [Probabilistic Models - UNIVERSITY OF HELSINKI](https://www.cs.helsinki.fi/en/courses/582636/2015/K/K/1)
 	- [Probabilistic Modelling and Reasoning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/pmr.htm)
+	- [Probabilistic Graphical Models, Spring 2018 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM)
 - **Deep Learning**
 	- [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
 	- [Deep Learning CMU](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
 	- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 	- [6.S094: Deep Learning for Self-Driving Cars - MIT](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 	- [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
+	- [CS230: Deep Learning - Autumn 2018 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 	- [CS294-112, Deep Reinforcement Learning Sp17](http://rll.berkeley.edu/deeprlcourse/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX))
 	- [UCL Course 2015 on Reinforcement Learning by David Silver from DeepMind](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) ([YouTube](https://www.youtube.com/watch?v=2pWv7GOvuf0))
+	- [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 	- [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
 	- [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 	- [Stat 946 Deep Learning - University of Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE)
@@ -357,6 +362,7 @@ Courses
 	- [MOOC - Natural Language Processing, Dan Jurafsky & Chris Manning - Coursera](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
 	- [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 	- [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+	- [CS224U: Natural Language Understanding - Spring 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 	- [Deep Learning for Natural Language Processing, 2017 - Oxford University](https://github.com/oxford-cs-deepnlp-2017/lectures)
 	- [Machine Learning for Robotics and Computer Vision, WS 2013/2014 - TU München](https://vision.in.tum.de/teaching/ws2013/ml_ws13) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl))
 	- [Informatics 1 - Cognitive Science 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1cs.htm)
@@ -453,6 +459,9 @@ Courses
 - [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/)
 - [36-705 - Intermediate Statistics - Larry Wasserman, CMU](http://www.stat.cmu.edu/~larry/=stat705/) ([YouTube](https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF))
 - [Combinatorics - IISC Bangalore](https://nptel.ac.in/courses/106108051/)
+- [Advanced Engineering Mathematics - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85Ae4pzlylMLzq_a-RHPx8ryA)
+- [Statistical Computing for Scientists and Engineers - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AeltIRcjDY7Z4q49NEAuMcA)
+- [Statistical Computing, Fall 2017 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcSgNGnT5TUHt85SrCljT3V)
 
 
 -------------------------
