@@ -270,6 +270,7 @@ Courses
 	- [10-601 - Introduction to Machine Learning (MS) - Tom Mitchell - 2015, CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) ([YouTube](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ))
 	- [10-601 Machine Learning | CMU | Fall 2017](https://www.youtube.com/playlist?list=PL7k0r4t5c10-g7CWCnHfZOAxLaiNinChk)
 	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B)) ([Spring 2015 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn))
+	- [CMS 165 Foundations of Machine Learning and Statistical Inference - 2020 - Caltech](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
 	- [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
 	- [CS 446 - Machine Learning, Spring 2019, UIUC](https://courses.engr.illinois.edu/cs446/sp2019/AGS/_site/)([ Fall 2016 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91TgY6A_gz-IW7YSpwdnD2O))
 	- [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
