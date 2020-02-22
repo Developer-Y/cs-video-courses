@@ -793,6 +793,7 @@ Courses
 - **Blockchain and Cryptocurrencies**
 	- [Blockchain Fundamentals Decal 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT)
 	- [Blockchain for Developers Decal - Spring 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
+	 - [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/lecture-videos/)
 	
 
 -------------------------
