@@ -27,8 +27,8 @@ Table of Contents
 - [Computer Graphics](#computer-graphics)
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
 - [Computational Biology](#computational-biology)
+- [Quantum Computing](#quantum-computing)
 - [Robotics](#robotics)
-- [Social Network Analysis](#socialnetworkanalysis)
 - [Misc](#misc)
 
 Courses
@@ -315,10 +315,11 @@ Courses
 	- [CAP6673 - Data Mining and Machine Learning - FAU](http://www.cse.fau.edu/~taghi/classes/cap6673/)([Video lectures](https://vimeo.com/album/1505953))
 	- [Data Warehousing and Data Mining Techniques - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/dwh)
 - **Data Science**
-	- [Data 8: The Foundations of Data Science - UC Berkeley](http://data8.org/)
+	- [Data 8: The Foundations of Data Science - UC Berkeley](http://data8.org/) ([Summer 17](http://data8.org/su17/))
 	- [CSE519 - Data Science Fall 2016 - Skiena, SBU](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo)
 	- [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
 	- [6.0002 Introduction to Computational Thinking and Data Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/)
+	- [Data 100 - Summer 19- UC Berkeley](https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR)
 	- [Distributed Data Analytics (WT 2017/18) - HPI University of Potsdam](https://www.tele-task.de/series/1179/)
 	- [Statistics 133 - Concepts in Computing with Data, Fall 2013 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDsSPnMJlnhIyADGUmikoIO)
 	- [Data Profiling and Data Cleansing (WS 2014/15) - HPI University of Potsdam](https://www.tele-task.de/series/1027/)
@@ -340,6 +341,8 @@ Courses
 	- [6.S094: Deep Learning for Self-Driving Cars - MIT](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 	- [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
 	- [CS230: Deep Learning - Autumn 2018 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+	- [STAT-157 Deep Learning 2019 - UC Berkeley ](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
+	- [Full Stack DL Bootcamp 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu5645uORPL8xyvHr91Lg8G1l)
 	- [CS294-112, Deep Reinforcement Learning Sp17](http://rll.berkeley.edu/deeprlcourse/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX))
 	- [UCL Course 2015 on Reinforcement Learning by David Silver from DeepMind](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) ([YouTube](https://www.youtube.com/watch?v=2pWv7GOvuf0))
 	- [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
@@ -443,6 +446,8 @@ Courses
 - **Probability & Statistics**
 	- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 	- [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+	- [STAT 2.1x: Descriptive Statistics | UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu56TfFnGlRlH2YpOBWGiYsQD)
+	- [STAT 2.2x: Probability | UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu57qPZnHm-ie-D7vs9g7U-Cl)
 	- [MOOC - Statistics: Making Sense of Data, Coursera](http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2)
 	- [MOOC - Statistics One - Coursera](https://www.youtube.com/playlist?list=PLycnP7USbo1V3jlyjAzWUB201cLxPq4NP)
 	- [Probability and Random Processes - IIT Kharagpur](https://nptel.ac.in/courses/117105085/)
@@ -707,6 +712,14 @@ Courses
 - [Frontiers of Biomedical Engineering with W. Mark Saltzman - Yale](https://www.youtube.com/playlist?list=PL27E877E8206F196B)
 - [NOC:Computational Systems Biology - IIT Madras](https://nptel.ac.in/courses/102/106/102106068/)
 - [NOC:BioInformatics:Algorithms and Applications - IIT Madras](https://nptel.ac.in/courses/102/106/102106065/)
+
+
+----------------------------------
+### Quantum Computing
+  - [15-859BB: Quantum Computation and Quantum Information 2018 - CMU](https://www.cs.cmu.edu/~odonnell/quantum18/)
+  - [Quantum Mechanics and Quantum Computation - Umesh Vazirani](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
+  - [Quantum Information and Computing by Prof. D.K. Ghosh](https://www.youtube.com/playlist?list=PLq-Gm0yRYwThGmlypvSFQ-kT2rPaXKAZ5)
+  - [Quantum Computing by Prof. Debabrata Goswami](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj7Fs6jyzYa83HErSrpXgPQ)
 
 
 ----------------------------------
