@@ -78,7 +78,7 @@ Courses
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [6.046J - Introduction to Algorithms - Fall 2005, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
 - [6.046 - Design and Analysis of Algorithms, Spring 2015 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
-- [CS 473 - Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html) ([Notes - Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/))
+- [CS 473 - Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html) ([Notes - Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)) ([YouTube](https://www.youtube.com/playlist?list=PL0v718LJg-78SFq81e4kJh_rS8XbKZ7Kn))
 - [COMP300E - Programming Challenges, Prof Skiena, Hong Kong University of Science and Technology - 2009](https://www.youtube.com/playlist?list=PL07B3F10B48592010)
 - [16s-4102 - Algorithms, University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
 - [CS 170 Algorithms - UCBerkeley](https://cs170.org/) [Fall 2018, Youtube](https://www.youtube.com/watch?v=fd5P-8IQwMY&list=PLkFD6_40KJIx8lWWbE-Uk069aZ1R-W-VU&index=2&t=0s) [Fall 2018,Bilibili](https://www.bilibili.com/video/av43955743/?p=1) [2013 Bilibili](https://www.bilibili.com/video/av26670685/)
@@ -380,6 +380,7 @@ Courses
 	- [Accelerated Natural Language Processing 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/anlp.htm)
 	- [Natural Language Processing - IIT Bombay](https://nptel.ac.in/courses/106101007/)
 	- [NOC:Deep Learning For Visual Computing - IIT Kharagpur](https://nptel.ac.in/courses/108/105/108105103/)
+	- [CS 11-747 - Neural Nets for NLP - 2019 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
 - **Misc Machine Learning Topics**
 	- [EE364a: Convex Optimization I - Stanford University](http://web.stanford.edu/class/ee364a/videos.html)
 	- [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
@@ -507,7 +508,7 @@ Courses
 - [CSEP 501 - Compiler Construction, University of Washington](https://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C))
 - [CSEP 505 Programming Languages, Winter 2015 - University of Washington](https://courses.cs.washington.edu/courses/csep505/15wi/video/)
 - [DMFP - Discrete Mathematics and Functional Programming, Wheaton College](http://cs.wheaton.edu/~tvandrun/dmfp/)
-- [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html) ([Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a))
+- [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL0v718LJg-7_4Zwx3CE7kZ398mhlB2TqF473))
 - [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
 - [MOOC - Automata - Jeffrey Ullman - Coursera](https://www.youtube.com/playlist?list=PL82C4B8475CAC3F95)
 - [CS581 Theory of Computation - Portland State University](http://web.cecs.pdx.edu/~harry/videos/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
@@ -625,6 +626,7 @@ Courses
 ### Security
 - [Internet Security (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1227/)
 - [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+- [6.875 - Cryptography - Spring 2018- MIT ](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 - [CSEP590A - Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](https://courses.cs.washington.edu/courses/csep590a/11wi/video/))
 - [CS461/ECE422 - Computer Security - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs461/sp2016/) ([Videos](https://recordings.engineering.illinois.edu:8443/ess/portal/section/8a560718-345a-417a-b665-6bd375a71ee2))
 - [Introduction to Cryptography, Christof Paar - Ruhr University Bochum, Germany](https://www.youtube.com/playlist?list=PLwJWuZfL_Ga2KJrTf9hOIgAQWkSpn9RNm)
@@ -656,6 +658,8 @@ Courses
 
 - [CS184 - Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
 - [ECS 175 - Computer Graphics, Fall 2009 - UC Davis](https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10)
+- [6.837 - Computer Graphics - Spring 2017 - MIT ](https://www.youtube.com/playlist?list=PLkHIj5SCfn3_PCotoqTetMpJc_jkpkgLt)
+- [6.838 - Shape Analysis - Spring 2017- MIT ](https://www.youtube.com/playlist?list=PLkHIj5SCfn3-FeWqD3xeOZWP2kQYY654o)
 - [Introduction to Computer Graphics - IIT Delhi](https://nptel.ac.in/courses/106102065/)
 - [Computer Graphics - IIT Madras](https://nptel.ac.in/courses/106106090/)
 - [Computer Graphics 2012, Wolfgang Huerst, Utrecht University](https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE)
@@ -805,6 +809,8 @@ Courses
 	- [Blockchain Fundamentals Decal 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT)
 	- [Blockchain for Developers Decal - Spring 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
 	 - [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/lecture-videos/)
+	 - [15.S12 Blockchain and Money, Fall 2018- MIT ](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
+
 	
 
 -------------------------
