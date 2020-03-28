@@ -353,6 +353,7 @@ Courses
 	- [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 	- [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
 	- [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+	- [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 	- [Stat 946 Deep Learning - University of Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE)
 	- [Neural networks class - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 	- [DLCV - Deep Learning for Computer Vision - UPC Barcelona](https://www.youtube.com/playlist?list=PL-5eMc3HQTBavDoZpFcX-bff5WgQqSLzR)
@@ -405,6 +406,7 @@ Courses
 	- [Foundations of Machine Learning - Blmmoberg Edu](https://bloomberg.github.io/foml/#home)
 	- [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 	- [Advanced Deep Learning & Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+	- [Web Information Retrieval (Proff. L. Becchetti - A. Vitaletti)](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr)
 
 
 ------------------------------
@@ -736,6 +738,7 @@ Courses
 ----------------------------------
 ### Quantum Computing
   - [15-859BB: Quantum Computation and Quantum Information 2018 - CMU](https://www.cs.cmu.edu/~odonnell/quantum18/)
+  - [Quantum Mechanics for Scientists and Engineers](https://www.youtube.com/playlist?list=PL_onPhFCkVQi2O405SkNf3hv-7HXnZnMm)
   - [Quantum Mechanics and Quantum Computation - Umesh Vazirani](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
   - [Quantum Information and Computing by Prof. D.K. Ghosh](https://www.youtube.com/playlist?list=PLq-Gm0yRYwThGmlypvSFQ-kT2rPaXKAZ5)
   - [Quantum Computing by Prof. Debabrata Goswami](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj7Fs6jyzYa83HErSrpXgPQ)
@@ -748,11 +751,13 @@ Courses
 ### Robotics
 - [CS 223A - Introduction to Robotics, Stanford University](https://see.stanford.edu/Course/CS223A)
 - [6.832 Underactuated Robotics - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/)
+- [CS287 Advanced Robotics at UC Berkeley Fall 2019 -- Instructor: Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
 - [CS 287 - Advanced Robotics, Fall 2011, UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa11/) ([Videos](http://rll.berkeley.edu/cs287/lecture_videos/))
 - [CS235 - Applied Robot Design for Non-Robot-Designers - Stanford University](https://www.youtube.com/user/StanfordCS235/videos)
 - [Lecture: Visual Navigation for Flying Robots](https://vision.in.tum.de/teaching/ss2012/visnav2012) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha))
+- [CS 205A: Mathematical Methods for Robotics, Vision, and Graphics (Fall 2013)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvQ_VzflHYKhAqZiTxOkSwi)
 - [Robotics 1, Prof. De Luca, Università di Roma](http://www.dis.uniroma1.it/~deluca/rob1_en/material_rob1_en_2014-15.html) ([YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt))
-- [Robotics 2, Prof. De Luca, Università di Roma](http://www.diag.uniroma1.it/~deluca/rob2_en/material_rob2_en.html)
+- [Robotics 2, Prof. De Luca, Università di Roma](http://www.diag.uniroma1.it/~deluca/rob2_en/material_rob2_en.html) ([YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcya6LnIF83QlJTqvpYmJXnDm))
 - [Robot Mechanics and Control, SNU](https://www.youtube.com/playlist?list=PLkjy3Accn-E7mlbuSF4aajcMMckG4wLvW)
 - [Introduction to Robotics Course - UNCC](https://www.youtube.com/playlist?list=PL4847E1D1C121292F)
 - [SLAM Lectures](https://www.youtube.com/playlist?list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm)
@@ -766,6 +771,10 @@ Courses
 - [Hello (Real) World with ROS – Robot Operating System - TU Delft](https://ocw.tudelft.nl/courses/hello-real-world-ros-robot-operating-system/)
 - [Programming for Robotics (ROS) - ETH Zurich](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
 - [Mechatronic System Design - TU Delft](https://ocw.tudelft.nl/courses/mechatronic-system-design/)
+- [CS 206 Evolutionary Robotics Course Spring 2020](https://www.youtube.com/playlist?list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9)
+- [Foundations of Robotics - UTEC 2018-I](https://www.youtube.com/playlist?list=PLoWGuY2dW-Acmc8V5NYSAXBxADMm1rE4p)
+- [Robotics - Youtube](https://www.youtube.com/playlist?list=PL_onPhFCkVQhuPiUxUW2lFHB39QsavEEA)
+- [Robotics and Control: Theory and Practice IIT Roorkee](https://www.youtube.com/playlist?list=PLLy_2iUCG87AjAXKbNMiKJZ2T9vvGpMB0)
 
 
 
@@ -807,6 +816,7 @@ Courses
 - [Spatial Databases and Geographic Information Systems - Technische Universität Braunschweig, Germany (in German)](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/gis)
 - [Dependable Systems (SS 2014) - HPI University of Potsdam](https://www.tele-task.de/series/1005/)
 - [Business Process Compliance (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/979/)
+- [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
 - **Social Network Analysis**
 	- [CS224w – Social Network Analysis – Autumn 2017 - Stanford University](http://snap.stanford.edu/class/cs224w-videos-2017/)
 - **Blockchain and Cryptocurrencies**
