@@ -816,7 +816,6 @@ Courses
 - [Spatial Databases and Geographic Information Systems - Technische Universität Braunschweig, Germany (in German)](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/gis)
 - [Dependable Systems (SS 2014) - HPI University of Potsdam](https://www.tele-task.de/series/1005/)
 - [Business Process Compliance (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/979/)
-- [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
 - **Social Network Analysis**
 	- [CS224w – Social Network Analysis – Autumn 2017 - Stanford University](http://snap.stanford.edu/class/cs224w-videos-2017/)
 - **Blockchain and Cryptocurrencies**
@@ -824,6 +823,10 @@ Courses
 	- [Blockchain for Developers Decal - Spring 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
 	 - [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/lecture-videos/)
 	 - [15.S12 Blockchain and Money, Fall 2018- MIT ](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
+- **Time Series Analysis**
+	- [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
+	- [Applied Time Series Analysis](https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX)
+	
 
 	
 
