@@ -709,6 +709,7 @@ Courses
 - [Computer Vision 2011 - EPFL, Switzerland](http://www.klewel.com/conferences/epfl-computer-vision/)
 - [Digital Image Processing - IIT Kharagpur](https://nptel.ac.in/courses/117105079/)
 - [Image Processing and Analysis - UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
+- [CS 543 - Computer Vision – Spring 2017](http://dhoiem.cs.illinois.edu/) ([Recordings](https://echo360.org/section/283b0471-3d9f-4efb-9c51-bc00e778735e/home))
 - [CAP 5415 - Computer Vision - University of Central Florida](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/)([Video Lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9))
 - [EE225B - Digital Image Processing, Spring 2014 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee225b/sp14/) ([Videos - Spring 2006](http://www-video.eecs.berkeley.edu/~avz/video_225b.html))
 - [EE637 - Digital Image Processing I - Purdue University](https://engineering.purdue.edu/~bouman/ece637/) ([Videos - Sp 2011 ](https://www.youtube.com/user/ModelBasedImaging),[Videos - Sp 2007](https://engineering.purdue.edu/~bouman/ece637/lectures/lectures07/))
