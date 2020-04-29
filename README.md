@@ -488,6 +488,7 @@ Courses
 	- [STATS 250 - Introduction to Statistics and Data Analysis, UMichigan](https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F)
 	- [Sets, Counting and Probability - Harvard](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/1999/01/82347)
 	- [Opinionated Lessons in Statistics](http://www.opinionatedlessons.org/) ([Youtube](https://www.youtube.com/playlist?list=PLUAHeOPjkJseXJKbuk9-hlOfZU9Wd6pS0))
+	- [Statistics - Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists)
 - **Linear Algebra**
 	- [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 	- [Linear Algebra (Princeton University)](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
