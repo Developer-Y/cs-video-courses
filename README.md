@@ -307,6 +307,7 @@ Courses
 	- [COM4509/COM6509 Machine Learning and Adaptive Intelligence 2015-16](http://inverseprobability.com/mlai2015/)
 	- [10715 Advanced Introduction to Machine Learning](https://sites.google.com/site/10715advancedmlintro2017f/lectures)
 	- [Introduction to Machine Learning - Spring 2018 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN273tsqyfdrBUsA-o5nUESV)
+	- [Machine Learning - Pedro Domingos- University of Washington](https://www.youtube.com/user/UWCSE/playlists?view=50&sort=dd&shelf_id=16)
 	- [Advanced Machine Learning - 2019 - ETH Zürich](https://www.youtube.com/playlist?list=PLY-OA_xnxFwSe98pzMGVR4bjAZZYrNT7L)
 - **Data Mining**
 	- [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
