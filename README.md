@@ -838,6 +838,10 @@ Courses
 - [MMF1928H / STA 2503F –
 Pricing Theory I / Applied Probability for Mathematical Finance - University of Toronto](http://www.utstat.toronto.edu/sjaimung/courses/mmf1928/content2013.htm)
  - [STA 4505H – High Frequency & Algorithmic trading - University of Toronto](http://www.utstat.utoronto.ca/sjaimung/courses/sta4505/main-2014.htm)
+ - [Mathematical Finance - IIT Guwahati](https://nptel.ac.in/courses/111/103/111103126/)
+ - [Quantitative Finance - IIT Kanpur](https://nptel.ac.in/courses/110/104/110104066/)
+ - [Financial Derivatives & Risk Management - IIT Roorkee](https://nptel.ac.in/courses/110/107/110107128/)
+ - [Financial Mathematics - IIT Roorkee](https://nptel.ac.in/courses/112/107/112107260/)
 
 
 ----------------------------------
