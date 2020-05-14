@@ -312,6 +312,8 @@ Courses
 	- [Machine Learning - Pedro Domingos- University of Washington](https://www.youtube.com/user/UWCSE/playlists?view=50&sort=dd&shelf_id=16)
 	- [Advanced Machine Learning - 2019 - ETH Zürich](https://www.youtube.com/playlist?list=PLY-OA_xnxFwSe98pzMGVR4bjAZZYrNT7L)
 	- [Machine Learning (COMP09012)](https://www.youtube.com/playlist?list=PLyH-5mHPFffFwz7Twap0XuVeUJ8vuco9t)
+	- [Probabilistic Machine Learning 2020 - University of Tübingen](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+	- [Statistical Machine Learning 2020 - Ulrike von Luxburg - University of Tübingen](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 - **Data Mining**
 	- [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
 	- [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
