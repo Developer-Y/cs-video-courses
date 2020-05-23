@@ -149,6 +149,7 @@ Courses
 	- [EdX KTHx ID2203 Reliable Distributed Algorithms](https://www.youtube.com/playlist?list=PLx3mQFFeHPjndmQ0iP9j6C58b90hqGa0X)
 	- [Distributed Data Management - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ss-15/ddm)
 	- [Information Retrieval and Web Search Engines - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
+	- [Middleware and Distributed Systems (WS 2009/10) - Dr. Martin von Löwis - HPI](https://www.tele-task.de/series/729/)
 - **Real-Time Systems**
 	- [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
 	- [Real Time Systems - IIT Kharagpur](https://nptel.ac.in/courses/106105036/)
@@ -184,6 +185,8 @@ Courses
 - [Informatics 1 - Data & Analysis 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm)
 - [Database Management Systems, Aduni](http://aduni.org/courses/databases/index.php?view=cw)
 - [D4M - Signal Processing on Databases](https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/)
+- [In-Memory Data Management (2013)Prof. Hasso Plattner - HPI](https://open.hpi.de/courses/imdb2013/items/72j6pftms3dOSunM98JhfW)
+- [Distributed Data Management (WT 2019/20) - Dr. Thorsten Papenbrock - HPI](https://www.tele-task.de/series/1285/)
 
 
 ------------------------------
@@ -249,7 +252,6 @@ Courses
 - [Artificial Intelligence - IIT Kharagpur](https://nptel.ac.in/courses/106105077/)
 - [Artificial Intelligence - IIT Madras](https://nptel.ac.in/courses/106106126/)
 - [Artificial Intelligence(Prof.P.Dasgupta) - IIT Kharagpur](https://nptel.ac.in/courses/106105079/)
-- [Artificial Intelligence: Knowledge Representation and Reasoning - IIT Madras](https://nptel.ac.in/courses/106106140/)
 - [MOOC - Intro to Artificial Intelligence - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn)
 - [MOOC - Artificial Intelligence for Robotics - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK)
 - [Graduate Course in Artificial Intelligence, Autumn 2012 - University of Washington](https://www.youtube.com/playlist?list=PLbQ3Aya0VERDoDdbMogU9EASJGWris9qG)
@@ -257,6 +259,9 @@ Courses
 - [Informatics 2D - Reasoning and Agents 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2d.htm)
 - [Artificial Intelligence - Hochschule Ravensburg-Weingarten](https://www.youtube.com/playlist?list=PL39B5D3AFC249556A)
 - [Deductive Databases and Knowledge-Based Systems - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/KBS)
+- [Artificial Intelligence: Knowledge Representation and Reasoning - IIT Madras](https://nptel.ac.in/courses/106106140/)
+- [Semantic Web Technologies by Dr. Harald Sack - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAeihlKcWpzVzB51rr014TwD)
+- [Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR)
 
 --------------
 
@@ -434,6 +439,8 @@ Courses
 	- [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 	- [Advanced Deep Learning & Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 	- [Web Information Retrieval (Proff. L. Becchetti - A. Vitaletti)](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr)
+	- [Big Data Systems (WT 2019/20) - Prof. Dr. Tilmann Rabl - HPI](https://www.tele-task.de/series/1286/)
+	- [Distributed Data Analytics (WT 2017/18) - Dr. Thorsten Papenbrock - HPI](https://www.tele-task.de/series/1179/)
 
 
 ------------------------------
@@ -461,6 +468,7 @@ Courses
 - [Digital Communication - IIT Bombay](https://nptel.ac.in/courses/117101051/)
 - [Digital Voice & Picture Communication - IIT Kharagpur](https://nptel.ac.in/courses/117105081/)
 - [Wireless Ad Hoc and Sensor Networks - IIT Kharagpur](https://nptel.ac.in/courses/106105160/)
+- [Internetworking with TCP/IP by Prof. Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY5VrkObHTckZHwPsS1VCA)
 
 
 
@@ -529,6 +537,7 @@ Courses
 - [CSCI 3110 Advanced Topics in Web Development, Fall 2011 - ETSU iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=454017618)
 - [CSCI 5710 e-Commerce Implementation, Fall 2015 - ETSU iTunes](https://itunes.apple.com/us/itunes-u/e-commerce-implementation/id1020427670)
 - [MOOC - Web Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI)
+- [Web Technologies Prof. Dr. Christoph Meinel - HPI](https://open.hpi.de/courses/webtech2015/items/4oqxq6euKfhXgHOMwFBxbn)
 
 ---------------------------
 
@@ -693,6 +702,7 @@ Courses
 - [CSN11117 - e-Security - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn11117)
 - [CSN08704 - Telecommunications - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn08704)
 - [CSN11128 - Incident Response and Malware Analysus - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/CSN11128)
+- [Internet Security for Beginners by Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAdsi-IacgZJQF1MRw0Ee-HH)
 
 -------
 
@@ -880,8 +890,8 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Spatial Databases and Geographic Information Systems - Technische Universität Braunschweig, Germany (in German)](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/gis)
 - [Dependable Systems (SS 2014) - HPI University of Potsdam](https://www.tele-task.de/series/1005/)
 - [Business Process Compliance (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/979/)
-- **Social Network Analysis**
-	- [CS224w – Social Network Analysis – Autumn 2017 - Stanford University](http://snap.stanford.edu/class/cs224w-videos-2017/)
+- [Design Thinking for Digital Engineering (SS 2018) - Dr. Julia von Thienen - HPI](https://www.tele-task.de/series/1206/)
+- [CS224w – Social Network Analysis – Autumn 2017 - Stanford University](http://snap.stanford.edu/class/cs224w-videos-2017/)
 - **Blockchain and Cryptocurrencies**
 	- [Blockchain Fundamentals Decal 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT)
 	- [Blockchain for Developers Decal - Spring 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
