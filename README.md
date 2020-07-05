@@ -143,6 +143,7 @@ Courses
 	- [CS 677 - Distributed Operating Systems, Spring 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
 	- [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 	- [6.824 - Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
+	- [6.824 Distributed Systems - Spring 2020 - MIT](https://pdos.csail.mit.edu/6.824/schedule.html) ([Youtube](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB))
 	- [Distributed Algorithms, https://canvas.instructure.com/courses/902299](https://www.youtube.com/playlist?list=PL700757A5D4B3F368)
 	- [CSEP 552 - PMP Distributed Systems, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep552/13sp/) ([Videos](https://courses.cs.washington.edu/courses/csep552/13sp/video/))
 	- [CSE 490H - Scalable Systems: Design, Implementation and Use of Large Scale Clusters, Autumn 2008 - University of Washington](https://courses.cs.washington.edu/courses/cse490h/08au/lectures.htm) ([Videos](https://courses.cs.washington.edu/courses/cse490h/08au/video.htm))
@@ -415,7 +416,8 @@ Courses
 	- [Accelerated Natural Language Processing 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/anlp.htm)
 	- [Natural Language Processing - IIT Bombay](https://nptel.ac.in/courses/106101007/)
 	- [NOC:Deep Learning For Visual Computing - IIT Kharagpur](https://nptel.ac.in/courses/108/105/108105103/)
-	- [CS 11-747 - Neural Nets for NLP - 2019 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)	
+	- [CS 11-747 - Neural Nets for NLP - 2019 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
+	- [Natural Language Processing - Michael Collins - Columbia University](https://www.youtube.com/playlist?list=PLA212ij5XG8OTDRl8IWFiJgHR9Ve2k9pv)
 - **Time Series Analysis**
 	- [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
 	- [Applied Time Series Analysis](https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX)
