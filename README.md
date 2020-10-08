@@ -40,7 +40,7 @@ Courses
 - [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
 - [6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/)
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
-- [CS 50 - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/college/2018/fall/) ([cs50.tv](http://cs50.tv/2017/fall/))
+- [CS 50 - Introduction to Computer Science, Harvard University](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) ([cs50.tv](http://cs50.tv/2017/fall/))
 - [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](https://cs61a.org/)
 - [CPSC 110 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
 - [CS50's Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
