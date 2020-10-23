@@ -379,6 +379,7 @@ Courses
 	- [Neural Networks and Applications - IIT Kharagpur](https://nptel.ac.in/courses/117105084/)
 	- [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
 	- [Nvidia Machine Learning Class](https://www.youtube.com/playlist?list=PLTIkHmXc-7an8xbwhAJX-LQ4D4Uf-ar5I)
+	- [Deep Learning - Winter 2020-21 - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
 - **Reinforcement Learning**
 	- [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 	- [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -531,6 +532,7 @@ Courses
 - [Advanced Engineering Mathematics - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85Ae4pzlylMLzq_a-RHPx8ryA)
 - [Statistical Computing for Scientists and Engineers - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AeltIRcjDY7Z4q49NEAuMcA)
 - [Statistical Computing, Fall 2017 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcSgNGnT5TUHt85SrCljT3V)
+- [Mathematics for Machine Learning, Lectures by Ulrike von Luxburg - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
 
 -------------------------
@@ -688,6 +690,7 @@ Courses
 ### Security
 - [Internet Security (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1227/)
 - [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+- [CS 161: Computer Security, UC Berkeley](https://cs161.org/)
 - [6.875 - Cryptography - Spring 2018- MIT ](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 - [CSEP590A - Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](https://courses.cs.washington.edu/courses/csep590a/11wi/video/))
 - [CS461/ECE422 - Computer Security - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs461/sp2016/) ([Videos](https://recordings.engineering.illinois.edu:8443/ess/portal/section/8a560718-345a-417a-b665-6bd375a71ee2))
@@ -736,6 +739,7 @@ Courses
 - [ECS 178 Introduction to Geometric Modeling, Fall 2012, UC Davis](http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html) ([iTunes](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246))
 - [Computational Geometry - IIT Delhi](https://nptel.ac.in/courses/106102011/)
 - [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL_deCdukpyu1rdH85XsEEREbpoqEauiJl))
+- [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/)
 
 -------
 
