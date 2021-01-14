@@ -119,8 +119,6 @@ Courses
 
 ### Systems Programming
 
-- [6.033 Computer System Engineering - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/video-lectures/)
-- [CS24 Introduction to Computing Systems - California Institute of Technology](http://courses.cms.caltech.edu/cs24/) ([Spring 15 version](http://users.cms.caltech.edu/~donnie/cs24/))
 - [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
 - [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/CS361fall13)
 - [CS 4400 – Computer Systems   Fall 2016 - UoUtah](https://www.eng.utah.edu/~cs4400/)
@@ -134,6 +132,7 @@ Courses
 	- [CSE 421/521 - Introduction to Operating Systems, SUNY University at Buffalo, NY - Spring 2016](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3)) ([Recitations 2016](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_YJn8wu9aJTPOgeWqiaJDF)) ([Assignment walkthroughs](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp9PC8fyzc2meL4XvrVSyP8O))
 	- [CS 377 - Operating Systems, Fall 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbDTmsCRGWsMW_PzIOpXnckw)
 	- [6.828 - Operating System Engineering [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
+	- [6.S081 - Operating System Engineering [Fall 2020]](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
 	- [CSE 30341 - Operating Systems, Spr 2008](https://www.youtube.com/view_play_list?p=AB7D5CA7E262B0E2)
 	- [CSEP 551 Operating Systems Autumn 2014 - University of Washington](https://courses.cs.washington.edu/courses/csep551/14au/video/)
 	- [Introduction to Operating Systems - IIT Madras](https://nptel.ac.in/courses/106106144/)
