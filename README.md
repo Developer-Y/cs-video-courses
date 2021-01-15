@@ -486,6 +486,7 @@ Courses
 
 ### Math for Computer Scientist
 - [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
+- [Maths courses all topics covered](https://www.khanacademy.org/math/)
 - **Calculus**
 	- [18.01 Single Variable Calculus, Fall 2006 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 	- [18.02 Multivariable Calculus, Fall 2007 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
