@@ -217,6 +217,7 @@ Courses
 	- [Dependable Systems (SS 2014)- HPI University of Potsdam](https://www.tele-task.de/series/1005/)
 	- [Software Testing - IIT Kharagpur](https://nptel.ac.in/courses/106105150/)
 	- [Informatics 2C - Software Engineering 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2SE.htm)
+	- [Software Engineering - Bauhaus-Uni Weimar](https://www.youtube.com/watch?v=jouBM4AH0jw&list=PLjEglKdMOevU2STTGq79duxTXDFuO-k1H&index=2)
 - **Software Architecture**
 	- [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 	- [MOOC - Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
@@ -240,6 +241,7 @@ Courses
 	- [iOS Course, Dave Fisher](https://www.youtube.com/playlist?list=PL96C635E4DCD393A8)
 	- [Developing iPad Applications for Visualization and Insight - Carnegie Mellon University](https://itunes.apple.com/us/course/developing-ipad-applications/id499050344)
 	- [Mobile Computing - IIT Madras](https://nptel.ac.in/courses/106106147/)
+	- [Mobile Information Systems - Bauhaus-Uni Weimar](https://www.youtube.com/watch?v=8EmbrZJwMOI&list=PLjEglKdMOevWv4zPW0diw7iJFdT7s4sTP)
 
 ------------------------------
 
