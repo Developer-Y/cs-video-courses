@@ -215,6 +215,8 @@ Courses
 	- [Software Engineering - IIT Bombay](https://nptel.ac.in/courses/106101061/)
 	- [Dependable Systems (SS 2014)- HPI University of Potsdam](https://www.tele-task.de/series/1005/)
 	- [Software Testing - IIT Kharagpur](https://nptel.ac.in/courses/106105150/)
+	- [Software Testing - Udacity, course-cs258 | 2015](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
+	- [Software Debugging - Udacity, course-cs259 | 2015](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)
 	- [Software Engineering - Bauhaus-Uni Weimar](https://www.youtube.com/watch?v=jouBM4AH0jw&list=PLjEglKdMOevU2STTGq79duxTXDFuO-k1H&index=2)
 - **Software Architecture**
 	- [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
