@@ -30,6 +30,7 @@ Table of Contents
 - [Quantum Computing](#quantum-computing)
 - [Robotics](#robotics)
 - [Computational Finance](#computational-finance)
+- [Software Development Engineer in Test](#software-development-engineer-in-test)
 - [Misc](#misc)
 
 Courses
@@ -880,6 +881,27 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
  - [Financial Mathematics - IIT Roorkee](https://nptel.ac.in/courses/112/107/112107260/)
 
 
+----------------------------------
+### Software Development Engineer in Test
+	- [Manual Testing](https://bit.ly/3lCwSy8)
+	- [SQL For Testers](https://youtube.com/playlist?list=PLUDwpEzHYYLt0aRs7gvyEEviMp_CoTO3q)
+	- [Java for Selenium](https://youtube.com/playlist?list=PLUDwpEzHYYLv9v8aRuNi67vZ81cW2ksze)
+	- [Postman (Rest API Testing)](https://youtube.com/playlist?list=PLUDwpEzHYYLt3kLIHDLVjdnmJw7BDvVdE)
+	- [Selenium WebDriver with Java](https://youtube.com/playlist?list=PLUDwpEzHYYLs6G9WOfFxiH5zMfgNxgmSV)
+	- [Unix/Linux for Testers](https://youtube.com/playlist?list=PLUDwpEzHYYLtjJWMCJJDoPXjeSfzrCF-F)
+	- [Selenium with Python Behave(BDD)](https://youtube.com/playlist?list=PLUDwpEzHYYLsARXz1o3Ldt1FnvRbvlxsS)
+	- [SoapUI API/Webservices Testing](https://youtube.com/playlist?list=PLUDwpEzHYYLugXkSaNTuQ4J3HFXVWNUf-)
+	- [Protractor](https://youtube.com/playlist?list=PLUDwpEzHYYLt9nBh8fMrJMt2PCHnWCqN1)
+	- [Cypress Web Automation](https://youtube.com/playlist?list=PLUDwpEzHYYLu4jKg-rNSKH3aJeBinlPXp)
+	- [RestAPI Testing using Robot Framework+Python](https://youtube.com/playlist?list=PLUDwpEzHYYLsCHiiihnwl3L0xPspL7BPG)
+	- [AWS For Testers](https://youtube.com/playlist?list=PLUDwpEzHYYLuiMOF8ez7TjUaYauwr4tuz)
+	- [Docker](https://youtube.com/playlist?list=PLUDwpEzHYYLtpm24ojHwubwmMNQildHBc)
+	- [Selenium with Java+Cucumber BDD Framework Development](https://youtube.com/playlist?list=PLUDwpEzHYYLtHHyYv48HmWAbxsS-2iDNT)
+	- [JMeter](https://youtube.com/playlist?list=PLUDwpEzHYYLs33uFHeIJo-6eU92IoiMZ7)
+	- [TestNG with intelliJ IDE](https://youtube.com/playlist?list=PLUDwpEzHYYLsWENabqeETzgPLbmwqhM45)
+	- [Appium](https://youtube.com/playlist?list=PLUDwpEzHYYLsx_2JFNBMITjHqTnuszhb_)
+	- [Selenium with Python](https://youtube.com/playlist?list=PLUDwpEzHYYLvx6SuogA7Zhb_hZl3sln66)
+	- [Selenium with Cucumber](https://youtube.com/playlist?list=PLUDwpEzHYYLuOleK8iPl6kc2UbXGvllBY)
 ----------------------------------
 
 ### Misc
