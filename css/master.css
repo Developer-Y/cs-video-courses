@@ -1,0 +1,134 @@
+body{
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+  font-family:"Lucida Console", Courier, monospace;
+  font-size: 20px;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  height: 60px;
+  background-color: black;
+  color: white;
+  justify-content: space-between;
+}
+nav img{
+  padding: 5px;
+}
+nav a{
+  color: white;
+  text-decoration:none;
+  padding: 5px;
+}
+nav form{
+  padding: 5px;
+}
+
+nav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+nav button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: white;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background: black;
+  color: white;
+}
+
+form:before{
+  content: "";
+  position: absolute;
+  top: -32px;
+  right: 13px;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-top: 14px solid transparent;
+  border-bottom: 14px solid #D80B15;
+}
+
+form input[type="text"]{
+  width: 200px;
+  padding: 5px 10px;
+  margin-left: 23px;
+  border: 1px solid #D80B15;
+  outline: none;
+}
+
+form input[type="button"]{
+  width: 80px;
+  padding: 5px 0;
+  background: #D80B15;
+  color: #fff;
+  margin-left: -6px;
+  border: 1px solid #D80B15;
+  outline: none;
+  cursor: pointer;
+}
+@media only screen and (min-width:240px) and (max-width: 768px){
+    nav{
+      display: block;
+        text-align:center;
+        margin:0 auto;
+        height: 200px;
+        background-color: black;
+        color: white;
+    }
+}
+h1{
+  margin: 5px;
+  text-align: center;
+}
+section ul{
+  overflow: hidden;
+}
+section ul a{
+  text-decoration: none;
+  text-align:left;
+  float: left;
+  font-size: 20px;
+  color: black;
+}
+section ul a:hover{
+  color: white;
+  background-color: black;
+  padding:5px;
+}
+
+footer{
+  background-color: black;
+  display: flex;
+  justify-content:space-around;
+}
+.find-me{
+  color: white;
+}
+.find-me p{
+  color: white;
+  margin-left: 10px;
+}
+.find-me a{
+  color: green;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 10px;
+}
+.feed-back a{
+  color: red;
+  margin-top: 50px;
+  margin-left: 10px;
+  font-weight: bold;
+}
