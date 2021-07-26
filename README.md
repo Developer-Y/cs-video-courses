@@ -1,5 +1,5 @@
 ## this is short link for this repo...
-
+https://saiganeshreddy3648.github.io/cs-video-courses/
 
 ## Computer Science courses with video lectures
 
