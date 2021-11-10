@@ -895,14 +895,14 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 ----------------------------------
 
 ### Blockchain Development
-**Blockchain and Cryptocurrencies**
+-**Blockchain and Cryptocurrencies**
 	- [Blockchain Fundamentals Decal 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT)
 	- [Blockchain for Developers Decal - Spring 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
 	- [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/lecture-videos/)
 	- [15.S12 Blockchain and Money, Fall 2018- MIT ](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 	- [Blockchain - Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome)
-**Become Blockchain Developer**
-	- [Solidity- Intro](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu) [Master Solidity](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) -[Dapp University]
+-**Become Blockchain Developer**
+	- [Solidity- Intro](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu) [Master Solidity](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) - Dapp University
 	-  [IPFS - Inter Planetary File System] (https://www.youtube.com/playlist?list=PLS5SEs8ZftgWggD3tKfgwsIPXuIhorXZk)
 	- [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial - FreeCodingCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
 	-  [Web 3.0 - Build Realtime Decentralized applications](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVV6ah1fo2IvlHk1kTCy6un)
