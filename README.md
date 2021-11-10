@@ -22,6 +22,7 @@ Table of Contents
 - [Math for Computer Scientist](#math-for-computer-scientist)
 - [Theoretical CS and Programming Languages](#theoretical-cs-and-programming-languages)
 - [Embedded Systems](#embedded-systems)
+- [Real time system evaluation](#real-time-system-evaluation)
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
 - [Security](#security)
 - [Computer Graphics](#computer-graphics)
@@ -638,7 +639,15 @@ Courses
   - [NOC:Design for internet of things - IISc Bangalore](https://nptel.ac.in/courses/108/108/108108098/)
 
 
+------------------------------
 
+
+
+### Real time system evaluation
+- [Performance evaluation of Computer systems - IIT Madras](https://nptel.ac.in/courses/106/106/106106048/)
+- [Real Time systems - IIT Karaghpur](https://nptel.ac.in/courses/106/105/106105036/)
+- [EE 380 Colloquim on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
+- [System storages - IISc Bangalore](https://nptel.ac.in/courses/106/108/106108058/)
 
 -------------------------------
 
@@ -923,9 +932,8 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 	- [Blockchain for Developers Decal - Spring 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
 	 - [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/lecture-videos/)
 	 - [15.S12 Blockchain and Money, Fall 2018- MIT ](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
-
-	
-
+	- [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial - FreeCodingCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
+	- [Blockchain - Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome)
 	
 
 -------------------------
