@@ -439,6 +439,7 @@ Courses
 	- [10-725 Convex Optimization, Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
 	- [10-725 Convex Optimization: Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
 	- [CAM 383M - Statistical and Discrete Methods for Scientific Computing, University of Texas](http://granite.ices.utexas.edu/coursewiki/index.php/Main_Page)
+	- [CS224W Machine Learning with Graphs | Spring 2021 | Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 	- [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
 	- [Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLacBNHqv7n9gp9cBMrA6oDbzz_8JqhSKo)
 	- [Regularization Methods for Machine Learning 2016](http://academictorrents.com/details/493251615310f9b6ae1f483126292378137074cd) ([YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO))
