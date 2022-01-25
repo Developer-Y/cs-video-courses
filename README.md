@@ -367,7 +367,7 @@ Courses
 	- [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
 	- [Deep Learning CMU](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
 	- [Part 1: Practical Deep Learning for Coders, v3 - fast.ai](https://course.fast.ai/)
-	- [Part 2: Deep Learning from the Foundations - fast.ai](https://course.fast.ai/part2)
+	- [Part 2: Deep Learning from the Foundations - fast.ai](https://course19.fast.ai/part2)
 	- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 	- [6.S094: Deep Learning for Self-Driving Cars - MIT](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 	- [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
