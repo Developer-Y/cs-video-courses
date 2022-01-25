@@ -4,11 +4,10 @@
 
 - Please check [NOTES](https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md) for general information about this list.
 - Please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md) for contribution guidelines.
-------------------------------
 
-Table of Contents
-------------------------------
+---
 
+## Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
@@ -34,13 +33,12 @@ Table of Contents
 - [Blockchain Development](#blockchain-development)
 - [Misc](#misc)
 
-Courses
-------------------------------
+## Courses
 
 ### Introduction to Computer Science
 
 <details><summary>
-Click to see the videos list
+Click to see the resource list
 </summary><div>
 <ul>
 <li><a href="http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html">CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild</a></li>
@@ -73,10 +71,13 @@ Click to see the videos list
 
 </div></details>
 
-------
+---
 
 ### Data Structures and Algorithms
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/">6.006 - Introduction to Algorithms, MIT OCW</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V">Algorithms: Design and Analysis 1 - Stanford University</a></li>
@@ -125,12 +126,15 @@ Click to see the videos list
 <li><a href="https://nptel.ac.in/courses/106104120/">Parallel Algorithm - IIT Kanpur</a></li>
 <li><a href="https://nptel.ac.in/courses/106108054/">Graph Theory - IISC Bangalore</a></li>
 </ul>
+</div></details>
 
-
----------------------------------
+---
 
 ### Systems Programming
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&amp;maxResults=150">15-213 Introduction to Computer Systems, Fall 2015  - CMU</a></li>
 <li><a href="https://www.cs.uic.edu/CS361fall13">CS361 - COMPUTER SYSTEMS - UIC</a></li>
@@ -180,14 +184,15 @@ Click to see the videos list
 <li><a href="http://www.cse.fau.edu/~bob/courses/map6264/">MAP6264 - Queueing Theory - FAU</a>(<a href="https://vimeo.com/album/171324/">Video Lectures</a>)</li>
 <li><a href="http://web.stanford.edu/class/ee380/">EE 380 Colloquim on Computer Systems - Stanford University</a> (<a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu">Lecture videos</a>)</li>
 </ul>
+</div></details>
 
-
-
-------------------------------------------------------------
-
+---
 
 ### Database Systems
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="http://www.cse.psu.edu/~wul2/cmpsc431w/">CMPSC 431W Database Management Systems, Fall 2015 - Penn State University</a> <a href="https://www.youtube.com/playlist?list=PLstRzn3gXZMdXqAiVJ1NN2CoyXHqma7pQ">Lectures - YouTube</a></li>
 <li><a href="http://users.cms.caltech.edu/~donnie/cs121/">CS121 - Introduction to Relational Database Systems, Fall 2016 - Caltech</a></li>
@@ -212,12 +217,15 @@ Click to see the videos list
 <li><a href="https://open.hpi.de/courses/imdb2013/items/72j6pftms3dOSunM98JhfW">In-Memory Data Management (2013)Prof. Hasso Plattner - HPI</a></li>
 <li><a href="https://www.tele-task.de/series/1285/">Distributed Data Management (WT 2019/20) - Dr. Thorsten Papenbrock - HPI</a></li>
 </ul>
+</div></details>
 
-
-------------------------------
+---
 
 ### Software Engineering
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><strong>Object Oriented Design</strong><ul>
 <li><a href="https://engineering.purdue.edu/OOSD/F2008/F2008.html">ECE 462 Object-Oriented Programming using C++ and Java - Purdue</a></li>
@@ -278,10 +286,15 @@ Click to see the videos list
 </ul>
 </li>
 </ul>
+</div></details>
 
-------------------------------
+---
 
 ### Artificial Intelligence
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://cs50.harvard.edu/ai/2020/">CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW</a></li>
 <li><a href="http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html">CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2015</a></li>
@@ -306,12 +319,15 @@ Click to see the videos list
 <li><a href="https://www.youtube.com/playlist?list=PLoOmvuyo5UAeihlKcWpzVzB51rr014TwD">Semantic Web Technologies by Dr. Harald Sack - HPI</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR">Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack - HPI</a></li>
 </ul>
+</div></details>
 
-
---------------
+---
 
 ### Machine Learning
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><strong>Introduction to Machine Learning</strong><ul>
 <li><a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">MOOC Machine Learning Andrew Ng - Coursera/Stanford</a> (<a href="http://www.holehouse.org/mlclass/">Notes</a>)</li>
@@ -515,13 +531,15 @@ Click to see the videos list
 </ul>
 </li>
 </ul>
+</div></details>
 
-
-
-------------------------------
-
+---
 
 ### Computer Networks
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="http://www.ini740.com/">14-740 - Fundamentals of Computer Networks - CMU</a></li>
 <li><a href="http://www.scs.stanford.edu/10au-cs144/">CS 144 Introduction to Computer Networking - Stanford University, Fall 2013</a> (<a href="https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z">Lecture videos</a>)</li>
@@ -547,12 +565,15 @@ Click to see the videos list
 <li><a href="https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY5VrkObHTckZHwPsS1VCA">Internetworking with TCP/IP by Prof. Dr. Christoph Meinel - HPI</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLFB088DB91845CA34">CS798: Mathematical Foundations of Computer Networking - University of Waterloo</a></li>
 </ul>
+</div></details>
 
-
-
--------------------------
+---
 
 ### Math for Computer Scientist
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://github.com/Developer-Y/math-science-video-lectures">List of Science &amp; Math courses with video lectures</a></li>
 <li><a href="https://www.khanacademy.org/math/">Maths courses all topics covered</a></li>
@@ -614,11 +635,15 @@ Click to see the videos list
 <li><a href="https://www.youtube.com/playlist?list=PLd-PuDzW85AcSgNGnT5TUHt85SrCljT3V">Statistical Computing, Fall 2017 - Notre Dame</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS">Mathematics for Machine Learning, Lectures by Ulrike von Luxburg - Tübingen Machine Learning</a></li>
 </ul>
+</div></details>
 
-
--------------------------
+---
 
 ### Web Programming and Internet Technologies
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="http://live.wdd.io/">Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley</a></li>
 <li><a href="http://cs75.tv/2012/summer/">CS 75 Building Dynamic Websites - Harvard University</a></li>
@@ -634,13 +659,15 @@ Click to see the videos list
 <li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI">MOOC - Web Development - Udacity</a></li>
 <li><a href="https://open.hpi.de/courses/webtech2015/items/4oqxq6euKfhXgHOMwFBxbn">Web Technologies Prof. Dr. Christoph Meinel - HPI</a></li>
 </ul>
+</div></details>
 
-
----------------------------
-
+---
 
 ### Theoretical CS and Programming Languages
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a">MOOC - Compilers - Stanford University</a></li>
 <li><a href="https://sites.google.com/a/bodik.org/cs164/home">CS 164 Hack your language, UC Berkeley</a> (<a href="https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F">Lectures - Youtube</a>)</li>
@@ -690,10 +717,15 @@ Click to see the videos list
 <li><a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3YypJNaF6sRAf2zC1QzMuTA">Analysis of Boolean Functions at CMU</a></li>
 <li><a href="http://ais.informatik.uni-freiburg.de/teaching/ss15/bridging/">Theoretical Computer Science (Bridging Course)(Tutorial) - SS 2015</a></li>
 </ul>
+</div></details>
 
--------------------------------
+---
 
 ### Embedded Systems
+
+<details><summary>
+Click to see the resource list
+</summary><div>
  <ul>
 <li><a href="http://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm">EE319K Embedded Systems - UT Austin</a><ul>
 <li><a href="https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA">EE445L Embedded Systems Design Lab, Fall 2015, UTexas</a></li>
@@ -724,26 +756,30 @@ Click to see the videos list
 </ul>
 </li>
 </ul>
+</div></details>
 
-
-
-------------------------------
-
-
+---
 
 ### Real time system evaluation
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://nptel.ac.in/courses/106/106/106106048/">Performance evaluation of Computer systems - IIT Madras</a></li>
 <li><a href="https://nptel.ac.in/courses/106/105/106105036/">Real Time systems - IIT Karaghpur</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu">EE 380 Colloquim on Computer Systems - Stanford University</a></li>
 <li><a href="https://nptel.ac.in/courses/106/108/106108058/">System storages - IISc Bangalore</a></li>
 </ul>
+</div></details>
 
--------------------------------
-
-
+---
 
 ### Computer Organization and Architecture
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><strong>Computer Organization</strong><ul>
 <li><a href="http://aduni.org/courses/hcw/index.php?view=cw">How Computers Work - Aduni</a></li>
@@ -796,11 +832,15 @@ Click to see the videos list
 <li><a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_gntM55VoMlKlw7YrXOhbl">Onur Mutlu @ TU Wien 2019 - Memory Systems</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9">Memory Systems Course - Technion, Summer 2018</a></li>
 </ul>
+</div></details>
 
-
--------
+---
 
 ### Security
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://www.tele-task.de/series/1227/">Internet Security (WT 2018/19) - HPI University of Potsdam</a></li>
 <li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/">6.858 Computer Systems Security - MIT OCW</a></li>
@@ -832,12 +872,15 @@ Click to see the videos list
 <li><a href="https://asecuritysite.com/CSN11128">CSN11128 - Incident Response and Malware Analysus - Bill Buchanan - Edinburgh Napier</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLoOmvuyo5UAdsi-IacgZJQF1MRw0Ee-HH">Internet Security for Beginners by Dr. Christoph Meinel - HPI</a></li>
 </ul>
+</div></details>
 
-
--------
+---
 
 ### Computer Graphics
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html">CS184 - Computer Graphics, Fall 2012 - UC Berkeley</a></li>
 <li><a href="https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10">ECS 175 - Computer Graphics, Fall 2009 - UC Davis</a></li>
@@ -858,12 +901,15 @@ Click to see the videos list
 <li><a href="http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html">CS 468 - Differential Geometry for Computer Science - Stanford University</a> (<a href="https://www.youtube.com/playlist?list=PL_deCdukpyu1rdH85XsEEREbpoqEauiJl">Lecture videos</a>)</li>
 <li><a href="http://15462.courses.cs.cmu.edu/fall2020/">CMU 15-462/662: Computer Graphics</a></li>
 </ul>
+</div></details>
 
-
--------
+---
 
 ### Image Processing and Computer Vision
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs">MOOC - Digital Image procesing - Duke/Coursera</a></li>
 <li><a href="http://www.klewel.com/conferences/epfl-computer-vision/">Computer Vision 2011 - EPFL, Switzerland</a></li>
@@ -898,12 +944,15 @@ Click to see the videos list
 <li><a href="https://www.ipb.uni-bonn.de/photo1-2020/">Photogrammetry 1 Course – 2020 - University of Bonn</a></li>
 <li><a href="https://www.ipb.uni-bonn.de/photo2-2020/">Photogrammetry II Course 2020/21 - University of Bonn</a></li>
 </ul>
+</div></details>
 
+---
 
-
-
---------------------------------
 ### Computational Biology
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="http://web.cs.ucdavis.edu/~gusfield/cs124videos/videolist.html">ECS 124 - Foundations of Algorithms for Bioinformatics - Dan Gusfield, UC Davis</a> (<a href="https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL">YouTube</a>)</li>
 <li><a href="https://www.youtube.com/playlist?list=PLA48145CC64FE7990">CSE549 - Computational Biology - Steven Skiena - 2010 SBU</a></li>
@@ -925,11 +974,15 @@ Click to see the videos list
 <li><a href="https://nptel.ac.in/courses/102/106/102106068/">NOC:Computational Systems Biology - IIT Madras</a></li>
 <li><a href="https://nptel.ac.in/courses/102/106/102106065/">NOC:BioInformatics:Algorithms and Applications - IIT Madras</a></li>
 </ul>
+</div></details>
 
+---
 
-
-----------------------------------
 ### Quantum Computing
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://www.cs.cmu.edu/~odonnell/quantum18/">15-859BB: Quantum Computation and Quantum Information 2018 - CMU</a> (<a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz">Youtube</a>)</li>
 <li><a href="https://www.youtube.com/playlist?list=PL_onPhFCkVQi2O405SkNf3hv-7HXnZnMm">Quantum Mechanics for Scientists and Engineers</a></li>
@@ -940,10 +993,15 @@ Click to see the videos list
 <li><a href="https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-2/">The Building Blocks of a Quantum Computer: Part 2 - TU Delft</a></li>
 <li><a href="https://ocw.tudelft.nl/courses/quantum-cryptography/">Quantum Cryptography - TU Delft</a></li>
 </ul>
+</div></details>
 
+---
 
-----------------------------------
 ### Robotics
+
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://see.stanford.edu/Course/CS223A">CS 223A - Introduction to Robotics, Stanford University</a></li>
 <li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/">6.832 Underactuated Robotics - MIT OCW</a></li>
@@ -986,13 +1044,15 @@ Click to see the videos list
 <li><a href="https://www.ipb.uni-bonn.de/msr1-2020/">Mobile Sensing and Robotics 1 – Part Stachniss (Jointly taught with PhoRS) - University of Bonn</a></li>
 <li><a href="https://www.ipb.uni-bonn.de/msr2-2020/">Mobile Sensing and Robotics 2 – Stachniss &amp; Klingbeil/Holst - University of Bonn</a></li>
 </ul>
+</div></details>
 
-
-
-----------------------------------
+---
 
 ### Computational Finance
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1">COMP510 - Computational Finance - Steven Skiena - 2007 HKUST</a></li>
 <li><a href="http://academictorrents.com/details/dfc1ddde962101f00ef9764b91181bd6bb5c9e93">MOOC - Mathematical Methods for Quantitative Finance, University of Washington/Coursera)</a></li>
@@ -1010,13 +1070,15 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 </ul>
 </li>
 </ul>
+</div></details>
 
-
-
-----------------------------------
+---
 
 ### Blockchain Development
 
+<details><summary>
+Click to see the resource list
+</summary><div>
 
 <ul>
 <li><strong>Blockchain and Cryptocurrencies</strong><ul>
@@ -1035,18 +1097,15 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 </ul>
 </li>
 </ul>
-
+</div></details>
 	 
 -------------------------
 
-
-
-
-
-
-
 ### Misc
-	
+
+<details><summary>
+Click to see the resource list
+</summary><div>	
 <ul>
 <li><strong>HCI</strong><ul>
 <li><a href="https://hci.stanford.edu/courses/cs147/2015/au/calendar.php">CS147 - Introduction to Human-Computer Interaction Design - Stanford</a></li>
@@ -1087,5 +1146,4 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 <li><a href="https://www.tele-task.de/series/1206/">Design Thinking for Digital Engineering (SS 2018) - Dr. Julia von Thienen - HPI</a></li>
 <li><a href="http://snap.stanford.edu/class/cs224w-videos-2017/">CS224w – Social Network Analysis – Autumn 2017 - Stanford University</a></li>
 </ul>
-
-
+</div></details>
