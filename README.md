@@ -560,7 +560,7 @@ Courses
 - [MOOC - Web Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI)
 - [Web Technologies Prof. Dr. Christoph Meinel - HPI](https://open.hpi.de/courses/webtech2015/items/4oqxq6euKfhXgHOMwFBxbn)
 - [Full Stack Open Prof. Dr. Matti Luukkainen
- - University of Finland](https://fullstackopen.com/en/)
+ - University of Helsinki](https://fullstackopen.com/en/)
 
 ---------------------------
 
