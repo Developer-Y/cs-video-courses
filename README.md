@@ -116,6 +116,7 @@ Courses
 - [Computer Algorithms - 2 - IIT Kanpur](https://nptel.ac.in/courses/106104019/)
 - [Parallel Algorithm - IIT Kanpur](https://nptel.ac.in/courses/106104120/)
 - [Graph Theory - IISC Bangalore](https://nptel.ac.in/courses/106108054/)
+- [Data Structures - mycodeschool](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 ---------------------------------
 
