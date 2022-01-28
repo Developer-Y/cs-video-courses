@@ -547,6 +547,7 @@ Courses
 -------------------------
 
 ### Web Programming and Internet Technologies
+- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 - [Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley](http://live.wdd.io/)
 - [CS 75 Building Dynamic Websites - Harvard University](http://cs75.tv/2012/summer/)
 - [Internet Technology - IIT Kharagpur](https://nptel.ac.in/courses/106105084/)
@@ -931,6 +932,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 	- [08-763 Intro to HCI for Technology Executives - Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%228bb9f417-9f60-4e00-84f6-4ef8e7425ae1%22&maxResults=150)
 	- [05-600 HCI Pro Seminar - Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d885fd87-1ba1-47a3-9bd2-c4bde55f9749%22&maxResults=150)
 - **Game Development**
+ 	- [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
 	- [MOOC - Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
 - **Geospatial**
