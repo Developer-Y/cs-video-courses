@@ -82,6 +82,7 @@ Courses
 - [Data Structures - Pepperdine University](https://itunes.apple.com/us/course/data-structures/id546468797)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [6.046J - Introduction to Algorithms - Fall 2005, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
+- [Introduction to Algorithms (Spring 2020), MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)
 - [6.046 - Design and Analysis of Algorithms, Spring 2015 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
 - [CS 473 - Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html) ([Notes - Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)) ([YouTube](https://www.youtube.com/playlist?list=PL0v718LJg-78SFq81e4kJh_rS8XbKZ7Kn))
 - [COMP300E - Programming Challenges, Prof Skiena, Hong Kong University of Science and Technology - 2009](https://www.youtube.com/playlist?list=PL07B3F10B48592010)
