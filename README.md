@@ -875,6 +875,8 @@ Courses
 - [Self-Driving Cars - Cyrill Stachniss - Winter 2020/21 - University of Bonn) ](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD)
 - [Mobile Sensing and Robotics 1 – Part Stachniss (Jointly taught with PhoRS) - University of Bonn](https://www.ipb.uni-bonn.de/msr1-2020/)
 - [Mobile Sensing and Robotics 2 – Stachniss & Klingbeil/Holst - University of Bonn](https://www.ipb.uni-bonn.de/msr2-2020/)
+- [Aerial Robotics - University of Pennsylvania (UPenn)](https://www.youtube.com/playlist?list=PLblGgzWkqSqM7IWsgjDetdzZDS1NbkTnd)
+- [Modern Robotics - Northwestern University](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
 
 
 ----------------------------------
