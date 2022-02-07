@@ -127,6 +127,7 @@ Table of Contents
 
 - [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
 - [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/CS361fall13)
+- [CS 3650 - Computer Systems - Fall 2020 - Nat Tuck - NEU](https://web.archive.org/web/20210423030302/https://ntuck-neu.site/2020-09/cs3650/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLtg_A_3rzLAtBuwQp6mA3WveYw9Q7GzIZ))
 - [CS 4400 – Computer Systems   Fall 2016 - UoUtah](https://www.eng.utah.edu/~cs4400/)
 - [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
 - [CS110: Principles of Computer Systems - Stanford](https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/)
