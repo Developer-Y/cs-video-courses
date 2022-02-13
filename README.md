@@ -89,6 +89,7 @@ Table of Contents
 - [CS 473 - Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html) ([Notes - Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)) ([YouTube](https://www.youtube.com/playlist?list=PL0v718LJg-78SFq81e4kJh_rS8XbKZ7Kn))
 - [COMP300E - Programming Challenges, Prof Skiena, Hong Kong University of Science and Technology - 2009](https://www.youtube.com/playlist?list=PL07B3F10B48592010)
 - [16s-4102 - Algorithms, University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
+- [CS 61B - Data Structures (Java) - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61b/)([Youtube](https://www.youtube.com/watch?v=gG4--V_PpEk&list=PLjuu7kFWxFtZBm-5GifiVpqdAxeW7Hsax))
 - [CS 170 Algorithms - UCBerkeley](https://cs170.org/) [Fall 2018, Youtube](https://www.youtube.com/watch?v=fd5P-8IQwMY&list=PLkFD6_40KJIx8lWWbE-Uk069aZ1R-W-VU&index=2&t=0s) [Fall 2018,Bilibili](https://www.bilibili.com/video/av43955743/?p=1) [2013 Bilibili](https://www.bilibili.com/video/av26670685/)
 - [ECS 122A - Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
 - [CSEP 521 - Applied Algorithms, Winter 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep521/13wi/) ([Videos](https://courses.cs.washington.edu/courses/csep521/13wi/video/))
