@@ -943,7 +943,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Computing for Computer Scientists - University of Michigan](https://c4cs.github.io)
 - [Linux Implementation/Administration Practicum - Redhat by Tulio Llosa](https://itunes.apple.com/us/itunes-u/linux-implementation-administration/id430673915)
 - [SIMS 141 - Search Engines - Fall 2005 UCBerkeley](https://www.youtube.com/view_play_list?p=1777A89066B1D71D)
-- [Innovative Computing - Harvard University](https://www.youtube.com/course?list=ECE3E96113F544495A)
+- [Innovative Computing - Harvard University](https://www.youtube.com/playlist?list=PLE3E96113F544495A)
 - [Linux Programming & Scripting - IIT Madras](https://nptel.ac.in/courses/117106113/)
 - [Model Checking - IIT Madras](https://nptel.ac.in/courses/106106136/)
 - [Virtual Reality - IIT Madras](https://nptel.ac.in/courses/106106138/)
