@@ -207,7 +207,7 @@ Table of Contents
   - [CS 251 - Intermediate Software Design (C++ version) - Vanderbilt University](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4ZsvD10uXmClGnukcu3Uff)
   - [OOSE - Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
   - [Object-Oriented Analysis and Design - IIT Kharagpur](https://nptel.ac.in/courses/106105153/)
-  - [CS3 - Design in Computing - Richard Buckland UNSW](https://www.youtube.com/course?list=EC0C5D85DBA20E685C)
+  - [CS3 - Design in Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL0C5D85DBA20E685C)
   - [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
   - [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
 - **Software Engineering**
