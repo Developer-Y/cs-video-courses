@@ -67,6 +67,7 @@ Table of Contents
 - [6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 - [Modern C++ Course (2018) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
 - [Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
+- [Inroduction to computer sceince and programming- Full course) - Freecode camp](https://www.youtube.com/watch?v=zOjov-2OZ0E&vl=en)
 
 ------------------------------
 
@@ -120,6 +121,8 @@ Table of Contents
 - [Parallel Algorithm - IIT Kanpur](https://nptel.ac.in/courses/106104120/)
 - [Graph Theory - IISC Bangalore](https://nptel.ac.in/courses/106108054/)
 - [Data Structures - mycodeschool](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+- [Data Structures easy to advance- Freecode camp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
 
 ------------------------------
 
@@ -167,6 +170,7 @@ Table of Contents
 - [Storage Systems - IISC Bangalore](https://nptel.ac.in/courses/106108058/)
 - [MAP6264 - Queueing Theory - FAU](http://www.cse.fau.edu/~bob/courses/map6264/)([Video Lectures](https://vimeo.com/album/171324/))
 - [EE 380 Colloquim on Computer Systems - Stanford University](http://web.stanford.edu/class/ee380/) ([Lecture videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu))
+- [Operating System Full Course | Operating System Tutorials for Beginners - Academic lesson](https://www.youtube.com/watch?v=mXw9ruZaxzQ)
 
 ------------------------------
 
@@ -566,6 +570,8 @@ Table of Contents
 - [CSCI 5710 e-Commerce Implementation, Fall 2015 - ETSU iTunes](https://itunes.apple.com/us/itunes-u/e-commerce-implementation/id1020427670)
 - [MOOC - Web Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI)
 - [Web Technologies Prof. Dr. Christoph Meinel - HPI](https://open.hpi.de/courses/webtech2015/items/4oqxq6euKfhXgHOMwFBxbn)
+- [Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka](https://www.youtube.com/watch?v=Q33KBiDriJY)
+- [Introduction to Web Development- FutureLearn](https://www.futurelearn.com/courses/introduction-to-web-development)
 
 ------------------------------
 
@@ -911,12 +917,16 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
   - [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/lecture-videos/)
   - [15.S12 Blockchain and Money, Fall 2018 - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
   - [Blockchain - Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome)
+  - [Cryptocurrency Full Course | Cryptocurrency For Beginners | Cryptocurrency Explained ](https://www.youtube.com/watch?v=dgjZ2fHg4y4)
+  - - [Introduction to Blockchain Technology and Applications ](https://www.futurelearn.com/courses/introduction-to-blockchain-dlt)
+  
 - **Become Blockchain Developer**
   - [Solidity for Beginners - Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu) 
   - [Master Solidity - Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
   - [IPFS Inter Planetary File System  Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgWggD3tKfgwsIPXuIhorXZk)
-  - [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial - FreeCodingCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
+  - [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
   - [Web 3.0 - Build Realtime Decentralized applications](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVV6ah1fo2IvlHk1kTCy6un)
+ - [Ethereum Smart Contract Development Tutorial | Udemy instructor, Sebastien Arbogast](https://www.youtube.com/watch?v=5ZsG5NkBmxU)
 
 ------------------------------
 
