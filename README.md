@@ -432,7 +432,8 @@ Table of Contents
   - [Deep Learning for Natural Language Processing, 2017 - Oxford University](https://github.com/oxford-cs-deepnlp-2017/lectures)
   - [Accelerated Natural Language Processing 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/anlp.htm)
   - [Natural Language Processing - IIT Bombay](https://nptel.ac.in/courses/106101007/)
-  - [CS 11-747 - Neural Nets for NLP - 2019 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
+  - [CMU Advanced NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+  - [CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
   - [Natural Language Processing - Michael Collins - Columbia University](https://www.youtube.com/playlist?list=PLA212ij5XG8OTDRl8IWFiJgHR9Ve2k9pv)
   - [CMU CS11-737 - Multilingual Natural Language Processing](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
   - [UMass CS685: Advanced Natural Language Processing (Spring 2022)](https://www.youtube.com/playlist?list=PLWnsVgP6CzadI4-FT2Po4wsEK7MHCIQ-d)
@@ -718,6 +719,7 @@ Table of Contents
 
 - [Internet Security (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1227/)
 - [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+- [CS 253 Web Security - Stanford University](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
 - [CS 161: Computer Security, UC Berkeley](https://cs161.org/)
 - [6.875 - Cryptography - Spring 2018- MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 - [CSEP590A - Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](https://courses.cs.washington.edu/courses/csep590a/11wi/video/))
