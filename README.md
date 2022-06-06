@@ -397,6 +397,7 @@ Table of Contents
   - [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
   - [Nvidia Machine Learning Class](https://www.youtube.com/playlist?list=PLTIkHmXc-7an8xbwhAJX-LQ4D4Uf-ar5I)
   - [Deep Learning - Winter 2020-21 - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
+  - [Geometric Deep Learning - AMMI](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
 - **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -807,7 +808,7 @@ Table of Contents
 - [Modern C++ Course For CV (2020) - University of Bonn](https://www.ipb.uni-bonn.de/teaching/cpp-2020/lectures)
 - [Photogrammetry 1 Course – 2020 - University of Bonn](https://www.ipb.uni-bonn.de/photo1-2020/)
 - [Photogrammetry II Course 2020/21 - University of Bonn](https://www.ipb.uni-bonn.de/photo2-2020/)
-
+- [3D Computer Vision - National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 ------------------------------
 
 ### Computational Biology
