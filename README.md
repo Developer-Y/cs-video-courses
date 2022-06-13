@@ -73,7 +73,7 @@ Table of Contents
 
 ### Data Structures and Algorithms
 
-- [6.006 - Introduction to Algorithms, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+- [6.006 - Introduction to Algorithms, MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)
 - [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Algorithms: Design and Analysis 2 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
 - [COS 226 Algorithms, Youtube, Princeton - by Robert Sedgewick and Kevin Wayne](https://www.youtube.com/watch?v=1QZDe28peZk&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&index=1)
