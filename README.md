@@ -73,6 +73,7 @@ Table of Contents
 
 ### Data Structures and Algorithms
 
+- [Programming and Data Structures with Python, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/python2021sep/)
 - [6.006 - Introduction to Algorithms, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Algorithms: Design and Analysis 2 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
@@ -415,6 +416,7 @@ Table of Contents
   - [Reinforcement Learning Course at KTH (FDD3359 - 2022)](https://www.youtube.com/playlist?list=PL21JFJEtbq0JLNo53UIkbIwkc2njCVUUR)
   - [Reinforcement Learning Course at ASU, Spring 2022](https://www.youtube.com/playlist?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj)
 - **Advanced Machine Learning**
+  - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
   - [Machine Learning 2013 - Nando de Freitas, UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
   - [Machine Learning, 2014-2015, University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   - [10-702/36-702 - Statistical Machine Learning - Larry Wasserman, Spring 2016, CMU](https://www.stat.cmu.edu/~ryantibs/statml/) ([Spring 2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r))
