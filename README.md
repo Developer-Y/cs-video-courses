@@ -74,7 +74,7 @@ Table of Contents
 ### Data Structures and Algorithms
 
 - [Programming and Data Structures with Python, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/python2021sep/)
-- [6.006 - Introduction to Algorithms, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+- [6.006 - Introduction to Algorithms, MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)
 - [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Algorithms: Design and Analysis 2 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
 - [COS 226 Algorithms, Youtube, Princeton - by Robert Sedgewick and Kevin Wayne](https://www.youtube.com/watch?v=1QZDe28peZk&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&index=1)
@@ -517,6 +517,7 @@ Table of Contents
   - [18.02 Multivariable Calculus, Fall 2007 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
   - [18.03 Differential Equations, Spring 2010 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
   - [Highlights of Calculus - Gilbert Strang, MIT OCW](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
+  - [Vector Calculus for Engineers - HKUST](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
 - **Discrete Math**
   - [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) ([Spring 15](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm))
   - [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
@@ -526,6 +527,7 @@ Table of Contents
   - [Discrete Mathematical Structures - IIT Madras](https://nptel.ac.in/courses/106106094/)
   - [Discrete Structures - Pepperdine University](https://itunes.apple.com/us/course/discrete-structures/id546468789)
 - **Probability & Statistics**
+  - [Statistics - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
   - [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
   - [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
   - [STAT 2.1x: Descriptive Statistics | UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu56TfFnGlRlH2YpOBWGiYsQD)
@@ -583,7 +585,7 @@ Table of Contents
 ### Theoretical CS and Programming Languages
 
 - [MOOC - Compilers - Stanford University](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a)
-- [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F))
+- [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS))
 - [Theory of computation - Shai Simonson](http://www.aduni.org/courses/theory/index.php?view=cw)
 - [CS 173 Programming Languages, Brown University](http://cs.brown.edu/courses/cs173/2012/Videos/) ([Book](http://cs.brown.edu/courses/cs173/2012/book/))
 - [CS 421 - Programming Languages and Compilers, UIUC](https://courses.engr.illinois.edu/cs421/fa2014/)
