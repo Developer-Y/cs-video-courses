@@ -583,7 +583,7 @@ Table of Contents
 ### Theoretical CS and Programming Languages
 
 - [MOOC - Compilers - Stanford University](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a)
-- [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F))
+- [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS))
 - [Theory of computation - Shai Simonson](http://www.aduni.org/courses/theory/index.php?view=cw)
 - [CS 173 Programming Languages, Brown University](http://cs.brown.edu/courses/cs173/2012/Videos/) ([Book](http://cs.brown.edu/courses/cs173/2012/book/))
 - [CS 421 - Programming Languages and Compilers, UIUC](https://courses.engr.illinois.edu/cs421/fa2014/)
