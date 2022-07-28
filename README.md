@@ -154,6 +154,7 @@ Table of Contents
   - [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
   - [6.824 - Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
   - [6.824 Distributed Systems - Spring 2020 - MIT](https://pdos.csail.mit.edu/6.824/schedule.html) ([Youtube](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB))
+  - [Distributed Systems Lecture Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   - [Distributed Algorithms, https://canvas.instructure.com/courses/902299](https://www.youtube.com/playlist?list=PL700757A5D4B3F368)
   - [CSEP 552 - PMP Distributed Systems, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep552/13sp/) ([Videos](https://courses.cs.washington.edu/courses/csep552/13sp/video/))
   - [CSE 490H - Scalable Systems: Design, Implementation and Use of Large Scale Clusters, Autumn 2008 - University of Washington](https://courses.cs.washington.edu/courses/cse490h/08au/lectures.htm) ([Videos](https://courses.cs.washington.edu/courses/cse490h/08au/video.htm))
