@@ -592,7 +592,7 @@ Table of Contents
 - [Theory of computation - Shai Simonson](http://www.aduni.org/courses/theory/index.php?view=cw)
 - [CS 173 Programming Languages, Brown University](http://cs.brown.edu/courses/cs173/2012/Videos/) ([Book](http://cs.brown.edu/courses/cs173/2012/book/))
 - [CS 421 - Programming Languages and Compilers, UIUC](https://courses.engr.illinois.edu/cs421/fa2014/)
-- [CSC 253 - CPython internals: A ten-hour codewalk through the Python interpreter source code, University of Rochester](http://pgbovine.net/cpython-internals.htm)
+- [CSC 253 - CPython internals: A ten-hour codewalk through the Python interpreter source code, University of Rochester](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 - [CSE341 - Programming Languages, Dan Grossman, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
 - [CSEP 501 - Compiler Construction, University of Washington](https://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C))
 - [CSEP 505 Programming Languages, Winter 2015 - University of Washington](https://courses.cs.washington.edu/courses/csep505/15wi/video/)
