@@ -240,7 +240,7 @@ Table of Contents
   - [Parallel Programming Concepts (WT 2012/13) - HPI University of Potsdam](https://www.tele-task.de/series/924/)
 - **Mobile Application Development**
   - [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
-  - [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
+  - [CS 193p - Developing Applications for iOS, Stanford University](https://cs193p.sites.stanford.edu/)
   - [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
   - [CS 251 (2015): Intermediate Software Design](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne)
   - [Android App Development for Beginners Playlist - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
