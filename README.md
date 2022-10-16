@@ -569,7 +569,7 @@ Table of Contents
 
 ### Web Programming and Internet Technologies
 - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-- [Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley](http://live.wdd.io/)
+- [Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley](http://wdd.io/)
 - [CS 75 Building Dynamic Websites - Harvard University](http://cs75.tv/2012/summer/)
 - [Internet Technology - IIT Kharagpur](https://nptel.ac.in/courses/106105084/)
 - [Introduction to Modern Application Development - IIT Madras](https://nptel.ac.in/courses/106106156/)
