@@ -905,6 +905,7 @@ Table of Contents
 - [Mobile Sensing and Robotics 2 – Stachniss & Klingbeil/Holst - University of Bonn](https://www.ipb.uni-bonn.de/msr2-2020/)
 - [Aerial Robotics - University of Pennsylvania (UPenn)](https://www.youtube.com/playlist?list=PLblGgzWkqSqM7IWsgjDetdzZDS1NbkTnd)
 - [Modern Robotics - Northwestern University](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
+- [ROB 530 MOBILE ROBOTICS at U of Michigan - WINTER 2022 -- Instructor: Maani Ghaffari](https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F)
 
 ------------------------------
 
