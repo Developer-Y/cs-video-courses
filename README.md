@@ -702,6 +702,7 @@ Table of Contents
   - [Computer Architecture - IIT Kanpur](https://nptel.ac.in/courses/106104122/)
   - [Computer Architecture - IIT Madras](https://nptel.ac.in/courses/106106134/)
   - [High Performance Computer Architecture - IIT Kharagpur](https://nptel.ac.in/courses/106105033/)
+  - [BE5B35APO - Computer Architectures, Spring 2022, CTU - FEE](https://cw.fel.cvut.cz/b212/courses/b35apo/en/lectures/start) ([YouTube - Spring 2022](https://www.youtube.com/playlist?list=PLQL6z4JeTTQnTrML7HgagbjdpCtvdyu0M)) ([RISC-V simulator - QtRvSim](https://comparch.edu.cvut.cz/))
 - **Parallel Computer Architecture**
   - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
   - [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
