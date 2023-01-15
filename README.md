@@ -759,6 +759,7 @@ Table of Contents
 - [CSN08704 - Telecommunications - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn08704)
 - [CSN11128 - Incident Response and Malware Analysis - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/CSN11128)
 - [Internet Security for Beginners by Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAdsi-IacgZJQF1MRw0Ee-HH)
+- [Offensive Security and Reverse Engineering, Chaplain University by Ali Hadi](https://www.youtube.com/playlist?list=PLCS2zI95IiNybAAQ0HL88YzwRpLXje5y6)
 
 ------------------------------
 
