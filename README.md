@@ -200,6 +200,7 @@ Table of Contents
 - [D4M - Signal Processing on Databases](https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/)
 - [In-Memory Data Management (2013)Prof. Hasso Plattner - HPI](https://open.hpi.de/courses/imdb2013/items/72j6pftms3dOSunM98JhfW)
 - [Distributed Data Management (WT 2019/20) - Dr. Thorsten Papenbrock - HPI](https://www.tele-task.de/series/1285/)
+- [CS122d - NoSQL Data Management (Spring 21) - Prof. Mike Carey - UC Irvine](https://uci.yuja.com/V/PlayList?node=9933576&a=1583628376&autoplay=1)
 
 ------------------------------
 
