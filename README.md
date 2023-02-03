@@ -456,7 +456,6 @@ Table of Contents
   - [CS 224N - Deep Learning for Natural Language Processing, Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
   - [CS 224N - Natural Language Processing, Stanford University](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) ([Lecture videos](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv))
   - [CS 124 - From Languages to Information - Stanford University](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists?view=50&sort=dd&shelf_id=2)
-  - [MOOC - Natural Language Processing, Dan Jurafsky & Chris Manning - Coursera](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
   - [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) ([Github](https://github.com/fastai/course-nlp))
   - [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
   - [Natural Language Processing at UT Austin (Greg Durrett)](https://www.youtube.com/playlist?list=PLofp2YXfp7Tbk88uH4jejfXPd2OpWuSLq)
