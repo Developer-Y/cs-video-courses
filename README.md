@@ -1029,3 +1029,4 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Business Process Compliance (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/979/)
 - [Design Thinking for Digital Engineering (SS 2018) - Dr. Julia von Thienen - HPI](https://www.tele-task.de/series/1206/)
 - [CS224w – Social Network Analysis – Autumn 2017 - Stanford University](http://snap.stanford.edu/class/cs224w-videos-2017/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
