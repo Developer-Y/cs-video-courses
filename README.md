@@ -224,7 +224,7 @@ Table of Contents
   - [Computer Science 169- Software Engineering - Fall 2019 - UCBerkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxCKgzL0uysjsAtfY3JawLS)
   - [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
   - [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
-  - [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
+  - [CS 164 Software Engineering - Harvard](https://youtube.com/playlist?list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS)
   - [System Analysis and Design - IISC Bangalore](https://nptel.ac.in/courses/106108102/)
   - [Software Engineering - IIT Bombay](https://nptel.ac.in/courses/106101061/)
   - [Dependable Systems (SS 2014)- HPI University of Potsdam](https://www.tele-task.de/series/1005/)
