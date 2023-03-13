@@ -624,6 +624,7 @@ Table of Contents
 ### Theoretical CS and Programming Languages
 
 - [MOOC - Compilers - Stanford University](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a)
+- [CS 6120: Advanced Compilers: The Self-Guided Online Course - Cornell University](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS))
 - [Theory of computation - Shai Simonson](http://www.aduni.org/courses/theory/index.php?view=cw)
 - [CS 173 Programming Languages, Brown University](http://cs.brown.edu/courses/cs173/2012/Videos/) ([Book](http://cs.brown.edu/courses/cs173/2012/book/))
