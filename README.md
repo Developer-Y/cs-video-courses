@@ -908,8 +908,9 @@ Table of Contents
 - [The Building Blocks of a Quantum Computer: Part 1 - TU Delft](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-1/)
 - [The Building Blocks of a Quantum Computer: Part 2 - TU Delft](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-2/)
 - [Quantum Cryptography - TU Delft](https://ocw.tudelft.nl/courses/quantum-cryptography/)
-- [Introduction to Quantum Information](https://zhenyucai.com/post/intro_to_qi/
-)
+- [Introduction to Quantum Information](https://zhenyucai.com/post/intro_to_qi/)
+- [Quantum Computing for Everyone -- Part 1](https://www.youtube.com/playlist?list=PLfOgkuiMs5qApXtgIMREPicgbYIGjbf8e) ([Part 2](https://www.youtube.com/playlist?list=PLfOgkuiMs5qB-0J07mphWZ19j9Gll33ZU))
+- [Quantum Computer Systems – UChicago](https://www.youtube.com/playlist?list=PLfOgkuiMs5qCa8BUrFMumyvPqeoOL-iu8)
 ------------------------------
 
 ### Robotics
