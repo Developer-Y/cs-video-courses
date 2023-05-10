@@ -1,5 +1,7 @@
 # This is a test for push action in git!
 
+This is second commit!
+
 ## Introduction
 
 - Please check [NOTES](https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md) for general information about this list.
