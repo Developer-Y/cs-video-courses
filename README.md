@@ -1,4 +1,4 @@
-# Computer Science courses with video lectures
+# This is a test for push action in git!
 
 ## Introduction
 
