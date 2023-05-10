@@ -1,4 +1,4 @@
-# This is a test for push action in git!
+# This is a test for conflict! v1.0
 
 ## Introduction
 
