@@ -1,4 +1,5 @@
 # This is second test for conflict! v2.0
+# This is a test for conflict! v1.0
 
 This is second commit!
 
