@@ -1,4 +1,4 @@
-# This is a test for push action in git!
+# This is second test for conflict! v2.0
 
 This is second commit!
 
