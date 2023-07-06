@@ -112,7 +112,6 @@ Table of Contents
 - [Programming and Data structures (PDS) - IIT Madras](https://nptel.ac.in/courses/106106130/)
 - [COP 5536 Advanced Data Structures, Prof Sahni - UFL](http://www.cise.ufl.edu/~sahni/cop5536/index.html) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop5536sahni/))
 - [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
-- [Informatics 2B - Algorithms, Data Structures and Learning- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2013/inf2b-adsl.htm)
 - [CS 224 - Advanced Algorithms, Harvard University](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) ([Lecture Videos](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf))
 - [CS 6150 - Advanced Algorithms (Fall 2016), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCp8X9FHOglnLqFjyvqGLftx)
 - [CS 6150 - Advanced Algorithms (Fall 2017), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCqS9Z419eky9m6gJP7zfhO9)
@@ -155,6 +154,7 @@ Table of Contents
   - [Introduction to Operating Systems - IIT Madras](https://nptel.ac.in/courses/106106144/)
   - [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013 InfoCoBuild, UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
   - [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
+  - [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 - **Distributed Systems**
   - [CS 677 - Distributed Operating Systems, Spring 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
   - [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
@@ -294,7 +294,6 @@ Table of Contents
 ### Machine Learning
 
 - **Introduction to Machine Learning**
-  - [MOOC Machine Learning Andrew Ng - Coursera/Stanford](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) ([Notes](http://www.holehouse.org/mlclass/))
   - [Introduction to Machine Learning for Coders](https://course18.fast.ai/ml)
   - [MOOC - Statistical Learning, Stanford University](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
   - [Foundations of Machine Learning Boot Camp, Berkeley Simons Institute](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
@@ -309,7 +308,7 @@ Table of Contents
   - [Stanford CS229: Machine Learning Course | Summer 2019 (Anand Avati)](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
   - [CMS 165 Foundations of Machine Learning and Statistical Inference - 2020 - Caltech](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
   - [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
-  - [CS 446 - Machine Learning, Spring 2019, UIUC](https://courses.engr.illinois.edu/cs446/sp2019/AGS/_site/) ([Fall 2016 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91TgY6A_gz-IW7YSpwdnD2O))
+  - [CS 446 - Machine Learning, Fall 2016, UIUC](https://www.youtube.com/playlist?list=PLQcasX5-oG91TgY6A_gz-IW7YSpwdnD2O)
   - [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
   - [CS 229 - Machine Learning - Stanford University](https://see.stanford.edu/Course/CS229) ([Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU))
   - [CS 189/289A Introduction to Machine Learning, Prof Jonathan Shewchuk - UCBerkeley](https://people.eecs.berkeley.edu/~jrs/189/)
@@ -523,7 +522,6 @@ Table of Contents
 
 ### Computer Networks
 
-- [14-740 - Fundamentals of Computer Networks - CMU](https://www.andrew.cmu.edu/course/14-740-s18/index/lecture_index.html)
 - [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](http://www.scs.stanford.edu/10au-cs144/) ([Lecture videos](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z))
 - [Computer Communication Networks, Rensselaer Polytechnic Institute - Fall 2001](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html) ([Videos](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_video)) ([Slides](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_foils))
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
