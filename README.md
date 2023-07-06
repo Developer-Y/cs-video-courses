@@ -1,11 +1,13 @@
+<!-- omit in toc -->
 # Computer Science courses with video lectures
 
+<!-- omit in toc -->
 ## Introduction
 
 - Please check [NOTES](https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md) for general information about this list.
 - Please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md) for contribution guidelines.
-- Please feel free to raise any genuine issue you may have, however it has been noticed that few people open empty issues to raise their github contribution on their account. Such spammers will be blocked. 
-- You are welcome to contribute, please create PR for actual college/University level courses. Please do not add links for small MOOCs, basic tutorials or advertisement for some sites/channels.
+- Please feel free to raise any genuine issue you may have, however, it has been noticed that few people open empty issues to raise their GitHub contribution on their account. Such spammers will be blocked. 
+- You are welcome to contribute, please create PR for actual college/University level courses. Please do not add links for small MOOCs, basic tutorials, or advertisements for some sites/channels.
 
 ------------------------------
 
@@ -20,9 +22,9 @@ Table of Contents
 - [Software Engineering](#software-engineering)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
-- [Web Programming and Internet Technologies](#web-programming-and-internet-technologies)
 - [Computer Networks](#computer-networks)
 - [Math for Computer Scientist](#math-for-computer-scientist)
+- [Web Programming and Internet Technologies](#web-programming-and-internet-technologies)
 - [Theoretical CS and Programming Languages](#theoretical-cs-and-programming-languages)
 - [Embedded Systems](#embedded-systems)
 - [Real time system evaluation](#real-time-system-evaluation)
@@ -38,6 +40,7 @@ Table of Contents
 - [Blockchain Development](#blockchain-development)
 - [Misc](#misc)
 
+<!-- omit in toc -->
 ## Courses
 
 ------------------------------
@@ -434,6 +437,7 @@ Table of Contents
   - [CIS 522 - Deep Learning - U Penn](https://www.youtube.com/@cis522-deeplearning8/playlists)
   - [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
   - [Deep Learning (Fall 2020) - Georgia Tech](https://www.youtube.com/playlist?list=PL-fZD610i7yB7gDnPDpFcKpHI9X8z3OQ7)
+  - [CS7015 - Deep Learning - Prof. Mitesh M. Khapra - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
 - **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -458,7 +462,7 @@ Table of Contents
   - [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
   - [CS 330 - Deep Multi-Task and Meta Learning - Fall 2019 - Stanford University](https://cs330.stanford.edu/) ([Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5))
 - **Natural Language Processing**
-  - [CS 224N - Deep Learning for Natural Language Processing, Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
+  - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
   - [CS 224N - Natural Language Processing, Stanford University](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) ([Lecture videos](https://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab))
   - [CS 124 - From Languages to Information - Stanford University](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists?view=50&sort=dd&shelf_id=2)
   - [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) ([Github](https://github.com/fastai/course-nlp))
@@ -519,7 +523,7 @@ Table of Contents
 
 ### Computer Networks
 
-- [14-740 - Fundamentals of Computer Networks - CMU](http://www.ini740.com/)
+- [14-740 - Fundamentals of Computer Networks - CMU](https://www.andrew.cmu.edu/course/14-740-s18/index/lecture_index.html)
 - [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](http://www.scs.stanford.edu/10au-cs144/) ([Lecture videos](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z))
 - [Computer Communication Networks, Rensselaer Polytechnic Institute - Fall 2001](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html) ([Videos](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_video)) ([Slides](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_foils))
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
@@ -559,7 +563,7 @@ Table of Contents
   - [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
   - [CSE 547 Discrete Mathematics, Prof Skiena, University of Stony Brook](http://www3.cs.stonybrook.edu/~algorith/math-video/)
   - [Discrete Structures (Summer 2011) - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/discrete-structures-summer/id698728837)
-  - [Discrete Mathematics and Mathematical Reasoning 2015/16 - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/dmmr.htm)
+  - [Discrete Mathematics and Mathematical Reasoning 2015/16 - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/dmmr/)
   - [Discrete Mathematical Structures - IIT Madras](https://nptel.ac.in/courses/106106094/)
   - [Discrete Structures - Pepperdine University](https://itunes.apple.com/us/course/discrete-structures/id546468789)
 - **Probability & Statistics**
@@ -602,6 +606,7 @@ Table of Contents
 - [Statistical Computing for Scientists and Engineers - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AeltIRcjDY7Z4q49NEAuMcA)
 - [Statistical Computing, Fall 2017 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcSgNGnT5TUHt85SrCljT3V)
 - [Mathematics for Machine Learning, Lectures by Ulrike von Luxburg - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
+- [Essential Mathematics for Machine Learningv- July 2018 - IIT Roorkee - YouTube Lectures](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
 - [Numerics of Machine Learning (Winter 2022/23) - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
 
 ------------------------------
@@ -682,18 +687,15 @@ Table of Contents
 
 - [EE319K Embedded Systems - UT Austin](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm)
 - [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
-- [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
+- [CS149 Introduction to Embedded Systems - Spring 2011 - UCBerkeley](https://youtube.com/playlist?list=PLu0nzW8Es1x0RIvuWdw1Diez2Clk8xAX5)
 - [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
 - [ECE 5760 - Advanced Microcontroller Design and system-on-chip, Spring 2016 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5760/)
-- [CSE 438/598 Embedded Systems Programming ASU](http://rts.lab.asu.edu/web_438_Fall_2014/CSE438_Fall2014_Main_page.htm)
-- [Summer Short Course on Embedded Systems Programming](http://rts.lab.asu.edu/web_ESP_Summer2014/ESP_Main_page.htm)
 - [Internet of Things by Prof. Dr.-Ing. Dietmar P. F. Möller](https://video.tu-clausthal.de/vorlesung/408.html)
 - [CSE 351 - The Hardware/Software Interface, Spring 16 - University of Washington](https://courses.cs.washington.edu/courses/cse351/16sp/videos.html) ([Coursera](http://academictorrents.com/details/f1384286c8581bffba11e378fdb37608e649d82a))
 - [ECE 5030 - Electronic Bioinstrumentation, Spring 2014 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5030/)
 - [ECE/CS 5780/6780 - Embedded Systems Design, Spring 14 - University of Utah](https://www.youtube.com/playlist?list=PLQefpK95HyFmao3zi-WDOMkeSev-Je5dE)
 - [Embedded Systems Class - Version 1 - 2011 - UNCC](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
 - [Embedded Systems using the Renesas RX63N Processor - Version 3 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
-- [ELEC2142 - Embedded Systems Design - UNSW](http://eemedia.ee.unsw.edu.au/ELEC2142/index.htm)
 - [Software Engineering for Embedded Systems (WS 2011/12) - HPI University of Potsdam](https://www.tele-task.de/series/864/)
 - [Embedded Software Testing - IIT Madras](https://nptel.ac.in/courses/117106112/)
 - [Embedded Systems - IIT Delhi](https://nptel.ac.in/courses/108102045/)
@@ -703,7 +705,6 @@ Table of Contents
 - [EE260 Embedded Systems by Robert Paz](https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__)
 - [IoT Summer School](https://www.youtube.com/playlist?list=PLHih6DnKQaoYQ5PIT3Tp-UrqUguDYWYQu)
 - [ECSE 421 - Embedded Systems - McGill](http://www.cim.mcgill.ca/~jer/courses/es/)
-- [EE402 - Object-oriented Programming with Embedded Systems](http://ee402.eeng.dcu.ie/lecture-videos)
 - [NOC:Advanced IOT Applications - IISc Bangalore](https://nptel.ac.in/courses/108/108/108108123/)
 - [NOC:Design for internet of things - IISc Bangalore](https://nptel.ac.in/courses/108/108/108108098/)
 
@@ -828,7 +829,6 @@ Table of Contents
 ### Image Processing and Computer Vision
 
 - [MOOC - Digital Image processing - Duke/Coursera](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
-- [Computer Vision 2011 - EPFL, Switzerland](http://www.klewel.com/conferences/epfl-computer-vision/)
 - [Digital Image Processing - IIT Kharagpur](https://nptel.ac.in/courses/117105079/)
 - [Image Processing and Analysis - UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
 - [CS 543 - Computer Vision – Spring 2017](https://courses.engr.illinois.edu/cs543/sp2017/) ([Recordings](https://echo360.org/section/283b0471-3d9f-4efb-9c51-bc00e778735e/home))
@@ -1006,7 +1006,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
   - [Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ) 
   - [Blockchain Fundamentals Decal 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT)
   - [Blockchain for Developers Decal - Spring 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
-  - [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/lecture-videos/)
+  - [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/video_galleries/lecture-videos/)
   - [15.S12 Blockchain and Money, Fall 2018 - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
   - [Blockchain - Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome)
 - **Become Blockchain Developer**
