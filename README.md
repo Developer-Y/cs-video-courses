@@ -680,6 +680,7 @@ Table of Contents
 - [Analysis of Boolean Functions at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YypJNaF6sRAf2zC1QzMuTA)
 - [Theoretical Computer Science (Bridging Course)(Tutorial) - SS 2015](http://ais.informatik.uni-freiburg.de/teaching/ss15/bridging/)
 - [Languages & Translators - UCLouvain LINFO2132](https://norswap.com/compilers/)
+- [Compiler Design by Sorav Bansal](https://www.youtube.com/playlist?list=PLf3ZkSCyj1tf3rPAkOKY5hUzDrDoekAc7)
 
 ------------------------------
 
