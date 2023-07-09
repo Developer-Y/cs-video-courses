@@ -50,6 +50,7 @@ Table of Contents
 - [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
 - [6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/)
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+- [Introduction to Computational Thinking - MIT](https://computationalthinking.mit.edu/Fall22/)
 - [CS 50 - Introduction to Computer Science, Harvard University](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) ([cs50.tv](http://cs50.tv/2017/fall/))
 - [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](https://cs61a.org/)
 - [CPSC 110 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
@@ -81,6 +82,7 @@ Table of Contents
 - [ECS 36C - Data Structures and Algorithms (C++) - Spring 2020 - Joël Porquet-Lupine - UC Davis](https://lupteach.gitlab.io/courses/ucd-ecs36c/online/)
 - [Programming and Data Structures with Python, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/python2021sep/)
 - [6.006 - Introduction to Algorithms, MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)
+- [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Algorithms: Design and Analysis 2 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
 - [COS 226 Algorithms, Youtube, Princeton - by Robert Sedgewick and Kevin Wayne](https://www.youtube.com/watch?v=1QZDe28peZk&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&index=1)
@@ -128,6 +130,9 @@ Table of Contents
 - [Parallel Algorithm - IIT Kanpur](https://nptel.ac.in/courses/106104120/)
 - [Graph Theory - IISC Bangalore](https://nptel.ac.in/courses/106108054/)
 - [Data Structures - mycodeschool](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+- [Algorithmic Game Theory, Winter 2020/21 - Uni Bonn](https://www.youtube.com/playlist?list=PLyzcvvgje7aD_DjpmhFzQ9DVS8zzhrgp6)
+- [NETS 4120: Algorithmic Game Theory, Spring 2023 - UPenn](https://www.youtube.com/playlist?list=PLlIlhe_rS4U1MfB0NzG4IWb7CM0xKkx4d)
+- [Introduction to Game Theory and Mechanism Design - IIT Kanpur](https://www.youtube.com/playlist?list=PL3eEm6KzZ3lF2TlVOnPyJHyGWJhUogn-D)
 
 ------------------------------
 
@@ -362,6 +367,7 @@ Table of Contents
   - [10-702/36-702 - Statistical Machine Learning - Larry Wasserman, Spring 2016, CMU](https://www.stat.cmu.edu/~ryantibs/statml/) ([Spring 2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r))
   - [10-715 Advanced Introduction to Machine Learning - CMU](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/) ([YouTube](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ))
   - [CS 281B - Scalable Machine Learning, Alex Smola, UC Berkeley](http://alex.smola.org/teaching/berkeley2012/syllabus.html)
+  - [100 Days of Machine Learning - CampusX (Hindi)](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 - **Data Mining**
   - [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
   - [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
@@ -437,6 +443,7 @@ Table of Contents
   - [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
   - [Deep Learning (Fall 2020) - Georgia Tech](https://www.youtube.com/playlist?list=PL-fZD610i7yB7gDnPDpFcKpHI9X8z3OQ7)
   - [CS7015 - Deep Learning - Prof. Mitesh M. Khapra - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
+  - [ETH Zürich | Deep Learning in Scientific Computing 2023](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
 - **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -479,6 +486,7 @@ Table of Contents
   - [Natural Language Processing (CMSC 470)](https://www.youtube.com/playlist?list=PLwrUPjGidcJ4UkSoi7_rmn-1kcedLqgdL)
 - **ML based Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+  - [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
   - [Machine Learning for Robotics and Computer Vision, WS 2013/2014 - TU München](https://vision.in.tum.de/teaching/ws2013/ml_ws13) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl))
   - [Informatics 1 - Cognitive Science 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1cs.htm)
   - [Informatics 2A - Processing Formal and Natural Languages 2016-17 - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html)
@@ -927,6 +935,7 @@ Table of Contents
 
 - [ROB 101: Computational Linear Algebra - University of Michigan](https://github.com/michiganrobotics/rob101/tree/main/Fall%202021) ([Youtube - Fall 2021](https://www.youtube.com/playlist?list=PLdPQZLMHRjDJ5d_dE4FeOviv0gRe4UYsB))
 - [ROB 102: Introduction to AI and Programming - University of Michigan](https://robotics102.github.io/)
+- [ROB 311: How to Build Robots and Make Them Move - University of Michigan](https://www.youtube.com/playlist?list=PLdPQZLMHRjDIWDJDjiBKjFe7ETD_rssB9)
 - [ROB 320: Robot Operating Systems - University of Michigan](https://autorob.org/)
 - [ROB 501: Mathematics for Robotics - University of Michigan](https://github.com/michiganrobotics/rob501) ([Youtube](https://www.youtube.com/playlist?list=PLdPQZLMHRjDIzO99aE7yAtdOHSVHMXfYH))
 - [ROB 530 MOBILE ROBOTICS at U of Michigan - WINTER 2022 -- Instructor: Maani Ghaffari](https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F)
