@@ -531,6 +531,7 @@ Table of Contents
 ### Computer Networks
 
 - [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](http://www.scs.stanford.edu/10au-cs144/) ([Lecture videos](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z))
+- [Computer Networking: A Top-Down Approach](https://www.youtube.com/playlist?list=PLm556dMNleHc1MWN5BX9B2XkwkNE2Djiu)
 - [Computer Communication Networks, Rensselaer Polytechnic Institute - Fall 2001](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html) ([Videos](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_video)) ([Slides](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_foils))
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
