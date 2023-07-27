@@ -595,6 +595,9 @@ Table of Contents
   - [Purdue ECE302 Introduction to Probability for Data Science](https://www.youtube.com/playlist?list=PL4FSfq6xtSvyqsbgrYDeyV0WWXlXqwy2M)
   - [Undergraduate Probability with Professor Roman Vershynin](https://www.math.uci.edu/~rvershyn/teaching/ugp/ugp.html)
   - [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
+  - [Mathematical Statistics](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrOk5-wIki_oOxHJnNj0_437)
+  - [Bayesian Data Analysis](https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6)
+  - [Markov Processes - Spring 2023](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrP3rME2XvFvE4Q5vI3H_7_Z)
 - **Linear Algebra**
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
@@ -618,6 +621,8 @@ Table of Contents
 - [Mathematics for Machine Learning, Lectures by Ulrike von Luxburg - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 - [Essential Mathematics for Machine Learningv- July 2018 - IIT Roorkee - YouTube Lectures](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
 - [Numerics of Machine Learning (Winter 2022/23) - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
+- [Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
+- [Nonlinear Dynamics & Chaos Introduction - Virginia Tech](https://www.youtube.com/playlist?list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK)
 
 ------------------------------
 
