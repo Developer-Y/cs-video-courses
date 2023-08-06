@@ -310,7 +310,7 @@ Table of Contents
   - [10 - 301/601 - Introduction to Machine Learning - Spring 2020 - CMU](https://www.youtube.com/playlist?list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk)
   - [6.036 - Machine Learning, Broderick - MIT Fall 2020](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
   - [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
-  - [Stanford CS229: Machine Learning Course | Summer 2019 (Anand Avati)](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
+  - [Stanford CS229: Machine Learning Course | Summer 2019 (Anand Avati)](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) ([Spring 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy))
   - [CMS 165 Foundations of Machine Learning and Statistical Inference - 2020 - Caltech](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
   - [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
   - [CS 446 - Machine Learning, Fall 2016, UIUC](https://www.youtube.com/playlist?list=PLQcasX5-oG91TgY6A_gz-IW7YSpwdnD2O)
@@ -467,6 +467,7 @@ Table of Contents
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
   - [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
   - [CS 330 - Deep Multi-Task and Meta Learning - Fall 2019 - Stanford University](https://cs330.stanford.edu/) ([Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5))
+  - [Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
 - **Natural Language Processing**
   - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
   - [CS 224N - Natural Language Processing, Stanford University](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) ([Lecture videos](https://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab))
@@ -1006,6 +1007,8 @@ Table of Contents
 ### Computational Finance
 
 - [COMP510 - Computational Finance - Steven Skiena - 2007 HKUST](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1)
+- [Computational Finance Course - Prof Grzelak](https://www.youtube.com/playlist?list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB)
+- [Financial Engineering Course: Interest Rates and xVA - Prof Grzelak](https://www.youtube.com/playlist?list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD)
 - [MOOC - Mathematical Methods for Quantitative Finance, University of Washington/Coursera)](http://academictorrents.com/details/dfc1ddde962101f00ef9764b91181bd6bb5c9e93)
 - [18.S096 Topics in Mathematics with Applications in Finance, MIT OCW](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video_galleries/video-lectures/)
 - [Computational Finance - Universität Leipzig](https://www.youtube.com/playlist?list=PL4i4aZbplv9J5jan6mDbDHtjfm7ghMWfj)
