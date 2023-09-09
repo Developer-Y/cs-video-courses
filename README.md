@@ -183,7 +183,7 @@ Table of Contents
 - [Performance Evaluation of Computer Systems - IIT Madras](https://nptel.ac.in/courses/106106048/)
 - [Storage Systems - IISC Bangalore](https://nptel.ac.in/courses/106108058/)
 - [MAP6264 - Queueing Theory - FAU](http://www.cse.fau.edu/~bob/courses/map6264/)([Video Lectures](https://vimeo.com/album/171324/))
-- [EE 380 Colloquim on Computer Systems - Stanford University](http://web.stanford.edu/class/ee380/) ([Lecture videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu))
+- [EE 380 Colloquium on Computer Systems - Stanford University](http://web.stanford.edu/class/ee380/) ([Lecture videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu))
 
 ------------------------------
 
@@ -736,7 +736,7 @@ Table of Contents
 
 - [Performance evaluation of Computer systems - IIT Madras](https://nptel.ac.in/courses/106/106/106106048/)
 - [Real Time systems - IIT Karaghpur](https://nptel.ac.in/courses/106/105/106105036/)
-- [EE 380 Colloquim on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
+- [EE 380 Colloquium on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 - [System storages - IISc Bangalore](https://nptel.ac.in/courses/106/108/106108058/)
 
 ------------------------------
