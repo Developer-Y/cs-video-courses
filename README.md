@@ -270,7 +270,7 @@ Table of Contents
 
 ### Artificial Intelligence
 
-- [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2020/)
+- [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2023/)
 - [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html)
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
