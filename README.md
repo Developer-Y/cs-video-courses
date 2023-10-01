@@ -370,6 +370,8 @@ Table of Contents
   - [100 Days of Machine Learning - CampusX (Hindi)](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
   - [CampusX Data Science Mentorship Program 2022-23 (Hindi)](https://www.youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z)
   - [Statistical Machine Learning - S2023 - Benyamin Ghojogh](https://www.youtube.com/playlist?list=PLPrxGIUWsqP2g7cpk0nFFt0c4aRcREq2s)
+  - [MIT 6.5940 EfficientML.ai Lecture, Fall 2023](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
+  - [TinyML - Tiny Machine Learning at UPenn](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)
 - **Data Mining**
   - [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
   - [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
@@ -630,6 +632,7 @@ Table of Contents
 - [Numerics of Machine Learning (Winter 2022/23) - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
 - [Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
 - [Nonlinear Dynamics & Chaos - Virginia Tech](https://www.youtube.com/playlist?list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK)
+- [An introduction to Optimization on smooth manifolds (with book) - EPFL](https://www.nicolasboumal.net/book/)
 
 ------------------------------
 
