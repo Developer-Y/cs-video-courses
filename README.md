@@ -59,6 +59,7 @@ Table of Contents
 - [CS 1301 Intro to computing - Gatech](https://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
 - [CS 106A - Programming Methodology, Stanford University](https://see.stanford.edu/Course/CS106A) ([Lecture Videos](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852))
 - [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B) ([Lecture Videos](https://www.youtube.com/playlist?list=PLnfg8b9vdpLn9exZweTJx44CII1bYczuk))
+- [CS 106L - Standard C++ Programming](https://web.stanford.edu/class/cs106l/)([Lecture Videos](https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA))
 - [CS 106X - Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) ([Lecture Videos](https://www.youtube.com/playlist?list=PLrivl8gTKLcpIJ-ktHCxMEgWOn8LawYhb))
 - [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
 - [CmSc 150 - Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
