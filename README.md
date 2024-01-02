@@ -756,6 +756,9 @@ Table of Contents
 - [Real Time systems - IIT Karaghpur](https://nptel.ac.in/courses/106/105/106105036/)
 - [EE 380 Colloquium on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 - [System storages - IISc Bangalore](https://nptel.ac.in/courses/106/108/106108058/)
+- [High Performance Computing - IISC Bangalore](https://www.youtube.com/playlist?list=PL2F82ECDF8BB71B0C)
+- [2023 High Performance Computing Course Prof Dr - Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwUBwrFn3SY8vi4AYa2rVTWH) ([2022](https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix))
+- [High Performance Computing | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
 
 ------------------------------
 
