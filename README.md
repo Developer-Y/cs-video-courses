@@ -702,6 +702,7 @@ Table of Contents
   - [2014 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
   - [2015 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
   - [2016 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
+  - [ Latest YT playlists](https://www.youtube.com/@OPLSS/playlists)
 - [Inf1 - Computation and Logic 2015 - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf1/cl/)
 - [INFORMATICS 1 - FUNCTIONAL PROGRAMMING - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/) ([Videos](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1fp.htm))
 - [Compiler Design - IISC Bangalore](https://nptel.ac.in/courses/106108052/)
