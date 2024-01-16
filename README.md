@@ -1018,7 +1018,7 @@ Table of Contents
 - [Quantum Computing](https://www.youtube.com/playlist?list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0)
 ------------------------------
 
-### Robotics
+### Robotics and Control
 
 - [ROB 101: Computational Linear Algebra - University of Michigan](https://github.com/michiganrobotics/rob101/tree/main/Fall%202021) ([Youtube - Fall 2021](https://www.youtube.com/playlist?list=PLdPQZLMHRjDJ5d_dE4FeOviv0gRe4UYsB))
 - [ROB 102: Introduction to AI and Programming - University of Michigan](https://robotics102.github.io/)
