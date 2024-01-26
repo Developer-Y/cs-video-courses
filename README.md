@@ -35,7 +35,7 @@ Table of Contents
 - [Computational Physics](#computational-physics)
 - [Computational Biology](#computational-biology)
 - [Quantum Computing](#quantum-computing)
-- [Robotics](#robotics)
+- [Robotics and Control](#robotics-and-control)
 - [Computational Finance](#computational-finance)
 - [Blockchain Development](#blockchain-development)
 - [Misc](#misc)
@@ -75,6 +75,9 @@ Table of Contents
 - [6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 - [Modern C++ Course (2018) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
 - [Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
+- [UW Madison CS 368 C++ for Java Programmers Fall 2020, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg33srpQjC7q7jqITLxcErPCM)
+- [UW Madison CS 354 Machine Organization and Programming spring 2020, 2021, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg32r5MZ-HfpA2Tr8Ke2lDYwI)
+- [Cornell ECE 4960 Computational and Software Engineering spring 2017, by Edwin Kan](https://www.youtube.com/playlist?list=PLcVqWUh-bHiFN2CY1KMTw0-L39iDXlemi)
 
 ------------------------------
 
@@ -136,6 +139,12 @@ Table of Contents
 - [Introduction to Game Theory and Mechanism Design - IIT Kanpur](https://www.youtube.com/playlist?list=PL3eEm6KzZ3lF2TlVOnPyJHyGWJhUogn-D)
 - [15-850 Advanced Algorithms - CMU Spring 2023](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&page=1)
 - [CS 270. Combinatorial Algorithms and Data Structures, Spring 2021](https://people.eecs.berkeley.edu/~prasad/spring2021.html) ([Youtube](https://www.youtube.com/playlist?list=PLfkeJ2f4i0AfWApBP8X8YvQfN4WbRQTC3))
+- [CMU 15 850 Advanced Algorithms spring 2023, by Anupam Gupta](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&page=1)
+- [UC Berkeley CS 294-165 Sketching Algorithms fall 2020, by Jelani Nelson](https://www.youtube.com/playlist?list=PL682UO4IMem-SSHdZel8BJ0Ti2yp65spI)
+- [UIUC CS 498 ABD / CS 598 CSC Algorithms for Big Data fall 2020, by Chandra Chekuri](https://www.youtube.com/playlist?list=PL682UO4IMem_OA8_wY3nnSDLOSWr3PgYa)
+- [Algorithms for Data Science spring 2021, by Anil Maheshwari ](https://people.scs.carleton.ca/~maheshwa/courses/ADS/ADS-S20.html)
+- [CMU 15 859 Algorithms for Big Data fall 2020, by David Woodruff](http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html)
+
 
 ------------------------------
 
@@ -254,6 +263,10 @@ Table of Contents
   - [CSEP 524 - Parallel Computation - University of Washington](https://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](https://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
   - [Parallel Programming Concepts (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/977/)
   - [Parallel Programming Concepts (WT 2012/13) - HPI University of Potsdam](https://www.tele-task.de/series/924/)
+  - [UIUC ECE 408 / CS 408 Applied Parallel Programming spring 2018, fall 2022, by Wen-mei Hwu, Sanjay Patel](https://www.youtube.com/playlist?list=PL6RdenZrxrw-UKfRL5smPfFFpeqwN3Dsz)
+  - [UIUC ECE 508 / CS 508 Manycore Parallel Algorithms spring 2019, by Wen-mei Hwu](https://www.youtube.com/playlist?list=PLRRuQYjFhpmspsME4LmLbuCG1VHbJmIcy)
+  - [UIUC CS 420 / ECE 492 / CSE 402 Introduction to Parallel Programming for Scientists and Engineers fall 2015, by Sanjay Kale](https://www.youtube.com/playlist?list=PL682UO4IMem9cAjfy_RPjAc6k-HPYpTa9)
+  - [Stanford CME 213 Introduction to Parallel Computing using MPI, openMP, and CUDA winter 2020, by Eric Darve](https://www.youtube.com/playlist?list=PLAtMgFDMfGy2mysjPHN_d1cf9sR1muRkq)
 - **Mobile Application Development**
   - [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
   - [CS 193p - Developing Applications for iOS, Stanford University](https://cs193p.sites.stanford.edu/)
@@ -380,6 +393,15 @@ Table of Contents
   - [Machine Learning Hardware and Systems (Cornell Tech, Spring 2022)](https://www.youtube.com/playlist?list=PL0mFAhrXqy9CuopJhAB8GVu_Oy7J0ery6)
   - [ECE 4760 (Digital Systems Design Using Microcontrollers) at Cornell for the Fall, 2022](https://www.youtube.com/playlist?list=PLDqMkB5cbBA5oDg8VXM110GKc-CmvUqEZ)
   - [EfficientML.ai Lecture, Fall 2023, MIT 6.5940](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
+  - [CS189 Machine Learning 2022 - UCB](https://www.youtube.com/playlist?list=PL682UO4IMem9vOoABWiaTQ5qN-kHjFCR-)
+  - [ETH Zurich Statistical Learning Theory spring 2021, by Joachim M. Buhmann](https://www.youtube.com/playlist?list=PL682UO4IMem_2ks8_z8ln7yvkHmVBOZCP)
+  - [SFU CMPT 727 Statistical Machine Learning spring 2022, 2023, by Maxwell Libbrecht](https://www.youtube.com/playlist?list=PL_5SuHtr8fsp95AhIKeTHbpcVdhlhB9h6)
+  - [UC Berkeley CS 189 / 289A Introduction to Machine Learning fall 2023, by Jennifer Listgarten & Jitendra Malik](https://eecs189.org/)
+  - [UC Berkeley CS 189 / 289A Introduction to Machine Learning spring 2022, by Jonathan Shewchuk](https://www.youtube.com/playlist?list=PL682UO4IMem9vOoABWiaTQ5qN-kHjFCR-)
+  - [UC Berkeley CS 189 Introduction to Machine Learning (CDSS offering) spring 2022, by Marvin Zhang](https://www.youtube.com/playlist?list=PLCuQm2FL98HTlRmlwMk2AuFEM9n1c06HE)
+  - [MIT 6.036 Introduction to Machine Learning spring 2019, by Leslie Kaelbling](https://www.youtube.com/playlist?list=PLQEw29vp6f1Ae9dp8vkKB8H6sF1PHvP5N)
+  - [UCLA STAT C161 Introduction to Pattern Recognition and Machine Learning winter 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwLCXGUyM3FNSRwG6GNgONr)
+  - [UT Austin Machine Learning Algorithms & Statistical Learning by Adam Klivans & Qiang Liu](https://www.youtube.com/playlist?list=PL682UO4IMem-57hfHijQyk24vR9wq7CWV)
 - **Data Mining**
   - [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
   - [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
@@ -455,6 +477,8 @@ Table of Contents
   - [Deep Learning (Fall 2020) - Georgia Tech](https://www.youtube.com/playlist?list=PL-fZD610i7yB7gDnPDpFcKpHI9X8z3OQ7)
   - [CS7015 - Deep Learning - Prof. Mitesh M. Khapra - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
   - [ETH Zürich | Deep Learning in Scientific Computing 2023](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
+  - [CMU 10 707 Deep Learning fall 2017 by Ruslan Salakhutdinov](https://www.youtube.com/playlist?list=PL682UO4IMem_lRk9A7mOEj0jwhko0X_Tc)
+  - [UT Austin CS 394D Deep Learning fall 2021, by Philipp KrahenBühl](https://www.youtube.com/playlist?list=PL682UO4IMem_B72vmX4r0v3UrAjPRFAnE)
 - **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -474,6 +498,7 @@ Table of Contents
   - [CS 4789/5789: Introduction to Reinforcement Learning - Cornell](https://www.youtube.com/playlist?list=PLQVNhPb8ajtCjWSKUvKU8cX5lueYP9s3X)
   - [S20/IE613 - Online (Machine) Learning/ Bandit Algorithms](https://www.youtube.com/playlist?list=PLDREIwGwrHBdiBm1q0cVJLZn4Cn6Hig2s)
   - [Reinforcement Learning - Fall 2021 chandar-lab](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)
+  - [CMU 10 703 Deep Reinforcement Learning & Control fall 2022, by Katerina Fragkiadaki](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ee5794a2-cb54-4edc-836b-aefc01023243%22)
 - **Advanced Machine Learning**
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
   - [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
@@ -483,6 +508,7 @@ Table of Contents
   - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
   - [CS 224N - Natural Language Processing, Stanford University](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) ([Lecture videos](https://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab))
   - [Stanford XCS224U: Natural Language Understanding I Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)
+  - [CS388: Natural Language Processing - UT Austin](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
   - [CS 124 - From Languages to Information - Stanford University](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists?view=50&sort=dd&shelf_id=2)
   - [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
   - [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) ([Github](https://github.com/fastai/course-nlp))
@@ -542,6 +568,12 @@ Table of Contents
   - [Introduction to Data-Centric AI - MIT](https://dcai.csail.mit.edu/)
   - [Parallel Computing and Scientific Machine Learning](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
   - [Machine Learning System Design - System Design Fight Club](https://www.youtube.com/playlist?list=PLlvnxKilk3aKx0oFua-HTtFf-d_inQ8Qn)
+  - [UT Austin ECE 381V Bandits and Online Learning fall 2021, by Sanjay Shakkottai](https://docs.google.com/document/d/1r6jXNd1DD9o8v4q4XqxShRXWYdhtLMjEXWDzuv0T6LU/edit)
+  - [UCSD MATH 273B Information Geometry and its Applications winter 2022, by Melvin Leok](https://www.youtube.com/playlist?list=PLHZhjPByiV3L94AeJ9FcK1yrnRDOt3Vit)
+  - [Cornell ECE 5545 Machine Learning Hardware and Systems spring 2022, by Mohamed Abdelfattah](https://www.youtube.com/playlist?list=PL0mFAhrXqy9CuopJhAB8GVu_Oy7J0ery6)
+  - [High Dimensional Analysis: Random Matrices and Machine Learning by Roland Speicher](https://rolandspeicher.com/lectures/course-on-high-dimensional-analysis-random-matrices-and-machine-learning-summer-term-2023/)([Youtube](https://www.youtube.com/playlist?list=PLY11JnnnTUCabY4nc0hKptrd5qEWtLoo2))
+  - [ACP SUMMER SCHOOL 2023 on Machine Learning for Constraint Programming](https://www.youtube.com/playlist?list=PLcByDTr7vRTYJ2s6DL-3bzjGwtQif33y3)
+  - [EPFL COM 516 Markov Chains and Algorithmic Applications spring 2020, by Olivier Leveque](https://www.youtube.com/playlist?list=PL682UO4IMem-9ID1nBaWYCFCh_qU7yYNd)
 
 ------------------------------
 
@@ -647,6 +679,20 @@ Table of Contents
 - [Nonlinear Dynamics & Chaos - Virginia Tech](https://www.youtube.com/playlist?list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK)
 - [An introduction to Optimization on smooth manifolds (with book) - EPFL](https://www.nicolasboumal.net/book/)
 - [Math Modelling](https://www.youtube.com/playlist?list=PLXsDp0z6VWFT5ZM86xh8i1AMFYxnrefLk)
+- [Large-Scale Convex Optimization: Algorithms & Analyses via Monotone Operators by Ernest Ryu and Wotao Yin](https://www.youtube.com/@large-scaleconvexoptimizat2973/videos)
+- [An Overview of Variational Analysis  2021 by Tyrrell Rockafellar](https://www.youtube.com/playlist?list=PLIismQEEd55Fnzllb-HEYK6k8dMmz2ctj)
+- [UW AMATH 584 Applied Linear Algebra & Numerical Analysis by Nathan Kutz](https://faculty.washington.edu/kutz/am584/am584.html)
+- [UW AMATH 584 Applied Linear Algebra & Introductory Numerical Analysis fall 2005, by Loyce Adams](https://www.youtube.com/playlist?list=PL682UO4IMem-NKDk9uLzRaTOnHPpr4knp)
+- [Stanford CME 206 Introduction to Numerical Methods for Engineering spring 2005, by Charbel Farhat](https://www.youtube.com/playlist?list=PL682UO4IMem97Nk-jJCqUiYZmwpCxMuYF)
+- [Stanford CME 200 Linear Algebra with Application to Engineering Computations autumn 2004, by Margot Gerritsen](https://www.youtube.com/playlist?list=PL682UO4IMem-ZiiCDz7C6bVRjxJ5P35zk)
+- [Stanford CME 302 Numerical Linear Algebra autumn 2007, by Gene Golub](https://www.youtube.com/playlist?list=PL682UO4IMem-OlrG8LXfWQJ2kV_4mpAau)
+- [TUe Numerical Linear Algebra 2021, by Martijn Anthonissen](https://www.youtube.com/playlist?list=PLRb3xghOQGNKbUt8zIRpwrQ-SZ6aIZNvt)
+- [Numerical Linear Algebra fall 2018, by Jaegul Choo](https://www.youtube.com/playlist?list=PLep-kTP3NkcMdmrw07VsKFt87FT584Cpd)
+- [MIT 6.S955 Applied Numerical Algorithms fall 2023, by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb)
+- [UC Berkeley Math 55 Discrete Mathematics fall 2021, by Nikhil Srivastava](https://www.youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC)
+- [Fundamental Mathematics for Robotics spring 2020, by Ken Tomiyama](https://www.youtube.com/@citqualityeducation803/videos)
+- [Short Course on Casual Inference, by Sanjay Shakkottai](https://www.youtube.com/playlist?list=PLcip-Gs_jEK_l2pNG8V_0UDK9jyPtLyuq)
+- [UCLA STAT 100C Linear Models spring 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzrzpEoojAa4anJdaKa49GM)
 
 ------------------------------
 
@@ -972,7 +1018,7 @@ Table of Contents
 - [Quantum Computing](https://www.youtube.com/playlist?list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0)
 ------------------------------
 
-### Robotics
+### Robotics and Control
 
 - [ROB 101: Computational Linear Algebra - University of Michigan](https://github.com/michiganrobotics/rob101/tree/main/Fall%202021) ([Youtube - Fall 2021](https://www.youtube.com/playlist?list=PLdPQZLMHRjDJ5d_dE4FeOviv0gRe4UYsB))
 - [ROB 102: Introduction to AI and Programming - University of Michigan](https://robotics102.github.io/)
@@ -1030,6 +1076,16 @@ Table of Contents
 - [Industrial Robotics and Automation - IIT (ISM) Dhanbad](https://www.youtube.com/playlist?list=PLXDsvE7qtfNdt9oYEhJ_LMXDUGu6bH-L6)
 - [MEE5114 Advanced Control for Robotics from Southern University of Science and Technology](https://www.youtube.com/playlist?list=PLYkCanigA7S4x-ExlnFsQN9WrNZREWEZd)
 - [Self-Driving Cars — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+- [Signal Processing: An Introduction by Nathan Kutz](https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4)
+- [UC Santa Barbara ME 269 Network Systems, Dynamics and Control fall 2021, by Francesco Bullo](https://www.youtube.com/playlist?list=PL7bpQ3f3TaeMsueY06FCmbNIEOOY-Ri2_)
+- [EPFL EE 611 Linear System Theory spring 2020, by Philippe Müllhaupt](https://www.youtube.com/playlist?list=PL682UO4IMem8OCzyAhDQECF4og9UymP-m)
+- [EPFL ME 427 Networked Control Systems spring 2020, by Giancarlo Ferrari Trecate](https://www.youtube.com/playlist?list=PL682UO4IMem9u8dIKvXWBsq7BscoghoVo)
+- [EPFL ME 422 Multivariable Control spring 2020, by Giancarlo Ferrari Trecate](https://www.youtube.com/playlist?list=PL682UO4IMem9vEw3P4dkSHQjsaN6aIuFx)
+- [CMU 16 299 Introduction to Feedback Control Systems spring 2022, by Chris Atkeson](http://www.cs.cmu.edu/~cga/controls-intro-22/)
+- [MAE 509 Linear Matrix Inequality Methods in Optimal and Robust Control, by Matthew M. Peet](https://www.youtube.com/playlist?list=PL5ebyVGQORm6n158o-I_liUZ7Q5Od43li)
+- [UIUC CS 588 Autonomous Vehicle System Engineering fall 2021, by David Forsyth](http://luthuli.cs.uiuc.edu/~daf/courses/MAAV-21/588-2021-records.html)
+
+
 
 ------------------------------
 
