@@ -693,6 +693,7 @@ Table of Contents
 - [Fundamental Mathematics for Robotics spring 2020, by Ken Tomiyama](https://www.youtube.com/@citqualityeducation803/videos)
 - [Short Course on Casual Inference, by Sanjay Shakkottai](https://www.youtube.com/playlist?list=PLcip-Gs_jEK_l2pNG8V_0UDK9jyPtLyuq)
 - [UCLA STAT 100C Linear Models spring 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzrzpEoojAa4anJdaKa49GM)
+- [MSU Math for Computing](https://www.youtube.com/playlist?list=PLZ-krWGO-UEyLqtyA2pACX_tXXBTLWkI1)
 
 ------------------------------
 
