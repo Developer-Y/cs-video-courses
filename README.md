@@ -481,6 +481,7 @@ Table of Contents
   - [ETH Zürich | Deep Learning in Scientific Computing 2023](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
   - [CMU 10 707 Deep Learning fall 2017 by Ruslan Salakhutdinov](https://www.youtube.com/playlist?list=PL682UO4IMem_lRk9A7mOEj0jwhko0X_Tc)
   - [UT Austin CS 394D Deep Learning fall 2021, by Philipp KrahenBühl](https://www.youtube.com/playlist?list=PL682UO4IMem_B72vmX4r0v3UrAjPRFAnE)
+  - [Stanford CS25 - Transformers United 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
