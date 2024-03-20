@@ -998,6 +998,7 @@ Table of Contents
 - [NOC:Computational Systems Biology - IIT Madras](https://nptel.ac.in/courses/102/106/102106068/)
 - [NOC:BioInformatics:Algorithms and Applications - IIT Madras](https://nptel.ac.in/courses/102/106/102106065/)
 - [Data Science and AI for Neuroscience Summer School - Caltech Neuroscience](https://www.youtube.com/playlist?list=PLlPxFwLgTtnfDtq_AO3dd62s33RHtU4bp)
+- [Neuroscience 299: Computing with High-Dimensional Vectors - Fall 2021 - UC Berkeley](https://redwood.berkeley.edu/courses/computing-with-high-dimensional-vectors/)
 
 ------------------------------
 
