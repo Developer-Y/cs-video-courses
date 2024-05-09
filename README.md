@@ -404,6 +404,8 @@ Table of Contents
   - [UCLA STAT C161 Introduction to Pattern Recognition and Machine Learning winter 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwLCXGUyM3FNSRwG6GNgONr)
   - [UT Austin Machine Learning Algorithms & Statistical Learning by Adam Klivans & Qiang Liu](https://www.youtube.com/playlist?list=PL682UO4IMem-57hfHijQyk24vR9wq7CWV)
   - [MSU Machine Learning](https://www.youtube.com/watch?v=kMf0qDtQ_PM&list=PLZ-krWGO-UEyPHsZfOjYH03_TyIN2pPhl&pp=iAQB)
+  - [EPFL CS 233 Introduction to Machine Learning fall 2022, by Mathieu Salzmann](https://www.youtube.com/playlist?list=PL682UO4IMem_UeKY1XQIkPq6R9A0MxLHB)
+  - [Data Science for Dynamical Systems, by Oliver Wallscheid & Sebastian Peitz](https://www.youtube.com/@UPB_DS4DS-bu8ec/playlists)
 - **Data Mining**
   - [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
   - [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
@@ -481,7 +483,8 @@ Table of Contents
   - [ETH Zürich | Deep Learning in Scientific Computing 2023](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
   - [CMU 10 707 Deep Learning fall 2017 by Ruslan Salakhutdinov](https://www.youtube.com/playlist?list=PL682UO4IMem_lRk9A7mOEj0jwhko0X_Tc)
   - [UT Austin CS 394D Deep Learning fall 2021, by Philipp KrahenBühl](https://www.youtube.com/playlist?list=PL682UO4IMem_B72vmX4r0v3UrAjPRFAnE)
-  - [Stanford CS25 - Transformers United 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+  - [CMU 10 417 / 10 617 Intermediate Deep Learning fall 2022, by Ruslan Salakhutdinov](https://www.youtube.com/playlist?list=PL682UO4IMem8A3WUecf30olVT--FhRK7h)
+  - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
 - **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -502,6 +505,7 @@ Table of Contents
   - [S20/IE613 - Online (Machine) Learning/ Bandit Algorithms](https://www.youtube.com/playlist?list=PLDREIwGwrHBdiBm1q0cVJLZn4Cn6Hig2s)
   - [Reinforcement Learning - Fall 2021 chandar-lab](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)
   - [CMU 10 703 Deep Reinforcement Learning & Control fall 2022, by Katerina Fragkiadaki](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ee5794a2-cb54-4edc-836b-aefc01023243%22)
+  - [ECE524 Foundations of Reinforcement Learning at Princeton University, Spring 2024](https://www.youtube.com/playlist?list=PLYXvCE1En13epbogBmgafC_Yyyk9oQogl)
 - **Advanced Machine Learning**
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
   - [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
@@ -529,6 +533,11 @@ Table of Contents
   - [CMU CS11-737 - Multilingual Natural Language Processing](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
   - [UMass CS685: Advanced Natural Language Processing (Spring 2022)](https://www.youtube.com/playlist?list=PLWnsVgP6CzadI4-FT2Po4wsEK7MHCIQ-d)
   - [Natural Language Processing (CMSC 470)](https://www.youtube.com/playlist?list=PLwrUPjGidcJ4UkSoi7_rmn-1kcedLqgdL)
+  - [Stanford CS25 - Transformers United 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+  - [Natural Language Processing (IN2361) - TUM](https://live.rbg.tum.de/?year=2019&term=W&slug=nlp&view=3)
+  - [CS 886: Recent Advances on Foundation Models Winter 2024 - University of Waterloo](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
+- **Generative AI**
+  - [CS 6785 - Deep Generative Models - Cornell Tech, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
 - **ML based Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   - [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
@@ -580,6 +589,7 @@ Table of Contents
   - [High Dimensional Analysis: Random Matrices and Machine Learning by Roland Speicher](https://rolandspeicher.com/lectures/course-on-high-dimensional-analysis-random-matrices-and-machine-learning-summer-term-2023/)([Youtube](https://www.youtube.com/playlist?list=PLY11JnnnTUCabY4nc0hKptrd5qEWtLoo2))
   - [ACP SUMMER SCHOOL 2023 on Machine Learning for Constraint Programming](https://www.youtube.com/playlist?list=PLcByDTr7vRTYJ2s6DL-3bzjGwtQif33y3)
   - [EPFL COM 516 Markov Chains and Algorithmic Applications spring 2020, by Olivier Leveque](https://www.youtube.com/playlist?list=PL682UO4IMem-9ID1nBaWYCFCh_qU7yYNd)
+  - [UC Irvine CS 274B Learning in Graphical Models spring 2021, by Erik Sudderth](https://www.youtube.com/playlist?list=PL682UO4IMem_-FJQo4HfyIfOr2dG8QF_Y)
 
 ------------------------------
 
@@ -864,6 +874,14 @@ Table of Contents
 - [Design of Digital Circuits - ETH Zürich - Spring 2019](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9)
 - [Onur Mutlu @ TU Wien 2019 - Memory Systems](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_gntM55VoMlKlw7YrXOhbl)
 - [Memory Systems Course - Technion, Summer 2018](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9)
+- [UC Berkeley EECS16A Designing Information Devices and Systems I summer 2020, by Grace Kuo, Panos Zarkos, Urmita Sikder](https://www.youtube.com/playlist?list=PL682UO4IMem9_svw6nCsGOaDZaYSjpgcB)
+- [UC Berkeley EECS 16B Designing Information Devices and Systems II fall 2020, by Seth Sanders, Miki Lustig](https://www.youtube.com/playlist?list=PL682UO4IMem_QO6og7qXyvjMUHXNI7Hqs)
+- [UC Berkeley EECS 152 / 252A Computer Architecture and Engineering spring 2023, by Sophia Shao](https://inst.eecs.berkeley.edu/~cs152/sp23/)
+- [UC Berkeley EECS 151 / 251A Introduction to Digital Design and Integrated Circuits fall 2022, by Sophia Shao](https://inst.eecs.berkeley.edu/~eecs151/fa22/)
+- [ELEN E4896 - MUSIC SIGNAL PROCESSING - Spring 2016 - Columbia](https://www.ee.columbia.edu/~dpwe/e4896/outline.html)
+- [Columbia ELEN E6820 Speech and Audio Processing spring 2006, by Dan Ellis](https://www.youtube.com/playlist?list=PL682UO4IMem8IpOKncIUSEFsYWoJyS5ks)
+- [CMU 11 751 / 18 781 Speech Recognition and Understanding fall 2022, by Shinji Watanabe](https://www.youtube.com/playlist?list=PLfVqr2l0FG-u7chWKPQMDoT0o-I2ejxeK)
+- [CMU 11 492 Speech Processing fall 2021, by Alan W. Black](https://www.youtube.com/playlist?list=PL682UO4IMem9InUp3CZHL4g7IwzfKXe3c)
 
 ------------------------------
 
@@ -999,6 +1017,9 @@ Table of Contents
 - [NOC:BioInformatics:Algorithms and Applications - IIT Madras](https://nptel.ac.in/courses/102/106/102106065/)
 - [Data Science and AI for Neuroscience Summer School - Caltech Neuroscience](https://www.youtube.com/playlist?list=PLlPxFwLgTtnfDtq_AO3dd62s33RHtU4bp)
 - [Neuroscience 299: Computing with High-Dimensional Vectors - Fall 2021 - UC Berkeley](https://redwood.berkeley.edu/courses/computing-with-high-dimensional-vectors/)
+- [BIO410/510 Bioinformatics - California State University, Monterey Bay](https://www.youtube.com/playlist?list=PL17NIL2mko8mOPN9W0e4LOjJ2Dkome7ZH)
+- [BIO412: Comparative Genomics - California State University, Monterey Bay](https://www.youtube.com/playlist?list=PL17NIL2mko8nJ1RvfIwtaFnukoWICqS5B)
+- [CENG 465 - Introduction to Bioinformatics (Spring 2020-2021)](https://www.youtube.com/playlist?list=PL0X39D1PSBWPfCPbHb8GC7hoev8SG4Aye)
 
 ------------------------------
 
