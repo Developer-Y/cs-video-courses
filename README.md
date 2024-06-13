@@ -314,7 +314,7 @@ Table of Contents
 ### Artificial Intelligence
 
 - [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2023/)
-- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html)
+- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2023](https://inst.eecs.berkeley.edu/~cs188/sp23/) ([Youtube](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz))
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
@@ -368,7 +368,7 @@ Table of Contents
   - [CS4780/5780 Machine Learning, Fall 2013 - Cornell University](http://www.cs.cornell.edu/courses/cs4780/2013fa/)
   - [CS4780/5780 Machine Learning, Fall 2018 - Cornell University](http://www.cs.cornell.edu/courses/cs4780/2018fa/page18/index.html) ([Youtube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS))
   - [CSE474/574 Introduction to Machine Learning - SUNY University at Buffalo](https://www.youtube.com/playlist?list=PLEQDy5tl3xkMzk_zlo2DPzXteCquHA8bQ)
-  - [CS 5350/6350 - Machine Learning, Fall 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCozRSsdueVwX7CF9N4QWL0B)
+  - [CS 5350/6350 - Machine Learning, Spring 2024, University of Utah](https://svivek.com/teaching/machine-learning/spring2024/) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCr-ANNi5GZid3MvSkzm_wnM))
   - [ECE 5984 Introduction to Machine Learning, Spring 2015 - Virginia Tech](https://filebox.ece.vt.edu/~s15ece5984/)
   - [CSx824/ECEx242 Machine Learning, Bert Huang, Fall 2015 - Virginia Tech](https://www.youtube.com/playlist?list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob)
   - [STA 4273H - Large Scale Machine Learning, Winter 2015 - University of Toronto](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
@@ -447,9 +447,11 @@ Table of Contents
   - [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
   - [Algorithms for Big Data - IIT Madras](https://nptel.ac.in/courses/106106142/)
   - [Python Data Science with the TCLab](https://github.com/APMonitor/data_science) ([YouTube](https://www.youtube.com/watch?v=pAgW_bZVo88&list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy))
+  
 - #### **Data Mining**
   - [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
-  - [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
+  - [CS 5140/6140 - Data Mining, Spring 2020, University of Utah by Prof. Jeff Phillips](https://users.cs.utah.edu/~jeffp/teaching/cs5140-S20/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCrEf65zrd3J1UG3LT6TcDlt))
+  - [CS 5140/6140 - Data Mining, Spring 2023, University of Utah by Prof. Ana Marasović](https://utah-data-mining-spring23.github.io/) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCrnLNqZPnTuG_s19TNDoad0))
   - [CS 5955/6955 - Data Mining, University of Utah](http://www.cs.utah.edu/~jeffp/teaching/cs5955.html) ([YouTube](https://www.youtube.com/channel/UCcrlwW88yMcXujhGjSP2WBg/videos))
   - [Statistics 202 - Statistical Aspects of Data Mining, Summer 2007 - Google](http://www.stats202.com/original_index.html) ([YouTube](https://www.youtube.com/playlist?list=PLFE776F2C513A744E))
   - [MOOC - Text Mining and Analytics by ChengXiang Zhai](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt)
@@ -461,6 +463,7 @@ Table of Contents
   - [Information Retrieval - Spring 2018 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1ktkDvNurPSDwTQ_oGQisn)
   - [CAP6673 - Data Mining and Machine Learning - FAU](http://www.cse.fau.edu/~taghi/classes/cap6673/)([Video lectures](https://vimeo.com/album/1505953))
   - [Data Warehousing and Data Mining Techniques - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/dwh)
+  
 - #### **Probabilistic Graphical Modeling**
   - [MOOC - Probabilistic Graphical Models - Coursera](https://www.youtube.com/playlist?list=PLvfF4UFg6Ejj6SX-ffw-O4--SPbB9P7eP)
   - [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
@@ -469,6 +472,7 @@ Table of Contents
   - [Probabilistic Models - UNIVERSITY OF HELSINKI](https://www.cs.helsinki.fi/en/courses/582636/2015/K/K/1)
   - [Probabilistic Modelling and Reasoning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/pmr.htm)
   - [Probabilistic Graphical Models, Spring 2018 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM)
+  
 - #### **Deep Learning**
   - [Full Stack Deep Learning - Course 2022](https://www.youtube.com/watch?v=-Iob-FW5jVM&list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
   - [Full Stack Deep Learning - Course 2021](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
@@ -515,6 +519,7 @@ Table of Contents
   - [CMU 10 417 / 10 617 Intermediate Deep Learning fall 2022, by Ruslan Salakhutdinov](https://www.youtube.com/playlist?list=PL682UO4IMem8A3WUecf30olVT--FhRK7h)
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
+  
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -537,6 +542,7 @@ Table of Contents
   - [CMU 10 703 Deep Reinforcement Learning & Control fall 2022, by Katerina Fragkiadaki](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ee5794a2-cb54-4edc-836b-aefc01023243%22)
   - [ECE524 Foundations of Reinforcement Learning at Princeton University, Spring 2024](https://www.youtube.com/playlist?list=PLYXvCE1En13epbogBmgafC_Yyyk9oQogl)
   - [REINFORCEMENT LEARNING AND OPTIMAL CONTROL - Dimitri P. Bertsekas, ASU](https://web.mit.edu/dimitrib/www/RLbook.html)
+  
 - #### **Advanced Machine Learning**
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
   - [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
@@ -544,12 +550,14 @@ Table of Contents
   - [Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
   - [ES 661 (2023): Probabilistic Machine Learning - IIT Gandhinagar](https://www.youtube.com/playlist?list=PLftoLyLEwECBEJyfRBJoSBd0UaTjEcs3I)
   - [Information Retrieval in High Dimensional Data](https://www.youtube.com/playlist?list=PLaE1lKCe0jH3ePp9wCU1ygTquVOXY-UYv)
+  
 - #### **Natural Language Processing**
   - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
   - [CS 224N - Natural Language Processing, Stanford University](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) ([Lecture videos](https://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab))
   - [Stanford XCS224U: Natural Language Understanding I Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)
   - [CS388: Natural Language Processing - UT Austin](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
   - [CS 124 - From Languages to Information - Stanford University](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists?view=50&sort=dd&shelf_id=2)
+  - [CS 6340/5340 - Natural Language Processing - University of Utah - Spring 2024](https://utah-intro-nlp.github.io/) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43))
   - [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
   - [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) ([Github](https://github.com/fastai/course-nlp))
   - [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
@@ -567,9 +575,11 @@ Table of Contents
   - [Stanford CS25 - Transformers United 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
   - [Natural Language Processing (IN2361) - TUM](https://live.rbg.tum.de/?year=2019&term=W&slug=nlp&view=3)
   - [CS 886: Recent Advances on Foundation Models Winter 2024 - University of Waterloo](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
+  
 - #### **Generative AI**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
   - [CS 6785 - Deep Generative Models - Cornell Tech, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+  
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   - [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
@@ -579,10 +589,13 @@ Table of Contents
   - [Computational Cognitive Science 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ccs.htm)
   - [NOC:Deep Learning For Visual Computing - IIT Kharagpur](https://nptel.ac.in/courses/108/105/108105103/)
   - [Deep Learning for Computer Vision - University of Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-  - [ Extreme Classification ](https://www.youtube.com/watch?v=v0rAVyF4rWA&list=PLXtAHOcKKDTk43wjXud9GQS-l-QA5DQxH&pp=iAQB)
+  - [Extreme Classification ](https://www.youtube.com/watch?v=v0rAVyF4rWA&list=PLXtAHOcKKDTk43wjXud9GQS-l-QA5DQxH&pp=iAQB)
+  - [EECS 498/598 - Deep Learning for Computer Vision - University of Michigan - Fall 2019](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/) ([Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r))
+  
 - #### **Time Series Analysis**
   - [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
   - [Applied Time Series Analysis](https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX)
+  
 - #### **Optimization**
   - [Optimisation for Machine Learning: Theory and Implementation (Hindi) - IIT](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-pmLzCoMu_ANU6atEFyyJl)
   - [EE364a: Convex Optimization I - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
@@ -591,6 +604,7 @@ Table of Contents
   - [10-725 Optimization Fall 2012 - CMU](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
   - [10-801 Advanced Optimization and Randomized Methods - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html) ([YouTube](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d))
   - [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
+  
 - #### **Misc Machine Learning Topics**
   - [Quantum Machine Learning | 2021 Qiskit Global Summer School](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI)
   - [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
