@@ -518,6 +518,7 @@ Table of Contents
   - [UT Austin CS 394D Deep Learning fall 2021, by Philipp KrahenBühl](https://www.youtube.com/playlist?list=PL682UO4IMem_B72vmX4r0v3UrAjPRFAnE)
   - [CMU 10 417 / 10 617 Intermediate Deep Learning fall 2022, by Ruslan Salakhutdinov](https://www.youtube.com/playlist?list=PL682UO4IMem8A3WUecf30olVT--FhRK7h)
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
+  - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
   
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
