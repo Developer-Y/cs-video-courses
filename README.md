@@ -519,6 +519,8 @@ Table of Contents
   - [CMU 10 417 / 10 617 Intermediate Deep Learning fall 2022, by Ruslan Salakhutdinov](https://www.youtube.com/playlist?list=PL682UO4IMem8A3WUecf30olVT--FhRK7h)
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
+  - [STATS 385 Analysis of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-dTd5O5SOj-J723BcA-CAw)
+  - [STATS 385 Theories of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-nYDzn1qQbq_ql3G9DDebS)
   
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
@@ -721,6 +723,7 @@ Table of Contents
   - [Cambridge Principles of Statistics 2020, by Alberto J. Coca](https://www.youtube.com/playlist?list=PLn1JSlh3WT_YBwXFUfRAb1ZOXnPYDgVNa)
   - [UC Berkeley STAT 150 Stochastic Processes spring 2021, by Brett Kolesnik](https://www.youtube.com/playlist?list=PL682UO4IMem_H6exlt8NMfBSc0137_wlo)
   - [UIUC Math 564 Applied Stochastic Processes fall 2016, by Kay Kirkpatrick](https://www.youtube.com/playlist?list=PL682UO4IMem-5C_U0ml6O2kM1s1Yo-D9D)
+  - [CS/ECE 561 - Probability and Info Theory in Machine Learning](https://mediaspace.wisc.edu/channel/CS_ECE%2B561%2B-%2BProbability%2Band%2BInfo%2BTheory%2Bin%2BMachine%2BLearning/191748913)
 - **Linear Algebra**
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
@@ -765,6 +768,8 @@ Table of Contents
 - [Short Course on Casual Inference, by Sanjay Shakkottai](https://www.youtube.com/playlist?list=PLcip-Gs_jEK_l2pNG8V_0UDK9jyPtLyuq)
 - [UCLA STAT 100C Linear Models spring 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzrzpEoojAa4anJdaKa49GM)
 - [MSU Math for Computing](https://www.youtube.com/playlist?list=PLZ-krWGO-UEyLqtyA2pACX_tXXBTLWkI1)
+- [Mathematics of Data Science - ETH Zurich](https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL)
+
 
 ------------------------------
 
