@@ -679,6 +679,7 @@ Table of Contents
   - [18.02 Multivariable Calculus, Fall 2007 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
   - [18.03 Differential Equations, Spring 2010 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
   - [Highlights of Calculus - Gilbert Strang, MIT OCW](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
+  - [MAT123 Introduction to Calculus (Fall 2015) - Stony Brook](https://www.math.stonybrook.edu/~scott/mat123.fall15/)
   - [Vector Calculus for Engineers - HKUST](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
 - **Discrete Math**
   - [6.042J - Mathematics for Computer Science, MIT OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/) 
