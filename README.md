@@ -245,7 +245,7 @@ Table of Contents
 - [15-721 - Database Systems, CMU](http://15721.courses.cs.cmu.edu/spring2017) ([YouTube-2017](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0), [YouTube-2016](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O))
 - [15-721 Advanced Database Systems (Spring 2019) - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
 - [CS122 - Relational Database System Implementation, Winter 2014-2015 - Caltech](http://users.cms.caltech.edu/~donnie/cs122/)
-- [CS 186 - Database Systems, UC Berkeley, Spring 2015](https://sites.google.com/site/cs186spring2015/home/schedule-and-notes) ([Lectures- InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html))
+- [CS 186 - Database Systems, UC Berkeley, Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html)
 - [CS 6530 - Graduate-level Database Systems, Fall 2016, University of Utah](https://www.cs.utah.edu/~lifeifei/cs6530/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI))
 - [6.830/6.814 - Database Systems [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
 - [Informatics 1 - Data & Analysis 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm)
@@ -318,7 +318,7 @@ Table of Contents
 ### Artificial Intelligence
 
 - [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2023/)
-- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2023](https://inst.eecs.berkeley.edu/~cs188/sp23/) ([Youtube](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz))
+- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz)
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
@@ -496,7 +496,6 @@ Table of Contents
   - [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
   - [CS230: Deep Learning - Autumn 2018 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
   - [STAT-157 Deep Learning 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
-  - [Full Stack DL Bootcamp 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu5645uORPL8xyvHr91Lg8G1l)
   - [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
   - [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
   - [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
@@ -525,7 +524,7 @@ Table of Contents
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
   - [STATS 385 Analysis of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-dTd5O5SOj-J723BcA-CAw)
   - [STATS 385 Theories of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-nYDzn1qQbq_ql3G9DDebS)
-
+  
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -901,7 +900,7 @@ Table of Contents
 
 - **Computer Organization**
   - [How Computers Work - Aduni](http://aduni.org/courses/hcw/index.php?view=cw)
-  - [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html))
+  - [CS 61C - Machine Structures, UC Berkeley Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html) 
   - [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
   - [CS/ECE 3810 Computer Organization, Fall 2015, , University of Utah](http://www.cs.utah.edu/~rajeev/cs3810/) ([YouTube](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy))
   - [Digital Computer Organization - IIT Kharagpur](https://nptel.ac.in/courses/117105078/)
@@ -910,7 +909,6 @@ Table of Contents
   - [INFORMATICS 2C - INTRODUCTION TO COMPUTER SYSTEMS (AUTUMN 2016) - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2c-cs.htm)
 - **Computer Architecture**
   - [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq))
-  - [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
   - [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](https://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
   - [CS/ECE 6810 Computer Architecture, Spring 2016, University of Utah](http://www.cs.utah.edu/~rajeev/cs6810/) ([YouTube](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6))
   - [MOOC - Computer Architecture, David Wentzlaff - Princeton University/Coursera](http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426)
@@ -944,8 +942,6 @@ Table of Contents
 - [Memory Systems Course - Technion, Summer 2018](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9)
 - [UC Berkeley EECS16A Designing Information Devices and Systems I summer 2020, by Grace Kuo, Panos Zarkos, Urmita Sikder](https://www.youtube.com/playlist?list=PL682UO4IMem9_svw6nCsGOaDZaYSjpgcB)
 - [UC Berkeley EECS 16B Designing Information Devices and Systems II fall 2020, by Seth Sanders, Miki Lustig](https://www.youtube.com/playlist?list=PL682UO4IMem_QO6og7qXyvjMUHXNI7Hqs)
-- [UC Berkeley EECS 152 / 252A Computer Architecture and Engineering spring 2023, by Sophia Shao](https://inst.eecs.berkeley.edu/~cs152/sp23/)
-- [UC Berkeley EECS 151 / 251A Introduction to Digital Design and Integrated Circuits fall 2022, by Sophia Shao](https://inst.eecs.berkeley.edu/~eecs151/fa22/)
 - [ELEN E4896 - MUSIC SIGNAL PROCESSING - Spring 2016 - Columbia](https://www.ee.columbia.edu/~dpwe/e4896/outline.html)
 - [Columbia ELEN E6820 Speech and Audio Processing spring 2006, by Dan Ellis](https://www.youtube.com/playlist?list=PL682UO4IMem8IpOKncIUSEFsYWoJyS5ks)
 - [CMU 11 751 / 18 781 Speech Recognition and Understanding fall 2022, by Shinji Watanabe](https://www.youtube.com/playlist?list=PLfVqr2l0FG-u7chWKPQMDoT0o-I2ejxeK)
@@ -958,7 +954,7 @@ Table of Contents
 - [Internet Security (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1227/)
 - [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video_galleries/video-lectures/)
 - [CS 253 Web Security - Stanford University](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
-- [CS 161: Computer Security, UC Berkeley](https://cs161.org/)
+- [CS 161: Computer Security, UC Berkeley](https://fa23.cs161.org/) ([Videos](https://www.youtube.com/playlist?list=PLfBkt1-_BHX_VxOWlmstguFxojSN742vz))
 - [6.875 - Cryptography - Spring 2018- MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 - [CSEP590A - Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](https://courses.cs.washington.edu/courses/csep590a/11wi/video/))
 - [CS461/ECE422 - Computer Security - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs461/sp2016/) ([Videos](https://recordings.engineering.illinois.edu:8443/ess/portal/section/8a560718-345a-417a-b665-6bd375a71ee2))
@@ -973,7 +969,7 @@ Table of Contents
 - [Internet Security - Weaknesses and Targets (WT 2015/16)](https://www.tele-task.de/archive/series/overview/1084/) ([WT 2012/13](https://www.tele-task.de/archive/series/overview/921/) ([YouTube](https://www.youtube.com/playlist?list=PLVWVhkyKd-7taP50fB9PeZ2W_EPTOLD8o)))
 - [IT Security, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9-XSGfm-3uA9DfF7plasCF)
 - [Security and Cryptography, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF-z2sfMb3w0uQzd7PfaLFlU)
-- [MOOC - Cryptography - Coursera](https://www.youtube.com/playlist?list=PL3F2F89F4CD1E1DF4)
+- [MOOC - Cryptography - Coursera](https://www.youtube.com/playlist?list=PL58C6Q25sEEHXvACYxiav_lC2DqSlC7Og)
 - [MOOC - Intro to Information Security - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak)
 - [ICS 444 - Computer & Network Security](https://www.youtube.com/playlist?list=PLciCszvvRCTV09wIXJwiPmYF7thHiq4En)
 - [Privacy and Security in Online Social Networks - IIT Madras](https://nptel.ac.in/courses/106106146/)
@@ -991,7 +987,6 @@ Table of Contents
 
 ### Computer Graphics
 
-- [CS184 - Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
 - [ECS 175 - Computer Graphics, Fall 2009 - UC Davis](https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10)
 - [6.837 - Computer Graphics - Spring 2017 - MIT](https://www.youtube.com/playlist?list=PLkHIj5SCfn3_PCotoqTetMpJc_jkpkgLt)
 - [6.838 - Shape Analysis - Spring 2017- MIT](https://www.youtube.com/playlist?list=PLkHIj5SCfn3-FeWqD3xeOZWP2kQYY654o)
@@ -1020,7 +1015,6 @@ Table of Contents
 - [Image Processing and Analysis - UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
 - [CS 543 - Computer Vision – Spring 2017](https://courses.engr.illinois.edu/cs543/sp2017/) ([Recordings](https://echo360.org/section/283b0471-3d9f-4efb-9c51-bc00e778735e/home))
 - [CAP 5415 - Computer Vision - University of Central Florida](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/)([Video Lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9))
-- [EE225B - Digital Image Processing, Spring 2014 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee225b/sp14/) ([Videos - Spring 2006](http://www-video.eecs.berkeley.edu/~avz/video_225b.html))
 - [EE637 - Digital Image Processing I - Purdue University](https://engineering.purdue.edu/~bouman/ece637/) ([Videos - Sp 2011](https://www.youtube.com/user/ModelBasedImaging),[Videos - Sp 2007](https://engineering.purdue.edu/~bouman/ece637/lectures/lectures07/))
 - [Computer Vision I: Variational Methods - TU München](https://vision.in.tum.de/teaching/ws2015/vmcv2015) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI))
 - [Computer Vision II: Multiple View Geometry (IN2228), SS 2016 - TU München](https://vision.in.tum.de/teaching/ss2016/mvg2016) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4))
