@@ -72,6 +72,7 @@ Table of Contents
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
 - [Introduction to Computational Thinking - MIT](https://computationalthinking.mit.edu/Fall22/)
 - [CS 50 - Introduction to Computer Science, Harvard University](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) ([cs50.tv](http://cs50.tv/2017/fall/))
+- [CS50R - Introduction to Programming with R](https://cs50.harvard.edu/r/2024/) ([Lecture Videos](https://www.youtube.com/playlist?list=PLhQjrBD2T382yfNp_-xzX244d-O9W6YmD))
 - [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](https://cs61a.org/)
 - [CPSC 110 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
 - [CS50's Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
@@ -280,6 +281,7 @@ Table of Contents
   - [Software Testing - Udacity, course-cs258 | 2015](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
   - [Software Debugging - Udacity, course-cs259 | 2015](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)
   - [Software Engineering - Bauhaus-Uni Weimar](https://www.youtube.com/watch?v=jouBM4AH0jw&list=PLjEglKdMOevU2STTGq79duxTXDFuO-k1H&index=2)
+  - [CMU 17-445 Software Engineering for AI-Enabled Systems summer 2020, by Christian Kaestner](https://www.youtube.com/playlist?list=PLDS2JMJnJzdkQPdkhcuwcbJpjB84g9ffX)
 - #### **Software Architecture**
   - [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
   - [MOOC - Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
@@ -518,7 +520,10 @@ Table of Contents
   - [UT Austin CS 394D Deep Learning fall 2021, by Philipp KrahenBühl](https://www.youtube.com/playlist?list=PL682UO4IMem_B72vmX4r0v3UrAjPRFAnE)
   - [CMU 10 417 / 10 617 Intermediate Deep Learning fall 2022, by Ruslan Salakhutdinov](https://www.youtube.com/playlist?list=PL682UO4IMem8A3WUecf30olVT--FhRK7h)
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
-  
+  - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
+  - [STATS 385 Analysis of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-dTd5O5SOj-J723BcA-CAw)
+  - [STATS 385 Theories of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-nYDzn1qQbq_ql3G9DDebS)
+
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -641,7 +646,7 @@ Table of Contents
 
 ### Computer Networks
 
-- [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](http://www.scs.stanford.edu/10au-cs144/) ([Lecture videos](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z))
+- [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](http://www.scs.stanford.edu/10au-cs144/) ([Lecture videos](https://www.youtube.com/playlist?list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN))
 - [Computer Networking: A Top-Down Approach](https://www.youtube.com/playlist?list=PLm556dMNleHc1MWN5BX9B2XkwkNE2Djiu)
 - [Computer Communication Networks, Rensselaer Polytechnic Institute - Fall 2001](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html) ([Videos](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_video)) ([Slides](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_foils))
 - [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
@@ -675,6 +680,7 @@ Table of Contents
   - [18.02 Multivariable Calculus, Fall 2007 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
   - [18.03 Differential Equations, Spring 2010 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
   - [Highlights of Calculus - Gilbert Strang, MIT OCW](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
+  - [MAT123 Introduction to Calculus (Fall 2015) - Stony Brook](https://www.math.stonybrook.edu/~scott/mat123.fall15/)
   - [Vector Calculus for Engineers - HKUST](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
 - **Discrete Math**
   - [6.042J - Mathematics for Computer Science, MIT OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/) 
@@ -720,6 +726,7 @@ Table of Contents
   - [Cambridge Principles of Statistics 2020, by Alberto J. Coca](https://www.youtube.com/playlist?list=PLn1JSlh3WT_YBwXFUfRAb1ZOXnPYDgVNa)
   - [UC Berkeley STAT 150 Stochastic Processes spring 2021, by Brett Kolesnik](https://www.youtube.com/playlist?list=PL682UO4IMem_H6exlt8NMfBSc0137_wlo)
   - [UIUC Math 564 Applied Stochastic Processes fall 2016, by Kay Kirkpatrick](https://www.youtube.com/playlist?list=PL682UO4IMem-5C_U0ml6O2kM1s1Yo-D9D)
+  - [CS/ECE 561 - Probability and Info Theory in Machine Learning](https://mediaspace.wisc.edu/channel/CS_ECE%2B561%2B-%2BProbability%2Band%2BInfo%2BTheory%2Bin%2BMachine%2BLearning/191748913)
 - **Linear Algebra**
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
@@ -764,6 +771,8 @@ Table of Contents
 - [Short Course on Casual Inference, by Sanjay Shakkottai](https://www.youtube.com/playlist?list=PLcip-Gs_jEK_l2pNG8V_0UDK9jyPtLyuq)
 - [UCLA STAT 100C Linear Models spring 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzrzpEoojAa4anJdaKa49GM)
 - [MSU Math for Computing](https://www.youtube.com/playlist?list=PLZ-krWGO-UEyLqtyA2pACX_tXXBTLWkI1)
+- [Mathematics of Data Science - ETH Zurich](https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL)
+
 
 ------------------------------
 
@@ -1047,6 +1056,9 @@ Table of Contents
 - [Computational Astrophysics - AstroTwinCoLo, 2015](https://www.youtube.com/playlist?list=PLPdkBLbDPtqoHDcjUweIJqe6GKnOz0-Qw)
 - [Astroinformatics 2019 Conference - Caltech](https://m.youtube.com/playlist?list=PL8_xPU5epJdcv2L4MzpzNd6gPyq6glmjc)
 - [Space Science with Python - Astroniz](https://www.youtube.com/playlist?list=PLNvIBWkEdZ2iCc8G9dvx6MQvBruJG-TE8)
+- [Computational Physics Course in Python, Rutgers 2021](https://www.youtube.com/playlist?list=PLXmUYdQdC9IGv61Y1lhGBH0NsDQRdwcJE)
+- [Landau Computational Physics Course](https://www.youtube.com/playlist?list=PLnWQ_pnPVzmJnp794rQXIcwJIjwy7Nb2U)
+- [Statistical Methods and Machine Learning in High Energy Physics](https://www.youtube.com/playlist?list=PL04QVxpjcnjjKDki5FHlKQ8839TGHvj8y)
 ------------------------------
 
 ### Computational Biology
