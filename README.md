@@ -956,7 +956,7 @@ Table of Contents
 - [Internet Security (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1227/)
 - [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video_galleries/video-lectures/)
 - [CS 253 Web Security - Stanford University](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
-- [CS 161: Computer Security, UC Berkeley](https://cs161.org/)
+- [CS 161: Computer Security, UC Berkeley](https://fa23.cs161.org/) ([Videos](https://www.youtube.com/playlist?list=PLfBkt1-_BHX_VxOWlmstguFxojSN742vz))
 - [6.875 - Cryptography - Spring 2018- MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 - [CSEP590A - Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](https://courses.cs.washington.edu/courses/csep590a/11wi/video/))
 - [CS461/ECE422 - Computer Security - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs461/sp2016/) ([Videos](https://recordings.engineering.illinois.edu:8443/ess/portal/section/8a560718-345a-417a-b665-6bd375a71ee2))
