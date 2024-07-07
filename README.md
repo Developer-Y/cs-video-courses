@@ -496,7 +496,6 @@ Table of Contents
   - [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
   - [CS230: Deep Learning - Autumn 2018 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
   - [STAT-157 Deep Learning 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
-  - [Full Stack DL Bootcamp 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu5645uORPL8xyvHr91Lg8G1l)
   - [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
   - [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
   - [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
@@ -525,7 +524,7 @@ Table of Contents
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
   - [STATS 385 Analysis of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-dTd5O5SOj-J723BcA-CAw)
   - [STATS 385 Theories of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-nYDzn1qQbq_ql3G9DDebS)
-
+  
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -901,7 +900,7 @@ Table of Contents
 
 - **Computer Organization**
   - [How Computers Work - Aduni](http://aduni.org/courses/hcw/index.php?view=cw)
-  - [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html))
+  - [CS 61C - Machine Structures, UC Berkeley Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html) 
   - [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
   - [CS/ECE 3810 Computer Organization, Fall 2015, , University of Utah](http://www.cs.utah.edu/~rajeev/cs3810/) ([YouTube](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy))
   - [Digital Computer Organization - IIT Kharagpur](https://nptel.ac.in/courses/117105078/)
@@ -910,7 +909,6 @@ Table of Contents
   - [INFORMATICS 2C - INTRODUCTION TO COMPUTER SYSTEMS (AUTUMN 2016) - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2c-cs.htm)
 - **Computer Architecture**
   - [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq))
-  - [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
   - [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](https://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
   - [CS/ECE 6810 Computer Architecture, Spring 2016, University of Utah](http://www.cs.utah.edu/~rajeev/cs6810/) ([YouTube](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6))
   - [MOOC - Computer Architecture, David Wentzlaff - Princeton University/Coursera](http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426)
@@ -989,7 +987,6 @@ Table of Contents
 
 ### Computer Graphics
 
-- [CS184 - Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
 - [ECS 175 - Computer Graphics, Fall 2009 - UC Davis](https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10)
 - [6.837 - Computer Graphics - Spring 2017 - MIT](https://www.youtube.com/playlist?list=PLkHIj5SCfn3_PCotoqTetMpJc_jkpkgLt)
 - [6.838 - Shape Analysis - Spring 2017- MIT](https://www.youtube.com/playlist?list=PLkHIj5SCfn3-FeWqD3xeOZWP2kQYY654o)
@@ -1018,7 +1015,6 @@ Table of Contents
 - [Image Processing and Analysis - UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
 - [CS 543 - Computer Vision – Spring 2017](https://courses.engr.illinois.edu/cs543/sp2017/) ([Recordings](https://echo360.org/section/283b0471-3d9f-4efb-9c51-bc00e778735e/home))
 - [CAP 5415 - Computer Vision - University of Central Florida](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/)([Video Lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9))
-- [EE225B - Digital Image Processing, Spring 2014 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee225b/sp14/) ([Videos - Spring 2006](http://www-video.eecs.berkeley.edu/~avz/video_225b.html))
 - [EE637 - Digital Image Processing I - Purdue University](https://engineering.purdue.edu/~bouman/ece637/) ([Videos - Sp 2011](https://www.youtube.com/user/ModelBasedImaging),[Videos - Sp 2007](https://engineering.purdue.edu/~bouman/ece637/lectures/lectures07/))
 - [Computer Vision I: Variational Methods - TU München](https://vision.in.tum.de/teaching/ws2015/vmcv2015) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI))
 - [Computer Vision II: Multiple View Geometry (IN2228), SS 2016 - TU München](https://vision.in.tum.de/teaching/ss2016/mvg2016) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4))
