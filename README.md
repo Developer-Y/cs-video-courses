@@ -191,16 +191,17 @@ Table of Contents
   - [CS 4414 Operating Systems, Fall 2018 - University of Virginia](https://www.cs.virginia.edu/~cr4bd/4414/F2018/schedule.html)
   - [CSE 421/521 - Introduction to Operating Systems, SUNY University at Buffalo, NY - Spring 2016](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3)) ([Recitations 2016](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_YJn8wu9aJTPOgeWqiaJDF)) ([Assignment walkthroughs](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp9PC8fyzc2meL4XvrVSyP8O))
   - [CS 377 - Operating Systems, Fall 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbDTmsCRGWsMW_PzIOpXnckw)
+  - [CS 577 - Operating Systems, Spring 20 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbB2_z9EkSfQIjq3yNzy8igs)
   - [6.828 - Operating System Engineering [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
   - [6.S081 - Operating System Engineering [Fall 2020]](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
-  - [CSE 30341 - Operating Systems, Spr 2008](https://www.youtube.com/view_play_list?p=AB7D5CA7E262B0E2)
+  - [CSE 30341 - Operating Systems, Spr 2008](https://www.youtube.com/playlist?list=PLAB7D5CA7E262B0E2)
   - [CSEP 551 Operating Systems Autumn 2014 - University of Washington](https://courses.cs.washington.edu/courses/csep551/14au/video/)
   - [Introduction to Operating Systems - IIT Madras](https://nptel.ac.in/courses/106106144/)
   - [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013 InfoCoBuild, UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
   - [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
   - [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 - #### **Distributed Systems**
-  - [CS 677 - Distributed Operating Systems, Spring 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
+  - [CS 677 - Distributed Operating Systems, Spring 24 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbBpWHfKUU9Dfdk8RmQ7B9EH)
   - [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
   - [6.824 - Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
   - [6.824 Distributed Systems - Spring 2020 - MIT](https://pdos.csail.mit.edu/6.824/schedule.html) ([Youtube](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB))
@@ -215,7 +216,8 @@ Table of Contents
   - [Information Retrieval and Web Search Engines - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
   - [Middleware and Distributed Systems (WS 2009/10) - Dr. Martin von Löwis - HPI](https://www.tele-task.de/series/729/)
   - [CSE 138 - Distributed Systems - UC Santa Cruz, Spring 2020](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31) ([2021](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx))
-  - [CMU 15 440 / 640 Distributed Systems  spring 2022, by Mahadev Satyanarayanan, Padmanabhan Pillai](https://www.youtube.com/playlist?list=PL682UO4IMem8a6N8GAOGkgcbDkGG1g5OH)
+  - [CMU 15 440 / 640 Distributed Systems Spring 2022, by Mahadev Satyanarayanan, Padmanabhan Pillai](https://www.youtube.com/playlist?list=PL682UO4IMem8a6N8GAOGkgcbDkGG1g5OH)
+  - [UNC Comp533 - Distributed Systems Spring 2020](https://www.youtube.com/playlist?list=PLH5XTBxCO2hzgww9p5sew30lx3ngJsxcB)
 - #### **Real-Time Systems**
   - [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
   - [Real Time Systems - IIT Kharagpur](https://nptel.ac.in/courses/106105036/)
@@ -523,7 +525,7 @@ Table of Contents
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
   - [STATS 385 Analysis of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-dTd5O5SOj-J723BcA-CAw)
   - [STATS 385 Theories of Deep Learning - Stanford](https://www.youtube.com/playlist?list=PL682UO4IMem-nYDzn1qQbq_ql3G9DDebS)
-  
+
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
