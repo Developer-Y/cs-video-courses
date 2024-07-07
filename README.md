@@ -245,7 +245,7 @@ Table of Contents
 - [15-721 - Database Systems, CMU](http://15721.courses.cs.cmu.edu/spring2017) ([YouTube-2017](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0), [YouTube-2016](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O))
 - [15-721 Advanced Database Systems (Spring 2019) - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
 - [CS122 - Relational Database System Implementation, Winter 2014-2015 - Caltech](http://users.cms.caltech.edu/~donnie/cs122/)
-- [CS 186 - Database Systems, UC Berkeley, Spring 2015](https://sites.google.com/site/cs186spring2015/home/schedule-and-notes) ([Lectures- InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html))
+- [CS 186 - Database Systems, UC Berkeley, Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html)
 - [CS 6530 - Graduate-level Database Systems, Fall 2016, University of Utah](https://www.cs.utah.edu/~lifeifei/cs6530/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI))
 - [6.830/6.814 - Database Systems [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
 - [Informatics 1 - Data & Analysis 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm)
@@ -318,7 +318,7 @@ Table of Contents
 ### Artificial Intelligence
 
 - [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2023/)
-- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2023](https://inst.eecs.berkeley.edu/~cs188/sp23/) ([Youtube](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz))
+- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz)
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
@@ -944,8 +944,6 @@ Table of Contents
 - [Memory Systems Course - Technion, Summer 2018](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9)
 - [UC Berkeley EECS16A Designing Information Devices and Systems I summer 2020, by Grace Kuo, Panos Zarkos, Urmita Sikder](https://www.youtube.com/playlist?list=PL682UO4IMem9_svw6nCsGOaDZaYSjpgcB)
 - [UC Berkeley EECS 16B Designing Information Devices and Systems II fall 2020, by Seth Sanders, Miki Lustig](https://www.youtube.com/playlist?list=PL682UO4IMem_QO6og7qXyvjMUHXNI7Hqs)
-- [UC Berkeley EECS 152 / 252A Computer Architecture and Engineering spring 2023, by Sophia Shao](https://inst.eecs.berkeley.edu/~cs152/sp23/)
-- [UC Berkeley EECS 151 / 251A Introduction to Digital Design and Integrated Circuits fall 2022, by Sophia Shao](https://inst.eecs.berkeley.edu/~eecs151/fa22/)
 - [ELEN E4896 - MUSIC SIGNAL PROCESSING - Spring 2016 - Columbia](https://www.ee.columbia.edu/~dpwe/e4896/outline.html)
 - [Columbia ELEN E6820 Speech and Audio Processing spring 2006, by Dan Ellis](https://www.youtube.com/playlist?list=PL682UO4IMem8IpOKncIUSEFsYWoJyS5ks)
 - [CMU 11 751 / 18 781 Speech Recognition and Understanding fall 2022, by Shinji Watanabe](https://www.youtube.com/playlist?list=PLfVqr2l0FG-u7chWKPQMDoT0o-I2ejxeK)
