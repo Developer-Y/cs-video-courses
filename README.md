@@ -216,7 +216,8 @@ Table of Contents
   - [Information Retrieval and Web Search Engines - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
   - [Middleware and Distributed Systems (WS 2009/10) - Dr. Martin von Löwis - HPI](https://www.tele-task.de/series/729/)
   - [CSE 138 - Distributed Systems - UC Santa Cruz, Spring 2020](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31) ([2021](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx))
-  - [CMU 15 440 / 640 Distributed Systems  spring 2022, by Mahadev Satyanarayanan, Padmanabhan Pillai](https://www.youtube.com/playlist?list=PL682UO4IMem8a6N8GAOGkgcbDkGG1g5OH)
+  - [CMU 15 440 / 640 Distributed Systems Spring 2022, by Mahadev Satyanarayanan, Padmanabhan Pillai](https://www.youtube.com/playlist?list=PL682UO4IMem8a6N8GAOGkgcbDkGG1g5OH)
+  - [UNC Comp533 - Distributed Systems Spring 2020](https://www.youtube.com/playlist?list=PLH5XTBxCO2hzgww9p5sew30lx3ngJsxcB)
 - #### **Real-Time Systems**
   - [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
   - [Real Time Systems - IIT Kharagpur](https://nptel.ac.in/courses/106105036/)
