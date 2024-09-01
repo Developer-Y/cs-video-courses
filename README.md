@@ -171,6 +171,11 @@ Table of Contents
 - [Harvard Information Theory 2022, by Gregory Falkovich](https://www.youtube.com/playlist?list=PLDEN2FPNHwVZKAFqfFl1b_NNAESTJwV9o)
 - [Math 510 - Linear Programming and Network Flows - Colorado State University](https://www.math.colostate.edu/~adams/teaching/math510fall2020/)
 - [LINFO 2266 Advanced Algorithms for Optimization 2021, by Pierre Schaus - UCLouvain](https://www.youtube.com/playlist?list=PL682UO4IMem-wgYnJl5yMswlNkve_8oGU)
+- [MIT 6.854 / 18.415 Advanced Algorithms spring 2016, by Ankur Moitra](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
+- [CMU 10 801 Advanced Optimization and Randomized Algorithms spring 2014, by Suvrit Sra and Alex Smola](https://www.cs.cmu.edu/~suvrit/teach/)
+- [UC Santa Cruz CSE 202 Combinatorial Algorithms spring 2021, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fbn9zAJfvJoQF1nc50KQR9g)
+- [UC Santa Cruz CSE 104, 204 Computational Complexity fall 2020, spring 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o)
+- [UC Santa Cruz CSE 290A Randomized Algorithms spring 2020, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0faRpH2oJcyW4CuM5Clt8a2n)
 
 
 ------------------------------
@@ -218,6 +223,7 @@ Table of Contents
   - [CSE 138 - Distributed Systems - UC Santa Cruz, Spring 2020](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31) ([2021](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx))
   - [CMU 15 440 / 640 Distributed Systems Spring 2022, by Mahadev Satyanarayanan, Padmanabhan Pillai](https://www.youtube.com/playlist?list=PL682UO4IMem8a6N8GAOGkgcbDkGG1g5OH)
   - [UNC Comp533 - Distributed Systems Spring 2020](https://www.youtube.com/playlist?list=PLH5XTBxCO2hzgww9p5sew30lx3ngJsxcB)
+  - [Brown CSCI 1380 Distributed Computer Systems spring 2016, by Tom Doeppner & Rodrigo Fonseca](https://cs.brown.edu/courses/cs138/s16/syllabus.html)
 - #### **Real-Time Systems**
   - [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
   - [Real Time Systems - IIT Kharagpur](https://nptel.ac.in/courses/106105036/)
@@ -547,6 +553,7 @@ Table of Contents
   - [CMU 10 703 Deep Reinforcement Learning & Control fall 2022, by Katerina Fragkiadaki](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ee5794a2-cb54-4edc-836b-aefc01023243%22)
   - [ECE524 Foundations of Reinforcement Learning at Princeton University, Spring 2024](https://www.youtube.com/playlist?list=PLYXvCE1En13epbogBmgafC_Yyyk9oQogl)
   - [REINFORCEMENT LEARNING AND OPTIMAL CONTROL - Dimitri P. Bertsekas, ASU](https://web.mit.edu/dimitrib/www/RLbook.html)
+  - [CMU 16 745 Optimal Control and Reinforcement Learning spring by Zac Manchester](https://www.youtube.com/@roboticexplorationlab3724/playlists)
   
 - #### **Advanced Machine Learning**
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
@@ -580,6 +587,7 @@ Table of Contents
   - [Stanford CS25 - Transformers United 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
   - [Natural Language Processing (IN2361) - TUM](https://live.rbg.tum.de/?year=2019&term=W&slug=nlp&view=3)
   - [CS 886: Recent Advances on Foundation Models Winter 2024 - University of Waterloo](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
+  - [UC Berkeley CS 194/294-267 Understanding Large Language Models Foundations and Safety spring 2024, by Dawn Song & Dan Hendrycks](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)
   
 - #### **Generative AI**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
@@ -641,6 +649,10 @@ Table of Contents
   - [ACP SUMMER SCHOOL 2023 on Machine Learning for Constraint Programming](https://www.youtube.com/playlist?list=PLcByDTr7vRTYJ2s6DL-3bzjGwtQif33y3)
   - [EPFL COM 516 Markov Chains and Algorithmic Applications spring 2020, by Olivier Leveque](https://www.youtube.com/playlist?list=PL682UO4IMem-9ID1nBaWYCFCh_qU7yYNd)
   - [UC Irvine CS 274B Learning in Graphical Models spring 2021, by Erik Sudderth](https://www.youtube.com/playlist?list=PL682UO4IMem_-FJQo4HfyIfOr2dG8QF_Y)
+  - [EE512A - Advanced Inference in Graphical Models, Fall Quarter, 2014](https://people.ece.uw.edu/bilmes/classes/ee512/ee512_fall_2014/)
+  - [UIUC STAT 437 Unsupervised Learning spring 2024, by Tori Ellison](https://www.youtube.com/playlist?list=PLIygTcviGPKB133Vh7zxsxFoblyfS4P5Y)
+  - [University of Wisconsin-Madison CS/ECE 561 - Probability and Information Theory in Machine Learning fall 2020, by Matthew Malley](https://mediaspace.wisc.edu/channel/CS_ECE%2B561%2B-%2BProbability%2Band%2BInfo%2BTheory%2Bin%2BMachine%2BLearning/191748913)
+
 
 ------------------------------
 
@@ -854,6 +866,7 @@ Table of Contents
 - [Columbia ELEN E6711 Stochastic Models in Information Systems fall 2005, by Yuliy Barsyhnikov](https://www.youtube.com/playlist?list=PL682UO4IMem9dvI-8vjxlPkM5onW9WoIp)
 - [Columbia ELEN E6717 Information Theory fall 2003, by Vittorio Castelli](https://www.youtube.com/playlist?list=PL682UO4IMem_IUZIFzlJi8vCTtS-Xi8eY)
 - [CMU 21 738 Extremal Combinatorics spring 2020, by Po-Shen Loh](https://www.youtube.com/playlist?list=PLgTkKBA6LRqaGKITvQS1QuIBoEbOVwFTm)
+- [JHU Domain-Specific Languages (DSL) Class (Summer 2018)](https://www.youtube.com/playlist?list=PLW-6wqFEcgTqHMXV_8jI43QLkCv8VgqLk)
 
 ------------------------------
 
@@ -893,6 +906,8 @@ Table of Contents
 - [High Performance Computing - IISC Bangalore](https://www.youtube.com/playlist?list=PL2F82ECDF8BB71B0C)
 - [2023 High Performance Computing Course Prof Dr - Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwUBwrFn3SY8vi4AYa2rVTWH) ([2022](https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix))
 - [High Performance Computing | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
+- [UCLA Stats 205 Hierarchical Linear Models spring 2024, by Jingyi Jessica Li](https://www.youtube.com/playlist?list=PLAYxx7zX5F1O2HbRr4gORnscbM9EszYbK)
+- [UF EML 6934 Optimal Control spring 2012, by Anil V. Rao](https://www.youtube.com/playlist?list=PLIygTcviGPKBCJ9JyHfBi4ftc9FDCtaBc)
 
 ------------------------------
 
@@ -983,6 +998,7 @@ Table of Contents
 - [Internet Security for Beginners by Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAdsi-IacgZJQF1MRw0Ee-HH)
 - [Offensive Security and Reverse Engineering, Chaplain University by Ali Hadi](https://www.youtube.com/playlist?list=PLCS2zI95IiNybAAQ0HL88YzwRpLXje5y6)
 - [Computer Systems Security](https://www.csa.iisc.ac.in/~vg/teaching/SecurityLectures/)
+- [UC Berkeley CS 161 Computer Security summer 2021, by Nicholas Ngai and Peyrin Kao](https://www.youtube.com/playlist?list=PLIygTcviGPKAPoe_0mUsXYaxZfsFyQyFE)
 
 ------------------------------
 
@@ -1087,6 +1103,12 @@ Table of Contents
 - [BIO410/510 Bioinformatics - California State University, Monterey Bay](https://www.youtube.com/playlist?list=PL17NIL2mko8mOPN9W0e4LOjJ2Dkome7ZH)
 - [BIO412: Comparative Genomics - California State University, Monterey Bay](https://www.youtube.com/playlist?list=PL17NIL2mko8nJ1RvfIwtaFnukoWICqS5B)
 - [CENG 465 - Introduction to Bioinformatics (Spring 2020-2021)](https://www.youtube.com/playlist?list=PL0X39D1PSBWPfCPbHb8GC7hoev8SG4Aye)
+- [UCLA Stats M254 Statistical Methods in Computational Biology spring 2024, by Jingyi Jessica Li](https://www.youtube.com/playlist?list=PLAYxx7zX5F1PieIIeSFc7asuKWRYm6nGy)
+- [Cell and Molecular Biology for Engineers  ETH Zurich](https://video.ethz.ch/lectures/d-itet/2011/autumn/227-0945-00L/8e6b12f7-d8cc-4f78-83b1-352876a266d0.html)
+- [Statistical Models in Computational Biology](https://video.ethz.ch/lectures/d-bsse/2018/spring/636-0702-00L/21c63925-cd10-4d56-bac1-b412ed6fe385.html)
+- [ETH Zürich Statistical Models in Computational Biology spring 2018, by Niko Beerenwinkel](https://video.ethz.ch/lectures/d-bsse/2018/spring/636-0702-00L/21c63925-cd10-4d56-bac1-b412ed6fe385.html)
+- [UC Berkeley CS 198-96 Introduction to Neurotechnology fall 2020](https://github.com/neurotech-berkeley/neurotech-course)
+
 
 ------------------------------
 
@@ -1204,6 +1226,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Quantitative Finance - IIT Kanpur](https://nptel.ac.in/courses/110/104/110104066/)
 - [Financial Derivatives & Risk Management - IIT Roorkee](https://nptel.ac.in/courses/110/107/110107128/)
 - [Financial Mathematics - IIT Roorkee](https://nptel.ac.in/courses/112/107/112107260/)
+- [Harvard Economics 2355 Deep Learning for Economics spring 2023, by Melissa Dell](https://www.youtube.com/playlist?list=PLGTgQIsun7ueGTRzDlBWqgX6xBlMce-QC)
 
 ------------------------------
 
@@ -1265,3 +1288,10 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Stanford EE274 I Data Compression: Theory and Applications I 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 - [Probabilistic Methods - University of Waterloo](https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU)
 - [LINGI 2365 Constraint Programming 2021, by Pierre Schaus - UCLouvain](https://www.youtube.com/playlist?list=PL682UO4IMem_f2_aOILBQ6kesW5Gs-A3f)
+- [Free Probability Theory and Ramanujan Graphs - Spring 2024](https://www.youtube.com/playlist?list=PL-FpbJb6Ix_Npx7GSSxnD2BLrLtwkdwt4)
+- [Asymptotics and perturbation methods - Prof. Steven Strogatz](https://www.youtube.com/playlist?list=PL5EH0ZJ7V0jV7kMYvPcZ7F9oaf_YAlfbI)
+- [ETH Zürich AI in the Sciences and Engineering](https://www.youtube.com/playlist?list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
+- [Introduction to GIS Programming (Fall 2024) - Open Geospatial Solutions](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPfb18kNe2luWX9xKg1233i9)
+- [UC Berkeley EE 120 Signals and Systems spring 2019, by Murat Arcak](https://www.youtube.com/playlist?list=PLIygTcviGPKCFASN_5cR04KUST-G97bb-)
+- [Stanford EE 376a winter 2011, Information Theory, by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
+
