@@ -576,9 +576,10 @@ Table of Contents
   - [Informatics 1 - Cognitive Science 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1cs.htm)
   - [Informatics 2A - Processing Formal and Natural Languages 2016-17 - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html)
   - [NOC:Deep Learning For Visual Computing - IIT Kharagpur](https://nptel.ac.in/courses/108/105/108105103/)
-  - [Deep Learning for Computer Vision - University of Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-  - [Extreme Classification ](https://www.youtube.com/watch?v=v0rAVyF4rWA&list=PLXtAHOcKKDTk43wjXud9GQS-l-QA5DQxH&pp=iAQB)
+  - [Extreme Classification ](https://www.youtube.com/playlist?list=PLXtAHOcKKDTk43wjXud9GQS-l-QA5DQxH)
   - [EECS 498/598 - Deep Learning for Computer Vision - University of Michigan - Fall 2019](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/) ([Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r))
+  - [CAP5415 Computer Vision - UCF Fall 2023](https://www.youtube.com/playlist?list=PLd3hlSJsX_InWyCQtwqQ7y6KnwhxNCgRf)
+  - [CAP6412 Advanced Computer Vision - UCF Spring 2024](https://www.crcv.ucf.edu/courses/cap6412-spring-2024/schedule/) ([Youtube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IlSr0ua4v8WQezazAMXEJE4))
   
 - #### **Time Series Analysis**
   - [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
@@ -910,6 +911,7 @@ Table of Contents
   - [Computer Architecture - IIT Madras](https://nptel.ac.in/courses/106106134/)
   - [High Performance Computer Architecture - IIT Kharagpur](https://nptel.ac.in/courses/106105033/)
   - [BE5B35APO - Computer Architectures, Spring 2022, CTU - FEE](https://cw.fel.cvut.cz/b212/courses/b35apo/en/lectures/start) ([YouTube - Spring 2022](https://www.youtube.com/playlist?list=PLQL6z4JeTTQnTrML7HgagbjdpCtvdyu0M)) ([RISC-V simulator - QtRvSim](https://comparch.edu.cvut.cz/))
+  - [CS773: Computer Architecture for Performance and Security - IIT Bombay](https://www.youtube.com/playlist?list=PLw6vmiIQrilQ-KhbMAMeh9_eddYjHRjb6)
 - **Parallel Computer Architecture**
   - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
   - [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
