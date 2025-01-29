@@ -510,6 +510,7 @@ Table of Contents
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
   - [UC Berkeley CS 182 / 282a Deep Learning spring 2023, by Anant Sahai](https://www.youtube.com/playlist?list=PLIygTcviGPKAaj_UAJcazYN4964xZ7Lt1)
   - [Foundations of Deep Learning - UMD](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
+  - [TUM IN2346 Introduction to Deep Learning Fall 2024, by Daniel Cremers](https://cvg.cit.tum.de/teaching/ws2024/i2dl)
   
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
