@@ -1264,4 +1264,5 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Introduction to GIS Programming (Fall 2024) - Open Geospatial Solutions](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPfb18kNe2luWX9xKg1233i9)
 - [UC Berkeley EE 120 Signals and Systems spring 2019, by Murat Arcak](https://www.youtube.com/playlist?list=PLIygTcviGPKCFASN_5cR04KUST-G97bb-)
 - [Stanford EE 376a winter 2011, Information Theory, by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
+- [Purdue ME 597 Distributed Energy Resources Spring 2024, by Kevin J. Kircher](https://www.youtube.com/playlist?list=PLcZDMdEnS08l_z5LVDQrEcyFrBsHlKVXd)
 
