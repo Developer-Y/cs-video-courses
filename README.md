@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/1e954e9f-8d2c-4231-b4dc-3d71c795d1a4
+
+![1000000903](https://gihttps://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPDthub.com/user-attachments/assets/032d9faa-439a-498e-a0c4-d3c0d340b0d3)
 <!-- omit in toc -->
 # Computer Science courses with video lectures
 
