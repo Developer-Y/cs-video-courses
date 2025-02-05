@@ -1008,6 +1008,7 @@ introduction/id389259246))
 - [Computational Geometry - IIT Delhi](https://nptel.ac.in/courses/106102011/)
 - [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL_deCdukpyu1rdH85XsEEREbpoqEauiJl))
 - [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/)
+- [UC Berkeley CS184/284A Computer Graphics and Imaging Spring 2022, by Ren Ng](https://cs184.eecs.berkeley.edu/sp22) ([YouTube playlist](https://www.youtube.com/playlist?list=PLIygTcviGPKABEUa7EJzO8tgYRz120EpP))
 
 ------------------------------
 
