@@ -544,6 +544,7 @@ Table of Contents
   - [ES 661 (2023): Probabilistic Machine Learning - IIT Gandhinagar](https://www.youtube.com/playlist?list=PLftoLyLEwECBEJyfRBJoSBd0UaTjEcs3I)
   - [Information Retrieval in High Dimensional Data](https://www.youtube.com/playlist?list=PLaE1lKCe0jH3ePp9wCU1ygTquVOXY-UYv)
   - [Trustworthy Machine Learning - Winter Semester 2023-2024, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2324/)
+  - [Trustworthy Machine Learning - Winter Semester 2024-2025, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2425/)
   
 - #### **Natural Language Processing**
   - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
@@ -1007,6 +1008,7 @@ introduction/id389259246))
 - [Computational Geometry - IIT Delhi](https://nptel.ac.in/courses/106102011/)
 - [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL_deCdukpyu1rdH85XsEEREbpoqEauiJl))
 - [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/)
+- [UC Berkeley CS184/284A Computer Graphics and Imaging Spring 2022, by Ren Ng](https://cs184.eecs.berkeley.edu/sp22) ([YouTube playlist](https://www.youtube.com/playlist?list=PLIygTcviGPKABEUa7EJzO8tgYRz120EpP))
 
 ------------------------------
 
@@ -1207,6 +1209,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Financial Mathematics - IIT Roorkee](https://nptel.ac.in/courses/112/107/112107260/)
 - [Harvard Economics 2355 Deep Learning for Economics spring 2023, by Melissa Dell](https://www.youtube.com/playlist?list=PLGTgQIsun7ueGTRzDlBWqgX6xBlMce-QC)
 - [MATH69122 Stochastic Control for Finance](https://appliedprobability.blog/category/math69122-stochastic-control-for-finance/page/2/)
+- [UC Davis MAT 133 Mathematical Finance Spring 2024, by Matthias Köppe](https://video.ucdavis.edu/channel/MAT+133+%28Spring+2024%29/340365092) ([Spring 2021](https://video.ucdavis.edu/channel/channelid/231002963))
 
 ------------------------------
 
