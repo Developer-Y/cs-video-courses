@@ -441,6 +441,7 @@ Table of Contents
   - [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
   - [6.0002 Introduction to Computational Thinking and Data Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/)
   - [Data 100 - Summer 19- UC Berkeley](https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR)
+  - [Data 102 - Spring 21- UC Berkeley](https://data102.org/sp21/#lecture-week-14) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKAEbY32OXjmkQbD0uRhge9Y))
   - [Distributed Data Analytics (WT 2017/18) - HPI University of Potsdam](https://www.tele-task.de/series/1179/)
   - [Data Profiling and Data Cleansing (WS 2014/15) - HPI University of Potsdam](https://www.tele-task.de/series/1027/)
   - [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
@@ -634,6 +635,7 @@ Table of Contents
   - [UIUC STAT 437 Unsupervised Learning spring 2024, by Tori Ellison](https://www.youtube.com/playlist?list=PLIygTcviGPKB133Vh7zxsxFoblyfS4P5Y)
   - [University of Wisconsin-Madison CS/ECE 561 - Probability and Information Theory in Machine Learning fall 2020, by Matthew Malley](https://mediaspace.wisc.edu/channel/CS_ECE%2B561%2B-%2BProbability%2Band%2BInfo%2BTheory%2Bin%2BMachine%2BLearning/191748913)
   - [Statistical Physics of Machine Learning](https://www.youtube.com/playlist?list=PL04QVxpjcnjgzMr9ehyZUSkwu0Wr0cF_N)
+  - [11-755 - Machine Learning for Signal Processing, CMU](https://cmu-mlsp.github.io/mlspcourse/schedule/) ([YouTube-2024](https://www.youtube.com/playlist?list=PLWhigAi1mTpO3Rw-1D2b2AowYeIU5eRzD), [YouTube-2023](https://www.youtube.com/playlist?list=PLWhigAi1mTpPMV3hECmkEv3s8Lc8H_VUd))
 
 
 ------------------------------
