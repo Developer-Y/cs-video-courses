@@ -634,6 +634,7 @@ Table of Contents
   - [EE512A - Advanced Inference in Graphical Models, Fall Quarter, 2014](https://people.ece.uw.edu/bilmes/classes/ee512/ee512_fall_2014/)
   - [UIUC STAT 437 Unsupervised Learning spring 2024, by Tori Ellison](https://www.youtube.com/playlist?list=PLIygTcviGPKB133Vh7zxsxFoblyfS4P5Y)
   - [University of Wisconsin-Madison CS/ECE 561 - Probability and Information Theory in Machine Learning fall 2020, by Matthew Malley](https://mediaspace.wisc.edu/channel/CS_ECE%2B561%2B-%2BProbability%2Band%2BInfo%2BTheory%2Bin%2BMachine%2BLearning/191748913)
+  - [University of Maryland CMSC828U Algorithms in Machine Learning: Guarantees and Analyses fall 2020, by Furong Huang](https://www.cs.umd.edu/class/fall2020/cmsc828u//schedule/) ([YouTube playlist](https://www.youtube.com/playlist?list=PLM0SC1uXFSPo5TO_UN7fia1luj73yuHEC))
   - [Statistical Physics of Machine Learning](https://www.youtube.com/playlist?list=PL04QVxpjcnjgzMr9ehyZUSkwu0Wr0cF_N)
   - [11-755 - Machine Learning for Signal Processing, CMU](https://cmu-mlsp.github.io/mlspcourse/schedule/) ([YouTube-2024](https://www.youtube.com/playlist?list=PLWhigAi1mTpO3Rw-1D2b2AowYeIU5eRzD), [YouTube-2023](https://www.youtube.com/playlist?list=PLWhigAi1mTpPMV3hECmkEv3s8Lc8H_VUd))
 
@@ -1273,6 +1274,8 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [ETH Zürich AI in the Sciences and Engineering](https://www.youtube.com/playlist?list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
 - [Introduction to GIS Programming (Fall 2024) - Open Geospatial Solutions](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPfb18kNe2luWX9xKg1233i9)
 - [UC Berkeley EE 120 Signals and Systems spring 2019, by Murat Arcak](https://www.youtube.com/playlist?list=PLIygTcviGPKCFASN_5cR04KUST-G97bb-)
+- [Stanford EE 102 spring 1999, Introduction to Signals and Systems, by Stephen Boyd](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvjbBio7D_qpIN4bZqOOOST)
 - [Stanford EE 376a winter 2011, Information Theory, by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
+- [MIT RES.6.007 Signals and Systems, 1987 - MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B)
 - [Purdue ME 597 Distributed Energy Resources Spring 2024, by Kevin J. Kircher](https://www.youtube.com/playlist?list=PLcZDMdEnS08l_z5LVDQrEcyFrBsHlKVXd)
 
