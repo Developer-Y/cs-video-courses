@@ -547,6 +547,7 @@ Table of Contents
   - [Information Retrieval in High Dimensional Data](https://www.youtube.com/playlist?list=PLaE1lKCe0jH3ePp9wCU1ygTquVOXY-UYv)
   - [Trustworthy Machine Learning - Winter Semester 2023-2024, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2324/)
   - [Trustworthy Machine Learning - Winter Semester 2024-2025, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2425/)
+  - [ETH Zürich Advanced Machine Learning fall 2019, by Joachim M. Buhmann](https://video.ethz.ch/lectures/d-infk/2019/autumn/252-0535-00L.html)
   
 - #### **Natural Language Processing**
   - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
