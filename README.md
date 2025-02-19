@@ -479,6 +479,7 @@ Table of Contents
   - [CS231n Deep Learning for Computer Vision - Winter 2016 Andrej Karpathy - Stanford University](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
   - [Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
   - [10-414/714: Deep Learning Systems - CMU](https://dlsyscourse.org/lectures/) ([Youtube](https://www.youtube.com/@deeplearningsystemscourse1116/videos))
+  - [11-785: Introduction to Deep Learning - CMU](https://deeplearning.cs.cmu.edu/S24/index.html) ([Lectures - YouTube-2024](https://www.youtube.com/playlist?list=PLp-0K3kfddPxUJzAW0KxNNjGiK_hISFas), [Recitations - YouTube-2024](https://www.youtube.com/playlist?list=PLp-0K3kfddPzNnco9QQAoTx_sVhZgHK-n))
   - [Part 1: Practical Deep Learning for Coders, v3 - fast.ai](https://course.fast.ai/)
   - [Part 2: Deep Learning from the Foundations - fast.ai](https://course19.fast.ai/part2)
   - [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
