@@ -999,6 +999,7 @@ Table of Contents
 - [Computer Systems Security, Fall 2020, Vinod Ganapathy, IISc Bangalore](https://www.csa.iisc.ac.in/~vg/teaching/SecurityLectures/)
 - [UC Berkeley CS 161 Computer Security, Summer 2021, by Nicholas Ngai and Peyrin Kao](https://www.youtube.com/playlist?list=PLIygTcviGPKAPoe_0mUsXYaxZfsFyQyFE)
 - [UCSD CS291A Differential Privacy Fall 2021, by Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/classes/DPCourse-2021Fall/) ([Youtube](https://www.youtube.com/playlist?list=PLTN4aNO9NiB7UiBbSFznHRSkdieBc0-sk))
+- [Zero Knowledge Proofs MOOC, UC Berkeley RDI Center on Decentralization & AI](https://www.youtube.com/playlist?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs)
 
 ------------------------------
 
