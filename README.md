@@ -480,6 +480,7 @@ Table of Contents
   - [CS231n Deep Learning for Computer Vision - Winter 2016 Andrej Karpathy - Stanford University](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
   - [Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
   - [10-414/714: Deep Learning Systems - CMU](https://dlsyscourse.org/lectures/) ([Youtube](https://www.youtube.com/@deeplearningsystemscourse1116/videos))
+  - [11-785: Introduction to Deep Learning - CMU](https://deeplearning.cs.cmu.edu/S24/index.html) ([Lectures - YouTube-2024](https://www.youtube.com/playlist?list=PLp-0K3kfddPxUJzAW0KxNNjGiK_hISFas), [Recitations - YouTube-2024](https://www.youtube.com/playlist?list=PLp-0K3kfddPzNnco9QQAoTx_sVhZgHK-n))
   - [Part 1: Practical Deep Learning for Coders, v3 - fast.ai](https://course.fast.ai/)
   - [Part 2: Deep Learning from the Foundations - fast.ai](https://course19.fast.ai/part2)
   - [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
@@ -547,6 +548,7 @@ Table of Contents
   - [Information Retrieval in High Dimensional Data](https://www.youtube.com/playlist?list=PLaE1lKCe0jH3ePp9wCU1ygTquVOXY-UYv)
   - [Trustworthy Machine Learning - Winter Semester 2023-2024, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2324/)
   - [Trustworthy Machine Learning - Winter Semester 2024-2025, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2425/)
+  - [ETH Zürich Advanced Machine Learning fall 2019, by Joachim M. Buhmann](https://video.ethz.ch/lectures/d-infk/2019/autumn/252-0535-00L.html)
   - [CS 159 Advanced Topics in Machine Learning, Spring 2021 - Caltech](https://1five9.github.io/)
   
 - #### **Natural Language Processing**
