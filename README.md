@@ -362,7 +362,7 @@ Table of Contents
   - [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
   - [10-601 - Introduction to Machine Learning (MS) - Tom Mitchell - 2015, CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) ([YouTube](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ))
   - [10-601 Machine Learning | CMU | Fall 2017](https://www.youtube.com/playlist?list=PL7k0r4t5c10-g7CWCnHfZOAxLaiNinChk)
-  - [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B)) ([Spring 2015 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn))
+  - [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B)) ([Spring 2015 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn)) ([Fall 2020 by Ziv Bar-Joseph, Eric Xing](https://www.youtube.com/playlist?list=PLsWN0V-b507g7dbQTUvFkKZEqdHR5Fh4P))
   - [10 - 301/601 - Introduction to Machine Learning - Fall 2023 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d5bf275d-ff88-4bf6-a865-b065010f55c2%22)
   - [6.036 - Machine Learning, Broderick - MIT Fall 2020](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
   - [Mediterranean Machine Learning summer school 2023](https://www.youtube.com/playlist?list=PLF-wkqRv4u1Y-Bret-wrcPypPCZ3Gg_3L)
