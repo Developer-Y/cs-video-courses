@@ -368,6 +368,7 @@ Table of Contents
   - [Mediterranean Machine Learning summer school 2023](https://www.youtube.com/playlist?list=PLF-wkqRv4u1Y-Bret-wrcPypPCZ3Gg_3L)
   - [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
   - [Stanford CS229: Machine Learning Course | Summer 2019 (Anand Avati)](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) ([Spring 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy))
+  - [CMS 165 Foundations of Machine Learning - 2019 - Caltech](http://tensorlab.cms.caltech.edu/users/anima/cms165-2019.html) ([Youtube](https://www.youtube.com/playlist?list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp))
   - [CMS 165 Foundations of Machine Learning and Statistical Inference - 2020 - Caltech](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
   - [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
   - [CS 446 - Machine Learning, Fall 2016, UIUC](https://www.youtube.com/playlist?list=PLQcasX5-oG91TgY6A_gz-IW7YSpwdnD2O)
@@ -548,6 +549,7 @@ Table of Contents
   - [Trustworthy Machine Learning - Winter Semester 2023-2024, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2324/)
   - [Trustworthy Machine Learning - Winter Semester 2024-2025, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2425/)
   - [ETH Zürich Advanced Machine Learning fall 2019, by Joachim M. Buhmann](https://video.ethz.ch/lectures/d-infk/2019/autumn/252-0535-00L.html)
+  - [CS 159 Advanced Topics in Machine Learning, Spring 2021 - Caltech](https://1five9.github.io/)
   
 - #### **Natural Language Processing**
   - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
@@ -1037,6 +1039,7 @@ introduction/id389259246))
 - [CAP 6412 - Advanced Computer Vision - University of Central Florida](https://www.crcv.ucf.edu/cap6412-spring-2013/)([Video lectures](https://www.crcv.ucf.edu/cap6412-spring-2013/)) ([Spring 2018](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImoNaeX5vFrxogGXTSmS993))
 - [Digital Signal Processing - RPI](https://www.ecse.rpi.edu/~rjradke/dspcourse.html)
 - [UC Berkeley EE 123 Digital Signal Processing fall 2003, by Avideh Zakhor](https://www.youtube.com/playlist?list=PLIygTcviGPKAVZtXnfoe689IBTJ2lNMmi)
+- [UC Berkeley EE 225B Digital Image Processing spring 2006, by Avideh Zakhor](https://www.youtube.com/playlist?list=PLIygTcviGPKAa5Vt6T6Noo8I0VaopzXuH)
 - [Advanced Vision 2014 - University of Edinburgh](http://homepages.inf.ed.ac.uk/rbf/AVINVERTED/main_av.htm)
 - [Photogrammetry Course - 2015/16 - University of Bonn, Germany](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
 - [MOOC - Introduction to Computer Vision - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
