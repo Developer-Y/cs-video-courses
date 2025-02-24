@@ -720,6 +720,7 @@ Table of Contents
   - [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
   - [Mathematical Statistics](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrOk5-wIki_oOxHJnNj0_437)
   - [Bayesian Data Analysis](https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6)
+  - [Bayesian Machine Learning and Information Processing](https://biaslab.github.io/teaching/bmlip/) ([YouTube-2021/22](https://www.youtube.com/playlist?list=PLkDDgjnfkmCELsBXiCKCVIHKHSjl-rpkJ)) ([YouTube-2020/21](https://www.youtube.com/playlist?list=PLkDDgjnfkmCH4zq9_ul-KaTsk-1j1EVEo))
   - [Markov Processes - Spring 2023](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrP3rME2XvFvE4Q5vI3H_7_Z)
   - [Causal Inference Course - Brady Neal](https://www.youtube.com/playlist?list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0)
   - [Causal Inference -- Online Lectures (M.Sc/PhD Level)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
