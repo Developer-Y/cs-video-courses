@@ -438,6 +438,7 @@ Table of Contents
   - [Data Science for Dynamical Systems, by Oliver Wallscheid & Sebastian Peitz](https://www.youtube.com/@UPB_DS4DS-bu8ec/playlists)
   - [Cambridge Statistical Learning in Practice 2021, by Alberto J. Coca](https://www.youtube.com/playlist?list=PLn1JSlh3WT_b7sMBktkAgV9-cP052JFhb)
   - [Data 8: The Foundations of Data Science - UC Berkeley](http://data8.org/) ([Summer 17](http://data8.org/su17/))
+  - [Data 144: Foundations of Data Science spring 2021 - Vassar College](https://www.youtube.com/playlist?list=PLIygTcviGPKB9hHuywn56TraSMv2pRumr) ([Course materials](https://github.com/jwaterman/data144-materials-sp21))
   - [CSE519 - Data Science Fall 2016 - Skiena, SBU](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo)
   - [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
   - [6.0002 Introduction to Computational Thinking and Data Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/)
@@ -600,6 +601,7 @@ Table of Contents
 - #### **Optimization**
   - [Optimisation for Machine Learning: Theory and Implementation (Hindi) - IIT](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-pmLzCoMu_ANU6atEFyyJl)
   - [Rochester DSCC 435 Optimization for Machine Learning fall 2023, by Jiaming Liang](https://www.youtube.com/playlist?list=PLuJY91x7h5orCtyh6mChurVQ2ZZef9qPF)
+  - [Princeton ELE539/COS512 Optimization for Machine Learning spring 2021, by Chi Jin](https://sites.google.com/view/cjin/teaching/ece539cos512-2021-ver)
   - [EE364a: Convex Optimization I - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
   - [10-725 Convex Optimization, Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
   - [10-725 Convex Optimization: Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
@@ -720,6 +722,7 @@ Table of Contents
   - [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
   - [Mathematical Statistics](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrOk5-wIki_oOxHJnNj0_437)
   - [Bayesian Data Analysis](https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6)
+  - [Bayesian Machine Learning and Information Processing](https://biaslab.github.io/teaching/bmlip/) ([YouTube-2021/22](https://www.youtube.com/playlist?list=PLkDDgjnfkmCELsBXiCKCVIHKHSjl-rpkJ)) ([YouTube-2020/21](https://www.youtube.com/playlist?list=PLkDDgjnfkmCH4zq9_ul-KaTsk-1j1EVEo))
   - [Markov Processes - Spring 2023](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrP3rME2XvFvE4Q5vI3H_7_Z)
   - [Causal Inference Course - Brady Neal](https://www.youtube.com/playlist?list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0)
   - [Causal Inference -- Online Lectures (M.Sc/PhD Level)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
