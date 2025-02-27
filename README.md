@@ -519,7 +519,7 @@ Table of Contents
   - [TUM IN2346 Introduction to Deep Learning Fall 2024, by Daniel Cremers](https://cvg.cit.tum.de/teaching/ws2024/i2dl)
   
 - #### **Reinforcement Learning**
-  - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+  - [CS234: Reinforcement Learning - Spring 2024 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) ([Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
   - [Reinforcement Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
   - [CS885 Reinforcement Learning - Spring 2018 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
@@ -722,7 +722,7 @@ Table of Contents
   - [Purdue ECE302 Introduction to Probability for Data Science](https://www.youtube.com/playlist?list=PL4FSfq6xtSvyqsbgrYDeyV0WWXlXqwy2M)
   - [Undergraduate Probability with Professor Roman Vershynin](https://www.math.uci.edu/~rvershyn/teaching/ugp/ugp.html)
   - [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
-  - [Mathematical Statistics](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrOk5-wIki_oOxHJnNj0_437)
+  - [Mathematical Statistics - 2024](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrPZH-fknPLak0tlUpUISBZR) ([YouTube-2020](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrOk5-wIki_oOxHJnNj0_437))
   - [Bayesian Data Analysis](https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6)
   - [Bayesian Machine Learning and Information Processing](https://biaslab.github.io/teaching/bmlip/) ([YouTube-2021/22](https://www.youtube.com/playlist?list=PLkDDgjnfkmCELsBXiCKCVIHKHSjl-rpkJ)) ([YouTube-2020/21](https://www.youtube.com/playlist?list=PLkDDgjnfkmCH4zq9_ul-KaTsk-1j1EVEo))
   - [Markov Processes - Spring 2023](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrP3rME2XvFvE4Q5vI3H_7_Z)
@@ -867,6 +867,7 @@ Table of Contents
 - [Languages & Translators - UCLouvain LINFO2132](https://norswap.com/compilers/)
 - [Compiler Design by Sorav Bansal](https://www.youtube.com/playlist?list=PLf3ZkSCyj1tf3rPAkOKY5hUzDrDoekAc7)
 - [OCaml Programming: Correct + Efficient + Beautiful](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+- [Columbia IEOR E4004 Introduction to Operations Research: Deterministic Models summer 2005, by Jay Sethuraman](https://www.youtube.com/playlist?list=PLIygTcviGPKCVGq8cQ9MCBEm5wVXGsDpw)
 - [Columbia IEOR E4106 Introduction to Operations Research: Stochastic Models spring 2005, by Ward Whitt](https://www.youtube.com/playlist?list=PLIygTcviGPKDJMIOWQcnSSzKDFOG_dF4r)
 - [Columbia ELEN E6711 Stochastic Models in Information Systems fall 2005, by Yuliy Barsyhnikov](https://www.youtube.com/playlist?list=PL682UO4IMem9dvI-8vjxlPkM5onW9WoIp)
 - [Columbia ELEN E6717 Information Theory fall 2003, by Vittorio Castelli](https://www.youtube.com/playlist?list=PL682UO4IMem_IUZIFzlJi8vCTtS-Xi8eY)
