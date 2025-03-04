@@ -646,6 +646,7 @@ Table of Contents
   - [ACP SUMMER SCHOOL 2023 on Machine Learning for Constraint Programming](https://www.youtube.com/playlist?list=PLcByDTr7vRTYJ2s6DL-3bzjGwtQif33y3)
   - [EE512A - Advanced Inference in Graphical Models, Fall Quarter, 2014](https://people.ece.uw.edu/bilmes/classes/ee512/ee512_fall_2014/)
   - [UIUC STAT 437 Unsupervised Learning spring 2024, by Tori Ellison](https://www.youtube.com/playlist?list=PLIygTcviGPKB133Vh7zxsxFoblyfS4P5Y)
+  - [Johns Hopkins Unsupervised Learning spring 2017, by Rene Vidal](https://www.youtube.com/playlist?list=PLaBAmmD3yH4Nta9Y6g9hOV4dcnpTzeW4q)
   - [University of Wisconsin-Madison CS/ECE 561 - Probability and Information Theory in Machine Learning fall 2020, by Matthew Malley](https://mediaspace.wisc.edu/channel/CS_ECE%2B561%2B-%2BProbability%2Band%2BInfo%2BTheory%2Bin%2BMachine%2BLearning/191748913)
   - [University of Maryland CMSC828U Algorithms in Machine Learning: Guarantees and Analyses fall 2020, by Furong Huang](https://www.cs.umd.edu/class/fall2020/cmsc828u//schedule/) ([YouTube playlist](https://www.youtube.com/playlist?list=PLM0SC1uXFSPo5TO_UN7fia1luj73yuHEC))
   - [Statistical Physics of Machine Learning](https://www.youtube.com/playlist?list=PL04QVxpjcnjgzMr9ehyZUSkwu0Wr0cF_N)
