@@ -585,6 +585,7 @@ Table of Contents
 - #### **Generative AI**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
   - [CS 6785 - Deep Generative Models - Cornell Tech, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+  - [MIT 6.S184 Flow Matching and Diffusion Models, 2025](https://diffusion.csail.mit.edu)
   
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
