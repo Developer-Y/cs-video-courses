@@ -749,6 +749,7 @@ Table of Contents
   - [UCLA Stats 200B Theoretical Statistics winter 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sw03Ffmuq8prIVSoTI3yVyR)
   - [UCLA Stats 200C High-dimensional Statistics spring 2022, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzyrvojbW4UZQjVG1CnBFMd) ([Spring 2021](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sy-nbvOCLgt6uIQsOnmG-iV))
   - [UCLA Stats 203 Large Sample Theory fall 2021, by Jingyi Jessica Li](https://www.youtube.com/playlist?list=PLAYxx7zX5F1P5GG-9U8eJPL_MIsl1_8Zh) ([Fall 2020](https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz))
+  - [UCSD Math 280 Probability Theory and Stochastic Processes, by Todd Kemp](https://mathweb.ucsd.edu/~tkemp/ProbabilityTube/) ([YouTube](https://www.youtube.com/@toddkemp-probability/playlists))
 - **Linear Algebra**
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
