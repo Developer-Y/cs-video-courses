@@ -598,6 +598,7 @@ Table of Contents
   - [EECS 498/598 - Deep Learning for Computer Vision - University of Michigan - Fall 2019](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/) ([Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r))
   - [CAP5415 Computer Vision - UCF Fall 2023](https://www.youtube.com/playlist?list=PLd3hlSJsX_InWyCQtwqQ7y6KnwhxNCgRf)
   - [CAP6412 Advanced Computer Vision - UCF Spring 2024](https://www.crcv.ucf.edu/courses/cap6412-spring-2024/schedule/) ([Youtube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IlSr0ua4v8WQezazAMXEJE4))
+  - [Advanced Deep Learning for Computer vision (ADL4CV) (IN2364) - TU Munich](https://dvl.in.tum.de/teaching/adl4cv-ss20/) ([Youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39))
   - [Computer Vision III: Detection, Segmentation and Tracking (CV3DST) (IN2375) - TU Munich](https://www.youtube.com/playlist?list=PLog3nOPCjKBkamdw8F6Hw_4YbRiDRb2rb)
   
 - #### **Time Series Analysis**
