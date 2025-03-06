@@ -615,6 +615,7 @@ Table of Contents
   - [10-725 Optimization Fall 2012 - CMU](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
   - [10-801 Advanced Optimization and Randomized Methods - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html) ([YouTube](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d))
   - [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
+  - [University of Twente Discrete Optimization, by Marc Uetz](https://marcuetz.personalweb.utwente.nl/do/) ([Fall 2020](https://www.youtube.com/playlist?list=PLIygTcviGPKBUY9e1MCruRr5-I24LNm4g))
   - [UCSD CS292F Convex Optimization Spring 2020, by Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/classes/CS292F-2020Spring/) ([Youtube](https://www.youtube.com/playlist?list=PLTN4aNO9NiB5VxYILKPBXoy9g1tUqmnBx))
   - [University of Wisconsin-Madison CS/ECE/ISyE 524 Introduction to Optimization spring 2017-18, by Laurent Lessard](https://laurentlessard.com/teaching/524-intro-to-optimization/)
   - [University of Wisconsin-Madison ISyE/Math/CS/Stat 525 Linear Optimization fall 2021, by Alberto Del Pia](https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y)
