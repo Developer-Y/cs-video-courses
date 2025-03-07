@@ -598,6 +598,7 @@ Table of Contents
   - [EECS 498/598 - Deep Learning for Computer Vision - University of Michigan - Fall 2019](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/) ([Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r))
   - [CAP5415 Computer Vision - UCF Fall 2023](https://www.youtube.com/playlist?list=PLd3hlSJsX_InWyCQtwqQ7y6KnwhxNCgRf)
   - [CAP6412 Advanced Computer Vision - UCF Spring 2024](https://www.crcv.ucf.edu/courses/cap6412-spring-2024/schedule/) ([Youtube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IlSr0ua4v8WQezazAMXEJE4))
+  - [Advanced Deep Learning for Computer vision (ADL4CV) (IN2364) - TU Munich](https://dvl.in.tum.de/teaching/adl4cv-ss20/) ([Youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39))
   - [Computer Vision III: Detection, Segmentation and Tracking (CV3DST) (IN2375) - TU Munich](https://www.youtube.com/playlist?list=PLog3nOPCjKBkamdw8F6Hw_4YbRiDRb2rb)
   
 - #### **Time Series Analysis**
@@ -614,6 +615,7 @@ Table of Contents
   - [10-725 Optimization Fall 2012 - CMU](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
   - [10-801 Advanced Optimization and Randomized Methods - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html) ([YouTube](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d))
   - [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
+  - [University of Twente Discrete Optimization, by Marc Uetz](https://marcuetz.personalweb.utwente.nl/do/) ([Fall 2020](https://www.youtube.com/playlist?list=PLIygTcviGPKBUY9e1MCruRr5-I24LNm4g))
   - [UCSD CS292F Convex Optimization Spring 2020, by Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/classes/CS292F-2020Spring/) ([Youtube](https://www.youtube.com/playlist?list=PLTN4aNO9NiB5VxYILKPBXoy9g1tUqmnBx))
   - [University of Wisconsin-Madison CS/ECE/ISyE 524 Introduction to Optimization spring 2017-18, by Laurent Lessard](https://laurentlessard.com/teaching/524-intro-to-optimization/)
   - [University of Wisconsin-Madison ISyE/Math/CS/Stat 525 Linear Optimization fall 2021, by Alberto Del Pia](https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y)
@@ -749,6 +751,7 @@ Table of Contents
   - [UCLA Stats 200B Theoretical Statistics winter 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sw03Ffmuq8prIVSoTI3yVyR)
   - [UCLA Stats 200C High-dimensional Statistics spring 2022, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzyrvojbW4UZQjVG1CnBFMd) ([Spring 2021](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sy-nbvOCLgt6uIQsOnmG-iV))
   - [UCLA Stats 203 Large Sample Theory fall 2021, by Jingyi Jessica Li](https://www.youtube.com/playlist?list=PLAYxx7zX5F1P5GG-9U8eJPL_MIsl1_8Zh) ([Fall 2020](https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz))
+  - [UCSD Math 280 Probability Theory and Stochastic Processes, by Todd Kemp](https://mathweb.ucsd.edu/~tkemp/ProbabilityTube/) ([YouTube](https://www.youtube.com/@toddkemp-probability/playlists))
 - **Linear Algebra**
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
