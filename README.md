@@ -434,6 +434,7 @@ Table of Contents
   - [UC Berkeley CS 189 / 289A Introduction to Machine Learning fall 2023, by Jennifer Listgarten & Jitendra Malik](https://eecs189.org/)
   - [UC Berkeley CS 189 Introduction to Machine Learning (CDSS offering) spring 2022, by Marvin Zhang](https://www.youtube.com/playlist?list=PLCuQm2FL98HTlRmlwMk2AuFEM9n1c06HE)
   - [MIT 6.036 Introduction to Machine Learning spring 2019, by Leslie Kaelbling](https://www.youtube.com/playlist?list=PLQEw29vp6f1Ae9dp8vkKB8H6sF1PHvP5N)
+  - [LMU Munich Introduction to Machine Learning](https://slds-lmu.github.io/i2ml/)
   - [UCLA Stats C161/C261 Introduction to Pattern Recognition and Machine Learning winter 2024, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SxQ2vlXxlZVMKkt4gI1YYP8) ([Winter 2023](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwLCXGUyM3FNSRwG6GNgONr))
   - [UCLA Stats 231C Theories of Machine Learning spring 2022, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SxKyZLv_FotPDED5ET_rQmo)
   - [MSU Machine Learning](https://www.youtube.com/watch?v=kMf0qDtQ_PM&list=PLZ-krWGO-UEyPHsZfOjYH03_TyIN2pPhl&pp=iAQB)
