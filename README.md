@@ -569,7 +569,7 @@ Table of Contents
   - [CS224U: Natural Language Understanding - Spring 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
   - [Deep Learning for Natural Language Processing, 2017 - Oxford University](https://github.com/oxford-cs-deepnlp-2017/lectures)
   - [Natural Language Processing - IIT Bombay](https://nptel.ac.in/courses/106101007/)
-  - [CMU Advanced NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+  - [CMU Advanced NLP Fall 2024](https://phontron.com/class/anlp-fall2024/schedule/) ([Lectures - Fall 2024](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)) ([Lectures - Fall 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6))
   - [CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
   - [Natural Language Processing - Michael Collins - Columbia University](https://www.youtube.com/playlist?list=PLA212ij5XG8OTDRl8IWFiJgHR9Ve2k9pv)
   - [CMU CS11-737 - Multilingual Natural Language Processing](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
