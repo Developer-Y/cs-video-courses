@@ -434,7 +434,7 @@ Table of Contents
   - [SFU CMPT 727 Statistical Machine Learning spring 2022, 2023, by Maxwell Libbrecht](https://www.youtube.com/playlist?list=PL_5SuHtr8fsp95AhIKeTHbpcVdhlhB9h6)
   - [UC Berkeley CS 189 / 289A Introduction to Machine Learning fall 2023, by Jennifer Listgarten & Jitendra Malik](https://eecs189.org/)
   - [UC Berkeley CS 189 Introduction to Machine Learning (CDSS offering) spring 2022, by Marvin Zhang](https://www.youtube.com/playlist?list=PLCuQm2FL98HTlRmlwMk2AuFEM9n1c06HE)
-  - [UC SanDiego/edX DSE 220X Machine Learning Fundamentals, by Sanjoy Dasgupta](https://www.youtube.com/playlist?list=PLUPLKa8g2P75vrLVe6HKdgAwfuU89RfqB)
+  - [UC San Diego/edX DSE 220X Machine Learning Fundamentals, by Sanjoy Dasgupta](https://www.youtube.com/playlist?list=PLUPLKa8g2P75vrLVe6HKdgAwfuU89RfqB)
   - [MIT 6.036 Introduction to Machine Learning spring 2019, by Leslie Kaelbling](https://www.youtube.com/playlist?list=PLQEw29vp6f1Ae9dp8vkKB8H6sF1PHvP5N)
   - [LMU Munich Introduction to Machine Learning](https://slds-lmu.github.io/i2ml/)
   - [UCLA Stats C161/C261 Introduction to Pattern Recognition and Machine Learning winter 2024, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SxQ2vlXxlZVMKkt4gI1YYP8) ([Winter 2023](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwLCXGUyM3FNSRwG6GNgONr))
@@ -660,6 +660,7 @@ Table of Contents
   - [University of Maryland CMSC828U Algorithms in Machine Learning: Guarantees and Analyses fall 2020, by Furong Huang](https://www.cs.umd.edu/class/fall2020/cmsc828u//schedule/) ([YouTube playlist](https://www.youtube.com/playlist?list=PLM0SC1uXFSPo5TO_UN7fia1luj73yuHEC))
   - [Statistical Physics of Machine Learning](https://www.youtube.com/playlist?list=PL04QVxpjcnjgzMr9ehyZUSkwu0Wr0cF_N)
   - [11-755 - Machine Learning for Signal Processing, CMU](https://cmu-mlsp.github.io/mlspcourse/schedule/) ([YouTube-2024](https://www.youtube.com/playlist?list=PLWhigAi1mTpO3Rw-1D2b2AowYeIU5eRzD), [YouTube-2023](https://www.youtube.com/playlist?list=PLWhigAi1mTpPMV3hECmkEv3s8Lc8H_VUd))
+  - [CSCE 585 - Machine Learning Systems, University of South Carolina](https://pooyanjamshidi.github.io/mls/lectures/) ([YouTube-2020](https://www.youtube.com/playlist?list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu))
 
 
 ------------------------------
