@@ -441,7 +441,7 @@ Table of Contents
   - [MSU Machine Learning](https://www.youtube.com/watch?v=kMf0qDtQ_PM&list=PLZ-krWGO-UEyPHsZfOjYH03_TyIN2pPhl&pp=iAQB)
   - [Data Science for Dynamical Systems, by Oliver Wallscheid & Sebastian Peitz](https://www.youtube.com/@UPB_DS4DS-bu8ec/playlists)
   - [Cambridge Statistical Learning in Practice 2021, by Alberto J. Coca](https://www.youtube.com/playlist?list=PLn1JSlh3WT_b7sMBktkAgV9-cP052JFhb)
-  - [Data 8: The Foundations of Data Science - UC Berkeley](http://data8.org/) ([Summer 17](http://data8.org/su17/))
+  - [Data 8: The Foundations of Data Science - UC Berkeley](http://data8.org/) ([Spring 23](https://www.data8.org/sp23/)) ([Fall 22](https://www.data8.org/fa22/)) ([Spring 22](https://www.data8.org/sp22/)) ([Summer 17](http://data8.org/su17/))
   - [Data 144: Foundations of Data Science spring 2021 - Vassar College](https://www.youtube.com/playlist?list=PLIygTcviGPKB9hHuywn56TraSMv2pRumr) ([Course materials](https://github.com/jwaterman/data144-materials-sp21))
   - [CSE519 - Data Science Fall 2016 - Skiena, SBU](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo)
   - [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
