@@ -782,6 +782,7 @@ Table of Contents
 - [Advanced Engineering Mathematics - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85Ae4pzlylMLzq_a-RHPx8ryA)
 - [Statistical Computing for Scientists and Engineers - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AeltIRcjDY7Z4q49NEAuMcA)
 - [Statistical Computing, Fall 2017 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcSgNGnT5TUHt85SrCljT3V)
+- [Statistics 243 Introduction to Statistical Computing, Fall 2015 - UC Berkeley](https://www.youtube.com/playlist?list=PLIygTcviGPKCJjCMep25BtbRwehuNTd-l) ([Notes-2015](https://github.com/berkeley-stat243/stat243-fall-2015)) ([YouTube-2014](https://www.youtube.com/playlist?list=PLIygTcviGPKDwAtmOYy_dY_tPuE_8Gc68)) ([Notes-2014](https://github.com/berkeley-stat243/stat243-fall-2014)) ([YouTube-2013](https://www.youtube.com/playlist?list=PLIygTcviGPKBj_b9jy_ZkQM3v4r9iLocO))
 - [Mathematics for Machine Learning, Lectures by Ulrike von Luxburg - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 - [Essential Mathematics for Machine Learning- July 2018 - IIT Roorkee - YouTube Lectures](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
 - [Numerics of Machine Learning (Winter 2022/23) - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
