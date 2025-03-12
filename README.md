@@ -906,6 +906,7 @@ Table of Contents
 - [CSE 351 - The Hardware/Software Interface, Spring 16 - University of Washington](https://courses.cs.washington.edu/courses/cse351/16sp/videos.html) ([Coursera](http://academictorrents.com/details/f1384286c8581bffba11e378fdb37608e649d82a))
 - [ECE 5030 - Electronic Bioinstrumentation, Spring 2014 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5030/)
 - [ECE/CS 5780/6780 - Embedded Systems Design, Spring 14 - University of Utah](https://www.youtube.com/playlist?list=PLQefpK95HyFmao3zi-WDOMkeSev-Je5dE)
+- [EECS 373 - Introduction to Embedded System Design - University of Michigan](https://www.eecs.umich.edu/courses/eecs373/lectures.html) ([Lectures - YouTube-Fall 24](https://www.youtube.com/playlist?list=PLDe8F9fr1j_QULxa7xCozweLKYI4cXun4)) ([Lectures - YouTube-Fall 23](https://www.youtube.com/playlist?list=PLDe8F9fr1j_R2ljCeIq2FOLHaeZ6tBV_o))
 - [Embedded Systems Class - Version 1 - 2011 - UNCC](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
 - [Embedded Systems using the Renesas RX63N Processor - Version 3 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
 - [Software Engineering for Embedded Systems (WS 2011/12) - HPI University of Potsdam](https://www.tele-task.de/series/864/)
