@@ -163,7 +163,7 @@ Table of Contents
 - [15-850 Advanced Algorithms - CMU Spring 2023](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&page=1)
 - [CS 270. Combinatorial Algorithms and Data Structures, Spring 2021](https://people.eecs.berkeley.edu/~prasad/spring2021.html) ([Youtube](https://www.youtube.com/playlist?list=PLfkeJ2f4i0AfWApBP8X8YvQfN4WbRQTC3))
 - [CMU 15 850 Advanced Algorithms spring 2023, by Anupam Gupta](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&page=1)
-- [UC Berkeley CS 294-165 Sketching Algorithms fall 2020, by Jelani Nelson](https://www.youtube.com/playlist?list=PL682UO4IMem-SSHdZel8BJ0Ti2yp65spI)
+- [UC Berkeley CS 294-165 Sketching Algorithms fall 2020, by Jelani Nelson](https://www.sketchingbigdata.org/fall20/lec/) ([Youtube](https://www.youtube.com/playlist?list=PLIygTcviGPKCdx1AVD-CAzNk5uXDu9wIA))
 - [UIUC CS 498 ABD / CS 598 CSC Algorithms for Big Data fall 2020, by Chandra Chekuri](https://www.youtube.com/playlist?list=PL682UO4IMem_OA8_wY3nnSDLOSWr3PgYa)
 - [Algorithms for Data Science spring 2021, by Anil Maheshwari ](https://people.scs.carleton.ca/~maheshwa/courses/ADS/ADS-S20.html)
 - [CMU 15 859 Algorithms for Big Data fall 2020, by David Woodruff](http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html)
