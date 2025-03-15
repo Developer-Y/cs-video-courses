@@ -53,7 +53,6 @@ Table of Contents
 - [Computer Graphics](#computer-graphics)
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
 - [Computational Physics](#computational-physics)
-- 
 - [Computational Biology](#computational-biology)
 - [Quantum Computing](#quantum-computing)
 - [Robotics and Control](#robotics-and-control)
@@ -696,6 +695,7 @@ Table of Contents
 - [Wireless Ad Hoc and Sensor Networks - IIT Kharagpur](https://nptel.ac.in/courses/106105160/)
 - [Internetworking with TCP/IP by Prof. Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY5VrkObHTckZHwPsS1VCA)
 - [CS798: Mathematical Foundations of Computer Networking - University of Waterloo](https://www.youtube.com/playlist?list=PLFB088DB91845CA34)
+- [CS 168 Introduction to the Internet: Architecture and Protocols, Fall 2022 - UC Berkeley](https://fa22.cs168.io/) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKD4RbcpiXKeyXrIImw-mGd-))
 
 ------------------------------
 
