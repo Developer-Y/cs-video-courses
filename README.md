@@ -1253,6 +1253,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Financial Derivatives & Risk Management - IIT Roorkee](https://nptel.ac.in/courses/110/107/110107128/)
 - [Financial Mathematics - IIT Roorkee](https://nptel.ac.in/courses/112/107/112107260/)
 - [Harvard Economics 2355 Deep Learning for Economics spring 2023, by Melissa Dell](https://www.youtube.com/playlist?list=PLGTgQIsun7ueGTRzDlBWqgX6xBlMce-QC)
+- [UW ECON 484 Econometrics and Data Science spring 2020, by Gregory Duncan](https://www.youtube.com/playlist?list=PLrE1feouzSWobe0NxC_v3cw_OyZL5i-IV)
 - [MATH69122 Stochastic Control for Finance](https://appliedprobability.blog/category/math69122-stochastic-control-for-finance/page/2/)
 - [UC Davis MAT 133 Mathematical Finance Spring 2024, by Matthias Köppe](https://video.ucdavis.edu/channel/MAT+133+%28Spring+2024%29/340365092) ([Spring 2021](https://video.ucdavis.edu/channel/channelid/231002963))
 
