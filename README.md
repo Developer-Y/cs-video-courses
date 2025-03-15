@@ -327,7 +327,7 @@ Table of Contents
 ### Artificial Intelligence
 
 - [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2023/)
-- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz)
+- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2024](https://inst.eecs.berkeley.edu/~cs188/sp24/) ([Spring 2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz))
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
@@ -367,7 +367,7 @@ Table of Contents
   - [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B)) ([Spring 2015 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn)) ([Fall 2020 by Ziv Bar-Joseph, Eric Xing](https://www.youtube.com/playlist?list=PLsWN0V-b507g7dbQTUvFkKZEqdHR5Fh4P))
   - [10 - 301/601 - Introduction to Machine Learning - Fall 2023 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d5bf275d-ff88-4bf6-a865-b065010f55c2%22)
   - [6.036 - Machine Learning, Broderick - MIT Fall 2020](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
-  - [Mediterranean Machine Learning summer school 2023](https://www.youtube.com/playlist?list=PLF-wkqRv4u1Y-Bret-wrcPypPCZ3Gg_3L)
+  - [Mediterranean Machine Learning summer school 2024](https://www.youtube.com/playlist?list=PLF-wkqRv4u1bV4Zd1UepYfyZXkv6Bz6ra) ([YouTube-2023](https://www.youtube.com/playlist?list=PLF-wkqRv4u1Y-Bret-wrcPypPCZ3Gg_3L)) ([YouTube-2022](https://www.youtube.com/playlist?list=PLF-wkqRv4u1agtfVaDsDUaMHmToP84Fk6)) ([YouTube-2021](https://www.youtube.com/playlist?list=PLF-wkqRv4u1YRbfnwN8cXXyrmXld-sked))
   - [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
   - [Stanford CS229: Machine Learning Course | Summer 2019 (Anand Avati)](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) ([Spring 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy))
   - [CMS 165 Foundations of Machine Learning - 2019 - Caltech](http://tensorlab.cms.caltech.edu/users/anima/cms165-2019.html) ([Youtube](https://www.youtube.com/playlist?list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp))
@@ -522,7 +522,7 @@ Table of Contents
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
   - [UC Berkeley CS 182 / 282a Deep Learning spring 2023, by Anant Sahai](https://www.youtube.com/playlist?list=PLIygTcviGPKAaj_UAJcazYN4964xZ7Lt1)
   - [Foundations of Deep Learning - UMD](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
-  - [TUM IN2346 Introduction to Deep Learning Fall 2024, by Daniel Cremers](https://cvg.cit.tum.de/teaching/ws2024/i2dl)
+  - [TUM IN2346 Introduction to Deep Learning Fall 2024, by Daniel Cremers](https://cvg.cit.tum.de/teaching/ws2024/i2dl) ([Summer 2023](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_pGm2QAwF625E6nmcRu2sU))
   
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Spring 2024 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) ([Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
