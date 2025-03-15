@@ -407,6 +407,7 @@ Table of Contents
   - [COM4509/COM6509 Machine Learning and Adaptive Intelligence 2015-16](http://inverseprobability.com/mlai2015/)
   - [Introduction to Machine Learning - Spring 2018 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN273tsqyfdrBUsA-o5nUESV)
   - [Machine Learning - Pedro Domingos- University of Washington](https://www.youtube.com/user/UWCSE/playlists?view=50&sort=dd&shelf_id=16)
+  - [CSE 446/546 - Machine Learning, Spring 2020 - University of Washington](https://courses.cs.washington.edu/courses/cse446/20sp/schedule/) ([Videos](https://www.youtube.com/playlist?list=PLrE1feouzSWr7LBFAeRZIb7CN9H6dB9Jt))
   - [Machine Learning (COMP09012)](https://www.youtube.com/playlist?list=PLyH-5mHPFffFwz7Twap0XuVeUJ8vuco9t)
   - [Probabilistic Machine Learning 2020 - University of Tübingen](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
   - [Statistical Machine Learning 2020 - Ulrike von Luxburg - University of Tübingen](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
@@ -694,6 +695,7 @@ Table of Contents
 - [Wireless Ad Hoc and Sensor Networks - IIT Kharagpur](https://nptel.ac.in/courses/106105160/)
 - [Internetworking with TCP/IP by Prof. Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY5VrkObHTckZHwPsS1VCA)
 - [CS798: Mathematical Foundations of Computer Networking - University of Waterloo](https://www.youtube.com/playlist?list=PLFB088DB91845CA34)
+- [CS 168 Introduction to the Internet: Architecture and Protocols, Fall 2022 - UC Berkeley](https://fa22.cs168.io/) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKD4RbcpiXKeyXrIImw-mGd-))
 
 ------------------------------
 
@@ -821,6 +823,7 @@ Table of Contents
 - [Introduction to Modern Application Development - IIT Madras](https://nptel.ac.in/courses/106106156/)
 - [CSE 199 - How the Internet Works, Fall 2016 - University of Buffalo](https://www.youtube.com/playlist?list=PLk97mPCd8nvbxGGfkYkBXrSEvpTc1xTF8)
 - [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](https://www.schneems.com/ut-rails) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
+- [CSE154 - Web Programming, Spring 2020 - University of Washington](https://courses.cs.washington.edu/courses/cse154/20sp/) ([Videos](https://www.youtube.com/playlist?list=PLrE1feouzSWqcgK0Lvt3r_8AwN6UndaOD))
 - [CSEP545 - Transaction Processing for E-Commerce, Winter 2012 - University of Washington](https://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](https://courses.cs.washington.edu/courses/csep545/12wi/video/))
 - [CT 310 Web Development - Colorado State University](https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php)
 - [Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
@@ -1252,6 +1255,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Financial Derivatives & Risk Management - IIT Roorkee](https://nptel.ac.in/courses/110/107/110107128/)
 - [Financial Mathematics - IIT Roorkee](https://nptel.ac.in/courses/112/107/112107260/)
 - [Harvard Economics 2355 Deep Learning for Economics spring 2023, by Melissa Dell](https://www.youtube.com/playlist?list=PLGTgQIsun7ueGTRzDlBWqgX6xBlMce-QC)
+- [UW ECON 484 Econometrics and Data Science spring 2020, by Gregory Duncan](https://www.youtube.com/playlist?list=PLrE1feouzSWobe0NxC_v3cw_OyZL5i-IV)
 - [MATH69122 Stochastic Control for Finance](https://appliedprobability.blog/category/math69122-stochastic-control-for-finance/page/2/)
 - [UC Davis MAT 133 Mathematical Finance Spring 2024, by Matthias Köppe](https://video.ucdavis.edu/channel/MAT+133+%28Spring+2024%29/340365092) ([Spring 2021](https://video.ucdavis.edu/channel/channelid/231002963))
 
