@@ -53,6 +53,7 @@ Table of Contents
 - [Computer Graphics](#computer-graphics)
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
 - [Computational Physics](#computational-physics)
+- 
 - [Computational Biology](#computational-biology)
 - [Quantum Computing](#quantum-computing)
 - [Robotics and Control](#robotics-and-control)
@@ -822,6 +823,7 @@ Table of Contents
 - [Introduction to Modern Application Development - IIT Madras](https://nptel.ac.in/courses/106106156/)
 - [CSE 199 - How the Internet Works, Fall 2016 - University of Buffalo](https://www.youtube.com/playlist?list=PLk97mPCd8nvbxGGfkYkBXrSEvpTc1xTF8)
 - [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](https://www.schneems.com/ut-rails) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
+- [CSE154 - Web Programming, Spring 2020 - University of Washington](https://courses.cs.washington.edu/courses/cse154/20sp/) ([Videos](https://www.youtube.com/playlist?list=PLrE1feouzSWqcgK0Lvt3r_8AwN6UndaOD))
 - [CSEP545 - Transaction Processing for E-Commerce, Winter 2012 - University of Washington](https://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](https://courses.cs.washington.edu/courses/csep545/12wi/video/))
 - [CT 310 Web Development - Colorado State University](https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php)
 - [Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
