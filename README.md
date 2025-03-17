@@ -678,6 +678,7 @@ Table of Contents
 - [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
 - [CSEP 561 - PMP Network Systems, Fall 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](https://courses.cs.washington.edu/courses/csep561/13au/video/))
 - [CSEP 561 – Network Systems, Autumn 2008 - University of Washington](https://courses.cs.washington.edu/courses/csep561/08au/) ([Videos](https://courses.cs.washington.edu/courses/csep561/08au/lectures/))
+- [ECE/CS 438 - Communication Networks, Fall 2020 - UIUC](https://courses.physics.illinois.edu/cs438/fa2020/)
 - [Computer Networks - IIT Kharagpur](https://nptel.ac.in/courses/106105081/)
 - [Introduction to Data Communications 2013, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
 - [Introduction to Complex Networks - RIT](https://www.youtube.com/playlist?list=PLE9AAD550EA21F3DC)
