@@ -697,6 +697,7 @@ Table of Contents
 - [Internetworking with TCP/IP by Prof. Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY5VrkObHTckZHwPsS1VCA)
 - [CS798: Mathematical Foundations of Computer Networking - University of Waterloo](https://www.youtube.com/playlist?list=PLFB088DB91845CA34)
 - [CS 168 Introduction to the Internet: Architecture and Protocols, Fall 2022 - UC Berkeley](https://fa22.cs168.io/) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKD4RbcpiXKeyXrIImw-mGd-))
+- [Advanced Topics in Communication Networks, Fall 2022 - ETH Zürich](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0575-00L.html)
 
 ------------------------------
 
