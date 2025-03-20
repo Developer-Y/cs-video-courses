@@ -684,6 +684,8 @@ Table of Contents
 - [Introduction to Complex Networks - RIT](https://www.youtube.com/playlist?list=PLE9AAD550EA21F3DC)
 - [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
 - [Columbia ELEN E4703 Wireless Communications spring 2006, by Angel Lozano](https://www.youtube.com/playlist?list=PLIygTcviGPKAaY0VGGjQ2whITq23AOjaR)
+- [Columbia COMS W4119 Computer Networks fall 2004, by Vishal Misra](https://www.youtube.com/playlist?list=PLIygTcviGPKCh6XgTHofe6zPK_LQ_nVW3)
+- [Columbia ELEN E4710 An Introduction to Network Engineering fall 2004, by Dan Rubenstein](https://www.cs.columbia.edu/~danr/courses/4710/Fall04/) ([Videos](https://www.youtube.com/playlist?list=PLIygTcviGPKClQelPKe2f05aReRMncyR7))
 - [Data Communication - IIT Kharagpur](https://nptel.ac.in/courses/106105082/)
 - [Error Correcting Codes - IISC Bangalore](https://nptel.ac.in/courses/117108044/)
 - [Information Theory and Coding - IIT Bombay](https://nptel.ac.in/courses/117101053/)
