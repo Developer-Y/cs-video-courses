@@ -441,6 +441,7 @@ Table of Contents
   - [MIT 6.036 Introduction to Machine Learning spring 2019, by Leslie Kaelbling](https://www.youtube.com/playlist?list=PLQEw29vp6f1Ae9dp8vkKB8H6sF1PHvP5N)
   - [LMU Munich Introduction to Machine Learning](https://slds-lmu.github.io/i2ml/)
   - [UCLA Stats C161/C261 Introduction to Pattern Recognition and Machine Learning winter 2024, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SxQ2vlXxlZVMKkt4gI1YYP8) ([Winter 2023](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwLCXGUyM3FNSRwG6GNgONr))
+  - [UCLA Stats 15 Introduction to Data Science fall 2022, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKCEzYDpJha6hP6ne-50sT1o)
   - [UCLA Stats 231C Theories of Machine Learning spring 2022, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SxKyZLv_FotPDED5ET_rQmo)
   - [MSU Machine Learning](https://www.youtube.com/watch?v=kMf0qDtQ_PM&list=PLZ-krWGO-UEyPHsZfOjYH03_TyIN2pPhl&pp=iAQB)
   - [Data Science for Dynamical Systems, by Oliver Wallscheid & Sebastian Peitz](https://www.youtube.com/@UPB_DS4DS-bu8ec/playlists)
