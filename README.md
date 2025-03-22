@@ -624,9 +624,11 @@ Table of Contents
   - [MIT 6.S098 Applied Convex Optimization IAP 2022, by Alexandre Amice, Benoit Legat](https://alexandreamice.github.io/teaching/convex_optimization/) ([YouTube](https://www.youtube.com/playlist?list=PL5SG6ajT9NZKxdvM1jQOLXmeKO7MfyLxR))
   - [University of Twente Discrete Optimization, by Marc Uetz](https://marcuetz.personalweb.utwente.nl/do/) ([Fall 2020](https://www.youtube.com/playlist?list=PLIygTcviGPKBUY9e1MCruRr5-I24LNm4g))
   - [UCSD CS292F Convex Optimization Spring 2020, by Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/classes/CS292F-2020Spring/) ([Youtube](https://www.youtube.com/playlist?list=PLTN4aNO9NiB5VxYILKPBXoy9g1tUqmnBx))
+  - [UIUC ECE 490 Introduction to Optimization fall 2020, by Venugopal V. Veeravalli](https://courses.grainger.illinois.edu/ece490/fa2020/) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKC5wSXtE6s2qdSYutRH1AUU))
   - [University of Wisconsin-Madison CS/ECE/ISyE 524 Introduction to Optimization spring 2017-18, by Laurent Lessard](https://laurentlessard.com/teaching/524-intro-to-optimization/)
   - [University of Wisconsin-Madison ISyE/Math/CS/Stat 525 Linear Optimization fall 2021, by Alberto Del Pia](https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y)
   - [University of Wisconsin-Madison ISyE/Math/CS 728 Integer Optimization (second part of the course) spring 2020](https://www.youtube.com/playlist?list=PLeO_PhASIA0NlDNF9y-SsgVEYcvAMj2CY)
+  - [Columbia IEOR E4007 Optimization Models and Methods 2005, by Garud Iyengar](https://www.youtube.com/playlist?list=PLIygTcviGPKCNQ2xHRwrLOxkEWv9OfGiF)
  
 - #### **Unsupervised Learning**
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
