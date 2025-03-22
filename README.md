@@ -766,6 +766,7 @@ Table of Contents
   - [UC Berkeley STAT 150 Stochastic Processes spring 2021, by Brett Kolesnik](https://www.youtube.com/playlist?list=PL682UO4IMem_H6exlt8NMfBSc0137_wlo)
   - [UIUC Math 564 Applied Stochastic Processes fall 2016, by Kay Kirkpatrick](https://www.youtube.com/playlist?list=PL682UO4IMem-5C_U0ml6O2kM1s1Yo-D9D)
   - [CS/ECE 561 - Probability and Info Theory in Machine Learning](https://mediaspace.wisc.edu/channel/CS_ECE%2B561%2B-%2BProbability%2Band%2BInfo%2BTheory%2Bin%2BMachine%2BLearning/191748913)
+  - [UCLA Stats 10 Introduction to Statistical Reasoning summer 2022, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKCk7fc69zL_cOogOPQBzXhn)
   - [UCLA Stats 101C Statistical Models and Data Mining summer 2022, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKAYdlamMMGkNGJuKFVYvYER)
   - [UCLA Stats 102A Introduction to Computational Statistics with R winter 2024, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKCiE3kiMI7ofuQ3wmXQUcmx)
   - [UCLA Stats 102B Computation and Optimization for Statistics spring 2024, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKD4XftRgjRlTITljOx792YN)
