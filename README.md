@@ -570,6 +570,7 @@ Table of Contents
   - [CS388: Natural Language Processing - UT Austin](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
   - [CS 124 - From Languages to Information - Stanford University](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists?view=50&sort=dd&shelf_id=2)
   - [CS 6340/5340 - Natural Language Processing - University of Utah - Spring 2024](https://utah-intro-nlp.github.io/) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43))
+  - [CSE 447/517 - Natural Language Processing - University of Washington - Winter 2024](https://safe-fernleaf-26d.notion.site/Winter-24-CSE-447-517-Natural-Language-Processing-4142333a001143d2be5ecff1a535c4ab)
   - [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
   - [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) ([Github](https://github.com/fastai/course-nlp))
   - [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
@@ -982,7 +983,7 @@ Table of Contents
   - [CS773: Computer Architecture for Performance and Security - IIT Bombay](https://www.youtube.com/playlist?list=PLw6vmiIQrilQ-KhbMAMeh9_eddYjHRjb6)
 - **Parallel Computer Architecture**
   - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
-  - [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
+  - [CS 267 Applications of Parallel Computers, Spring 18 - UC Berkeley](https://sites.google.com/lbl.gov/cs267-spr2018/) ([YouTube-Spring 18](https://www.youtube.com/playlist?list=PLkFD6_40KJIx1CL7aIN9BwFL_sttEzfQ7)) ([Notes-Spring 16](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/)) ([YouTube-Spring 16](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
   - [MOOC - Heterogeneous Parallel Programming - Coursera](http://academictorrents.com/details/8903d0871c652b96c7b29db738cea76902d65888)
   - [ECE 498AL - Programming Massively Parallel Processors](https://nanohub.org/resources/7225)
   - [Parallel Computing - IIT Delhi](https://nptel.ac.in/courses/106102114/)
