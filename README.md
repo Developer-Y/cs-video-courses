@@ -983,7 +983,7 @@ Table of Contents
   - [CS773: Computer Architecture for Performance and Security - IIT Bombay](https://www.youtube.com/playlist?list=PLw6vmiIQrilQ-KhbMAMeh9_eddYjHRjb6)
 - **Parallel Computer Architecture**
   - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
-  - [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
+  - [CS 267 Applications of Parallel Computers, Spring 18 - UC Berkeley](https://sites.google.com/lbl.gov/cs267-spr2018/) ([YouTube-Spring 18](https://www.youtube.com/playlist?list=PLkFD6_40KJIx1CL7aIN9BwFL_sttEzfQ7)) ([Notes-Spring 16](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/)) ([YouTube-Spring 16](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
   - [MOOC - Heterogeneous Parallel Programming - Coursera](http://academictorrents.com/details/8903d0871c652b96c7b29db738cea76902d65888)
   - [ECE 498AL - Programming Massively Parallel Processors](https://nanohub.org/resources/7225)
   - [Parallel Computing - IIT Delhi](https://nptel.ac.in/courses/106102114/)
