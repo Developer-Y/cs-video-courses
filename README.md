@@ -570,6 +570,7 @@ Table of Contents
   - [CS388: Natural Language Processing - UT Austin](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
   - [CS 124 - From Languages to Information - Stanford University](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists?view=50&sort=dd&shelf_id=2)
   - [CS 6340/5340 - Natural Language Processing - University of Utah - Spring 2024](https://utah-intro-nlp.github.io/) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43))
+  - [CSE 447/517 - Natural Language Processing - University of Washington - Winter 2024](https://safe-fernleaf-26d.notion.site/Winter-24-CSE-447-517-Natural-Language-Processing-4142333a001143d2be5ecff1a535c4ab)
   - [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
   - [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) ([Github](https://github.com/fastai/course-nlp))
   - [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
