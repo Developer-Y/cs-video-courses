@@ -179,6 +179,16 @@ Table of Contents
 - [UC Santa Cruz CSE 202 Combinatorial Algorithms spring 2021, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fbn9zAJfvJoQF1nc50KQR9g)
 - [UC Santa Cruz CSE 104, 204 Computational Complexity fall 2020, spring 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o)
 - [UC Santa Cruz CSE 290A Randomized Algorithms spring 2020, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0faRpH2oJcyW4CuM5Clt8a2n)
+- [Algorithms for Big-Data (Fall 2020) - Saket Saurabh](https://sites.google.com/view/sakethome/teaching/algorithms-for-big-data-fall-2020)
+- [CS498ABD - Algorithms for Big Data - UIUC, Fall 2020](https://courses.engr.illinois.edu/cs498abd/fa2020/schedule.html)
+- [Advanced Data Structures](https://www.youtube.com/playlist?list=PLN-ShipRKQ0h6jIphD381pHdQtj_APRM8)
+- [CS60025 Algorithmic Game Theory - IIT KGP - Winter 2020](http://cse.iitkgp.ac.in/~palash/Courses/2020AlgorithmicGameTheory/agt2020.html)
+- [CS60083 Parameterized Algorithms - IIT KGP](http://cse.iitkgp.ac.in/~palash/Courses/2020ParameterizedAlgo/paramAlgo.html)
+- [Parameterized Complexity](https://sites.google.com/view/sakethome/teaching/parameterized-complexity)
+- [Structural Graph Theory - IIT Madras](https://www.youtube.com/playlist?list=PLtDHG-2klXcEedB8L-jjvb17OIUZbF3gW)
+- [Information Theory - IISC Bangalore](https://nptel.ac.in/courses/108/108/108108168/)
+
+
 
 
 ------------------------------
@@ -228,6 +238,9 @@ Table of Contents
   - [CMU 15 440 / 640 Distributed Systems Spring 2022, by Mahadev Satyanarayanan, Padmanabhan Pillai](https://www.youtube.com/playlist?list=PLIygTcviGPKAp30J9kcVW9jPzFC7Otpol)
   - [UNC Comp533 - Distributed Systems Spring 2020](https://www.youtube.com/playlist?list=PLH5XTBxCO2hzgww9p5sew30lx3ngJsxcB)
   - [Brown CSCI 1380 Distributed Computer Systems spring 2016, by Tom Doeppner & Rodrigo Fonseca](https://cs.brown.edu/courses/cs138/s16/syllabus.html)
+  - [Distributed Systems lecture series - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+  - [Distributed Algorithms - Jukka Suomela](https://www.youtube.com/playlist?list=PL2RY7P3JxZN8g9hFCasNqzuDhZbIbAj54)
+  - [Programming Parallel Computers - Jukka Suomela](https://www.youtube.com/playlist?list=PL2RY7P3JxZN-Pz1nwvnoJ9uEHmOmv4jmi)
 - #### **Real-Time Systems**
   - [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
   - [Real Time Systems - IIT Kharagpur](https://nptel.ac.in/courses/106105036/)
@@ -459,6 +472,8 @@ Table of Contents
   - [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
   - [Algorithms for Big Data - IIT Madras](https://nptel.ac.in/courses/106106142/)
   - [Python Data Science with the TCLab](https://github.com/APMonitor/data_science) ([YouTube](https://www.youtube.com/watch?v=pAgW_bZVo88&list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy))
+  - [Foundations of Data Analysis (Fall 2020)- University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCqB1sx1eheVmLtp2EN7osYt)
+
   
 - #### **Data Mining**
   - [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
@@ -590,7 +605,8 @@ Table of Contents
   - [UC Berkeley CS 194/294-196 Large Language Model Agents Fall 2024, by Dawn Song & Xinyun Chen](https://rdi.berkeley.edu/llm-agents/f24) ([YouTube playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc))
   - [UC Berkeley CS 194/294-267 Understanding Large Language Models Foundations and Safety spring 2024, by Dawn Song & Dan Hendrycks](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)
   - [Introduction to Large Language Models (LLMs), IIT Delhi](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
-  - [Natural Language Processing (Spring 2024) - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43) 
+  - [Natural Language Processing (Spring 2024) - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43)
+  - [Multilingual NLP 2020 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
   
 - #### **Generative AI**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
@@ -733,6 +749,7 @@ Table of Contents
   - [Discrete Mathematical Structures - IIT Madras](https://nptel.ac.in/courses/106106094/)
   - [Discrete Structures - Pepperdine University](https://itunes.apple.com/us/course/discrete-structures/id546468789)
   - [CMU 21 228 Discrete Mathematics spring 2021, by Po-Shen Loh](https://www.youtube.com/playlist?list=PLgTkKBA6LRqYuuQ-LboerRblBoD_q_eUM)
+  - [COMP2804: Discrete Structures II](https://cglab.ca/~morin/teaching/2804/)
 - **Probability & Statistics**
   - [Statistics - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
   - [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
@@ -780,6 +797,9 @@ Table of Contents
   - [UCLA Stats 200C High-dimensional Statistics spring 2022, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzyrvojbW4UZQjVG1CnBFMd) ([Spring 2021](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sy-nbvOCLgt6uIQsOnmG-iV))
   - [UCLA Stats 203 Large Sample Theory fall 2021, by Jingyi Jessica Li](https://www.youtube.com/playlist?list=PLAYxx7zX5F1P5GG-9U8eJPL_MIsl1_8Zh) ([Fall 2020](https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz))
   - [UCSD Math 280 Probability Theory and Stochastic Processes, by Todd Kemp](https://mathweb.ucsd.edu/~tkemp/ProbabilityTube/) ([YouTube](https://www.youtube.com/@toddkemp-probability/playlists))
+  - [6.262 Discrete Stochastic Processes - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
+  - [18.650 Statistics for Applications - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/)
+  - [STAT240 - Robust Statistics - UC Berkeley](https://www.stat.berkeley.edu/~jsteinhardt/stat240/index.html)
 - **Linear Algebra**
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
@@ -827,6 +847,8 @@ Table of Contents
 - [UCLA STAT 100C Linear Models spring 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzrzpEoojAa4anJdaKa49GM)
 - [MSU Math for Computing](https://www.youtube.com/playlist?list=PLZ-krWGO-UEyLqtyA2pACX_tXXBTLWkI1)
 - [Mathematics of Data Science - ETH Zurich](https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL)
+- [Engineering Mathematics (UW ME564 and ME565) - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
+- [Beginning Scientific Computing - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRTVrHYDfjNyqzZ6Q6rsTyf)
 
 
 ------------------------------
@@ -912,6 +934,9 @@ Table of Contents
 - [Columbia ELEN E6717 Information Theory fall 2003, by Vittorio Castelli](https://www.youtube.com/playlist?list=PL682UO4IMem_IUZIFzlJi8vCTtS-Xi8eY)
 - [CMU 21 738 Extremal Combinatorics spring 2020, by Po-Shen Loh](https://www.youtube.com/playlist?list=PLgTkKBA6LRqaGKITvQS1QuIBoEbOVwFTm)
 - [JHU Domain-Specific Languages (DSL) Class (Summer 2018)](https://www.youtube.com/playlist?list=PLW-6wqFEcgTqHMXV_8jI43QLkCv8VgqLk)
+- [Spring 2019 - Probabilistically Checkable and Interactive Proof Systems (Alessandro Chiesa)](https://www.youtube.com/playlist?list=PLkFD6_40KJIyWWtxCPBHwGsrutjvwM5_U)
+- [Algebraic Coding Theory - Stanford University](https://www.youtube.com/playlist?list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr)
+- [CS60094 Computational Number Theory](https://www.youtube.com/playlist?list=PLG63srgJBCAiOJ0hGikoiTq0CsUg_OGKu)
 
 ------------------------------
 
@@ -981,6 +1006,8 @@ Table of Contents
   - [High Performance Computer Architecture - IIT Kharagpur](https://nptel.ac.in/courses/106105033/)
   - [BE5B35APO - Computer Architectures, Spring 2022, CTU - FEE](https://cw.fel.cvut.cz/b212/courses/b35apo/en/lectures/start) ([YouTube - Spring 2022](https://www.youtube.com/playlist?list=PLQL6z4JeTTQnTrML7HgagbjdpCtvdyu0M)) ([RISC-V simulator - QtRvSim](https://comparch.edu.cvut.cz/))
   - [CS773: Computer Architecture for Performance and Security - IIT Bombay](https://www.youtube.com/playlist?list=PLw6vmiIQrilQ-KhbMAMeh9_eddYjHRjb6)
+  - [COL718 - Architecture of High Performance Computers - IIT Delhi](https://www.cse.iitd.ac.in/~srsarangi/courses/2020/col_718_2020/index.html)
+  - [CS 695: Virtualization and Cloud Computing - IIT Bombay -Spring 2021](https://www.cse.iitb.ac.in/~cs695/)
 - **Parallel Computer Architecture**
   - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
   - [CS 267 Applications of Parallel Computers, Spring 18 - UC Berkeley](https://sites.google.com/lbl.gov/cs267-spr2018/) ([YouTube-Spring 18](https://www.youtube.com/playlist?list=PLkFD6_40KJIx1CL7aIN9BwFL_sttEzfQ7)) ([Notes-Spring 16](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/)) ([YouTube-Spring 16](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
@@ -1070,6 +1097,7 @@ introduction/id389259246))
 - [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL_deCdukpyu1rdH85XsEEREbpoqEauiJl))
 - [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/)
 - [UC Berkeley CS184/284A Computer Graphics and Imaging Spring 2022, by Ren Ng](https://cs184.eecs.berkeley.edu/sp22) ([YouTube playlist](https://www.youtube.com/playlist?list=PLIygTcviGPKABEUa7EJzO8tgYRz120EpP))
+- [CS 15-458/858: Discrete Differential Geometry - Carnegie Mellon University - Spring 2021](https://brickisland.net/DDGSpring2021/)
 
 ------------------------------
 
@@ -1159,6 +1187,8 @@ introduction/id389259246))
 - [ETH Zürich Statistical Models in Computational Biology spring 2018, by Niko Beerenwinkel](https://video.ethz.ch/lectures/d-bsse/2018/spring/636-0702-00L/21c63925-cd10-4d56-bac1-b412ed6fe385.html)
 - [UC Berkeley CS 198-96 Introduction to Neurotechnology fall 2020](https://github.com/neurotech-berkeley/neurotech-course)
 - [MLCB24 - Machine Learning in Computational Biology Fall 2024](https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc)
+- [Introduction to Neural Computation - MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-40-introduction-to-neural-computation-spring-2018/)
+- [Data Science for Biologists - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV)
 
 
 ------------------------------
@@ -1187,6 +1217,10 @@ introduction/id389259246))
 - [Quantum Computer Systems – UChicago](https://www.youtube.com/playlist?list=PLfOgkuiMs5qCa8BUrFMumyvPqeoOL-iu8)
 - [Quantum computing for the determined - Michael Nielsen](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4)
 - [Quantum Computing](https://www.youtube.com/playlist?list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0)
+- [Advanced Topics in Quantum Info Th.](https://www.youtube.com/playlist?list=PLmE1-ewBrbkicLl3pp14OmxRWSfdNYfmh)
+- [Theory of Quantum Communication - University of Waterloo - Fall 2020](https://www.math.uwaterloo.ca/~wcleung/co781-f2020.html)
+- [Intro to Quantum Computing - Nathan Wiebe](https://www.youtube.com/channel/UCYpyuTbBhQ2FvTmVLL6b3zA/videos)
+- [COMS 4281 - Introduction to Quantum Computing -Columbia University](http://www.henryyuen.net/classes/spring2021/)
 ------------------------------
 
 ### Robotics and Control
@@ -1251,6 +1285,8 @@ introduction/id389259246))
 - [UIUC CS 588 Autonomous Vehicle System Engineering fall 2021, by David Forsyth](http://luthuli.cs.uiuc.edu/~daf/courses/MAAV-21/588-2021-records.html)
 - [EPFL ME 425 Model Predictive Control fall 2020, by Colin Jones](https://www.youtube.com/playlist?list=PLHmHXT53cpnkpbwLqlKae0iKexM8SXKDM)
 - [Robots That Learn - UC Berkeley CS 294-277](https://www.youtube.com/playlist?list=PLPaC96j0xdLcYLTSoSk9PO1Yg-1udJd-S)
+- [Data-Driven Dynamical Systems with Machine Learning - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt)
+- [Data-Driven Control with Machine Learning - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
 
 ------------------------------
 
