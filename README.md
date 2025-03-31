@@ -302,6 +302,7 @@ Table of Contents
   - [System Analysis and Design - IISC Bangalore](https://nptel.ac.in/courses/106108102/)
   - [Software Engineering - IIT Bombay](https://nptel.ac.in/courses/106101061/)
   - [Dependable Systems (SS 2014)- HPI University of Potsdam](https://www.tele-task.de/series/1005/)
+  - [Automated Software Testing - ETH Zürich | Spring 2024](https://video.ethz.ch/lectures/d-infk/2024/spring/263-2815-00L/9c81df65-d04d-411a-bea4-cbd32eb249e5.html)
   - [Software Testing - IIT Kharagpur](https://nptel.ac.in/courses/106105150/)
   - [Software Testing - Udacity, course-cs258 | 2015](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
   - [Software Debugging - Udacity, course-cs259 | 2015](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)
