@@ -950,6 +950,7 @@ Table of Contents
 - [EE319K Embedded Systems - UT Austin](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm)
 - [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 - [CS149 Introduction to Embedded Systems - Spring 2011 - UCBerkeley](https://youtube.com/playlist?list=PLu0nzW8Es1x0RIvuWdw1Diez2Clk8xAX5)
+- [CSE/ECE 474 Introduction to Embedded Systems - University of Washington](https://courses.cs.washington.edu/courses/cse474/23sp/) ([Lectures - YouTube-Spring 21](https://www.youtube.com/playlist?list=PLyB1_dMg8sy8W2EMtSUymI3KpAhXBQOlT))
 - [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
 - [ECE 5760 - Advanced Microcontroller Design and system-on-chip, Spring 2016 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5760/)
 - [Internet of Things by Prof. Dr.-Ing. Dietmar P. F. Möller](https://video.tu-clausthal.de/vorlesung/408.html)
