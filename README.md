@@ -695,6 +695,7 @@ Table of Contents
   - [Statistical Physics of Machine Learning](https://www.youtube.com/playlist?list=PL04QVxpjcnjgzMr9ehyZUSkwu0Wr0cF_N)
   - [11-755 - Machine Learning for Signal Processing, CMU](https://cmu-mlsp.github.io/mlspcourse/schedule/) ([YouTube-2024](https://www.youtube.com/playlist?list=PLWhigAi1mTpO3Rw-1D2b2AowYeIU5eRzD), [YouTube-2023](https://www.youtube.com/playlist?list=PLWhigAi1mTpPMV3hECmkEv3s8Lc8H_VUd))
   - [CSCE 585 - Machine Learning Systems, University of South Carolina](https://pooyanjamshidi.github.io/mls/lectures/) ([YouTube-2020](https://www.youtube.com/playlist?list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu))
+  - [CS-E4740 - Federated Learning, Spring 2023, Aalto University](https://www.youtube.com/playlist?list=PLrbn2dGrLJK8c6hCQXBVFoYsPXG-g_75c)
 
 
 ------------------------------
