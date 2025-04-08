@@ -650,6 +650,7 @@ Table of Contents
   - [MIT 6.S098 Applied Convex Optimization IAP 2022, by Alexandre Amice, Benoit Legat](https://alexandreamice.github.io/teaching/convex_optimization/) ([YouTube](https://www.youtube.com/playlist?list=PL5SG6ajT9NZKxdvM1jQOLXmeKO7MfyLxR))
   - [University of Twente Discrete Optimization, by Marc Uetz](https://marcuetz.personalweb.utwente.nl/do/) ([Fall 2020](https://www.youtube.com/playlist?list=PLIygTcviGPKBUY9e1MCruRr5-I24LNm4g))
   - [UC Davis MAT 168 Optimization winter 2024, by Matthias Köppe](https://video.ucdavis.edu/channel/MAT+168+Optimization+%28Matthias+K%C3%B6ppe%3B+Winter+2024%29/329241352)
+  - [Purdue University CHE 597 Computational Optimization spring 2025, by Can Li](https://canli1.github.io/courses)
   - [UCSD CS292F Convex Optimization Spring 2020, by Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/classes/CS292F-2020Spring/) ([Youtube](https://www.youtube.com/playlist?list=PLTN4aNO9NiB5VxYILKPBXoy9g1tUqmnBx))
   - [UIUC ECE 490 Introduction to Optimization fall 2020, by Venugopal V. Veeravalli](https://courses.grainger.illinois.edu/ece490/fa2020/) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKC5wSXtE6s2qdSYutRH1AUU))
   - [University of Wisconsin-Madison CS/ECE/ISyE 524 Introduction to Optimization spring 2017-18, by Laurent Lessard](https://laurentlessard.com/teaching/524-intro-to-optimization/)
@@ -697,6 +698,7 @@ Table of Contents
   - [Statistical Physics of Machine Learning](https://www.youtube.com/playlist?list=PL04QVxpjcnjgzMr9ehyZUSkwu0Wr0cF_N)
   - [11-755 - Machine Learning for Signal Processing, CMU](https://cmu-mlsp.github.io/mlspcourse/schedule/) ([YouTube-2024](https://www.youtube.com/playlist?list=PLWhigAi1mTpO3Rw-1D2b2AowYeIU5eRzD), [YouTube-2023](https://www.youtube.com/playlist?list=PLWhigAi1mTpPMV3hECmkEv3s8Lc8H_VUd))
   - [CSCE 585 - Machine Learning Systems, University of South Carolina](https://pooyanjamshidi.github.io/mls/lectures/) ([YouTube-2020](https://www.youtube.com/playlist?list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu))
+  - [CS-E4740 - Federated Learning, Spring 2023, Aalto University](https://www.youtube.com/playlist?list=PLrbn2dGrLJK8c6hCQXBVFoYsPXG-g_75c)
 
 
 ------------------------------
