@@ -1387,4 +1387,5 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Stanford EE 376a winter 2011, Information Theory, by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
 - [MIT RES.6.007 Signals and Systems, 1987 - MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B)
 - [Purdue ME 597 Distributed Energy Resources Spring 2024, by Kevin J. Kircher](https://www.youtube.com/playlist?list=PLcZDMdEnS08l_z5LVDQrEcyFrBsHlKVXd)
+- [Stanford AA228V/CS238V Validation of Safety Critical Systems Winter 2025, by Sydney Michelle Katz](https://www.youtube.com/playlist?list=PLoROMvodv4rOq1LMLI8U7djzDb8--xpaC)
 
