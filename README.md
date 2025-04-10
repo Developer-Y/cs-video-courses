@@ -176,6 +176,7 @@ Table of Contents
 - [LINFO 2266 Advanced Algorithms for Optimization 2021, by Pierre Schaus - UCLouvain](https://www.youtube.com/playlist?list=PL682UO4IMem-wgYnJl5yMswlNkve_8oGU)
 - [MIT 6.854 / 18.415 Advanced Algorithms spring 2016, by Ankur Moitra](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
 - [CMU 10 801 Advanced Optimization and Randomized Algorithms spring 2014, by Suvrit Sra and Alex Smola](https://www.cs.cmu.edu/~suvrit/teach/)
+- [UC Santa Cruz CSE 201 Analysis of Algorithms winter 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYmOmrAAN-g1d4nFB2uz6tU)
 - [UC Santa Cruz CSE 202 Combinatorial Algorithms spring 2021, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fbn9zAJfvJoQF1nc50KQR9g)
 - [UC Santa Cruz CSE 104, 204 Computational Complexity fall 2020, spring 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o)
 - [UC Santa Cruz CSE 290A Randomized Algorithms spring 2020, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0faRpH2oJcyW4CuM5Clt8a2n)
