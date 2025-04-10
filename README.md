@@ -178,7 +178,7 @@ Table of Contents
 - [CMU 10 801 Advanced Optimization and Randomized Algorithms spring 2014, by Suvrit Sra and Alex Smola](https://www.cs.cmu.edu/~suvrit/teach/)
 - [UC Santa Cruz CSE 201 Analysis of Algorithms winter 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYmOmrAAN-g1d4nFB2uz6tU)
 - [UC Santa Cruz CSE 202 Combinatorial Algorithms spring 2021, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fbn9zAJfvJoQF1nc50KQR9g)
-- [UC Santa Cruz CSE 104, 204 Computational Complexity fall 2020, spring 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o)
+- [UC Santa Cruz CSE 104, 204 Computational Complexity spring 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o) ([Fall 2020](https://www.youtube.com/playlist?list=PLOQjlWvnI0fas529oXenovd3MyafNQbKl))
 - [UC Santa Cruz CSE 290A Randomized Algorithms spring 2020, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0faRpH2oJcyW4CuM5Clt8a2n)
 - [Algorithms for Big-Data (Fall 2020) - Saket Saurabh](https://sites.google.com/view/sakethome/teaching/algorithms-for-big-data-fall-2020)
 - [CS498ABD - Algorithms for Big Data - UIUC, Fall 2020](https://courses.engr.illinois.edu/cs498abd/fa2020/schedule.html)
