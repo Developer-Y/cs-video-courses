@@ -174,7 +174,7 @@ Table of Contents
 - [Harvard Information Theory 2022, by Gregory Falkovich](https://www.youtube.com/playlist?list=PLDEN2FPNHwVZKAFqfFl1b_NNAESTJwV9o)
 - [Math 510 - Linear Programming and Network Flows - Colorado State University](https://www.math.colostate.edu/~adams/teaching/math510fall2020/)
 - [LINFO 2266 Advanced Algorithms for Optimization 2021, by Pierre Schaus - UCLouvain](https://www.youtube.com/playlist?list=PL682UO4IMem-wgYnJl5yMswlNkve_8oGU)
-- [MIT 6.854 / 18.415 Advanced Algorithms spring 2016, by Ankur Moitra](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
+- [MIT 6.5210 / 6.854 / 18.415 Advanced Algorithms Fall 2013, 2020, 2021, 2022, by David Karger](https://6.5210.csail.mit.edu/materials) ([Spring 2016, by Ankur Moitra](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c))
 - [CMU 10 801 Advanced Optimization and Randomized Algorithms spring 2014, by Suvrit Sra and Alex Smola](https://www.cs.cmu.edu/~suvrit/teach/)
 - [UC Santa Cruz CSE 202 Combinatorial Algorithms spring 2021, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fbn9zAJfvJoQF1nc50KQR9g)
 - [UC Santa Cruz CSE 104, 204 Computational Complexity fall 2020, spring 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o)
