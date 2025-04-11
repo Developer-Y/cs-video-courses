@@ -176,8 +176,10 @@ Table of Contents
 - [LINFO 2266 Advanced Algorithms for Optimization 2021, by Pierre Schaus - UCLouvain](https://www.youtube.com/playlist?list=PL682UO4IMem-wgYnJl5yMswlNkve_8oGU)
 - [MIT 6.854 / 18.415 Advanced Algorithms spring 2016, by Ankur Moitra](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
 - [CMU 10 801 Advanced Optimization and Randomized Algorithms spring 2014, by Suvrit Sra and Alex Smola](https://www.cs.cmu.edu/~suvrit/teach/)
+- [UC Santa Cruz CSE 101 Intro to Data Structures and Algorithms fall 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fY1BCDxdiUSwkRHjnNI73G6) ([Fall 2020](https://www.youtube.com/playlist?list=PLOQjlWvnI0fZGffr1_MqCoaC5nUVtQIWz))
+- [UC Santa Cruz CSE 201 Analysis of Algorithms winter 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYmOmrAAN-g1d4nFB2uz6tU)
 - [UC Santa Cruz CSE 202 Combinatorial Algorithms spring 2021, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fbn9zAJfvJoQF1nc50KQR9g)
-- [UC Santa Cruz CSE 104, 204 Computational Complexity fall 2020, spring 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o)
+- [UC Santa Cruz CSE 104, 204 Computational Complexity spring 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o) ([Fall 2020](https://www.youtube.com/playlist?list=PLOQjlWvnI0fas529oXenovd3MyafNQbKl))
 - [UC Santa Cruz CSE 290A Randomized Algorithms spring 2020, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0faRpH2oJcyW4CuM5Clt8a2n)
 - [Algorithms for Big-Data (Fall 2020) - Saket Saurabh](https://sites.google.com/view/sakethome/teaching/algorithms-for-big-data-fall-2020)
 - [CS498ABD - Algorithms for Big Data - UIUC, Fall 2020](https://courses.engr.illinois.edu/cs498abd/fa2020/schedule.html)
@@ -1387,4 +1389,5 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Stanford EE 376a winter 2011, Information Theory, by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
 - [MIT RES.6.007 Signals and Systems, 1987 - MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B)
 - [Purdue ME 597 Distributed Energy Resources Spring 2024, by Kevin J. Kircher](https://www.youtube.com/playlist?list=PLcZDMdEnS08l_z5LVDQrEcyFrBsHlKVXd)
+- [Stanford AA228V/CS238V Validation of Safety Critical Systems Winter 2025, by Sydney Michelle Katz](https://www.youtube.com/playlist?list=PLoROMvodv4rOq1LMLI8U7djzDb8--xpaC)
 
