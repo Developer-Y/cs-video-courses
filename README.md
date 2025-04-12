@@ -458,6 +458,7 @@ Table of Contents
   - [MIT 6.036 Introduction to Machine Learning spring 2019, by Leslie Kaelbling](https://www.youtube.com/playlist?list=PLQEw29vp6f1Ae9dp8vkKB8H6sF1PHvP5N)
   - [LMU Munich Introduction to Machine Learning](https://slds-lmu.github.io/i2ml/)
   - [CMU 15 388 / 15 688 Practical Data Science, by Zico Kolter](https://www.datasciencecourse.org/lectures/) ([Fall 2019](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22618ea253-ca45-4b14-9f1d-aab501543bd2%22)) ([Spring 2018](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22912b80a3-625d-405d-8905-a8620133666b%22))
+  - [UW Madison CS 320 Data Programming II spring 2021, by Tyler R. Caraza-Harter](https://tyler.caraza-harter.com/cs320/s21/schedule.html)
   - [UCLA Stats 15 Introduction to Data Science fall 2022, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKCEzYDpJha6hP6ne-50sT1o)
   - [UCLA Stats 21 Python and Other Technologies for Data Science spring 2024, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKAdsiprcbdk5HHPxS6PloWE) ([Spring 2021](https://www.youtube.com/playlist?list=PLKR7271tMEmgBPgu4LtjDhX3ywpTxda5g))
   - [UCLA Stats C161/C261 Introduction to Pattern Recognition and Machine Learning winter 2024, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SxQ2vlXxlZVMKkt4gI1YYP8) ([Winter 2023](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwLCXGUyM3FNSRwG6GNgONr))
