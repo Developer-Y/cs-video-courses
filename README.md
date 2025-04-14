@@ -85,6 +85,7 @@ Table of Contents
 - [CS 106X - Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) ([Lecture Videos](https://www.youtube.com/playlist?list=PLrivl8gTKLcpIJ-ktHCxMEgWOn8LawYhb))
 - [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
 - [CmSc 150 - Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
+- [IN1503 - Advanced C++ Programming, TUM](https://live.rbg.tum.de/?year=2023&term=W&slug=AdvProg&view=3)
 - [LINFO 1104 - Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX](https://www.youtube.com/playlist?list=PLw454N-VXALSIzIe_eL5U8L4S68v2X_ak)
 - [FP 101x - Introduction to Functional Programming, TU Delft](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/)
 - [Introduction to Problem Solving and Programming - IIT Kanpur](https://nptel.ac.in/courses/106104074/)
