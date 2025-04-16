@@ -101,6 +101,7 @@ Table of Contents
 - [Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
 - [UW Madison CS 368 C++ for Java Programmers Fall 2020, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg33srpQjC7q7jqITLxcErPCM)
 - [UW Madison CS 354 Machine Organization and Programming spring 2020, 2021, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg32r5MZ-HfpA2Tr8Ke2lDYwI)
+- [Cornell CS 1110 Introduction to Computing using Python fall 2020, by Walker White](https://www.cs.cornell.edu/courses/cs1110/2020fa/lessons/) ([Lecture Videos](https://vod.video.cornell.edu/channel/CS+1110+Fall+2020/179890731))
 - [Cornell ECE 4960 Computational and Software Engineering spring 2017, by Edwin Kan](https://www.youtube.com/playlist?list=PLcVqWUh-bHiFN2CY1KMTw0-L39iDXlemi)
 
 ------------------------------
@@ -808,7 +809,7 @@ Table of Contents
   - [UCLA Stats 102A Introduction to Computational Statistics with R winter 2024, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKCiE3kiMI7ofuQ3wmXQUcmx)
   - [UCLA Stats 102B Computation and Optimization for Statistics spring 2024, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKD4XftRgjRlTITljOx792YN)
   - [UCLA Stats 102C Introduction to Monte Carlo Methods fall 2023, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKDv0fZ7RxMGPuaa1Yqx_bzh)
-  - [UCLA Stats 200B Theoretical Statistics winter 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sw03Ffmuq8prIVSoTI3yVyR)
+  - [UCLA Stats 200B Theoretical Statistics winter 2024, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwfzKyD47bMBmwJnKeezZCW) ([Winter 2023](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sw03Ffmuq8prIVSoTI3yVyR))
   - [UCLA Stats 200C High-dimensional Statistics spring 2022, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzyrvojbW4UZQjVG1CnBFMd) ([Spring 2021](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sy-nbvOCLgt6uIQsOnmG-iV))
   - [UCLA Stats 203 Large Sample Theory fall 2021, by Jingyi Jessica Li](https://www.youtube.com/playlist?list=PLAYxx7zX5F1P5GG-9U8eJPL_MIsl1_8Zh) ([Fall 2020](https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz))
   - [UCSD Math 280 Probability Theory and Stochastic Processes, by Todd Kemp](https://mathweb.ucsd.edu/~tkemp/ProbabilityTube/) ([YouTube](https://www.youtube.com/@toddkemp-probability/playlists))
@@ -1116,6 +1117,7 @@ introduction/id389259246))
 - [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/)
 - [UC Berkeley CS184/284A Computer Graphics and Imaging Spring 2022, by Ren Ng](https://cs184.eecs.berkeley.edu/sp22) ([YouTube playlist](https://www.youtube.com/playlist?list=PLIygTcviGPKABEUa7EJzO8tgYRz120EpP))
 - [CS 15-458/858: Discrete Differential Geometry - Carnegie Mellon University - Spring 2021](https://brickisland.net/DDGSpring2021/)
+- [IN2124: Basic Mathematical Tools for Imaging and Visualization - TUM - Winter 2021](https://live.rbg.tum.de/?year=2021&term=W&slug=GMMfIuV&view=3)
 
 ------------------------------
 
