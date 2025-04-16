@@ -1116,6 +1116,7 @@ introduction/id389259246))
 - [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/)
 - [UC Berkeley CS184/284A Computer Graphics and Imaging Spring 2022, by Ren Ng](https://cs184.eecs.berkeley.edu/sp22) ([YouTube playlist](https://www.youtube.com/playlist?list=PLIygTcviGPKABEUa7EJzO8tgYRz120EpP))
 - [CS 15-458/858: Discrete Differential Geometry - Carnegie Mellon University - Spring 2021](https://brickisland.net/DDGSpring2021/)
+- [IN2124: Basic Mathematical Tools for Imaging and Visualization - TUM - Winter 2021](https://live.rbg.tum.de/?year=2021&term=W&slug=GMMfIuV&view=3)
 
 ------------------------------
 
