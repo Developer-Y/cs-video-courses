@@ -808,7 +808,7 @@ Table of Contents
   - [UCLA Stats 102A Introduction to Computational Statistics with R winter 2024, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKCiE3kiMI7ofuQ3wmXQUcmx)
   - [UCLA Stats 102B Computation and Optimization for Statistics spring 2024, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKD4XftRgjRlTITljOx792YN)
   - [UCLA Stats 102C Introduction to Monte Carlo Methods fall 2023, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKDv0fZ7RxMGPuaa1Yqx_bzh)
-  - [UCLA Stats 200B Theoretical Statistics winter 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sw03Ffmuq8prIVSoTI3yVyR)
+  - [UCLA Stats 200B Theoretical Statistics winter 2024, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwfzKyD47bMBmwJnKeezZCW) ([Winter 2023](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sw03Ffmuq8prIVSoTI3yVyR))
   - [UCLA Stats 200C High-dimensional Statistics spring 2022, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzyrvojbW4UZQjVG1CnBFMd) ([Spring 2021](https://www.youtube.com/playlist?list=PLN_qg0-2-0Sy-nbvOCLgt6uIQsOnmG-iV))
   - [UCLA Stats 203 Large Sample Theory fall 2021, by Jingyi Jessica Li](https://www.youtube.com/playlist?list=PLAYxx7zX5F1P5GG-9U8eJPL_MIsl1_8Zh) ([Fall 2020](https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz))
   - [UCSD Math 280 Probability Theory and Stochastic Processes, by Todd Kemp](https://mathweb.ucsd.edu/~tkemp/ProbabilityTube/) ([YouTube](https://www.youtube.com/@toddkemp-probability/playlists))
