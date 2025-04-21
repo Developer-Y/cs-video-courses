@@ -950,6 +950,7 @@ Table of Contents
 - [Columbia ELEN E6711 Stochastic Models in Information Systems fall 2005, by Yuliy Barsyhnikov](https://www.youtube.com/playlist?list=PL682UO4IMem9dvI-8vjxlPkM5onW9WoIp)
 - [Columbia ELEN E6717 Information Theory fall 2003, by Vittorio Castelli](https://www.youtube.com/playlist?list=PL682UO4IMem_IUZIFzlJi8vCTtS-Xi8eY)
 - [University of Washington EE514A/EE515A - Information Theory I/II fall 2013, by Jeff Bilmes](https://www.youtube.com/playlist?list=PLFze15KrfxbGsPDYxeLyeYorlHSBsTPv0)
+- [CMU 15 150 Principles of Functional Programming summer 2023, by Brandon Wu](https://www.youtube.com/playlist?list=PLsydD1kw8jng2t2G8USQNLz0faYZetPnH)
 - [CMU 21 738 Extremal Combinatorics spring 2020, by Po-Shen Loh](https://www.youtube.com/playlist?list=PLgTkKBA6LRqaGKITvQS1QuIBoEbOVwFTm)
 - [JHU Domain-Specific Languages (DSL) Class (Summer 2018)](https://www.youtube.com/playlist?list=PLW-6wqFEcgTqHMXV_8jI43QLkCv8VgqLk)
 - [Spring 2019 - Probabilistically Checkable and Interactive Proof Systems (Alessandro Chiesa)](https://www.youtube.com/playlist?list=PLkFD6_40KJIyWWtxCPBHwGsrutjvwM5_U)
