@@ -133,6 +133,7 @@ Table of Contents
 - [CS 170 Algorithms - UCBerkeley](https://cs170.org/) [Fall 2019, Youtube](https://www.youtube.com/playlist?list=PLIygTcviGPKD4TU_QsvJI0G7QnrIS_7Wn) [Fall 2018, Youtube](https://www.youtube.com/watch?v=fd5P-8IQwMY&list=PLkFD6_40KJIx8lWWbE-Uk069aZ1R-W-VU&index=2&t=0s) [Fall 2018,Bilibili](https://www.bilibili.com/video/av43955743/?p=1) [2013 Bilibili](https://www.bilibili.com/video/av26670685/)
 - [CS 159 Data-Driven Algorithm Design - Caltech](https://sites.google.com/view/cs-159-spring-2020/lectures?authuser=0) [Spring 2020, Youtube](https://www.youtube.com/playlist?list=PLuz4CTPOUNi4Dz6zBPypcI8I3oJUjFKk4)
 - [ECS 122A - Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
+- [CSE 373 - Data Structures and Algorithms, Winter 2024 - University of Washington](https://courses.cs.washington.edu/courses/cse373/24wi/) ([Winter 2024, Youtube](https://www.youtube.com/playlist?list=PLEcoVsAaONjd5n69K84sSmAuvTrTQT_Nl)) ([Spring 2023, Notes](https://courses.cs.washington.edu/courses/cse373/23sp/)) ([Spring 2023, Youtube](https://www.youtube.com/playlist?list=PLEcoVsAaONjfHSAbP1AsVjAxIOFue6uWh))
 - [CSEP 521 - Applied Algorithms, Winter 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep521/13wi/) ([Videos](https://courses.cs.washington.edu/courses/csep521/13wi/video/))
 - [Data Structures And Algorithms - IIT Delhi](https://nptel.ac.in/courses/106102064/)
 - [Design and Analysis of Algorithms - IIT Bombay](https://nptel.ac.in/courses/106101060/)
