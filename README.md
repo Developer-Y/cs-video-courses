@@ -673,6 +673,7 @@ Table of Contents
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
   - [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
   - [CS294-158 Deep Unsupervised Learning SP19](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)
+  - [UC San Diego COGS 118A Supervised Machine Learning fall 2020, by Jason Fleischer](https://www.youtube.com/playlist?list=PLaaNbhBDEsoF_ad5N2mlOsvB-RwSTYUjQ)
   - [UIUC STAT 437 Unsupervised Learning spring 2024, by Tori Ellison](https://www.youtube.com/playlist?list=PLIygTcviGPKB133Vh7zxsxFoblyfS4P5Y)
   - [Johns Hopkins Unsupervised Learning spring 2017, by Rene Vidal](https://www.youtube.com/playlist?list=PLaBAmmD3yH4Nta9Y6g9hOV4dcnpTzeW4q)
   - [Unsupervised Learning (STAT 841), Winter 2017](https://www.youtube.com/playlist?list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)
