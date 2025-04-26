@@ -579,6 +579,8 @@ Table of Contents
   - [REINFORCEMENT LEARNING AND OPTIMAL CONTROL - Dimitri P. Bertsekas, ASU](https://web.mit.edu/dimitrib/www/RLbook.html)
   - [CMU 16 745 Optimal Control and Reinforcement Learning spring by Zac Manchester](https://www.youtube.com/@roboticexplorationlab3724/playlists)
   - [CMU 16 899 Adaptive Control and Reinforcement Learning fall 2020, by  Changliu Liu](https://www.youtube.com/playlist?list=PLZL5VXraKdz-0zByoPNzNTqSirR4veU8z)
+  - [Jadavpur University, 2025: Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLcNLn_ApooUzGJW60RcD2HRrL7sm0HG-w)
+  - [EE675 (2024) Introduction to Reinforcement Learning Course | IIT Kanpur](https://www.youtube.com/playlist?list=PLZAmMLcSnKRICBNyjraAhQdtdJFFgyRL5)
   
 - #### **Advanced Machine Learning**
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
@@ -872,6 +874,7 @@ Table of Contents
 - [Mathematics of Data Science - ETH Zurich](https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL)
 - [Engineering Mathematics (UW ME564 and ME565) - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
 - [Beginning Scientific Computing - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRTVrHYDfjNyqzZ6Q6rsTyf)
+- [Jadavpur University: Foundation_Math_forML_Autumn23](https://www.youtube.com/playlist?list=PLcNLn_ApooUyoctc147F-49oHnfvuj3Yt)
 
 
 ------------------------------
