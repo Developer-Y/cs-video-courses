@@ -581,6 +581,8 @@ Table of Contents
   - [CMU 16 899 Adaptive Control and Reinforcement Learning fall 2020, by  Changliu Liu](https://www.youtube.com/playlist?list=PLZL5VXraKdz-0zByoPNzNTqSirR4veU8z)
   - [Jadavpur University, 2025: Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLcNLn_ApooUzGJW60RcD2HRrL7sm0HG-w)
   - [EE675 (2024) Introduction to Reinforcement Learning Course | IIT Kanpur](https://www.youtube.com/playlist?list=PLZAmMLcSnKRICBNyjraAhQdtdJFFgyRL5)
+  - [Reinforcement Learning Course by Frédéric Godin - Concordia University](https://www.youtube.com/playlist?list=PLFskzTP727yc5eXXm09Xst7bIk5fi7mD6)
+  - [CS 285: Deep RL, 2023](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
   
 - #### **Advanced Machine Learning**
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
@@ -1323,6 +1325,16 @@ introduction/id389259246))
 - [Robots That Learn - UC Berkeley CS 294-277](https://www.youtube.com/playlist?list=PLPaC96j0xdLcYLTSoSk9PO1Yg-1udJd-S)
 - [Data-Driven Dynamical Systems with Machine Learning - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt)
 - [Data-Driven Control with Machine Learning - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
+- [Wheeled Mobile Robots](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9CXsZljkH_lCxRSiaXF566)
+- [Introduction to Mobile Robots and Robot Operating System (ROS), HSE 2021](https://www.youtube.com/playlist?list=PL2PmRem6srUn6jc7Q6ahjL8x2qJg150mZ)
+- [Surgical Robotics Lectures - Carleton University](https://www.youtube.com/playlist?list=PLY6RHB0yqJVasji1rwZAGYirD8zW1ipj-)
+- [Introduction to Mechatronic and Robotics - IIT Bombay](https://www.youtube.com/playlist?list=PL_uaeekrhGzJMZTb5etIdXasVO9-WVPVH)
+- [Robotics Fall 2020 - UIC](https://www.youtube.com/playlist?list=PLc7bpbeTIk741sSBpPzj5hl_L8Wlrn1u8)
+- [Introduction to Robotics @ Princeton](https://www.youtube.com/playlist?list=PLF8B1bJgOQK67xkgYz_Xtx0ShjcqfdXwE)
+- [Evolutionary robotics course. Spring 2025](https://www.youtube.com/@joshbongard3314/playlists)
+- [Robotics: Basics and Selected Advanced - IISC Bangalore](https://www.youtube.com/playlist?list=PLgMDNELGJ1CZT9pdEEkDylXFPLdcqxn0t)
+- [Nonlinear Control Design Jan 2024 - IIT Bombay](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file)
+
 
 ------------------------------
 
