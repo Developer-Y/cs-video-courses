@@ -546,6 +546,7 @@ Table of Contents
   - [Neural Networks: Zero to Hero - Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
   - [CIS 522 - Deep Learning - U Penn](https://www.youtube.com/@cis522-deeplearning8/playlists)
   - [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
+  - [Deep Learning (Fall 2020) - FAU](https://www.fau.tv/course/id/1600) ([Spring 2020](https://www.fau.tv/course/id/925)) ([Fall 2019](https://www.fau.tv/course/id/849)) ([Spring 2019](https://www.fau.tv/course/id/758)) ([Fall 2018](https://www.fau.tv/course/id/701)) ([Spring 2018](https://www.fau.tv/course/id/662))
   - [Deep Learning (Fall 2020) - Georgia Tech](https://www.youtube.com/playlist?list=PL-fZD610i7yB7gDnPDpFcKpHI9X8z3OQ7)
   - [Mathematics of Deep Learning (2021) - FAU](https://www.fau.tv/course/id/878)
   - [CS7015 - Deep Learning - Prof. Mitesh M. Khapra - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
