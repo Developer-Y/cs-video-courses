@@ -547,6 +547,7 @@ Table of Contents
   - [CIS 522 - Deep Learning - U Penn](https://www.youtube.com/@cis522-deeplearning8/playlists)
   - [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
   - [Deep Learning (Fall 2020) - Georgia Tech](https://www.youtube.com/playlist?list=PL-fZD610i7yB7gDnPDpFcKpHI9X8z3OQ7)
+  - [Mathematics of Deep Learning (2021) - FAU](https://www.fau.tv/course/id/878)
   - [CS7015 - Deep Learning - Prof. Mitesh M. Khapra - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
   - [ETH Zürich | Deep Learning in Scientific Computing 2023](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
