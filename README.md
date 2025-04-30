@@ -356,6 +356,7 @@ Table of Contents
 - [CS322 - Introduction to Artificial Intelligence, Winter 2012-13 - UBC](http://www.cs.ubc.ca/~mack/CS322/) ([YouTube](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU))
 - [CS 4804: Introduction to Artificial Intelligence, Fall 2016](https://www.youtube.com/playlist?list=PLUenpfvlyoa1iiSbGy9BBewgiXjzxVgBd)
 - [CS 5804: Introduction to Artificial Intelligence, Spring 2015](https://www.youtube.com/playlist?list=PLUenpfvlyoa0PB6_kqJ9WU7m6i6z1RhfJ)
+- [Artificial Intelligence, Fall 2023 - FAU](https://www.fau.tv/course/id/3595) ([Spring 2023](https://www.fau.tv/course/id/3386)) ([Fall 2022](https://www.fau.tv/course/id/3180)) ([Spring 2021](https://www.fau.tv/course/id/2095)) ([Winter 2020](https://www.fau.tv/course/id/1690)) ([Fall 2018](https://www.fau.tv/course/id/713)) ([Spring 2018](https://www.fau.tv/course/id/657))
 - [Artificial Intelligence - IIT Kharagpur](https://nptel.ac.in/courses/106105077/)
 - [Artificial Intelligence - IIT Madras](https://nptel.ac.in/courses/106106126/)
 - [Artificial Intelligence(Prof.P.Dasgupta) - IIT Kharagpur](https://nptel.ac.in/courses/106105079/)
