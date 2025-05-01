@@ -882,6 +882,7 @@ Table of Contents
 - [UCLA STAT 100C Linear Models spring 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzrzpEoojAa4anJdaKa49GM)
 - [MSU Math for Computing](https://www.youtube.com/playlist?list=PLZ-krWGO-UEyLqtyA2pACX_tXXBTLWkI1)
 - [Mathematics of Data Science - ETH Zurich](https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL)
+- [Mathematical Data Science 1 - Spring 2021 - FAU](https://www.fau.tv/course/id/2297) ([Spring 2020](https://www.fau.tv/course/id/1234))
 - [Engineering Mathematics (UW ME564 and ME565) - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
 - [Beginning Scientific Computing - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRTVrHYDfjNyqzZ6Q6rsTyf)
 - [Jadavpur University: Foundation_Math_forML_Autumn23](https://www.youtube.com/playlist?list=PLcNLn_ApooUyoctc147F-49oHnfvuj3Yt)
