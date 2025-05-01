@@ -1117,6 +1117,7 @@ Table of Contents
 - [UC Berkeley CS 161 Computer Security, Summer 2021, by Nicholas Ngai and Peyrin Kao](https://www.youtube.com/playlist?list=PLIygTcviGPKAPoe_0mUsXYaxZfsFyQyFE)
 - [UCSD CS291A Differential Privacy Fall 2021, by Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/classes/DPCourse-2021Fall/) ([Youtube](https://www.youtube.com/playlist?list=PLTN4aNO9NiB7UiBbSFznHRSkdieBc0-sk))
 - [Zero Knowledge Proofs MOOC, UC Berkeley RDI Center on Decentralization & AI](https://www.youtube.com/playlist?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs)
+- [Multimedia Security, Fall 2017, FAU](https://www.fau.tv/course/id/786)
 
 ------------------------------
 
