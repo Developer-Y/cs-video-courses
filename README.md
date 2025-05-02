@@ -884,6 +884,7 @@ Table of Contents
 - [Engineering Mathematics (UW ME564 and ME565) - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
 - [Beginning Scientific Computing - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRTVrHYDfjNyqzZ6Q6rsTyf)
 - [Jadavpur University: Foundation_Math_forML_Autumn23](https://www.youtube.com/playlist?list=PLcNLn_ApooUyoctc147F-49oHnfvuj3Yt)
+- [FAU: Inverse Problems Fall21](https://www.fau.tv/course/id/2705)
 
 
 ------------------------------
