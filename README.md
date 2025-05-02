@@ -886,6 +886,7 @@ Table of Contents
 - [Engineering Mathematics (UW ME564 and ME565) - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
 - [Beginning Scientific Computing - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRTVrHYDfjNyqzZ6Q6rsTyf)
 - [Jadavpur University: Foundation_Math_forML_Autumn23](https://www.youtube.com/playlist?list=PLcNLn_ApooUyoctc147F-49oHnfvuj3Yt)
+- [FAU: Inverse Problems Autumn21](https://www.fau.tv/course/id/2705)
 
 
 ------------------------------
@@ -1175,6 +1176,7 @@ introduction/id389259246))
 - [Photogrammetry 1 Course – 2020 - University of Bonn](https://www.ipb.uni-bonn.de/photo1-2020/)
 - [Photogrammetry II Course 2020/21 - University of Bonn](https://www.ipb.uni-bonn.de/photo2-2020/)
 - [3D Computer Vision - National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+- [Interventional Medical Image Processing - Spring 2016 - FAU](https://www.fau.tv/course/id/465) ([Spring 2015](https://www.fau.tv/course/id/354)) ([Spring 2012](https://www.fau.tv/course/id/151)) ([Spring 2011](https://www.fau.tv/course/id/105)) ([Spring 2009](https://www.fau.tv/course/id/3))
 ------------------------------
 
 ### Computational Physics
