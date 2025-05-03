@@ -406,6 +406,7 @@ Table of Contents
   - [CS4780/5780 Machine Learning, Fall 2018 - Cornell University](http://www.cs.cornell.edu/courses/cs4780/2018fa/page18/index.html) ([Youtube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS))
   - [CSE474/574 Introduction to Machine Learning - SUNY University at Buffalo](https://www.youtube.com/playlist?list=PLEQDy5tl3xkMzk_zlo2DPzXteCquHA8bQ)
   - [CS 5350/6350 - Machine Learning, Spring 2024, University of Utah](https://svivek.com/teaching/machine-learning/spring2024/) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCr-ANNi5GZid3MvSkzm_wnM))
+  - [ECE 4252/8803 Fundamentals of Machine Learning (FunML), Spring 2024 - Georgia Tech](https://alregib.ece.gatech.edu/georgia-tech-courses/funml/)
   - [ECE 5984 Introduction to Machine Learning, Spring 2015 - Virginia Tech](https://filebox.ece.vt.edu/~s15ece5984/)
   - [CSx824/ECEx242 Machine Learning, Bert Huang, Fall 2015 - Virginia Tech](https://www.youtube.com/playlist?list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob)
   - [STA 4273H - Large Scale Machine Learning, Winter 2015 - University of Toronto](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
