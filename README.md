@@ -1073,6 +1073,7 @@ Table of Contents
 - [Memory Systems Course - Technion, Summer 2018](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9)
 - [UC Berkeley EECS16A Designing Information Devices and Systems I summer 2020, by Grace Kuo, Panos Zarkos, Urmita Sikder](https://www.youtube.com/playlist?list=PL682UO4IMem9_svw6nCsGOaDZaYSjpgcB)
 - [UC Berkeley EECS 16B Designing Information Devices and Systems II fall 2020, by Seth Sanders, Miki Lustig](https://www.youtube.com/playlist?list=PL682UO4IMem_QO6og7qXyvjMUHXNI7Hqs)
+- [EE 503 - Statistical Signal Processing and Modeling - Fall 2020 - METU](https://ocw.metu.edu.tr/course/view.php?id=350) ([YouTube](https://www.youtube.com/playlist?list=PLhAAV-jkgAdx8wIshnGR6GZeJSXXC6cxl))
 - [ELEN E4810 - DIGITAL SIGNAL PROCESSING - Fall 2013 - Columbia](https://www.ee.columbia.edu/~dpwe/e4810/outline.html)
 - [ELEN E4896 - MUSIC SIGNAL PROCESSING - Spring 2016 - Columbia](https://www.ee.columbia.edu/~dpwe/e4896/outline.html)
 - [Columbia ELEN E6820 Speech and Audio Processing spring 2006, by Dan Ellis](https://www.youtube.com/playlist?list=PL682UO4IMem8IpOKncIUSEFsYWoJyS5ks)
