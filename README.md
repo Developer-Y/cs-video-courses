@@ -461,7 +461,7 @@ Table of Contents
   - [TinyML - Tiny Machine Learning at UPenn](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)
   - [ECE 4760 (Digital Systems Design Using Microcontrollers) at Cornell for the Fall, 2022](https://www.youtube.com/playlist?list=PLDqMkB5cbBA5oDg8VXM110GKc-CmvUqEZ)
   - [EfficientML.ai Lecture, Fall 2023, MIT 6.5940](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
-  - [SFU CMPT 727 Statistical Machine Learning spring 2022, 2023, by Maxwell Libbrecht](https://www.youtube.com/playlist?list=PL_5SuHtr8fsp95AhIKeTHbpcVdhlhB9h6)
+  - [SFU CMPT 727 Statistical Machine Learning, by Maxwell Libbrecht](https://coursys.sfu.ca/2023sp-cmpt-727-g1/pages/) ([Spring 2023](https://www.youtube.com/playlist?list=PL_5SuHtr8fsrK9NqWWSL4YL8urMAHLsvU)) ([Spring 2022](https://www.youtube.com/playlist?list=PL_5SuHtr8fsp95AhIKeTHbpcVdhlhB9h6))
   - [UC Berkeley CS 189 / 289A Introduction to Machine Learning fall 2023, by Jennifer Listgarten & Jitendra Malik](https://eecs189.org/)
   - [UC Berkeley CS 189 Introduction to Machine Learning (CDSS offering) spring 2022, by Marvin Zhang](https://www.youtube.com/playlist?list=PLCuQm2FL98HTlRmlwMk2AuFEM9n1c06HE)
   - [UC San Diego/edX DSE 220X Machine Learning Fundamentals, by Sanjoy Dasgupta](https://www.youtube.com/playlist?list=PLUPLKa8g2P75vrLVe6HKdgAwfuU89RfqB)
