@@ -880,6 +880,7 @@ Table of Contents
 - [Numerical Linear Algebra fall 2018, by Jaegul Choo](https://www.youtube.com/playlist?list=PLep-kTP3NkcMdmrw07VsKFt87FT584Cpd)
 - [MIT 6.S955 Applied Numerical Algorithms fall 2023, by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb)
 - [UC Berkeley Math 55 Discrete Mathematics fall 2021, by Nikhil Srivastava](https://www.youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC)
+- [UC Berkeley Math 56 Linear Algebra fall 2023, by Alexander Paulin](https://math.berkeley.edu/~apaulin/56%20(Fall%202023).html)
 - [Fundamental Mathematics for Robotics spring 2020, by Ken Tomiyama](https://www.youtube.com/@citqualityeducation803/videos)
 - [Short Course on Casual Inference, by Sanjay Shakkottai](https://www.youtube.com/playlist?list=PLcip-Gs_jEK_l2pNG8V_0UDK9jyPtLyuq)
 - [UCLA STAT 100C Linear Models spring 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzrzpEoojAa4anJdaKa49GM)
