@@ -879,7 +879,7 @@ Table of Contents
 - [TUe Numerical Linear Algebra 2021, by Martijn Anthonissen](https://www.youtube.com/playlist?list=PLRb3xghOQGNKbUt8zIRpwrQ-SZ6aIZNvt)
 - [Numerical Linear Algebra fall 2018, by Jaegul Choo](https://www.youtube.com/playlist?list=PLep-kTP3NkcMdmrw07VsKFt87FT584Cpd)
 - [MIT 6.S955 Applied Numerical Algorithms fall 2023, by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb)
-- [UC Berkeley Math 54 Linear Algebra & Differential Equations summer 2021, by Peter Koroteev](https://math.berkeley.edu/~pkoroteev/math54.html) ([Summer 2020, by Luvreet Sangha](https://www.youtube.com/playlist?list=PLShth7hrtLHO2U1XkrI6ZgMyuPHDxRcob))
+- [UC Berkeley Math 54 Linear Algebra & Differential Equations spring 2022, by Alexander Paulin](https://math.berkeley.edu/~apaulin/54%20(Spring%202022).html) ([Summer 2021, by Peter Koroteev](https://math.berkeley.edu/~pkoroteev/math54.html)) ([Summer 2020, by Luvreet Sangha](https://www.youtube.com/playlist?list=PLShth7hrtLHO2U1XkrI6ZgMyuPHDxRcob)) ([Spring 2018, by Alexander Paulin](https://math.berkeley.edu/~apaulin/54_001(Spring2018).html)
 - [UC Berkeley Math 55 Discrete Mathematics fall 2021, by Nikhil Srivastava](https://www.youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC)
 - [UC Berkeley Math 56 Linear Algebra fall 2023, by Alexander Paulin](https://math.berkeley.edu/~apaulin/56%20(Fall%202023).html)
 - [Fundamental Mathematics for Robotics spring 2020, by Ken Tomiyama](https://www.youtube.com/@citqualityeducation803/videos)
