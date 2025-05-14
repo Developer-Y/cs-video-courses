@@ -665,6 +665,7 @@ Table of Contents
   - [Rochester DSCC 435 Optimization for Machine Learning fall 2023, by Jiaming Liang](https://www.youtube.com/playlist?list=PLuJY91x7h5orCtyh6mChurVQ2ZZef9qPF)
   - [Princeton ELE539/COS512 Optimization for Machine Learning spring 2021, by Chi Jin](https://sites.google.com/view/cjin/teaching/ece539cos512-2021-ver)
   - [UT Dallas CS 7301 Advanced Topics in Optimization for Machine Learning spring 2021, by Rishabh Iyer](https://github.com/rishabhk108/AdvancedOptML) ([YouTube](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU))
+  - [Convex Analysis, Summer 2021 - TU Braunschweig](https://www.tu-braunschweig.de/index.php?eID=dumpFile&t=f&f=128341&token=3c40ee32c6c029df85f7e552522f4a87470e3401) ([YouTube](https://www.youtube.com/playlist?list=PLPomPKAI5ZlJBThiwc3bya7qngzw9-0QD))
   - [EE364a: Convex Optimization I - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
   - [10-725 Convex Optimization, Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
   - [10-725 Convex Optimization: Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
