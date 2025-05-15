@@ -58,6 +58,7 @@ Table of Contents
 - [Quantum Computing](#quantum-computing)
 - [Robotics and Control](#robotics-and-control)
 - [Computational Finance](#computational-finance)
+- [Network Science](#network-science)
 - [Blockchain Development](#blockchain-development)
 - [Misc](#misc)
 
@@ -1275,6 +1276,7 @@ introduction/id389259246))
 - [Theory of Quantum Communication - University of Waterloo - Fall 2020](https://www.math.uwaterloo.ca/~wcleung/co781-f2020.html)
 - [Intro to Quantum Computing - Nathan Wiebe](https://www.youtube.com/channel/UCYpyuTbBhQ2FvTmVLL6b3zA/videos)
 - [COMS 4281 - Introduction to Quantum Computing -Columbia University](http://www.henryyuen.net/classes/spring2021/)
+- [Introduction to Quantum Information Science](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH) ([Online book](https://qubit.guide/using-the-e-book), [PDF](https://qubit.guide/qubit_guide.pdf))
 ------------------------------
 
 ### Robotics and Control
@@ -1381,6 +1383,16 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [UW ECON 484 Econometrics and Data Science spring 2020, by Gregory Duncan](https://www.youtube.com/playlist?list=PLrE1feouzSWobe0NxC_v3cw_OyZL5i-IV)
 - [MATH69122 Stochastic Control for Finance](https://appliedprobability.blog/category/math69122-stochastic-control-for-finance/page/2/)
 - [UC Davis MAT 133 Mathematical Finance Spring 2024, by Matthias Köppe](https://video.ucdavis.edu/channel/MAT+133+%28Spring+2024%29/340365092) ([Spring 2021](https://video.ucdavis.edu/channel/channelid/231002963))
+
+------------------------------
+
+### Network Science
+
+- [Network Science, 2021 - HSE](https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2)
+- [Data Science for Business, HSE 2023](https://www.youtube.com/playlist?list=PLriUvS7IljvliT2UWgvy0wKRmj1HyB4Pn)
+- [MATH/COMP 479 Network Science Macalester College](https://www.youtube.com/playlist?list=PLlWULwPzrppXKYVyRxFt0YsgIDXiBDPNR)
+- [ACM Winter School on Network Science _Dec 2023, Ahmedabad University](https://www.youtube.com/playlist?list=PLPeEbErKGwN2qqFieu1z7KZ1SXxrmyCKx)
+- [Network Science 2021/2022 (ENS Lyon)](https://www.youtube.com/playlist?list=PL6e66HEqjx1a1XHy4IIQHwPSRLU0bRoK1)
 
 ------------------------------
 
