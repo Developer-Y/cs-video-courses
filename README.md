@@ -1426,6 +1426,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
  	- [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
   - [MOOC - Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
+  - [Gatech ECE4795 GPU Programming for Video Games, Summer 2021](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w)
 - **Geospatial**
   - [Introduction to Spatial Data Science, Autumn 2016, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkr2vtYgbP4hs44HO_s_qEO)
   - [Spatial Regression Analysis, Spring 2017, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkk7x197-CKPFZ0BuAOCRGT)
@@ -1451,6 +1452,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Asymptotics and perturbation methods - Prof. Steven Strogatz](https://www.youtube.com/playlist?list=PL5EH0ZJ7V0jV7kMYvPcZ7F9oaf_YAlfbI)
 - [ETH Zürich AI in the Sciences and Engineering](https://www.youtube.com/playlist?list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
 - [Introduction to GIS Programming (Fall 2024) - Open Geospatial Solutions](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPfb18kNe2luWX9xKg1233i9)
+- [Gatech ECE3084 Signals and Systems summer 2020, by Aaron Lanterman](https://www.youtube.com/playlist?list=PLOunECWxELQRYwsuj4BL4Hu1nvj9dxRQ6)
 - [UC Berkeley EE 120 Signals and Systems spring 2019, by Murat Arcak](https://www.youtube.com/playlist?list=PLIygTcviGPKCFASN_5cR04KUST-G97bb-)
 - [Stanford EE 102 spring 1999, Introduction to Signals and Systems, by Stephen Boyd](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvjbBio7D_qpIN4bZqOOOST)
 - [Stanford EE 376a winter 2011, Information Theory, by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
