@@ -349,7 +349,7 @@ Table of Contents
 ### Artificial Intelligence
 
 - [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2023/)
-- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2024](https://inst.eecs.berkeley.edu/~cs188/sp24/) ([Spring 2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz))
+- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2025, by John Canny, Oliver Grillmeyer](https://inst.eecs.berkeley.edu/~cs188/sp25/) ([Spring 2024](https://inst.eecs.berkeley.edu/~cs188/sp24/)) ([Spring 2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz))
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
