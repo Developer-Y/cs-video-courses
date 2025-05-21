@@ -349,7 +349,7 @@ Table of Contents
 ### Artificial Intelligence
 
 - [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2023/)
-- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2024](https://inst.eecs.berkeley.edu/~cs188/sp24/) ([Spring 2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz))
+- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2025, by John Canny, Oliver Grillmeyer](https://inst.eecs.berkeley.edu/~cs188/sp25/) ([Spring 2024](https://inst.eecs.berkeley.edu/~cs188/sp24/)) ([Spring 2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz))
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
@@ -1277,6 +1277,7 @@ introduction/id389259246))
 - [Intro to Quantum Computing - Nathan Wiebe](https://www.youtube.com/channel/UCYpyuTbBhQ2FvTmVLL6b3zA/videos)
 - [COMS 4281 - Introduction to Quantum Computing -Columbia University](http://www.henryyuen.net/classes/spring2021/)
 - [Introduction to Quantum Information Science](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH) ([Online book](https://qubit.guide/using-the-e-book), [PDF](https://qubit.guide/qubit_guide.pdf))
+- [A practical introduction to Quantum Computing: from Qubits to Quantum Machine Learning: CERN](https://www.youtube.com/playlist?list=PLu0nzW8Es1x3gEeqUm_32QbhmGHHUXSVo)
 ------------------------------
 
 ### Robotics and Control
@@ -1452,7 +1453,9 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Asymptotics and perturbation methods - Prof. Steven Strogatz](https://www.youtube.com/playlist?list=PL5EH0ZJ7V0jV7kMYvPcZ7F9oaf_YAlfbI)
 - [ETH Zürich AI in the Sciences and Engineering](https://www.youtube.com/playlist?list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
 - [Introduction to GIS Programming (Fall 2024) - Open Geospatial Solutions](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPfb18kNe2luWX9xKg1233i9)
+- [Gatech Guitar Amplification and Effects, by Aaron Lanterman](https://www.youtube.com/playlist?list=PLOunECWxELQS7JV_KeeTJJpgGjOftoaAH)
 - [Gatech ECE3084 Signals and Systems summer 2020, by Aaron Lanterman](https://www.youtube.com/playlist?list=PLOunECWxELQRYwsuj4BL4Hu1nvj9dxRQ6)
+- [Gatech ECE4450 Analog Circuits for Music Synthesis spring 2021, by Aaron Lanterman](https://www.youtube.com/playlist?list=PLOunECWxELQS5bMdWo9VhmZtsCjhjYNcV)
 - [UC Berkeley EE 120 Signals and Systems spring 2019, by Murat Arcak](https://www.youtube.com/playlist?list=PLIygTcviGPKCFASN_5cR04KUST-G97bb-)
 - [Stanford EE 102 spring 1999, Introduction to Signals and Systems, by Stephen Boyd](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvjbBio7D_qpIN4bZqOOOST)
 - [Stanford EE 376a winter 2011, Information Theory, by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
