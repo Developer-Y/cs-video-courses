@@ -412,6 +412,7 @@ Table of Contents
   - [CSx824/ECEx242 Machine Learning, Bert Huang, Fall 2015 - Virginia Tech](https://www.youtube.com/playlist?list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob)
   - [STA 4273H - Large Scale Machine Learning, Winter 2015 - University of Toronto](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
   - [ECE 421 Introduction to Machine Learning, Amir Ashouri, Winter 2019, University of Toronto](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iS9XqKuApPE1TSlnZblFHF)
+  - [EECS 4404E/5327 Introduction to Machine Learning, Amir Ashouri, Fall 2019, York University](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8horb94sQH4xcL85zDkpL9w)
   - [CS 480/680 Introduction to Machine Learning, Gautam Kamath, University of Waterloo](http://www.gautamkamath.com/courses/CS480-sp2021.html) ([Spring 2021](https://www.youtube.com/playlist?list=PLmd_zeMNzSvSzRRc4Q29qEcpxbhdwjMOx))
   - [CS 480/680 Introduction to Machine Learning, Kathryn Simone, University of Waterloo](https://github.com/kpc-simone/cs480-f24) ([Fall 2024](https://www.youtube.com/playlist?list=PLH84ETHrlsC8sbfb8WaOeXSx9ySH2Qoyc))
   - [CS 485/685 Machine Learning, Shai Ben-David, University of Waterloo](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q/videos)
