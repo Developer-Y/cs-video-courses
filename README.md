@@ -568,6 +568,7 @@ Table of Contents
   - [CS234: Reinforcement Learning - Spring 2024 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) ([Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
   - [CSE 542: Reinforcement Learning - Spring 2024 - University of Washington](https://courses.cs.washington.edu/courses/cse542/24sp/schedule/)
   - [CSE 579: Reinforcement Learning - Autumn 2024 - University of Washington](https://courses.cs.washington.edu/courses/cse579/24au/schedule/)
+  - [CSC 2547: Introduction to Reinforcement Learning - Spring 2021 - University of Toronto](https://amfarahmand.github.io/IntroRL/) ([YouTube](https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq))
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
   - [Reinforcement Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
   - [CS885 Reinforcement Learning - Spring 2018 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
