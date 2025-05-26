@@ -543,6 +543,7 @@ Table of Contents
   - [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
   - [Stat 946 Deep Learning - University of Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE)
   - [EECS 298 Theory of Computational Neural Networks and Machine Learning (Fall 2020) - UC Irvine](https://grandcentral.eee.uci.edu/syllabus/download/F-2020/17815) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKBAh1HWXPOI3Rw59WdRlJXu))
+  - [ECE 1508 Applied Deep Learning - University of Toronto](https://www.bereyhi.com/deep-learning) ([Winter 2025](https://www.youtube.com/playlist?list=PLcFgNUo9s_AgsMOnniTMIWmLpjj9vZ1Wm)) ([Fall 2024](https://www.youtube.com/playlist?list=PLcFgNUo9s_Ajz1l4rBDIApwdcEKgzoMko))
   - [Neural networks class - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
   - [DLCV - Deep Learning for Computer Vision - UPC Barcelona](https://www.youtube.com/playlist?list=PL-5eMc3HQTBavDoZpFcX-bff5WgQqSLzR)
   - [DLAI - Deep Learning for Artificial Intelligence @ UPC Barcelona](https://www.youtube.com/playlist?list=PL-5eMc3HQTBagIUjKefjcTbnXC0wXC_vd)
