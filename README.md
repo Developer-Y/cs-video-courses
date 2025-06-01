@@ -1283,6 +1283,7 @@ introduction/id389259246))
 - [COMS 4281 - Introduction to Quantum Computing -Columbia University](http://www.henryyuen.net/classes/spring2021/)
 - [Introduction to Quantum Information Science](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH) ([Online book](https://qubit.guide/using-the-e-book), [PDF](https://qubit.guide/qubit_guide.pdf))
 - [A practical introduction to Quantum Computing: from Qubits to Quantum Machine Learning: CERN](https://www.youtube.com/playlist?list=PLu0nzW8Es1x3gEeqUm_32QbhmGHHUXSVo)
+- [PSI 2018/2019 - Quantum Information Review (Gottesman)](https://pirsa.org/C19010)
 ------------------------------
 
 ### Robotics and Control
