@@ -1396,7 +1396,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 ### Network Science
 
 - [Network Science, 2021 - HSE](https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2)
-- [Data Science for Business, HSE 2023](https://www.youtube.com/playlist?list=PLriUvS7IljvliT2UWgvy0wKRmj1HyB4Pn)
+- [Network Science TU Graz](https://courses.isds.tugraz.at/dhelic/netsci/index.html)
 - [MATH/COMP 479 Network Science Macalester College](https://www.youtube.com/playlist?list=PLlWULwPzrppXKYVyRxFt0YsgIDXiBDPNR)
 - [ACM Winter School on Network Science _Dec 2023, Ahmedabad University](https://www.youtube.com/playlist?list=PLPeEbErKGwN2qqFieu1z7KZ1SXxrmyCKx)
 - [Network Science 2021/2022 (ENS Lyon)](https://www.youtube.com/playlist?list=PL6e66HEqjx1a1XHy4IIQHwPSRLU0bRoK1)
