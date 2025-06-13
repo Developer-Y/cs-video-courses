@@ -565,6 +565,7 @@ Table of Contents
   - [UC Berkeley CS 182 / 282a Deep Learning spring 2023, by Anant Sahai](https://www.youtube.com/playlist?list=PLIygTcviGPKAaj_UAJcazYN4964xZ7Lt1)
   - [Foundations of Deep Learning - UMD](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
   - [TUM IN2346 Introduction to Deep Learning Fall 2024, by Daniel Cremers](https://cvg.cit.tum.de/teaching/ws2024/i2dl) ([Summer 2023](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_pGm2QAwF625E6nmcRu2sU))
+  - [UT Austin - Advances in Deep Learning](https://ut.philkr.net/advances_in_deeplearning/)
   
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Spring 2024 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) ([Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
@@ -609,6 +610,7 @@ Table of Contents
   - [ETH Zürich Advanced Machine Learning fall 2019, by Joachim M. Buhmann](https://video.ethz.ch/lectures/d-infk/2019/autumn/252-0535-00L.html)
   - [CS 159 Advanced Topics in Machine Learning, Spring 2021 - Caltech](https://1five9.github.io/)
   - [CS 229br Advanced Topics in the theory of machine learning, Spring 2021 - Harvard](https://boazbk.github.io/mltheoryseminar/cs229br.html)
+  
   
 - #### **Natural Language Processing**
   - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)) ([Lectures - Spring 2024](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D))
