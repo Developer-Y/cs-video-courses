@@ -926,6 +926,8 @@ Table of Contents
 
 ### Theoretical CS and Programming Languages
 
+- [MIT 18.404J Theory of Computation - Fall 2020 - Lecture Slides](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/lecture-notes)
+- [MIT 18.404J Theory of Computation - Fall 2020 - Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 - [MOOC - Compilers - Stanford University](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a)
 - [CS 6120: Advanced Compilers: The Self-Guided Online Course - Cornell University](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS))
