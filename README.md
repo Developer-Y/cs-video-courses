@@ -226,6 +226,7 @@ Table of Contents
   - [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013 InfoCoBuild, UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
   - [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
   - [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
+  - [Operating System - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYcwlZ7GPCBzbowmiiF4BYR)
 - #### **Distributed Systems**
   - [CS 677 - Distributed Operating Systems, Spring 24 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbBpWHfKUU9Dfdk8RmQ7B9EH)
   - [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
@@ -301,7 +302,7 @@ Table of Contents
   - [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
   - [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
 - #### **Software Engineering**
-  - [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://youtube.com/playlist?list=PLVEFwJhglgHJQEQ6RjMMjcclix94gp1k2&feature=shared, https://archive.org/details/ucberkeley_webcast_W5Hl93ngMhU, https://failedturing.blogspot.com/2015/06/berkeley-cs169-software-engineering_8.html)
+  - [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://youtube.com/playlist?list=PLVEFwJhglgHJQEQ6RjMMjcclix94gp1k2)
   - [Computer Science 169- Software Engineering - Fall 2019 - UCBerkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxCKgzL0uysjsAtfY3JawLS)
   - [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
   - [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
@@ -573,7 +574,8 @@ Table of Contents
   - [CSE 579: Reinforcement Learning - Autumn 2024 - University of Washington](https://courses.cs.washington.edu/courses/cse579/24au/schedule/)
   - [CSC 2547: Introduction to Reinforcement Learning - Spring 2021 - University of Toronto](https://amfarahmand.github.io/IntroRL/) ([YouTube](https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq))
   - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-  - [Reinforcement Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
+  - [Reinforcement Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9) ([TA - Manav Mishra](https://www.youtube.com/playlist?list=PLpKrAXMumEsjAR1Ybb0qbTKGYd9RY0vxa), [TA - Prabhleen Kukreja](https://www.youtube.com/playlist?list=PLTt_oMmEiDJhBPjy_aedcoeIY-IsaDBOn), [TA - Sandarbh Yadav ](https://www.youtube.com/playlist?list=PLoo_WPzXEM1ShdfOxv-adi3JdhRX4rA7F), [TA - Avik Kar](https://www.youtube.com/playlist?list=PLz2x4RAIbeXkTJFEipkD_ds3z0qx8_5D7))
+  - [Special topics in ML (Reinforcement Learning) IIT madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbDiVplM2I9q2XNso1Qfj62)
   - [CS885 Reinforcement Learning - Spring 2018 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
   - [CS 285 - Deep Reinforcement Learning- UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
   - [CS 294 112 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
@@ -597,6 +599,9 @@ Table of Contents
   - [EE675 (2024) Introduction to Reinforcement Learning Course | IIT Kanpur](https://www.youtube.com/playlist?list=PLZAmMLcSnKRICBNyjraAhQdtdJFFgyRL5)
   - [Reinforcement Learning Course by Frédéric Godin - Concordia University](https://www.youtube.com/playlist?list=PLFskzTP727yc5eXXm09Xst7bIk5fi7mD6)
   - [CS 285: Deep RL, 2023](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
+  - [Mathematical Foundations of Reinforcement Learning - WINDY Lab](https://www.youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8)
+  - [Reinforcement Learning (HMC CS 181V)—Spring, 2020 - Neil Rhodes](https://www.youtube.com/playlist?list=PL2Yggtk_pK69evEzfwQHm9ASOCbXPlXPS)
+  - [Reinforcement Learning Course: Lectures (Summer 2023) by Paderborn University](https://www.youtube.com/playlist?list=PL4GzQQuIDBGv-IFxRSgydCR7OrOM_xKqN)
   
 - #### **Advanced Machine Learning**
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
@@ -642,6 +647,8 @@ Table of Contents
   - [Introduction to Large Language Models (LLMs), IIT Delhi](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
   - [Natural Language Processing (Spring 2024) - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43)
   - [Multilingual NLP 2020 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
+  - [Introduction to large language models - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)
+  - [Speech Technology - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBaI_g3_V-CFrgFIf-0Yksiv)
   
 - #### **Generative AI**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
@@ -1253,6 +1260,7 @@ introduction/id389259246))
 - [MLCB24 - Machine Learning in Computational Biology Fall 2024](https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc)
 - [Introduction to Neural Computation - MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-40-introduction-to-neural-computation-spring-2018/)
 - [Data Science for Biologists - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV)
+- [Big Data and Biological Networks IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBapdXdBZInSjonWNAUL6Ycm)
 
 
 ------------------------------
