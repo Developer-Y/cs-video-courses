@@ -783,6 +783,7 @@ Table of Contents
 - [CS798: Mathematical Foundations of Computer Networking - University of Waterloo](https://www.youtube.com/playlist?list=PLFB088DB91845CA34)
 - [CS 168 Introduction to the Internet: Architecture and Protocols, Fall 2022 - UC Berkeley](https://fa22.cs168.io/) ([YouTube - Fall 2022](https://www.youtube.com/playlist?list=PLIygTcviGPKD4RbcpiXKeyXrIImw-mGd-)) ([Spring 2025](https://sp25.cs168.io/))
 - [Advanced Topics in Communication Networks, Fall 2022 - ETH Zürich](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0575-00L.html)
+- [CS/ECE 438 Communication Networks [F23] - UIUC](https://rrc-uiuc.notion.site/Communication-Networks-F23-d37ef65a3d1b4b7ba3d49d929c03d546)
 
 ------------------------------
 
