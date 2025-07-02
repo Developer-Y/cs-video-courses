@@ -319,6 +319,7 @@ Table of Contents
 - #### **Software Architecture**
   - [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
   - [MOOC - Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
+  - [CS-310 Scalable Software Architectures](https://www.youtube.com/playlist?list=PLWl7jvxH18r0u5VRZsOjhghNXc_Ec4dZz)
 - #### **Concurrency**
   - [CS176 - Multiprocessor Synchronization - Brown University](http://cs.brown.edu/courses/cs176/course_information.shtml) ([Videos from 2012](http://www.brown.edu/cis/sta/dev/herlihy_csci1760_fa12/#vid))
   - [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
@@ -602,6 +603,8 @@ Table of Contents
   - [Mathematical Foundations of Reinforcement Learning - WINDY Lab](https://www.youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8)
   - [Reinforcement Learning (HMC CS 181V)—Spring, 2020 - Neil Rhodes](https://www.youtube.com/playlist?list=PL2Yggtk_pK69evEzfwQHm9ASOCbXPlXPS)
   - [Reinforcement Learning Course: Lectures (Summer 2023) by Paderborn University](https://www.youtube.com/playlist?list=PL4GzQQuIDBGv-IFxRSgydCR7OrOM_xKqN)
+  - [CS292F (Spring 2021) Statistical Foundation of Reinforcement Learning - UCSD](https://cseweb.ucsd.edu/~yuxiangw/classes/RLCourse-2021Spring/)
+  - [Algorithmic Foundations of Interactive Learning - CMU](https://interactive-learning-algos.github.io/)
   
 - #### **Advanced Machine Learning**
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
@@ -1043,6 +1046,7 @@ Table of Contents
 - [High Performance Computing | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
 - [UCLA Stats 205 Hierarchical Linear Models spring 2024, by Jingyi Jessica Li](https://www.youtube.com/playlist?list=PLAYxx7zX5F1O2HbRr4gORnscbM9EszYbK)
 - [UF EML 6934 Optimal Control spring 2012, by Anil V. Rao](https://www.youtube.com/playlist?list=PLIygTcviGPKBCJ9JyHfBi4ftc9FDCtaBc)
+- [Real-World Algorithms for IoT and Data Science - UIUC](https://rrc-uiuc.notion.site/Real-World-Algorithms-for-IoT-and-Data-Science-74d8f612f74a4c1689760dafa31ef93d)
 
 ------------------------------
 
