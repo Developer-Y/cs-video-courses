@@ -14,7 +14,8 @@
 Table of Contents
 
 ------------------------------
-
+- [CS50: Introduction to Computer Science - Harvard (David J. Malan)](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)  
+  Broad introduction to computer science including programming (C, Python, JavaScript), algorithms, data structures, software engineering, and web development.
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Systems Programming](#systems-programming)
