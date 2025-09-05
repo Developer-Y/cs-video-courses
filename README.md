@@ -529,7 +529,7 @@ Table of Contents
   - [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
   - [Intro to Deep Learning and Generative Models Course - Prof Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
   - [Deep Learning CMU](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
-  - [CS231n Deep Learning for Computer Vision - Winter 2016 Andrej Karpathy - Stanford University](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+  - [CS231n Deep Learning for Computer Vision - Stanford University](https://cs231n.stanford.edu/schedule.html) ([Spring 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)) ([Winter 2016 Andrej Karpathy](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC))
   - [Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
   - [10-414/714: Deep Learning Systems - CMU](https://dlsyscourse.org/lectures/) ([Youtube](https://www.youtube.com/@deeplearningsystemscourse1116/videos))
   - [11-785: Introduction to Deep Learning - CMU](https://deeplearning.cs.cmu.edu/S24/index.html) ([Lectures - YouTube-2024](https://www.youtube.com/playlist?list=PLp-0K3kfddPxUJzAW0KxNNjGiK_hISFas), [Recitations - YouTube-2024](https://www.youtube.com/playlist?list=PLp-0K3kfddPzNnco9QQAoTx_sVhZgHK-n))
