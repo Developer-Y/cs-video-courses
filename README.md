@@ -181,6 +181,7 @@ Table of Contents
 - [LINFO 2266 Advanced Algorithms for Optimization 2021, by Pierre Schaus - UCLouvain](https://www.youtube.com/playlist?list=PL682UO4IMem-wgYnJl5yMswlNkve_8oGU)
 - [MIT 6.5210 / 6.854 / 18.415 Advanced Algorithms Fall 2013, 2020, 2021, 2022, by David Karger](https://6.5210.csail.mit.edu/materials) ([Spring 2016, by Ankur Moitra](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c))
 - [CMU 10 801 Advanced Optimization and Randomized Algorithms spring 2014, by Suvrit Sra and Alex Smola](https://www.cs.cmu.edu/~suvrit/teach/)
+- [Purdue CS 381 Fundamental Algorithms, by Kent Quanrud](https://fas22.s3.amazonaws.com/fas22-book.pdf) ([Spring 2022](https://www.youtube.com/playlist?list=PL0YFU3y0Z_gb6P9jG0-40AgZapdGGXPTD))
 - [Purdue CS 390 ATA Fundamental Algorithms Advanced, by Kent Quanrud](https://fas25.s3.amazonaws.com/fas25.pdf) ([Spring 2025](https://www.youtube.com/playlist?list=PL0YFU3y0Z_gYOC4uogZcu54XKq57TVEs3))
 - [Purdue CS 580 Graduate Algorithms, by Kent Quanrud](https://fas23.s3.amazonaws.com/fas23.pdf) ([Spring 2023](https://www.youtube.com/playlist?list=PL0YFU3y0Z_gYAwo5Tg4kP91ifXPF_FIQ1)) ([Spring 2024](https://www.youtube.com/playlist?list=PL0YFU3y0Z_gaGD6jZLeuLHTRW0ISFn6AU))
 - [Purdue CS 588 Randomized Algorithms, by Kent Quanrud](https://ras24.s3.amazonaws.com/ras24.pdf) ([Fall 2022](https://www.youtube.com/playlist?list=PL0YFU3y0Z_gbjvT1yDQkwRU9UXahd0BP1)) ([Spring 2024](https://www.youtube.com/playlist?list=PL0YFU3y0Z_gZxc-FeLhbOFS99ZzlWl4He))
