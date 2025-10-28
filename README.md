@@ -191,6 +191,7 @@ Table of Contents
 - [UC Santa Cruz CSE 104, 204 Computational Complexity spring 2022, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o) ([Fall 2020](https://www.youtube.com/playlist?list=PLOQjlWvnI0fas529oXenovd3MyafNQbKl))
 - [UC Santa Cruz CSE 290A Randomized Algorithms spring 2020, by Seshadhri Comandur](https://www.youtube.com/playlist?list=PLOQjlWvnI0faRpH2oJcyW4CuM5Clt8a2n)
 - [University of Maryland CMSC351 Introduction to Algorithms, by Mohammad Hajiaghayi](https://www.youtube.com/playlist?list=PLx7SjCaKZzEJLQ9RubHk2zFuddXTD5_ac)
+- [University of Maryland CMSC858F Network Algorithms and Approximations, by Mohammad Hajiaghayi](https://www.cs.umd.edu/~hajiagha/NetDsgn11/courseNetworkDesign.html) ([YouTube playlists](https://www.youtube.com/playlist?list=PLx7SjCaKZzEIeJxOlTuXveAE5eY7WOYB9))
 - [University of Maryland CMSC858M Algorithmic Lower Bounds: Fun with Hardness Proofs, by Mohammad Hajiaghayi](https://www.cs.umd.edu/~hajiagha/ALB19/ALB19.html) ([YouTube playlists](https://www.youtube.com/playlist?list=PLx7SjCaKZzEKwynDkSTacgJGivjoB2ksn))
 - [Algorithms for Big-Data (Fall 2020) - Saket Saurabh](https://sites.google.com/view/sakethome/teaching/algorithms-for-big-data-fall-2020)
 - [CS498ABD - Algorithms for Big Data - UIUC, Fall 2020](https://courses.engr.illinois.edu/cs498abd/fa2020/schedule.html)
