@@ -36,7 +36,7 @@ Table of Contents
   * [Reinforcement Learning](#reinforcement-learning)
   * [Advanced Machine Learning](#advanced-machine-learning)
   * [Natural Language Processing](#natural-language-processing)
-  * [Generative AI](#generative-ai)
+  * [Generative AI and LLMs](#generative-ai-and-llms)
   * [Computer Vision](#computer-vision)
   * [Time Series Analysis](#time-series-analysis)
   * [Optimization](#optimization)
@@ -652,19 +652,25 @@ Table of Contents
   - [Natural Language Processing (CMSC 470)](https://www.youtube.com/playlist?list=PLwrUPjGidcJ4UkSoi7_rmn-1kcedLqgdL)
   - [Stanford CS25 - Transformers United 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
   - [Natural Language Processing (IN2361) - TUM](https://live.rbg.tum.de/?year=2019&term=W&slug=nlp&view=3)
+  - [Natural Language Processing (Spring 2024) - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43)
+  - [Multilingual NLP 2020 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
+  - [Speech Technology - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBaI_g3_V-CFrgFIf-0Yksiv)
+  
+- #### **Generative AI and LLMs**
+  - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+  - [CS 6785 - Deep Generative Models - Cornell Tech, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+  - [MIT 6.S184 Flow Matching and Diffusion Models, 2025](https://diffusion.csail.mit.edu)
+  - [Course on Diffusion Models for Generative AI - UT Austin](https://www.youtube.com/playlist?list=PL8lIiiIWuabLxhJreBRZwNW-d02dJwbMb)
+  - [Stanford CS336 Language Modeling from Scratch I 2025 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+  - [Stanford CME295 Transformers & LLMs - Autumn 2025 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05)
+  - [Introduction to large language models - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)
+  - [Build a Large Language Model (From Scratch) by Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
+  - [Reinforcement Learning of Large Language Models - UCLA](https://www.youtube.com/playlist?list=PLir0BWtR5vRp5dqaouyMU-oTSzaU5LK9r)
+  - [WING NUS CS6101 Large Language Models (T2310)](https://www.youtube.com/playlist?list=PLzIZxnJJT7ORSBnYrXJMYBVnYeLryJtl7)
   - [CS 886: Recent Advances on Foundation Models Winter 2024 - University of Waterloo](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
   - [UC Berkeley CS 194/294-196 Large Language Model Agents Fall 2024, by Dawn Song & Xinyun Chen](https://rdi.berkeley.edu/llm-agents/f24) ([YouTube playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc))
   - [UC Berkeley CS 194/294-267 Understanding Large Language Models Foundations and Safety spring 2024, by Dawn Song & Dan Hendrycks](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)
   - [Introduction to Large Language Models (LLMs), IIT Delhi](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
-  - [Natural Language Processing (Spring 2024) - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43)
-  - [Multilingual NLP 2020 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
-  - [Introduction to large language models - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)
-  - [Speech Technology - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBaI_g3_V-CFrgFIf-0Yksiv)
-  
-- #### **Generative AI**
-  - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
-  - [CS 6785 - Deep Generative Models - Cornell Tech, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
-  - [MIT 6.S184 Flow Matching and Diffusion Models, 2025](https://diffusion.csail.mit.edu)
   
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
