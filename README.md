@@ -761,6 +761,7 @@ Table of Contents
   - [Machine Learning for Physicists, Spring 2019, FAU](https://www.fau.tv/course/id/778) ([Spring 2017](https://www.fau.tv/course/id/574))
   - [CSCE 585 - Machine Learning Systems, University of South Carolina](https://pooyanjamshidi.github.io/mls/lectures/) ([YouTube-2020](https://www.youtube.com/playlist?list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu))
   - [CS-E4740 - Federated Learning, Spring 2023, Aalto University](https://www.youtube.com/playlist?list=PLrbn2dGrLJK8c6hCQXBVFoYsPXG-g_75c)
+  - [Uncertainty Modeling in AI | National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygOb9Eyc8IXM27doxjp2SK0H)
 
 
 ------------------------------
@@ -1222,6 +1223,7 @@ introduction/id389259246))
 - [Diagnostic Medical Image Processing - Fall 2014 - FAU](https://www.fau.tv/course/id/736) ([Fall 2011](https://fau.tv/course/id/123)) ([Fall 2010](https://www.fau.tv/course/id/52)) ([Fall 2009](https://www.fau.tv/course/id/13))
 - [Interventional Medical Image Processing - Spring 2016 - FAU](https://www.fau.tv/course/id/465) ([Spring 2015](https://www.fau.tv/course/id/354)) ([Spring 2012](https://www.fau.tv/course/id/151)) ([Spring 2011](https://www.fau.tv/course/id/105)) ([Spring 2009](https://www.fau.tv/course/id/3))
 - [Advances in Computer Vision - MIT](https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/)
+- [3D Computer Vision | National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 ------------------------------
 
 ### Computational Physics
