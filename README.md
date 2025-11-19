@@ -285,7 +285,7 @@ Table of Contents
 - [CS122 - Relational Database System Implementation, Winter 2014-2015 - Caltech](http://users.cms.caltech.edu/~donnie/cs122/)
 - [CS 186 - Database Systems, UC Berkeley, Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html)
 - [CS 6530 - Graduate-level Database Systems, Fall 2016, University of Utah](https://www.cs.utah.edu/~lifeifei/cs6530/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI))
-- [6.830/6.814 - Database Systems] ([Fall 2014](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK))
+- [6.830/6.814 - Database Systems [Fall 2014](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)]
 - [Informatics 1 - Data & Analysis 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm)
 - [Database Management Systems, Aduni](http://aduni.org/courses/databases/index.php?view=cw)
 - [D4M - Signal Processing on Databases](https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/)
