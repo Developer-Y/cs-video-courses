@@ -577,6 +577,7 @@ Table of Contents
   - [Foundations of Deep Learning - UMD](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
   - [TUM IN2346 Introduction to Deep Learning Fall 2024, by Daniel Cremers](https://cvg.cit.tum.de/teaching/ws2024/i2dl) ([Summer 2023](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_pGm2QAwF625E6nmcRu2sU))
   - [UT Austin - Advances in Deep Learning](https://ut.philkr.net/advances_in_deeplearning/)
+  - [HKU - Data 8014 Principles of Deep Representation Learning Fall 2025, by Yi Ma](https://ma-lab-berkeley.github.io/deep-representation-learning-book/community.html)
   
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Spring 2024 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) ([Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
