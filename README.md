@@ -1327,6 +1327,7 @@ introduction/id389259246))
 
 - [ROB 101: Computational Linear Algebra - University of Michigan](https://github.com/michiganrobotics/rob101/tree/main/Fall%202021) ([Youtube - Fall 2021](https://www.youtube.com/playlist?list=PLdPQZLMHRjDJ5d_dE4FeOviv0gRe4UYsB))
 - [ROB 102: Introduction to AI and Programming - University of Michigan](https://robotics102.github.io/)
+- [Robotics 201: Calculus for the Modern Engineer - University of Michigan](https://www.youtube.com/playlist?list=PLdPQZLMHRjDJMIi5bGorh40u_iOoDfC22)
 - [ROB 311: How to Build Robots and Make Them Move - University of Michigan](https://www.youtube.com/playlist?list=PLdPQZLMHRjDIWDJDjiBKjFe7ETD_rssB9)
 - [ROB 320: Robot Operating Systems - University of Michigan](https://autorob.org/)
 - [ROB 501: Mathematics for Robotics - University of Michigan](https://github.com/michiganrobotics/rob501) ([Youtube](https://www.youtube.com/playlist?list=PLdPQZLMHRjDIzO99aE7yAtdOHSVHMXfYH))
@@ -1403,6 +1404,8 @@ introduction/id389259246))
 - [Evolutionary robotics course. Spring 2025](https://www.youtube.com/@joshbongard3314/playlists)
 - [Robotics: Basics and Selected Advanced - IISC Bangalore](https://www.youtube.com/playlist?list=PLgMDNELGJ1CZT9pdEEkDylXFPLdcqxn0t)
 - [Nonlinear Control Design Jan 2024 - IIT Bombay](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file)
+- [Intelligent Control of Robotic Systems - IIT Roorkee](https://www.youtube.com/playlist?list=PLLy_2iUCG87AoVXK4Wi5EHZnguHtpDPw8)
+- [Mobile Robot Systems Course - Amanda Prorok, University of Cambridge](https://www.youtube.com/playlist?list=PLaTKfS3-bDpDyOwrxLcQRGxY9XJw33ANo)
 
 
 ------------------------------
