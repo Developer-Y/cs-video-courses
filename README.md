@@ -549,6 +549,7 @@ Table of Contents
   - [6.S094: Deep Learning for Self-Driving Cars - MIT](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
   - [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
   - [CS230: Deep Learning - Autumn 2018 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+  - [CS230: Deep Learning - Autumn 2025 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
   - [STAT-157 Deep Learning 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
   - [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
   - [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
@@ -661,6 +662,7 @@ Table of Contents
 - #### **Generative AI and LLMs**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
   - [CS 6785 - Deep Generative Models - Cornell Tech, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+  - [ECE 498 / 598 - Deep Generative Models - UIUC, Fall 2025)](https://rrc-uiuc.notion.site/gen-models-fa25)
   - [MIT 6.S184 Flow Matching and Diffusion Models, 2025](https://diffusion.csail.mit.edu)
   - [Course on Diffusion Models for Generative AI - UT Austin](https://www.youtube.com/playlist?list=PL8lIiiIWuabLxhJreBRZwNW-d02dJwbMb)
   - [Stanford CS336 Language Modeling from Scratch I 2025 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
@@ -816,6 +818,7 @@ Table of Contents
   - [Vector Calculus for Engineers - HKUST](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
 - **Discrete Math**
   - [6.042J - Mathematics for Computer Science, MIT OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/) 
+  - [18.200 - Principles of Discrete Applied Mathematics, MIT OCW](https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/video_galleries/lecture-videos/)
   - [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
   - [CSE 547 Discrete Mathematics, Prof Skiena, University of Stony Brook](http://www3.cs.stonybrook.edu/~algorith/math-video/)
   - [Discrete Structures (Summer 2011) - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/discrete-structures-summer/id698728837)
@@ -916,6 +919,7 @@ Table of Contents
 - [TUe Numerical Linear Algebra 2021, by Martijn Anthonissen](https://www.youtube.com/playlist?list=PLRb3xghOQGNKbUt8zIRpwrQ-SZ6aIZNvt)
 - [Numerical Linear Algebra fall 2018, by Jaegul Choo](https://www.youtube.com/playlist?list=PLep-kTP3NkcMdmrw07VsKFt87FT584Cpd)
 - [MIT 6.S955 Applied Numerical Algorithms fall 2023, by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb)
+- [MIT 6.7350 Numerical Algorithms for Computing and Machine Learning fall 2025, by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNsivZX5TmUAoUkkBqFT8aOL)
 - [UC Berkeley Math 54 Linear Algebra & Differential Equations spring 2022, by Alexander Paulin](https://math.berkeley.edu/~apaulin/54%20(Spring%202022).html) ([Summer 2021, by Peter Koroteev](https://math.berkeley.edu/~pkoroteev/math54.html)) ([Summer 2020, by Luvreet Sangha](https://www.youtube.com/playlist?list=PLShth7hrtLHO2U1XkrI6ZgMyuPHDxRcob)) ([Spring 2018, by Alexander Paulin](https://math.berkeley.edu/~apaulin/54_001(Spring2018).html))
 - [UC Berkeley Math 55 Discrete Mathematics fall 2021, by Nikhil Srivastava](https://www.youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC)
 - [UC Berkeley Math 56 Linear Algebra fall 2023, by Alexander Paulin](https://math.berkeley.edu/~apaulin/56%20(Fall%202023).html)
