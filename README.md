@@ -661,6 +661,7 @@ Table of Contents
 - #### **Generative AI and LLMs**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
   - [CS 6785 - Deep Generative Models - Cornell Tech, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+  - [ECE 498 / 598 - Deep Generative Models - UIUC, Fall 2025)](https://rrc-uiuc.notion.site/gen-models-fa25)
   - [MIT 6.S184 Flow Matching and Diffusion Models, 2025](https://diffusion.csail.mit.edu)
   - [Course on Diffusion Models for Generative AI - UT Austin](https://www.youtube.com/playlist?list=PL8lIiiIWuabLxhJreBRZwNW-d02dJwbMb)
   - [Stanford CS336 Language Modeling from Scratch I 2025 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
