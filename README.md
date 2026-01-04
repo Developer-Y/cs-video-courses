@@ -590,6 +590,7 @@ Table of Contents
   - [Reinforcement Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9) ([TA - Manav Mishra](https://www.youtube.com/playlist?list=PLpKrAXMumEsjAR1Ybb0qbTKGYd9RY0vxa), [TA - Prabhleen Kukreja](https://www.youtube.com/playlist?list=PLTt_oMmEiDJhBPjy_aedcoeIY-IsaDBOn), [TA - Sandarbh Yadav ](https://www.youtube.com/playlist?list=PLoo_WPzXEM1ShdfOxv-adi3JdhRX4rA7F), [TA - Avik Kar](https://www.youtube.com/playlist?list=PLz2x4RAIbeXkTJFEipkD_ds3z0qx8_5D7))
   - [Special topics in ML (Reinforcement Learning) IIT madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbDiVplM2I9q2XNso1Qfj62)
   - [CS885 Reinforcement Learning - Spring 2018 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
+  - [CS 224R - Deep Reinforcement Learning- Stanford](https://cs224r.stanford.edu/) ([YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL))
   - [CS 285 - Deep Reinforcement Learning- UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
   - [CS 294 112 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
   - [NUS CS 6101 - Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLllwxvcS7ca5wOmRLKm6ri-OaC0INYehv)
