@@ -573,6 +573,7 @@ Table of Contents
   - [Mathematics of Deep Learning (2021) - FAU](https://www.fau.tv/course/id/878)
   - [CS7015 - Deep Learning - Prof. Mitesh M. Khapra - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
   - [ETH Zürich | Deep Learning in Scientific Computing 2023](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
+  - [Deep Learning François Fleuret](https://fleuret.org/dlc/)
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
   - [UC Berkeley CS 182 / 282a Deep Learning spring 2023, by Anant Sahai](https://www.youtube.com/playlist?list=PLIygTcviGPKAaj_UAJcazYN4964xZ7Lt1)
   - [Foundations of Deep Learning - UMD](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
@@ -589,6 +590,7 @@ Table of Contents
   - [Reinforcement Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9) ([TA - Manav Mishra](https://www.youtube.com/playlist?list=PLpKrAXMumEsjAR1Ybb0qbTKGYd9RY0vxa), [TA - Prabhleen Kukreja](https://www.youtube.com/playlist?list=PLTt_oMmEiDJhBPjy_aedcoeIY-IsaDBOn), [TA - Sandarbh Yadav ](https://www.youtube.com/playlist?list=PLoo_WPzXEM1ShdfOxv-adi3JdhRX4rA7F), [TA - Avik Kar](https://www.youtube.com/playlist?list=PLz2x4RAIbeXkTJFEipkD_ds3z0qx8_5D7))
   - [Special topics in ML (Reinforcement Learning) IIT madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbDiVplM2I9q2XNso1Qfj62)
   - [CS885 Reinforcement Learning - Spring 2018 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
+  - [CS 224R - Deep Reinforcement Learning- Stanford](https://cs224r.stanford.edu/) ([YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL))
   - [CS 285 - Deep Reinforcement Learning- UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
   - [CS 294 112 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
   - [NUS CS 6101 - Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLllwxvcS7ca5wOmRLKm6ri-OaC0INYehv)
@@ -671,6 +673,7 @@ Table of Contents
   - [Build a Large Language Model (From Scratch) by Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
   - [Reinforcement Learning of Large Language Models - UCLA](https://www.youtube.com/playlist?list=PLir0BWtR5vRp5dqaouyMU-oTSzaU5LK9r)
   - [WING NUS CS6101 Large Language Models (T2310)](https://www.youtube.com/playlist?list=PLzIZxnJJT7ORSBnYrXJMYBVnYeLryJtl7)
+  - [CS 839: Foundation Models Fall 2025 - UW Madison](https://pages.cs.wisc.edu/~fredsala/cs839/fall2025/schedule.html) ([YouTube playlists](https://www.youtube.com/playlist?list=PLOq_oVZZBJosRA5_S823YxCcKcoyVRto-))
   - [CS 886: Recent Advances on Foundation Models Winter 2024 - University of Waterloo](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
   - [UC Berkeley CS 194/294-196 Large Language Model Agents Fall 2024, by Dawn Song & Xinyun Chen](https://rdi.berkeley.edu/llm-agents/f24) ([YouTube playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc))
   - [UC Berkeley CS 194/294-267 Understanding Large Language Models Foundations and Safety spring 2024, by Dawn Song & Dan Hendrycks](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)
@@ -690,6 +693,7 @@ Table of Contents
   - [CAP5415 Computer Vision - UCF Fall 2023](https://www.youtube.com/playlist?list=PLd3hlSJsX_InWyCQtwqQ7y6KnwhxNCgRf)
   - [CAP6412 Advanced Computer Vision - UCF Spring 2024](https://www.crcv.ucf.edu/courses/cap6412-spring-2024/schedule/) ([Youtube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IlSr0ua4v8WQezazAMXEJE4))
   - [Advanced Deep Learning for Computer vision (ADL4CV) (IN2364) - TU Munich](https://dvl.in.tum.de/teaching/adl4cv-ss20/) ([Youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39))
+  - [Advanced Deep Learning for Physics (ADL4P) - TU Munich](https://tum-pbs.github.io/ADL4P/)
   - [Computer Vision III: Detection, Segmentation and Tracking (CV3DST) (IN2375) - TU Munich](https://www.youtube.com/playlist?list=PLog3nOPCjKBkamdw8F6Hw_4YbRiDRb2rb)
   
 - #### **Time Series Analysis**
