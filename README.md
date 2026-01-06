@@ -564,7 +564,7 @@ Table of Contents
   - [Deep Learning - Winter 2020-21 - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
   - [Geometric Deep Learning - AMMI](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
   - [Math for Deep Learning — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
-  - [Applied Deep Learning 2022 - TU Wien](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE_QaTwYxoTmmRJHtMXyIAU6)
+  - [Applied Deep Learning 2025 - TU Wien](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE8H1o874cZbiwnNRJ6hCDJI) ([2024](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE8tSQuU3jN71fmmGFFCi7Dc)) ([2023](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE87JO3T_mvedVTlw0sjUzKh)) ([2022](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE_QaTwYxoTmmRJHtMXyIAU6)) ([2021](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE_wsWK3t6NEeYtwOorGfowm)) ([2020](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE8xNYTEyorbaWPN7nvbWyk1))
   - [Neural Networks: Zero to Hero - Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
   - [CIS 522 - Deep Learning - U Penn](https://www.youtube.com/@cis522-deeplearning8/playlists)
   - [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
