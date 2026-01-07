@@ -219,6 +219,7 @@ Table of Contents
 - [CS110: Principles of Computer Systems - Stanford](https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/)
 - #### **Operating Systems**
   - [ECS 150 - Operating Systems and Systems Programming - Fall 2020 - Joël Porquet-Lupine - UC Davis](https://lupteach.gitlab.io/courses/ucd-ecs150/online/)
+  - [ECS 454 - Computer Systems Programming - Fall 2024 - Jon Eyolfson - University of Toronto](https://www.youtube.com/playlist?list=PLunILarQwxnlzwF1oYp2CJc1rFNldOisZ)
   - [CS124 Operating Systems - California Institute of Technology, Fall 2018 - Youtube](https://www.youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56)
   - [CS 162 Operating Systems and Systems Programming, Spring 2015 - University of California, Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c?sort=titleSorter) ([Fall 2020 - YouTube](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC))
   - [CS 4414 - Operating Systems, University of Virginia (rust-class)](http://rust-class.org/pages/classes.html)
