@@ -670,6 +670,7 @@ Table of Contents
   - [ECE 498 / 598 - Deep Generative Models - UIUC, Fall 2025)](https://rrc-uiuc.notion.site/gen-models-fa25)
   - [MIT 6.S184 Flow Matching and Diffusion Models, 2025](https://diffusion.csail.mit.edu)
   - [Course on Diffusion Models for Generative AI - UT Austin](https://www.youtube.com/playlist?list=PL8lIiiIWuabLxhJreBRZwNW-d02dJwbMb)
+  - [CS 492(C) Diffusion and Flow Models - Fall 2025 - KAIST](https://diffusion.kaist.ac.kr/) ([YouTube](https://www.youtube.com/playlist?list=PLyi5FHzX7hBzC698EjqgxQJG7pNPQyYyc))
   - [Stanford CS336 Language Modeling from Scratch I 2025 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
   - [Stanford CME295 Transformers & LLMs - Autumn 2025 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05)
   - [Introduction to large language models - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)
