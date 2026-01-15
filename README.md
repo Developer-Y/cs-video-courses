@@ -539,6 +539,7 @@ Table of Contents
   - [NYU Deep Learning Spring 2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
   - [NYU Deep Learning Spring 2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
   - [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
+  - [15.773: Hands-On Deep Learning Spring 2024 - MIT](https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/video_galleries/lecture-videos/)
   - [Intro to Deep Learning and Generative Models Course - Prof Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
   - [Deep Learning CMU](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
   - [CS231n Deep Learning for Computer Vision - Stanford University](https://cs231n.stanford.edu/schedule.html) ([Spring 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)) ([Winter 2016 Andrej Karpathy](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC))
