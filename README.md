@@ -500,7 +500,7 @@ Table of Contents
   - [CSE519 - Data Science Fall 2016 - Skiena, SBU](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo)
   - [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
   - [6.0002 Introduction to Computational Thinking and Data Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/)
-  - [Data 100: Principles and Techniques of Data Science - UC Berkeley](https://ds100.org/fa24/) ([Fall 24](https://www.youtube.com/playlist?list=PLIygTcviGPKBzDKR72ILypzPQZ_Cz6HcH)) ([Spring 24](https://ds100.org/sp24/)) ([Summer 19](https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR))
+  - [Data 100: Principles and Techniques of Data Science - UC Berkeley](https://ds100.org) ([Fall 25](https://ds100.org/fa25/lectures/01/)) ([Fall 24](https://www.youtube.com/playlist?list=PLIygTcviGPKBzDKR72ILypzPQZ_Cz6HcH)) ([Spring 24](https://ds100.org/sp24/)) ([Summer 19](https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR))
   - [Data 102 - Spring 21- UC Berkeley](https://data102.org/sp21/#lecture-week-14) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKAEbY32OXjmkQbD0uRhge9Y))
   - [Distributed Data Analytics (WT 2017/18) - HPI University of Potsdam](https://www.tele-task.de/series/1179/)
   - [Data Profiling and Data Cleansing (WS 2014/15) - HPI University of Potsdam](https://www.tele-task.de/series/1027/)
