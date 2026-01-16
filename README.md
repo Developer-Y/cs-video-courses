@@ -1420,6 +1420,8 @@ introduction/id389259246))
 - [Nonlinear Control Design Jan 2024 - IIT Bombay](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file)
 - [Intelligent Control of Robotic Systems - IIT Roorkee](https://www.youtube.com/playlist?list=PLLy_2iUCG87AoVXK4Wi5EHZnguHtpDPw8)
 - [Mobile Robot Systems Course - Amanda Prorok, University of Cambridge](https://www.youtube.com/playlist?list=PLaTKfS3-bDpDyOwrxLcQRGxY9XJw33ANo)
+- [Robot Academy - Peter Corke](https://robotacademy.net.au/)
+- [ENAE 788M: Hands On Autonomous Aerial Robotics - University of Maryland](https://prg.cs.umd.edu/enae788m)
 
 
 ------------------------------
