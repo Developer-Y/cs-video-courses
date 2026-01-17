@@ -218,6 +218,7 @@ Table of Contents
 - [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
 - [CS110: Principles of Computer Systems - Stanford](https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/)
 - #### **Operating Systems**
+  - [APS 105 - Computer Fundamentals - Winter 2025 - Jon Eyolfson - University of Toronto](https://www.youtube.com/playlist?list=PLunILarQwxnm3ycdZKCg5Ex6DeuJhEWaG) ([Winter 2024](https://www.youtube.com/playlist?list=PLunILarQwxnma-0Z_0DZ3nkWKpZN7HGbw))
   - [ECS 150 - Operating Systems and Systems Programming - Fall 2020 - Joël Porquet-Lupine - UC Davis](https://lupteach.gitlab.io/courses/ucd-ecs150/online/)
   - [ECE 344 - Operating Systems - Fall 2024 - Jon Eyolfson - University of Toronto](https://www.youtube.com/playlist?list=PLunILarQwxnntWWNJ64E7wC4KhsEwHWxB) ([Fall 2024 Section 2](https://www.youtube.com/playlist?list=PLunILarQwxnlW3S8i4gSV9I_8qGX8xwtr)) ([Fall 2023](https://www.youtube.com/playlist?list=PLunILarQwxnngd9q965kViUzPqylDQ37M)) ([Fall 2022](https://www.youtube.com/playlist?list=PLunILarQwxnn-uwJeiOeWJctHC3MCORw9))
   - [ECE 353 - Systems Software - Winter 2025 - Jon Eyolfson - University of Toronto](https://www.youtube.com/playlist?list=PLunILarQwxnlUsOvAOhMs9yCHnH0Vs9w2) ([Winter 2024](https://www.youtube.com/playlist?list=PLunILarQwxnnfpqfSzQVbj4JWPAn1ByiF)) ([Winter 2023](https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD_Rn-re))
