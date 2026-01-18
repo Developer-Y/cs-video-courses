@@ -1050,6 +1050,7 @@ Table of Contents
 - [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
 - [ECE 5760 - Advanced Microcontroller Design and system-on-chip, Spring 2016 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5760/)
 - [Internet of Things by Prof. Dr.-Ing. Dietmar P. F. Möller](https://video.tu-clausthal.de/vorlesung/408.html)
+- [18 642 - Embedded Software Engineering, Fall 2021 - CMU](https://users.ece.cmu.edu/~koopman/lectures/index.html#642)
 - [CSE 351 - The Hardware/Software Interface, Spring 16 - University of Washington](https://courses.cs.washington.edu/courses/cse351/16sp/videos.html) ([Coursera](http://academictorrents.com/details/f1384286c8581bffba11e378fdb37608e649d82a))
 - [ECE 5030 - Electronic Bioinstrumentation, Spring 2014 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5030/)
 - [ECE/CS 5780/6780 - Embedded Systems Design, Spring 14 - University of Utah](https://www.youtube.com/playlist?list=PLQefpK95HyFmao3zi-WDOMkeSev-Je5dE)
