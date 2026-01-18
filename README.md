@@ -583,7 +583,7 @@ Table of Contents
   - [Deep Learning François Fleuret](https://fleuret.org/dlc/)
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
   - [UC Berkeley CS 182 / 282a Deep Learning spring 2023, by Anant Sahai](https://www.youtube.com/playlist?list=PLIygTcviGPKAaj_UAJcazYN4964xZ7Lt1)
-  - [Foundations of Deep Learning - UMD](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
+  - [CMSC 828W Foundations of Deep Learning (Fall 2020) - UMD](https://www.cs.umd.edu/class/fall2020/cmsc828W/) ([YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf))
   - [TUM IN2346 Introduction to Deep Learning Fall 2024, by Daniel Cremers](https://cvg.cit.tum.de/teaching/ws2024/i2dl) ([Summer 2023](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_pGm2QAwF625E6nmcRu2sU))
   - [UT Austin - Advances in Deep Learning](https://ut.philkr.net/advances_in_deeplearning/)
   - [HKU - Data 8014 Principles of Deep Representation Learning Fall 2025, by Yi Ma](https://ma-lab-berkeley.github.io/deep-representation-learning-book/community.html)
