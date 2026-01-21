@@ -1117,6 +1117,7 @@ Table of Contents
   - [CS 267 Applications of Parallel Computers, Spring 18 - UC Berkeley](https://sites.google.com/lbl.gov/cs267-spr2018/) ([YouTube-Spring 18](https://www.youtube.com/playlist?list=PLkFD6_40KJIx1CL7aIN9BwFL_sttEzfQ7)) ([Notes-Spring 16](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/)) ([YouTube-Spring 16](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
   - [MOOC - Heterogeneous Parallel Programming - Coursera](http://academictorrents.com/details/8903d0871c652b96c7b29db738cea76902d65888)
   - [ECE 498AL - Programming Massively Parallel Processors](https://nanohub.org/resources/7225)
+  - [ECE 1756 - Reconfigurable Computing and FPGA Architecture - University of Toronto - Fall 2020](https://www.youtube.com/playlist?list=PLUKkY-JJArvBOeaNPXBz5Pe3gXuBqdeSA) ([YouTube-Fall 2022](https://www.youtube.com/@UofT-FPGA/streams))
   - [Parallel Computing - IIT Delhi](https://nptel.ac.in/courses/106102114/)
   - [Parallel Architectures 2012/13- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2012/pa.htm)
 - **Digital Systems Design**
