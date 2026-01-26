@@ -949,6 +949,9 @@ Table of Contents
 - [Beginning Scientific Computing - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRTVrHYDfjNyqzZ6Q6rsTyf)
 - [Jadavpur University: Foundation_Math_forML_Autumn23](https://www.youtube.com/playlist?list=PLcNLn_ApooUyoctc147F-49oHnfvuj3Yt)
 - [FAU: Inverse Problems Autumn21](https://www.fau.tv/course/id/2705)
+- [EdX 1st Course on SparseLand by Michael Elad - Theory](https://www.youtube.com/playlist?list=PL0H3pMD88m8W39EbuArGLa9yXk8q6QGip)
+- [EdX 2nd Course on SparseLand by Michael Elad - Practice](https://www.youtube.com/playlist?list=PL0H3pMD88m8X2DeBI-iidbbPCe9kEKxzJ)
+
 
 
 ------------------------------
