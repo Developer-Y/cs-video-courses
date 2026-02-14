@@ -112,6 +112,7 @@ Table of Contents
 - [ECS 36C - Data Structures and Algorithms (C++) - Spring 2020 - Joël Porquet-Lupine - UC Davis](https://lupteach.gitlab.io/courses/ucd-ecs36c/online/)
 - [Programming and Data Structures with Python, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/python2021sep/)
 - [Graph Algorithms - Robert Sedgewick - Princeton University](https://www.youtube.com/watch?v=0qF7tPSQdCg)
+- [EECS 498 / 598 - Advanced Graph Algorithms: Graph Algorithms via Graph Decomposition, Fall 2025, UMichigan](https://sites.google.com/site/thsaranurak/teaching/GraphDecomp25)
 - [6.006 - Introduction to Algorithms, MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)
 - [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
