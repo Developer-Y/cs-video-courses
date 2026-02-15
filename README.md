@@ -221,6 +221,7 @@ Table of Contents
 - [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
 - [CS110: Principles of Computer Systems - Stanford](https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/)
 - #### **Operating Systems**
+  - [Gatech CS6200 Intro to OS](https://www.youtube.com/playlist?list=PLTsf9UeqkReZbK7xqIYn_mXmsQZIb011T)
   - [APS 105 - Computer Fundamentals - Winter 2025 - Jon Eyolfson - University of Toronto](https://www.youtube.com/playlist?list=PLunILarQwxnm3ycdZKCg5Ex6DeuJhEWaG) ([Winter 2024](https://www.youtube.com/playlist?list=PLunILarQwxnma-0Z_0DZ3nkWKpZN7HGbw))
   - [ECS 150 - Operating Systems and Systems Programming - Fall 2020 - Joël Porquet-Lupine - UC Davis](https://lupteach.gitlab.io/courses/ucd-ecs150/online/)
   - [ECE 344 - Operating Systems - Fall 2024 - Jon Eyolfson - University of Toronto](https://www.youtube.com/playlist?list=PLunILarQwxnntWWNJ64E7wC4KhsEwHWxB) ([Fall 2024 Section 2](https://www.youtube.com/playlist?list=PLunILarQwxnlW3S8i4gSV9I_8qGX8xwtr)) ([Fall 2023](https://www.youtube.com/playlist?list=PLunILarQwxnngd9q965kViUzPqylDQ37M)) ([Fall 2022](https://www.youtube.com/playlist?list=PLunILarQwxnn-uwJeiOeWJctHC3MCORw9))
@@ -264,6 +265,7 @@ Table of Contents
   - [Distributed Systems lecture series - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   - [Distributed Algorithms - Jukka Suomela](https://www.youtube.com/playlist?list=PL2RY7P3JxZN8g9hFCasNqzuDhZbIbAj54)
   - [Programming Parallel Computers - Jukka Suomela](https://www.youtube.com/playlist?list=PL2RY7P3JxZN-Pz1nwvnoJ9uEHmOmv4jmi)
+  - [Gatech CS7210 Distributed Computing](https://www.youtube.com/playlist?list=PLTsf9UeqkReZwDtqm1WePRLlXCnh1hPQt)
 - #### **Real-Time Systems**
   - [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
   - [Real Time Systems - IIT Kharagpur](https://nptel.ac.in/courses/106105036/)
@@ -591,6 +593,8 @@ Table of Contents
   - [TUM IN2346 Introduction to Deep Learning Fall 2024, by Daniel Cremers](https://cvg.cit.tum.de/teaching/ws2024/i2dl) ([Summer 2023](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_pGm2QAwF625E6nmcRu2sU))
   - [UT Austin - Advances in Deep Learning](https://ut.philkr.net/advances_in_deeplearning/)
   - [HKU - Data 8014 Principles of Deep Representation Learning Fall 2025, by Yi Ma](https://ma-lab-berkeley.github.io/deep-representation-learning-book/community.html)
+  - [Local Explanations for Deep Learning Models (Fall 2023)](https://www.youtube.com/playlist?list=PLbuogVdPnkCoto690B1eTReTznuSC9qYX)
+
   
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Spring 2024 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) ([Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
@@ -693,6 +697,7 @@ Table of Contents
   - [UC Berkeley CS 194/294-196 Large Language Model Agents Fall 2024, by Dawn Song & Xinyun Chen](https://rdi.berkeley.edu/llm-agents/f24) ([YouTube playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc))
   - [UC Berkeley CS 194/294-267 Understanding Large Language Models Foundations and Safety spring 2024, by Dawn Song & Dan Hendrycks](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)
   - [Introduction to Large Language Models (LLMs), IIT Delhi](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
+  - [CMU 10799 S26: Diffusion & Flow Matching](https://www.youtube.com/playlist?list=PL9aTsZCk17O6ebBauPy7Mn8cQqXgt0Xtb)
   
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
