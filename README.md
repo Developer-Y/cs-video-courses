@@ -1147,6 +1147,7 @@ Table of Contents
 - [Introduction to ARM - Open SecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n91t_AX5zO007Giz1INwPd)
 - [Intro x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 - [Intermediate x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
+- [EECS 151 / 251A Introduction to Digital Design and Integrated Circuits - UC Berkeley - Fall 2025](https://www.youtube.com/playlist?list=PLIygTcviGPKDxxeCDskQsOOr5eBacGmJL)
 - [Design of Digital Circuits - ETH Zürich - Spring 2019](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9)
 - [Onur Mutlu @ TU Wien 2019 - Memory Systems](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_gntM55VoMlKlw7YrXOhbl)
 - [Memory Systems Course - Technion, Summer 2018](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9)
