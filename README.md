@@ -734,6 +734,7 @@ Table of Contents
   - [10-801 Advanced Optimization and Randomized Methods - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html) ([YouTube](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d))
   - [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
   - [MIT 6.S098 Applied Convex Optimization IAP 2022, by Alexandre Amice, Benoit Legat](https://alexandreamice.github.io/teaching/convex_optimization/) ([YouTube](https://www.youtube.com/playlist?list=PL5SG6ajT9NZKxdvM1jQOLXmeKO7MfyLxR))
+  - [UVic Math 428 / 529 Discrete Optimization fall 2025, by Jonathan A. Noel](https://extremalcombinatorics.com/optimization/notes/sec_optimizationIntro.html) ([YouTube](https://www.youtube.com/playlist?list=PLtxJg53s2o0MAC2sfZDuhKYAHgj_NrGVv))
   - [University of Twente Discrete Optimization, by Marc Uetz](https://marcuetz.personalweb.utwente.nl/do/) ([Fall 2020](https://www.youtube.com/playlist?list=PLIygTcviGPKBUY9e1MCruRr5-I24LNm4g))
   - [UC Davis MAT 168 Optimization winter 2024, by Matthias Köppe](https://video.ucdavis.edu/channel/MAT+168+Optimization+%28Matthias+K%C3%B6ppe%3B+Winter+2024%29/329241352)
   - [Purdue University CHE 597 Computational Optimization spring 2025, by Can Li](https://canli1.github.io/courses)
