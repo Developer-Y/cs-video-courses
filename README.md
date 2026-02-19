@@ -698,6 +698,16 @@ Table of Contents
   - [UC Berkeley CS 194/294-267 Understanding Large Language Models Foundations and Safety spring 2024, by Dawn Song & Dan Hendrycks](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)
   - [Introduction to Large Language Models (LLMs), IIT Delhi](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
   - [CMU 10799 S26: Diffusion & Flow Matching](https://www.youtube.com/playlist?list=PL9aTsZCk17O6ebBauPy7Mn8cQqXgt0Xtb)
+  - [6.S183: A Practical Introduction to Diffusion Models - MIT](https://www.practical-diffusion.org/lectures/) ([YouTube](https://www.youtube.com/@MIT-6.S183), [2025 lectures](https://www.youtube.com/playlist?list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh))
+  - [The Principles of Diffusion Models - Vizuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShSUHKLhdHAdAw5oM9vM1Yf)
+  - [Building LLMs from scratch - Vizuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
+  - [Build DeepSeek from Scratch - Vizuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)
+  - [Reasoning LLMs from Scratch - Vizuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSijcbUrRZHm6BrdinLuelPs)
+  - [KAIST CS492(C): Diffusion and Flow Models (Fall 2025)](https://www.youtube.com/playlist?list=PLyi5FHzX7hBzC698EjqgxQJG7pNPQyYyc) ([2024](https://www.youtube.com/playlist?list=PLyi5FHzX7hBxtkKUZLRdiq5C01QimCno2))
+  - [Mathematics of Generative Modelling (Spring 2024) - IIIT Hyderabad](https://www.youtube.com/playlist?list=PLSPVGYqSR1PSGhb3HVQM_PIW9rur3qVwQ) ([2023](https://www.youtube.com/playlist?list=PLSPVGYqSR1PTDHtx2mN2_D9SEj25NJrMU))
+  - [NYCU Deep Generative Models 2025](https://www.youtube.com/playlist?list=PLl6jkZVaP8zrR-UikQB-AXJyqpvGxMLGT)
+  - [COMPSCI 690L | Deep Generative Models | 2024 | Sajjad Amini](https://www.youtube.com/playlist?list=PL_lIXwwDFn7gSTFiTi_rPzSzzAojAuuxA)
+  - [ECE1508: Deep Generative Models - Summer 2025 - UofT](https://www.youtube.com/playlist?list=PLcFgNUo9s_AgUro3pIv1BoGOzNIVh4mpP)
   
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
