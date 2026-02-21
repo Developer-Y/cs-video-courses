@@ -499,6 +499,7 @@ Table of Contents
   - [UCLA Stats 21 Python and Other Technologies for Data Science spring 2024, by Miles Chen](https://www.youtube.com/playlist?list=PLIygTcviGPKAdsiprcbdk5HHPxS6PloWE) ([Spring 2021](https://www.youtube.com/playlist?list=PLKR7271tMEmgBPgu4LtjDhX3ywpTxda5g))
   - [UCLA Stats C161/C261 Introduction to Pattern Recognition and Machine Learning winter 2024, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SxQ2vlXxlZVMKkt4gI1YYP8) ([Winter 2023](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwLCXGUyM3FNSRwG6GNgONr))
   - [UCLA Stats 231C Theories of Machine Learning spring 2022, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SxKyZLv_FotPDED5ET_rQmo)
+  - [Princeton COS 511 Theoretical Machine Learning spring 2026, by Elad Hazan](https://sites.google.com/view/cos-511-spring-2026/home)
   - [MSU Machine Learning](https://www.youtube.com/watch?v=kMf0qDtQ_PM&list=PLZ-krWGO-UEyPHsZfOjYH03_TyIN2pPhl&pp=iAQB)
   - [Data Science for Dynamical Systems, by Oliver Wallscheid & Sebastian Peitz](https://github.com/DS-4-DS/DS4DS_Course) ([YouTube](https://www.youtube.com/@DataScience4DynamicalSystems/playlists))
   - [Cambridge Statistical Learning in Practice 2021, by Alberto J. Coca](https://www.youtube.com/playlist?list=PLn1JSlh3WT_b7sMBktkAgV9-cP052JFhb)
@@ -738,6 +739,7 @@ Table of Contents
   - [UT Dallas CS 7301 Advanced Topics in Optimization for Machine Learning spring 2021, by Rishabh Iyer](https://github.com/rishabhk108/AdvancedOptML) ([YouTube](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU))
   - [Convex Analysis, Summer 2021 - TU Braunschweig](https://www.tu-braunschweig.de/index.php?eID=dumpFile&t=f&f=128341&token=3c40ee32c6c029df85f7e552522f4a87470e3401) ([YouTube](https://www.youtube.com/playlist?list=PLPomPKAI5ZlJBThiwc3bya7qngzw9-0QD))
   - [EE364a: Convex Optimization I - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
+  - [EE364b: Convex Optimization II - Stanford University](https://see.stanford.edu/Course/EE364B) ([YouTube](https://www.youtube.com/playlist?list=PLGrZHfnLv54ksX-0TMKYPCZDx9NZyYh9c))
   - [10-725 Convex Optimization, Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
   - [10-725 Convex Optimization: Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
   - [10-725 Optimization Fall 2012 - CMU](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
@@ -754,6 +756,7 @@ Table of Contents
   - [University of Wisconsin-Madison ISyE/Math/CS/Stat 525 Linear Optimization fall 2021, by Alberto Del Pia](https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y)
   - [University of Wisconsin-Madison ISyE/Math/CS 728 Integer Optimization (second part of the course) spring 2020](https://www.youtube.com/playlist?list=PLeO_PhASIA0NlDNF9y-SsgVEYcvAMj2CY)
   - [Columbia IEOR E4007 Optimization Models and Methods 2005, by Garud Iyengar](https://www.youtube.com/playlist?list=PLIygTcviGPKCNQ2xHRwrLOxkEWv9OfGiF)
+  - [UC Berkeley EECS 127 / 227A Optimization Models in Engineering](https://eecs127.github.io/) ([Spring 2024 lectures](https://www.youtube.com/playlist?list=PLIygTcviGPKAgyZlPB5QU5Size4whyrf3))
  
 - #### **Unsupervised Learning**
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
