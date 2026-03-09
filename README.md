@@ -697,6 +697,7 @@ Table of Contents
   - [CS 886: Recent Advances on Foundation Models Winter 2024 - University of Waterloo](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
   - [UC Berkeley CS 194/294-196 Agentic AI Fall 2025](https://rdi.berkeley.edu/agentic-ai/f25) ([YouTube, 2025](https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ)) ([Notes, 2024](https://rdi.berkeley.edu/llm-agents/f24)) ([YouTube, 2024](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc))
   - [UC Berkeley CS 194/294-267 Understanding Large Language Models Foundations and Safety spring 2024, by Dawn Song & Dan Hendrycks](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)
+  - [UC Berkeley CS 194/294-280 Advanced Large Language Model Agents Spring 2025](https://rdi.berkeley.edu/adv-llm-agents/sp25) ([YouTube](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9nGkzhvtn6Egn))
   - [Introduction to Large Language Models (LLMs), IIT Delhi](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
   - [CMU 10799 S26: Diffusion & Flow Matching](https://www.youtube.com/playlist?list=PL9aTsZCk17O6ebBauPy7Mn8cQqXgt0Xtb)
   - [6.S183: A Practical Introduction to Diffusion Models - MIT](https://www.practical-diffusion.org/lectures/) ([YouTube](https://www.youtube.com/@MIT-6.S183), [2025 lectures](https://www.youtube.com/playlist?list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh))
