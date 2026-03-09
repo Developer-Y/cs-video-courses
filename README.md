@@ -1570,6 +1570,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Stanford EE 376a winter 2011, Information Theory, by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
 - [MIT RES.6.007 Signals and Systems, 1987 - MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B)
 - [MIT 9.19 Computational Psycholinguistics, 2023 - MIT](https://rlevy.github.io/9.19-syllabus/syllabus.html) ([YouTube](https://www.youtube.com/playlist?list=PLlp18pgkl6U_Dfv59jF-NlAW6dwqYKZim))
+- [MIT 21M.383 Computational Music Theory and Analysis, Spring 2023 - MIT](https://ocw.mit.edu/courses/21m-383-computational-music-theory-and-analysis-spring-2023/pages/about-the-course-and-music21/) ([YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R))
 - [UCCS ECE4510/ECE5510 Feedback Control Systems, by Gregory Plett](http://mocha-java.uccs.edu/ECE4510/index.html)
 - [UCCS ECE4520/ECE5520 Multivariable Control Systems I, by Gregory Plett](http://mocha-java.uccs.edu/ECE5520/index.html)
 - [UCCS ECE4530/ECE5530 Multivariable Control Systems II, by Gregory Plett](http://mocha-java.uccs.edu/ECE5530/index.html)
