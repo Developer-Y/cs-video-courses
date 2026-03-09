@@ -695,7 +695,7 @@ Table of Contents
   - [WING NUS CS6101 Large Language Models (T2310)](https://www.youtube.com/playlist?list=PLzIZxnJJT7ORSBnYrXJMYBVnYeLryJtl7)
   - [CS 839: Foundation Models Fall 2025 - UW Madison](https://pages.cs.wisc.edu/~fredsala/cs839/fall2025/schedule.html) ([YouTube playlists](https://www.youtube.com/playlist?list=PLOq_oVZZBJosRA5_S823YxCcKcoyVRto-))
   - [CS 886: Recent Advances on Foundation Models Winter 2024 - University of Waterloo](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
-  - [UC Berkeley CS 194/294-196 Agentic AI Fall 2025](https://rdi.berkeley.edu/agentic-ai/f25) ([YouTube, 2025](https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ)) ([YouTube, 2024](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc))
+  - [UC Berkeley CS 194/294-196 Agentic AI Fall 2025](https://rdi.berkeley.edu/agentic-ai/f25) ([YouTube, 2025](https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ)) ([Notes, 2024](https://rdi.berkeley.edu/llm-agents/f24)) ([YouTube, 2024](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc))
   - [UC Berkeley CS 194/294-267 Understanding Large Language Models Foundations and Safety spring 2024, by Dawn Song & Dan Hendrycks](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)
   - [Introduction to Large Language Models (LLMs), IIT Delhi](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
   - [CMU 10799 S26: Diffusion & Flow Matching](https://www.youtube.com/playlist?list=PL9aTsZCk17O6ebBauPy7Mn8cQqXgt0Xtb)
