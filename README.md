@@ -67,7 +67,7 @@ Table of Contents
 ------------------------------
 
 ### Introduction to Computer Science
-
+- [COMP1511 - Programming Fundamentals - UNSW (Complete Course: Lectures, Labs, Assignments, Exercises, Exams)](https://cgi.cse.unsw.edu.au/~cs1511/25T2/) | [Video Playlist](https://www.youtube.com/playlist?list=PLlRElrOhPo9u_i-JpZUvGJCGI3j2CMWZs)
 - [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
 - [6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/)
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
