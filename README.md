@@ -212,7 +212,7 @@ Table of Contents
 ------------------------------
 
 ### Systems Programming
-
+- [COMP1521 - Computer Systems Fundamentals (2025) - UNSW (Full Course: Website + Lectures, Labs, Assignments, Exercises, Exams, Video Playlist)](https://cgi.cse.unsw.edu.au/~cs1521/25T2/) | [Watch Lectures](https://www.youtube.com/playlist?list=PLUsPZdCcmwELH7BDprCzDSN40futwJGYb)
 - [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
 - [Computer Systems: A programmer's Perspective](https://www.youtube.com/playlist?list=PLyboo2CCDSWnhzzzzDQ3OBPrRiIjl-aIE)
 - [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/~ckanich/cs361/f20/)
