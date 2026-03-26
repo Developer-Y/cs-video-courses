@@ -826,6 +826,7 @@ Table of Contents
 - [Computer Networks - IIT Kharagpur](https://nptel.ac.in/courses/106105081/)
 - [Introduction to Data Communications 2013, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
 - [Introduction to Complex Networks - RIT](https://www.youtube.com/playlist?list=PLE9AAD550EA21F3DC)
+- [Computer Networks and Internet Protocol - IIT Kharagpur](https://www.youtube.com/playlist?list=PLbRMhDVUMngf-peFloB7kyiA40EptH1up)
 - [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
 - [Columbia ELEN E4703 Wireless Communications spring 2006, by Angel Lozano](https://www.youtube.com/playlist?list=PLIygTcviGPKAaY0VGGjQ2whITq23AOjaR)
 - [Columbia COMS W4119 Computer Networks fall 2004, by Vishal Misra](https://www.youtube.com/playlist?list=PLIygTcviGPKCh6XgTHofe6zPK_LQ_nVW3)
