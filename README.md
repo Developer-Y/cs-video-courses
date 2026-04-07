@@ -1,4 +1,4 @@
-<!-- omit in toc -->
+courses-->
 # Computer Science courses with video lectures
 
 <!-- omit in toc -->
