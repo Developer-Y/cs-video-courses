@@ -319,6 +319,7 @@ Table of Contents
   - [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
   - [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
 - #### **Software Engineering**
+- [COMP1531 - Software Engineering Fundamentals - UNSW (2025)](https://cgi.cse.unsw.edu.au/~cs1531/25T2/) | [Video Playlist](https://www.youtube.com/playlist?list=PLxmsQaZsRXBRsn6Vk1RFo6hOlioMMdQBL)
   - [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://youtube.com/playlist?list=PLVEFwJhglgHJQEQ6RjMMjcclix94gp1k2)
   - [Computer Science 169- Software Engineering - Fall 2019 - UCBerkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxCKgzL0uysjsAtfY3JawLS)
   - [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
