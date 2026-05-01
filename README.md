@@ -207,8 +207,7 @@ Table of Contents
 - [Structural Graph Theory - IIT Madras](https://www.youtube.com/playlist?list=PLtDHG-2klXcEedB8L-jjvb17OIUZbF3gW)
 - [Information Theory - IISC Bangalore](https://nptel.ac.in/courses/108/108/108108168/)
 - [6.5220/6.856J/18.416J Randomized Algorithms (Spring 2025)](https://courses.csail.mit.edu/6.856/current/) ([Youtube](https://www.youtube.com/playlist?list=PL278F9gM5aZb8HXAh2yT3QmwyYQZrQUNH))
-
-
+- [18.225 - Graph Theory and Additive Combinatorics - MIT - Fall 2023](https://ocw.mit.edu/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/)
 
 
 ------------------------------
@@ -523,6 +522,7 @@ Table of Contents
   - [Python Data Science with the TCLab](https://github.com/APMonitor/data_science) ([YouTube](https://www.youtube.com/watch?v=pAgW_bZVo88&list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy))
   - [Foundations of Data Analysis (Fall 2020)- University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCqB1sx1eheVmLtp2EN7osYt)
   - [Introduction to Data Science (IDS) - Wil van der Aalst (RWTH Aachen University)](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0vReKHuzL-n--f4iO2JIjcJ) ([2021-2022 edition](PLG_1ZxIPXO0vTTfheRNDhq4vNYAdJBUyC))
+  - [Machine Learning Class (Winter 2019-2020) - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kTOLHk3a2ySNujmjan_AcZ1)
 
   
 - #### **Data Mining**
@@ -721,6 +721,8 @@ Table of Contents
   - [NYCU Deep Generative Models 2025](https://www.youtube.com/playlist?list=PLl6jkZVaP8zrR-UikQB-AXJyqpvGxMLGT)
   - [COMPSCI 690L | Deep Generative Models | 2024 | Sajjad Amini](https://www.youtube.com/playlist?list=PL_lIXwwDFn7gSTFiTi_rPzSzzAojAuuxA)
   - [ECE1508: Deep Generative Models - Summer 2025 - UofT](https://www.youtube.com/playlist?list=PLcFgNUo9s_AgUro3pIv1BoGOzNIVh4mpP)
+  - [6.S980 Machine Learning for Inverse Graphics - Fall 2022 - MIT](https://scenerepresentations.org/courses/2023/fall/inverse-graphics/)
+  - [6.S087 - Foundation Models and Generative AI - MIT](https://www.futureofai.mit.edu/)
   
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -1299,6 +1301,8 @@ introduction/id389259246))
 - [Interventional Medical Image Processing - Spring 2016 - FAU](https://www.fau.tv/course/id/465) ([Spring 2015](https://www.fau.tv/course/id/354)) ([Spring 2012](https://www.fau.tv/course/id/151)) ([Spring 2011](https://www.fau.tv/course/id/105)) ([Spring 2009](https://www.fau.tv/course/id/3))
 - [Advances in Computer Vision - MIT](https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/)
 - [3D Computer Vision | National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+- [Machine Learning for Computer Vision class (Winter 2017-2018) - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kSQFyt8VBldsQ9pO9Xtu8rY)
+- [Computer Vision Foundations Class (Summer 2020) - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kRAbnmiyGd77hyoGzO9wPde)
 ------------------------------
 
 ### Computational Physics
@@ -1317,6 +1321,7 @@ introduction/id389259246))
 - [Physics-informed machine learning meets engineering seminar series](https://www.youtube.com/playlist?list=PLuD_SqLtxSdW5aasHsFTNw_MrZrtu5tZ3)
 - [Physics Informed Machine Learning Workshop](https://www.youtube.com/playlist?list=PLWL3MaEZQ5I2LYm5BAdLYso5wGe9WMNby)
 - [Jake VanderPlas: Machine learning in Astronomy python tutorial](https://www.youtube.com/playlist?list=PLzWVyeIO6Cmt1cWrzwF2yqW-9j5TgyQaD)
+- [Machine Learning and Physics - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kRb5wanJ_vx1pswmSgJl6sn)
 ------------------------------
 
 ### Computational Biology
@@ -1485,6 +1490,8 @@ introduction/id389259246))
 - [Mobile Robot Systems Course - Amanda Prorok, University of Cambridge](https://www.youtube.com/playlist?list=PLaTKfS3-bDpDyOwrxLcQRGxY9XJw33ANo)
 - [Robot Academy - Peter Corke](https://robotacademy.net.au/)
 - [ENAE 788M: Hands On Autonomous Aerial Robotics - University of Maryland](https://prg.cs.umd.edu/enae788m)
+- [Robot Learning 2025: Foundational Models for Robotics and Scaling DeepRL - Montreal Robotics](https://www.youtube.com/playlist?list=PLMe2pHxzxHp-UJ1jd-uuGSGK7P7Phtm-f)
+- [Mila Robot Learning Seminar - Montreal Robotics](https://www.youtube.com/@MontrealRobotics/playlists)
 
 
 ------------------------------
@@ -1601,6 +1608,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [UCCS ECE4720/ECE5720 Battery Management and Control, by Gregory Plett](http://mocha-java.uccs.edu/ECE5720/index.html)
 - [Purdue ME 597 Distributed Energy Resources Spring 2024, by Kevin J. Kircher](https://www.youtube.com/playlist?list=PLcZDMdEnS08l_z5LVDQrEcyFrBsHlKVXd)
 - [Stanford AA228V/CS238V Validation of Safety Critical Systems Winter 2025, by Sydney Michelle Katz](https://www.youtube.com/playlist?list=PLoROMvodv4rOq1LMLI8U7djzDb8--xpaC)
+- [RES.1-002 - Introduction to R and Geographic Information Systems (GIS) - MIT - Fall 2023](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/pages/about-the-practical-sessions/)
 
 ------------------------------
 
