@@ -206,6 +206,7 @@ Table of Contents
 - [Parameterized Complexity](https://sites.google.com/view/sakethome/teaching/parameterized-complexity)
 - [Structural Graph Theory - IIT Madras](https://www.youtube.com/playlist?list=PLtDHG-2klXcEedB8L-jjvb17OIUZbF3gW)
 - [Information Theory - IISC Bangalore](https://nptel.ac.in/courses/108/108/108108168/)
+- [6.5220/6.856J/18.416J Randomized Algorithms (Spring 2025)](https://courses.csail.mit.edu/6.856/current/) ([Youtube](https://www.youtube.com/playlist?list=PL278F9gM5aZb8HXAh2yT3QmwyYQZrQUNH))
 
 
 
@@ -244,6 +245,7 @@ Table of Contents
   - [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
   - [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
   - [Operating System - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYcwlZ7GPCBzbowmiiF4BYR)
+  - [CS 153 Frontier Systems - Stanford University - Spring 2026](https://cs153.stanford.edu/)
 - #### **Distributed Systems**
   - [CS 677 - Distributed Operating Systems, Spring 24 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbBpWHfKUU9Dfdk8RmQ7B9EH)
   - [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
@@ -425,6 +427,7 @@ Table of Contents
   - [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
   - [CS 229 - Machine Learning - Stanford University](https://see.stanford.edu/Course/CS229) ([Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU))
   - [CS 189/289A Introduction to Machine Learning, Prof Jonathan Shewchuk - UCBerkeley](https://people.eecs.berkeley.edu/~jrs/189/)
+  - [CS 189/289A: Intro to Machine Learning - UC Berkeley - Spring 2026](https://eecs189.org/sp26/)
   - [CPSC 340: Machine Learning and Data Mining (2018) - UBC](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b)
   - [CS391L Machine Learning, Spring 2025 - UT Austin](https://utcs-ml-course.github.io/main/Lectures/)
   - [CS4780/5780 Machine Learning, Fall 2013 - Cornell University](http://www.cs.cornell.edu/courses/cs4780/2013fa/)
@@ -519,6 +522,7 @@ Table of Contents
   - [Algorithms for Big Data - IIT Madras](https://nptel.ac.in/courses/106106142/)
   - [Python Data Science with the TCLab](https://github.com/APMonitor/data_science) ([YouTube](https://www.youtube.com/watch?v=pAgW_bZVo88&list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy))
   - [Foundations of Data Analysis (Fall 2020)- University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCqB1sx1eheVmLtp2EN7osYt)
+  - [Introduction to Data Science (IDS) - Wil van der Aalst (RWTH Aachen University)](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0vReKHuzL-n--f4iO2JIjcJ) ([2021-2022 edition](PLG_1ZxIPXO0vTTfheRNDhq4vNYAdJBUyC))
 
   
 - #### **Data Mining**
@@ -599,6 +603,8 @@ Table of Contents
   - [HKU - Data 8014 Principles of Deep Representation Learning Fall 2025, by Yi Ma](https://ma-lab-berkeley.github.io/deep-representation-learning-book/community.html)
   - [Local Explanations for Deep Learning Models (Fall 2023)](https://www.youtube.com/playlist?list=PLbuogVdPnkCoto690B1eTReTznuSC9qYX)
   - [CS 6966/5966 Interpretability of LLMs (Spring 2026) - University of Utah](https://utah-llm-interpretability.notion.site/s26)
+  - [Deep Graph Learning (DGL, 2025) - Prof. Islem Rekik - Imperial College London](https://www.youtube.com/playlist?list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T)
+  - [Intuitive Deep Learning Series](https://www.youtube.com/playlist?list=PLug43ldmRSo1gtn-CPLqVXRd7n0jhC276)
 
   
 - #### **Reinforcement Learning**
@@ -691,8 +697,9 @@ Table of Contents
   - [MIT 6.S184 Flow Matching and Diffusion Models, 2025](https://diffusion.csail.mit.edu)
   - [Course on Diffusion Models for Generative AI - UT Austin](https://www.youtube.com/playlist?list=PL8lIiiIWuabLxhJreBRZwNW-d02dJwbMb)
   - [CS 492(C) Diffusion and Flow Models - Fall 2025 - KAIST](https://diffusion.kaist.ac.kr/) ([YouTube](https://www.youtube.com/playlist?list=PLyi5FHzX7hBzC698EjqgxQJG7pNPQyYyc))
-  - [Stanford CS336 Language Modeling from Scratch I 2025 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+  - [Stanford CS336 Language Modeling from Scratch I 2025 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) ([2026](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV))
   - [Stanford CME295 Transformers & LLMs - Autumn 2025 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05)
+  - [Stanford CME296: Diffusion & Large Vision Models](https://www.youtube.com/pla()ylist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu)
   - [Introduction to large language models - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)
   - [Build a Large Language Model (From Scratch) by Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
   - [Reinforcement Learning of Large Language Models - UCLA](https://www.youtube.com/playlist?list=PLir0BWtR5vRp5dqaouyMU-oTSzaU5LK9r)
@@ -762,6 +769,8 @@ Table of Contents
   - [University of Wisconsin-Madison ISyE/Math/CS 728 Integer Optimization (second part of the course) spring 2020](https://www.youtube.com/playlist?list=PLeO_PhASIA0NlDNF9y-SsgVEYcvAMj2CY)
   - [Columbia IEOR E4007 Optimization Models and Methods 2005, by Garud Iyengar](https://www.youtube.com/playlist?list=PLIygTcviGPKCNQ2xHRwrLOxkEWv9OfGiF)
   - [UC Berkeley EECS 127 / 227A Optimization Models in Engineering](https://eecs127.github.io/) ([Spring 2024 lectures](https://www.youtube.com/playlist?list=PLIygTcviGPKAgyZlPB5QU5Size4whyrf3))
+  - [Modern Optimization and theory for Deep Learning](https://www.youtube.com/@opt4xl/playlists)
+  - [Manifold Learning, Optimization and Information Geometry - Politecnico Milan - PhD level](https://www.youtube.com/playlist?list=PLvVaDdaHGtpesn2DHUo6ete-1pPhT1xzj)
  
 - #### **Unsupervised Learning**
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
@@ -810,6 +819,8 @@ Table of Contents
   - [CSCE 585 - Machine Learning Systems, University of South Carolina](https://pooyanjamshidi.github.io/mls/lectures/) ([YouTube-2020](https://www.youtube.com/playlist?list=PLtkQf9LiEmLFS56WTpRJ3PZwwCYyi2Cdu))
   - [CS-E4740 - Federated Learning, Spring 2023, Aalto University](https://www.youtube.com/playlist?list=PLrbn2dGrLJK8c6hCQXBVFoYsPXG-g_75c)
   - [Uncertainty Modeling in AI | National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygOb9Eyc8IXM27doxjp2SK0H)
+  - [Process Mining Course @ RWTH Aachen University (BPI 2021)](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0uRZtlYxaLgc62kKfko8QQ6)
+  - [CS 2881 AI Safety - Harvard - Fall 2025](https://boazbk.github.io/mltheoryseminar/) ([Youtube](https://www.youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W))
 
 
 ------------------------------
@@ -878,6 +889,7 @@ Table of Contents
   - [Stanford CS109 Introduction to Probability for Computer Scientists I 2022 I Chris Piech](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
   - [MIT RES.6-012 Introduction to Probability, Spring 2018 - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
   - [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+  - [Statistical Rethinking 2026 - Richard McElreath](https://www.youtube.com/playlist?list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14)
   - [STAT 2.1x: Descriptive Statistics | UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu56TfFnGlRlH2YpOBWGiYsQD)
   - [STAT 2.2x: Probability | UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu57qPZnHm-ie-D7vs9g7U-Cl)
   - [MOOC - Statistics: Making Sense of Data, Coursera](http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2)
@@ -925,6 +937,7 @@ Table of Contents
   - [STAT240 - Robust Statistics - UC Berkeley](https://www.stat.berkeley.edu/~jsteinhardt/stat240/index.html)
 - **Linear Algebra**
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
+  - [Mathematical Foundations of Machine Learning (Fall 2025) - Rebecca Willett - University of Chicago](https://www.youtube.com/playlist?list=PLcwJ7lE9nSHNy5cAZvIHFstwM37ztUXXB)
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
   - [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/)
   - [University of Wisconsin-Madison ECE/CS/ME 532 Matrix Methods in Machine Learning fall 2017, by Laurent Lessard](https://laurentlessard.com/teaching/532-matrix-methods/)
@@ -1464,7 +1477,7 @@ introduction/id389259246))
 - [Surgical Robotics Lectures - Carleton University](https://www.youtube.com/playlist?list=PLY6RHB0yqJVasji1rwZAGYirD8zW1ipj-)
 - [Introduction to Mechatronic and Robotics - IIT Bombay](https://www.youtube.com/playlist?list=PL_uaeekrhGzJMZTb5etIdXasVO9-WVPVH)
 - [Robotics Fall 2020 - UIC](https://www.youtube.com/playlist?list=PLc7bpbeTIk741sSBpPzj5hl_L8Wlrn1u8)
-- [Introduction to Robotics @ Princeton](https://www.youtube.com/playlist?list=PLF8B1bJgOQK67xkgYz_Xtx0ShjcqfdXwE)
+- [Introduction to Robotics @ Princeton](https://www.youtube.com/playlist?list=PLF8B1bJgOQK67xkgYz_Xtx0ShjcqfdXwE) ([Slides](https://irom-lab.princeton.edu/intro-to-robotics/))
 - [Evolutionary robotics course. Spring 2025](https://www.youtube.com/@joshbongard3314/playlists)
 - [Robotics: Basics and Selected Advanced - IISC Bangalore](https://www.youtube.com/playlist?list=PLgMDNELGJ1CZT9pdEEkDylXFPLdcqxn0t)
 - [Nonlinear Control Design Jan 2024 - IIT Bombay](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file)
