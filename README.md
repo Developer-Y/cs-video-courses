@@ -208,6 +208,8 @@ Table of Contents
 - [Information Theory - IISC Bangalore](https://nptel.ac.in/courses/108/108/108108168/)
 - [6.5220/6.856J/18.416J Randomized Algorithms (Spring 2025)](https://courses.csail.mit.edu/6.856/current/) ([Youtube](https://www.youtube.com/playlist?list=PL278F9gM5aZb8HXAh2yT3QmwyYQZrQUNH))
 - [18.225 - Graph Theory and Additive Combinatorics - MIT - Fall 2023](https://ocw.mit.edu/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/)
+- [Extremal graph theory at KAIST](https://www.youtube.com/playlist?list=PLu06QHBZ8gatHvSQIApVQCCQmtPTiIQhP)
+- [Advanced graph theory, KAIST 2020](https://www.youtube.com/playlist?list=PLu06QHBZ8gavJ4UJqiXn8nYJbENQ_cAJP)
 
 
 ------------------------------
@@ -245,6 +247,7 @@ Table of Contents
   - [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
   - [Operating System - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYcwlZ7GPCBzbowmiiF4BYR)
   - [CS 153 Frontier Systems - Stanford University - Spring 2026](https://cs153.stanford.edu/)
+  - [EE415: Introduction to Operating Systems (KAIST)](https://www.youtube.com/playlist?list=PLoeerdvt7Rcx5oKGUI7SxAsltRPWhouFA)
 - #### **Distributed Systems**
   - [CS 677 - Distributed Operating Systems, Spring 24 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbBpWHfKUU9Dfdk8RmQ7B9EH)
   - [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
@@ -320,7 +323,7 @@ Table of Contents
   - [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
   - [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
 - #### **Software Engineering**
-- [COMP1531 - Software Engineering Fundamentals - UNSW (2025)](https://cgi.cse.unsw.edu.au/~cs1531/25T2/) | [Video Playlist](https://www.youtube.com/playlist?list=PLxmsQaZsRXBRsn6Vk1RFo6hOlioMMdQBL)
+  - [COMP1531 - Software Engineering Fundamentals - UNSW (2025)](https://cgi.cse.unsw.edu.au/~cs1531/25T2/) | [Video Playlist](https://www.youtube.com/playlist?list=PLxmsQaZsRXBRsn6Vk1RFo6hOlioMMdQBL)
   - [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://youtube.com/playlist?list=PLVEFwJhglgHJQEQ6RjMMjcclix94gp1k2)
   - [Computer Science 169- Software Engineering - Fall 2019 - UCBerkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxCKgzL0uysjsAtfY3JawLS)
   - [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
@@ -350,6 +353,7 @@ Table of Contents
   - [UIUC ECE 508 / CS 508 Manycore Parallel Algorithms spring 2019, by Wen-mei Hwu](https://www.youtube.com/playlist?list=PLRRuQYjFhpmspsME4LmLbuCG1VHbJmIcy)
   - [UIUC CS 420 / ECE 492 / CSE 402 Introduction to Parallel Programming for Scientists and Engineers fall 2015, by Sanjay Kale](https://www.youtube.com/playlist?list=PL682UO4IMem9cAjfy_RPjAc6k-HPYpTa9)
   - [Stanford CME 213 Introduction to Parallel Computing using MPI, openMP, and CUDA winter 2020, by Eric Darve](https://www.youtube.com/playlist?list=PLAtMgFDMfGy2mysjPHN_d1cf9sR1muRkq)
+  - [KAIST CS431: Concurrent Programming](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ9j40DJNlsem2qAGoFbfwb4)
 - #### **Mobile Application Development**
   - [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
   - [CS 193p - Developing Applications for iOS, Stanford University](https://cs193p.sites.stanford.edu/)
@@ -686,6 +690,7 @@ Table of Contents
   - [Natural Language Processing (Spring 2024) - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43)
   - [Multilingual NLP 2020 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
   - [Speech Technology - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBaI_g3_V-CFrgFIf-0Yksiv)
+  - [Deep Learning for NLP (KAIST AI605 Fall 2021)](https://www.youtube.com/playlist?list=PLN9tAT2r9TDy9tPOfgYm28Wl3D4vYm0Zs)
   
 - #### **Generative AI and LLMs**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
@@ -823,6 +828,8 @@ Table of Contents
   - [Uncertainty Modeling in AI | National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygOb9Eyc8IXM27doxjp2SK0H)
   - [Process Mining Course @ RWTH Aachen University (BPI 2021)](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0uRZtlYxaLgc62kKfko8QQ6)
   - [CS 2881 AI Safety - Harvard - Fall 2025](https://boazbk.github.io/mltheoryseminar/) ([Youtube](https://www.youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W))
+  - [Chat GPT-X and Generative Models for EM Systems Design - KAIST](https://www.youtube.com/playlist?list=PLv7izQ1itK4XwMgUJMJtGOe5jTtnBPe5e)
+  - [CS492(F) Computational Learning Theory (Fall 2021, KAIST)](https://www.youtube.com/playlist?list=PLvV9DPeJV9xzOggE1dvO4gcFr6Rf2AfeN)
 
 
 ------------------------------
@@ -937,6 +944,8 @@ Table of Contents
   - [6.262 Discrete Stochastic Processes - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
   - [18.650 Statistics for Applications - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/)
   - [STAT240 - Robust Statistics - UC Berkeley](https://www.stat.berkeley.edu/~jsteinhardt/stat240/index.html)
+  - [MAS575 Combinatorics at KAIST](https://www.youtube.com/playlist?list=PLtdCUqgs4lwYSITE9VYOIszWUH-rX-1jh)
+  - [Probabilistic method, KAIST 2020](https://www.youtube.com/playlist?list=PLu06QHBZ8gaskGtGbZ_kI1-Lk9rfucq-L)
 - **Linear Algebra**
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
   - [Mathematical Foundations of Machine Learning (Fall 2025) - Rebecca Willett - University of Chicago](https://www.youtube.com/playlist?list=PLcwJ7lE9nSHNy5cAZvIHFstwM37ztUXXB)
@@ -1088,6 +1097,9 @@ Table of Contents
 - [Spring 2019 - Probabilistically Checkable and Interactive Proof Systems (Alessandro Chiesa)](https://www.youtube.com/playlist?list=PLkFD6_40KJIyWWtxCPBHwGsrutjvwM5_U)
 - [Algebraic Coding Theory - Stanford University](https://www.youtube.com/playlist?list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr)
 - [CS60094 Computational Number Theory](https://www.youtube.com/playlist?list=PLG63srgJBCAiOJ0hGikoiTq0CsUg_OGKu)
+- [KAIST CS420: Compiler Design](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0)
+- [CS402 Introduction to Logic for Computer Science (Spring 2020, KAIST)](https://www.youtube.com/playlist?list=PLvV9DPeJV9xzhy0Ti3P4DrfmtfXfLalW6)
+- [CS520 Theories of Programming Languages (Fall 2020, KAIST)](https://www.youtube.com/playlist?list=PLvV9DPeJV9xx0NegrG4gNu8WXSXibDICu)
 
 ------------------------------
 
@@ -1259,6 +1271,10 @@ introduction/id389259246))
 - [UC Berkeley CS184/284A Computer Graphics and Imaging Spring 2022, by Ren Ng](https://cs184.eecs.berkeley.edu/sp22) ([YouTube playlist](https://www.youtube.com/playlist?list=PLIygTcviGPKABEUa7EJzO8tgYRz120EpP))
 - [CS 15-458/858: Discrete Differential Geometry - Carnegie Mellon University - Spring 2021](https://brickisland.net/DDGSpring2021/)
 - [IN2124: Basic Mathematical Tools for Imaging and Visualization - TUM - Winter 2021](https://live.rbg.tum.de/?year=2021&term=W&slug=GMMfIuV&view=3)
+- [KAIST CS580 Computer Graphics (Spring 2024)](https://www.youtube.com/playlist?list=PLyi5FHzX7hBwMsuoGWFqQhkawUX0HFT7U)
+- [Discrete Differential Geometry - CMU 15-458/858](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+- [Machine Learning For Inverse Graphics - MIT](https://www.youtube.com/playlist?list=PLPnHA108gNjUWkpFCJcV3QRBOJVfb1CjK)
+- [Geometric Structures - KAIST](https://www.youtube.com/@geometricstructures/playlists)
 
 ------------------------------
 
