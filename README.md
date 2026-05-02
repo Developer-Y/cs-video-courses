@@ -8,6 +8,8 @@
 - Please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md) for contribution guidelines.
 - Please feel free to raise any genuine issue you may have, however, it has been noticed that few people open empty issues to raise their GitHub contribution on their account. Such spammers will be blocked. 
 - You are welcome to contribute, please create PR for actual college/University level courses. Please do not add links for small MOOCs, basic tutorials, or advertisements for some sites/channels.
+- Looking for a visual interface? Try [learnOS](https://github.com/sahilavatar/learn-os) — an open-source UI built on this list with search, categories, and one-click course access.
+
 
 ------------------------------
 
