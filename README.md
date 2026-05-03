@@ -731,6 +731,7 @@ Table of Contents
   
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+  - [The Ancient Secrets of Computer Vision, University of Washington - Joseph Redmon](https://pjreddie.com/courses/computer-vision/) ([YouTube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p))
   - [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
   - [Machine Learning for Robotics and Computer Vision, WS 2013/2014 - TU München](https://vision.in.tum.de/teaching/ws2013/ml_ws13) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl))
   - [COGSCI 1 - Intro to Cognitive Science Summer 2022 - UC Berkeley](https://www.youtube.com/playlist?list=PLaMjLYzDGxvz1oT5gpFiY6rJZnlJ-1Xu-)
