@@ -747,6 +747,7 @@ Table of Contents
   - [Advanced Deep Learning for Computer vision (ADL4CV) (IN2364) - TU Munich](https://dvl.in.tum.de/teaching/adl4cv-ss20/) ([Youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39))
   - [Advanced Deep Learning for Physics (ADL4P) - TU Munich](https://tum-pbs.github.io/ADL4P/)
   - [Computer Vision III: Detection, Segmentation and Tracking (CV3DST) (IN2375) - TU Munich](https://www.youtube.com/playlist?list=PLog3nOPCjKBkamdw8F6Hw_4YbRiDRb2rb)
+  - [Lecture: Computer Vision, University of Tübingen - Andreas Geiger](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) ([YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_))
   
 - #### **Time Series Analysis**
   - [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
