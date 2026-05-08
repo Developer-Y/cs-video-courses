@@ -1581,6 +1581,9 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
   - [MOOC - Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
   - [Gatech ECE4795 GPU Programming for Video Games, Summer 2021](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w)
+  - [COMP 4300 - C++ Game Programming, Memorial University, Fall 2024 - David Churchill](https://www.youtube.com/playlist?list=PL_xRyXins84_Sq7yZkxGP_MgYAH-Zo8Uu)
+  - [COMP 4303 - AI for Video Games, Memorial University, Winter 2023 - David Churchill](https://www.youtube.com/playlist?list=PL_xRyXins84--QDSV3_7CyPZrHEfVXKm4)
+
 - **Geospatial**
   - [Introduction to Spatial Data Science, Autumn 2016, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkr2vtYgbP4hs44HO_s_qEO)
   - [Spatial Regression Analysis, Spring 2017, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkk7x197-CKPFZ0BuAOCRGT)
