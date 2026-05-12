@@ -67,6 +67,7 @@ Table of Contents
 ------------------------------
 
 ### Introduction to Computer Science
+- [COMP6991 - Rust Programming - UNSW (2022)](https://www.youtube.com/playlist?list=PLGUxZeQTpJENZFOzGj-xUHOPuwpcCuIot)
 - [COMP1511 - Programming Fundamentals - UNSW (Complete Course: Lectures, Labs, Assignments, Exercises, Exams)](https://cgi.cse.unsw.edu.au/~cs1511/25T2/) | [Video Playlist](https://www.youtube.com/playlist?list=PLlRElrOhPo9u_i-JpZUvGJCGI3j2CMWZs)
 - [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
 - [6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/)
@@ -80,6 +81,8 @@ Table of Contents
 - [CS50's Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 - [CSE 142 Computer Programming I (Java Programming), Spring 2016 - University of Washington](https://courses.cs.washington.edu/courses/cse142/16sp/calendar.shtml)
 - [CS 1301 Intro to computing - Gatech](https://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
+- [CS 106A - Programming Methodology, Stanford University](https://see.stanford.edu/Course/CS106A) ([Lecture Videos](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852))
+- [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B)
 - [CS 106L - Standard C++ Programming](https://web.stanford.edu/class/cs106l/)([Lecture Videos](https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA))
 - [CS 106X - Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) ([Lecture Videos](https://www.youtube.com/playlist?list=PLrivl8gTKLcpIJ-ktHCxMEgWOn8LawYhb))
 - [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
