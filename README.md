@@ -101,7 +101,7 @@ Table of Contents
 - [6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 - [Modern C++ Course (2018) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
 - [Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/ai-video-creation) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [UW Madison CS 368 C++ for Java Programmers Fall 2020, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg33srpQjC7q7jqITLxcErPCM)
 - [UW Madison CS 354 Machine Organization and Programming spring 2020, 2021, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg32r5MZ-HfpA2Tr8Ke2lDYwI)
 - [Cornell CS 1110 Introduction to Computing using Python fall 2020, by Walker White](https://www.cs.cornell.edu/courses/cs1110/2020fa/lessons/) ([Lecture Videos](https://vod.video.cornell.edu/channel/CS+1110+Fall+2020/179890731))
