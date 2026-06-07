@@ -67,7 +67,7 @@ Table of Contents
 ------------------------------
 
 ### Introduction to Computer Science
-- [COMP6991 - Rust Programming - UNSW (2022)](https://cgi.cse.unsw.edu.au/~cs6991/22T2/) | [Video Playlist](https://www.youtube.com/playlist?list=PLGUxZeQTpJENZFOzGj-xUHOPuwpcCuIot)
+- COMP6991 - Rust Programming - UNSW (2022) | [Video Playlist](https://www.youtube.com/playlist?list=PLGUxZeQTpJENZFOzGj-xUHOPuwpcCuIot)
 - [COMP1511 - Programming Fundamentals - UNSW (Complete Course: Lectures, Labs, Assignments, Exercises, Exams)](https://cgi.cse.unsw.edu.au/~cs1511/25T2/) | [Video Playlist](https://www.youtube.com/playlist?list=PLlRElrOhPo9u_i-JpZUvGJCGI3j2CMWZs)
 - [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
 - [6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/)
@@ -82,9 +82,9 @@ Table of Contents
 - [CSE 142 Computer Programming I (Java Programming), Spring 2016 - University of Washington](https://courses.cs.washington.edu/courses/cse142/16sp/calendar.shtml)
 - [CS 1301 Intro to computing - Gatech](https://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
 - [CS 106A - Programming Methodology, Stanford University](https://see.stanford.edu/Course/CS106A) ([Lecture Videos](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852))
-- [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B) ([Lecture Videos](https://www.youtube.com/playlist?list=PLnfg8b9vdpLn9exZweTJx44CII1bYczuk))
+- [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B)
 - [CS 106L - Standard C++ Programming](https://web.stanford.edu/class/cs106l/)([Lecture Videos](https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA))
-- [CS 106X - Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) ([Lecture Videos](https://www.youtube.com/playlist?list=PLrivl8gTKLcpIJ-ktHCxMEgWOn8LawYhb))
+- [CS 106X - Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 - [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
 - [CmSc 150 - Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
 - [IN2377 - Concepts of C++ programming (Winter 2023), TUM](https://live.rbg.tum.de/?year=2023&term=W&slug=cpp&view=3) ([Winter 2022](https://live.rbg.tum.de/?year=2022&term=W&slug=cpp&view=3)) ([Summer 2022](https://live.rbg.tum.de/?year=2022&term=S&slug=ccppprog&view=3)) ([Summer 2021](https://live.rbg.tum.de/?year=2021&term=S&slug=ccppprog&view=3))
@@ -97,7 +97,7 @@ Table of Contents
 - [Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
 - [CS 101 - Introduction to Computer Science - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW)
 - [6.00SC - Introduction to Computer Science and Programming (Spring 2011) - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
-- [6.00 - Introduction to Computer Science and Programming (Fall 2008) - MIT OCW](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/video_galleries/video-lectures/)
+- [6.00 - Introduction to Computer Science and Programming (Fall 2008) - MIT OCW](https://dspace.mit.edu/entities/publication/4476f715-c6e3-486a-a0e1-5fc124ee96b1)
 - [6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 - [Modern C++ Course (2018) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
 - [Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
