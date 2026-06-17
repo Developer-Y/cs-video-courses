@@ -1150,6 +1150,7 @@ Table of Contents
 - [Performance evaluation of Computer systems - IIT Madras](https://nptel.ac.in/courses/106/106/106106048/)
 - [Real Time systems - IIT Karaghpur](https://nptel.ac.in/courses/106/105/106105036/)
 - [EE 380 Colloquium on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
+- [CSE 6220 / CX 4220 Introduction to High Performance Computing - Georgia Tech](https://cse6220.gatech.edu/sp25-oms/) [Videos - Sp 2025](https://www.youtube.com/playlist?list=PLD8evIHEiYcAmVK-htqCH5qjUH8lmv1y3) [Website - Fa 2024](https://sites.gatech.edu/cse6220fall24/) [Videos - Fa 2024](https://www.youtube.com/playlist?list=PLD8evIHEiYcAi9k3ydhltboOEpF3Ai_oY)
 - [CSE 6230 High Performance Computing: Tools and Applications - Georgia Tech](https://sites.gatech.edu/cse6230spring24/) [Videos - Sp 2024](https://www.youtube.com/playlist?list=PLD8evIHEiYcCdVFUfZbmFSyE5e-JrcFss)
 - [System storages - IISc Bangalore](https://nptel.ac.in/courses/106/108/106108058/)
 - [High Performance Computing - IISC Bangalore](https://www.youtube.com/playlist?list=PL2F82ECDF8BB71B0C)
