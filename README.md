@@ -777,6 +777,7 @@ Table of Contents
   - [University of Twente Discrete Optimization, by Marc Uetz](https://marcuetz.personalweb.utwente.nl/do/) ([Fall 2020](https://www.youtube.com/playlist?list=PLIygTcviGPKBUY9e1MCruRr5-I24LNm4g))
   - [UC Davis MAT 168 Optimization winter 2024, by Matthias Köppe](https://video.ucdavis.edu/channel/MAT+168+Optimization+%28Matthias+K%C3%B6ppe%3B+Winter+2024%29/329241352)
   - [Purdue University CHE 597 Computational Optimization spring 2025, by Can Li](https://canli1.github.io/courses)
+  - [Purdue University ECE 695 Optimization for Deep Learning (OPT4DL), by Abolfazl Hashemi](https://abolfazlh.github.io/teaching/OPT4DL_Slides.pdf) [YouTube - Fa 25](https://www.youtube.com/@opt4xl/playlists)
   - [UCSD CS292F Convex Optimization Spring 2020, by Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/classes/CS292F-2020Spring/) ([Youtube](https://www.youtube.com/playlist?list=PLTN4aNO9NiB5VxYILKPBXoy9g1tUqmnBx))
   - [UIUC ECE 490 Introduction to Optimization fall 2020, by Venugopal V. Veeravalli](https://courses.grainger.illinois.edu/ece490/fa2020/) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKC5wSXtE6s2qdSYutRH1AUU))
   - [University of Wisconsin-Madison CS/ECE/ISyE 524 Introduction to Optimization spring 2017-18, by Laurent Lessard](https://laurentlessard.com/teaching/524-intro-to-optimization/)
