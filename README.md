@@ -161,6 +161,7 @@ Table of Contents
 - [CS364A Algorithmic Game Theory, Fall 2013 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
 - [CS364B Advanced Mechanism Design, Winter 2014 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 - [CS3510 Algorithms, Spring 2024 - Georgia Tech](https://faculty.cc.gatech.edu/~ladha/S24/3510/) [Videos - Sp 2024](https://www.youtube.com/playlist?list=PLerMEx1Met7vV70UoXJ1qXvN2_o9Bwxiy) [Videos - Su 2025](https://www.youtube.com/playlist?list=PLerMEx1Met7ugIMoHZojyqhWe8X5S3Dzb)
+- [CS4510 Automata and Complexity - Georgia Tech](https://faculty.cc.gatech.edu/~ladha/toc/) [Videos - Su 2021](https://www.youtube.com/playlist?list=PLerMEx1Met7sxHpq1seMyS1riK4PEO-S5) [Videos - Su 2023](https://www.youtube.com/playlist?list=PLerMEx1Met7vqIEY6TPcMXMWTJfRzGGh3) [Videos - Su 2024](https://www.youtube.com/playlist?list=PLerMEx1Met7uyrIcvDIOc8x2mv29UWuUy) [Videos - Su 2025](https://www.youtube.com/playlist?list=PLerMEx1Met7uOtmjvLr7v9XbYwjtNoOF2)
 - [Algorithms - Aduni](http://aduni.org/courses/algorithms/index.php?view=cw)
 - [6.889 - Algorithms for Planar Graphs and Beyond (Fall 2011) MIT](http://courses.csail.mit.edu/6.889/fall11/lectures/)
 - [6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
