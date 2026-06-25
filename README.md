@@ -477,6 +477,7 @@ Table of Contents
   - [Probabilistic Machine Learning 2020 - University of Tübingen](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
   - [Statistical Machine Learning 2020 - Ulrike von Luxburg - University of Tübingen](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
   - [COMS W4995 - Applied Machine Learning - Spring 2020 - Columbia University](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)
+  - [Introductory Applied Machine Learning - Edinburgh University](https://media.ed.ac.uk/channel/Introductory%2BApplied%2BMachine%2BLearning/52615121)
   - [Machine Learning for Engineers 2022](https://apmonitor.com/pds) ([YouTube](https://www.youtube.com/watch?v=Gh5rbBLh4JY&list=PLLBUgWXdTBDg1K1bu60lHypSzSP-WSBmx))
   - [10-418 / 10-618 (Fall 2019) Machine Learning for Structured Data](https://www.youtube.com/playlist?list=PL4CxkUJbvNVihRKP4bXufvRLIWzeS-ieP)
   - [ORIE 4741/5741: Learning with Big Messy Data - Cornell](https://people.orie.cornell.edu/mru8/orie4741/lectures.html)
