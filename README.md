@@ -790,6 +790,7 @@ Table of Contents
   - [UC Berkeley EECS 127 / 227A Optimization Models in Engineering](https://eecs127.github.io/) ([Spring 2024 lectures](https://www.youtube.com/playlist?list=PLIygTcviGPKAgyZlPB5QU5Size4whyrf3))
   - [Modern Optimization and theory for Deep Learning](https://www.youtube.com/@opt4xl/playlists)
   - [Manifold Learning, Optimization and Information Geometry - Politecnico Milan - PhD level](https://www.youtube.com/playlist?list=PLvVaDdaHGtpesn2DHUo6ete-1pPhT1xzj)
+  - [Robust Optimization and Essentials of Numerical Nonsmooth Optimization - EUROPT Summer School 2021](https://media.ed.ac.uk/playlist/dedicated/51612401/1_h2lhtoyd/1_2167g4ma)
  
 - #### **Unsupervised Learning**
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
