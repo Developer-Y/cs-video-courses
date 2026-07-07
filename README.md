@@ -384,6 +384,7 @@ Table of Contents
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
 - [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](https://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
 - [CS322 - Introduction to Artificial Intelligence, Winter 2012-13 - UBC](http://www.cs.ubc.ca/~mack/CS322/) ([YouTube](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU))
+- [CS 4731/7632: Game AI, Spring 2021, Georgia Tech](https://mediaspace.gatech.edu/search?keyword=cs7632_2025&sortBy=createdAtAsc&fields=tags&pageContext=e-tag-search)
 - [CS 4804: Introduction to Artificial Intelligence, Fall 2016](https://www.youtube.com/playlist?list=PLUenpfvlyoa1iiSbGy9BBewgiXjzxVgBd)
 - [CS 5804: Introduction to Artificial Intelligence, Spring 2015](https://www.youtube.com/playlist?list=PLUenpfvlyoa0PB6_kqJ9WU7m6i6z1RhfJ)
 - [Artificial Intelligence, Fall 2023 - FAU](https://www.fau.tv/course/id/3595) ([Spring 2023](https://www.fau.tv/course/id/3386)) ([Fall 2022](https://www.fau.tv/course/id/3180)) ([Spring 2021](https://www.fau.tv/course/id/2095)) ([Fall 2020](https://www.fau.tv/course/id/1690)) ([Fall 2018](https://www.fau.tv/course/id/713)) ([Spring 2018](https://www.fau.tv/course/id/657))
