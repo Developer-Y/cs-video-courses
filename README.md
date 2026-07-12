@@ -6,7 +6,7 @@
 
 - Please check [NOTES](https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md) for general information about this list.
 - Please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md) for contribution guidelines.
-- Please feel free to raise any genuine issue you may have, however, it has been noticed that few people open empty issues to raise their GitHub contribution on their account. Such spammers will be blocked. 
+- Please feel free to raise any genuine issue you may have, however, it has been noticed that few people open empty issues to raise their GitHub contribution on their account. Such spammers will be blocked.
 - You are welcome to contribute, please create PR for actual college/University level courses. Please do not add links for small MOOCs, basic tutorials, or advertisements for some sites/channels.
 
 ------------------------------
@@ -19,7 +19,7 @@ Table of Contents
 - [Systems Programming](#systems-programming)
   * [Operating Systems](#operating-systems)
   * [Distributed Systems](#distributed-systems)
-  * [Real-Time Systems](#real-time-systems) 
+  * [Real-Time Systems](#real-time-systems)
 - [Database Systems](#database-systems)
 - [Software Engineering](#software-engineering)
   * [Object Oriented Design](#object-oriented-design)
@@ -217,7 +217,7 @@ Table of Contents
 ------------------------------
 
 ### Systems Programming
-- [COMP1521 - Computer Systems Fundamentals (2025) - UNSW (Full Course: Website + Lectures, Labs, Assignments, Exercises, Exams, Video Playlist)](https://cgi.cse.unsw.edu.au/~cs1521/25T2/) | [Watch Lectures](https://www.youtube.com/playlist?list=PLUsPZdCcmwELH7BDprCzDSN40futwJGYb) 
+- [COMP1521 - Computer Systems Fundamentals (2025) - UNSW (Full Course: Website + Lectures, Labs, Assignments, Exercises, Exams, Video Playlist)](https://cgi.cse.unsw.edu.au/~cs1521/25T2/) | [Watch Lectures](https://www.youtube.com/playlist?list=PLUsPZdCcmwELH7BDprCzDSN40futwJGYb)
 - [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
 - [Computer Systems: A programmer's Perspective](https://www.youtube.com/playlist?list=PLyboo2CCDSWnhzzzzDQ3OBPrRiIjl-aIE)
 - [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/~ckanich/cs361/f20/)
@@ -534,7 +534,7 @@ Table of Contents
   - [Machine Learning Class (Winter 2019-2020) - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kTOLHk3a2ySNujmjan_AcZ1)
   - [Toronto ECE 1513 Introduction to Machine Learning winter 2026, by Ali Bereyhi](https://youtube.com/playlist?list=PLcFgNUo9s_Aj9a8fXwMdqfEk3_h5RtoLs)
 
-  
+
 - #### **Data Mining**
   - [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
   - [CS 5140/6140 - Data Mining, Spring 2020, University of Utah by Prof. Jeff Phillips](https://users.cs.utah.edu/~jeffp/teaching/cs5140-S20/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCrEf65zrd3J1UG3LT6TcDlt))
@@ -551,13 +551,13 @@ Table of Contents
   - [CAP6673 - Data Mining and Machine Learning - FAU](http://www.cse.fau.edu/~taghi/classes/cap6673/)([Video lectures](https://vimeo.com/album/1505953))
   - [CS 412 - Introduction to Data Mining - UIUC](https://www.youtube.com/playlist?list=PLIygTcviGPKDZi44-yuH2XH9UaHdaJkxs)
   - [CS 512 - Data Mining Principles - UIUC](https://github.com/spacemanidol/CS512DM/tree/main/lectures) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKABUzEm9v1PuKLlb0AQ9tdH))
-  
+
 - #### **Probabilistic Graphical Modeling**
   - [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
   - [10-708 - Probabilistic Graphical Models, Carnegie Mellon University](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
   - [Probabilistic Graphical Models, Daphne Koller, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
   - [Probabilistic Graphical Models, Spring 2018 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM)
-  
+
 - #### **Deep Learning**
   - [Full Stack Deep Learning - Course 2022](https://www.youtube.com/watch?v=-Iob-FW5jVM&list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
   - [Full Stack Deep Learning - Course 2021](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
@@ -619,7 +619,7 @@ Table of Contents
   - [UC Berkeley CS 182 / 282a Deep Learning fall 2025, by Gireeja Ranade & Anant Sahai](https://berkeley-cs182.github.io/fa25/)[Youtube](https://youtube.com/playlist?list=PLIygTcviGPKCJO2wgN4rjqRFozoPjvWQs)
   - [SNU M2177.43 Introduction to Deep Learning spring 2026, by Hyun Oh Song](https://www.youtube.com/@hyunohsong1952/videos)
 
-  
+
 - #### **Reinforcement Learning**
   - [CS234: Reinforcement Learning - Spring 2024 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) ([Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
   - [CSE 542: Reinforcement Learning - Spring 2024 - University of Washington](https://courses.cs.washington.edu/courses/cse542/24sp/schedule/)
@@ -658,7 +658,7 @@ Table of Contents
   - [Reinforcement Learning Course: Lectures (Summer 2023) by Paderborn University](https://www.youtube.com/playlist?list=PL4GzQQuIDBGv-IFxRSgydCR7OrOM_xKqN)
   - [CS292F (Spring 2021) Statistical Foundation of Reinforcement Learning - UCSD](https://cseweb.ucsd.edu/~yuxiangw/classes/RLCourse-2021Spring/)
   - [Algorithmic Foundations of Interactive Learning - CMU](https://interactive-learning-algos.github.io/)
-  
+
 - #### **Advanced Machine Learning**
   - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
   - [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
@@ -671,8 +671,8 @@ Table of Contents
   - [ETH Zürich Advanced Machine Learning fall 2019, by Joachim M. Buhmann](https://video.ethz.ch/lectures/d-infk/2019/autumn/252-0535-00L.html)
   - [CS 159 Advanced Topics in Machine Learning, Spring 2021 - Caltech](https://1five9.github.io/)
   - [CS 229br Advanced Topics in the theory of machine learning, Spring 2021 - Harvard](https://boazbk.github.io/mltheoryseminar/cs229br.html)
-  
-  
+
+
 - #### **Natural Language Processing**
   - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)) ([Lectures - Spring 2024](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D))
   - [CS 224N - Natural Language Processing, Stanford University](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) ([Lecture videos](https://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab))
@@ -701,7 +701,7 @@ Table of Contents
   - [Multilingual NLP 2020 - CMU](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
   - [Speech Technology - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBaI_g3_V-CFrgFIf-0Yksiv)
   - [Deep Learning for NLP (KAIST AI605 Fall 2021)](https://www.youtube.com/playlist?list=PLN9tAT2r9TDy9tPOfgYm28Wl3D4vYm0Zs)
-  
+
 - #### **Generative AI and LLMs**
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
   - [CS 6785 - Deep Generative Models - Cornell Tech, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
@@ -739,7 +739,7 @@ Table of Contents
   - [ECE1508: Deep Generative Models - Summer 2025 - UofT](https://www.youtube.com/playlist?list=PLcFgNUo9s_AgUro3pIv1BoGOzNIVh4mpP)
   - [6.S980 Machine Learning for Inverse Graphics - Fall 2022 - MIT](https://scenerepresentations.org/courses/2023/fall/inverse-graphics/)
   - [6.S087 - Foundation Models and Generative AI - MIT](https://www.futureofai.mit.edu/)
-  
+
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   - [The Ancient Secrets of Computer Vision, University of Washington - Joseph Redmon](https://pjreddie.com/courses/computer-vision/) ([YouTube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p))
@@ -759,11 +759,11 @@ Table of Contents
   - [Advanced Deep Learning for Physics (ADL4P) - TU Munich](https://tum-pbs.github.io/ADL4P/)
   - [Computer Vision III: Detection, Segmentation and Tracking (CV3DST) (IN2375) - TU Munich](https://www.youtube.com/playlist?list=PLog3nOPCjKBkamdw8F6Hw_4YbRiDRb2rb)
   - [Lecture: Computer Vision, University of Tübingen - Andreas Geiger](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) ([YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_))
-  
+
 - #### **Time Series Analysis**
   - [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
   - [Applied Time Series Analysis](https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX)
-  
+
 - #### **Optimization**
   - [Optimisation for Machine Learning: Theory and Implementation (Hindi) - IIT](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-pmLzCoMu_ANU6atEFyyJl)
   - [Rochester DSCC 435 Optimization for Machine Learning fall 2023, by Jiaming Liang](https://www.youtube.com/playlist?list=PLuJY91x7h5orCtyh6mChurVQ2ZZef9qPF)
@@ -793,7 +793,7 @@ Table of Contents
   - [Modern Optimization and theory for Deep Learning](https://www.youtube.com/@opt4xl/playlists)
   - [Manifold Learning, Optimization and Information Geometry - Politecnico Milan - PhD level](https://www.youtube.com/playlist?list=PLvVaDdaHGtpesn2DHUo6ete-1pPhT1xzj)
   - [Robust Optimization and Essentials of Numerical Nonsmooth Optimization - EUROPT Summer School 2021](https://media.ed.ac.uk/playlist/dedicated/51612401/1_h2lhtoyd/1_2167g4ma)
- 
+
 - #### **Unsupervised Learning**
   - [CS294 Deep Unsupervised Learning Spring 2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
   - [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
@@ -803,7 +803,7 @@ Table of Contents
   - [UIUC STAT 437 Unsupervised Learning spring 2024, by Tori Ellison](https://www.youtube.com/playlist?list=PLIygTcviGPKB133Vh7zxsxFoblyfS4P5Y)
   - [Johns Hopkins Unsupervised Learning spring 2017, by Rene Vidal](https://www.youtube.com/playlist?list=PLaBAmmD3yH4Nta9Y6g9hOV4dcnpTzeW4q)
   - [Unsupervised Learning (STAT 841), Winter 2017](https://www.youtube.com/playlist?list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)
-  
+
 - #### **Misc Machine Learning Topics**
   - [Quantum Machine Learning | 2021 Qiskit Global Summer School](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI)
   - [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
@@ -900,7 +900,7 @@ Table of Contents
   - [MAT123 Introduction to Calculus (Fall 2015) - Stony Brook](https://www.math.stonybrook.edu/~scott/mat123.fall15/)
   - [Vector Calculus for Engineers - HKUST](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
 - **Discrete Math**
-  - [6.042J - Mathematics for Computer Science, MIT OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/) 
+  - [6.042J - Mathematics for Computer Science, MIT OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/)
   - [18.200 - Principles of Discrete Applied Mathematics, MIT OCW](https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/video_galleries/lecture-videos/)
   - [CS 2050 Discrete Mathematics, Georgia Tech](https://faculty.cc.gatech.edu/~ladha/discrete/) [Videos - Su 2024](https://www.youtube.com/playlist?list=PLerMEx1Met7tdZvHntzJ731A6amAvs7S8)
   - [UC Berkeley Computer Science 70, Discrete Mathematics and Probability Theory - Fall 2025](https://www.eecs70.org/) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKDV7TrbTokEDN0haWwiV_xp))
@@ -1099,7 +1099,7 @@ Table of Contents
 - [Principles of Compiler Design - Swarthmore College](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
 - [Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 - [Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
-- [Great Ideas in Theoretical Computer Science at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) 
+- [Great Ideas in Theoretical Computer Science at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
   - [Another link](https://www.cs251.com/)
 - [Analysis of Boolean Functions at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YypJNaF6sRAf2zC1QzMuTA)
 - [Theoretical Computer Science (Bridging Course)(Tutorial) - SS 2015](http://ais.informatik.uni-freiburg.de/teaching/ss15/bridging/)
@@ -1174,7 +1174,7 @@ Table of Contents
 
 - **Computer Organization**
   - [How Computers Work - Aduni](http://aduni.org/courses/hcw/index.php?view=cw)
-  - [CS 61C - Machine Structures, UC Berkeley Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html) 
+  - [CS 61C - Machine Structures, UC Berkeley Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html)
   - [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
   - [CS/ECE 3810 Computer Organization, Fall 2015, , University of Utah](http://www.cs.utah.edu/~rajeev/cs3810/) ([YouTube](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy))
   - [Digital Computer Organization - IIT Kharagpur](https://nptel.ac.in/courses/117105078/)
@@ -1578,7 +1578,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 ### Blockchain Development
 
 - **Blockchain and Cryptocurrencies**
-  - [Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ) 
+  - [Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)
   - [Blockchain Fundamentals Decal 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT)
   - [Blockchain for Developers Decal - Spring 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
   - [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/video_galleries/lecture-videos/)
@@ -1586,7 +1586,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
   - [Bitcoin and Cryptocurrency Technologies - Arvind Narayanan, Princeton University](https://www.coursera.org/learn/cryptocurrency) ([YouTube Lectures](https://www.youtube.com/@bitcoinandcryptocurrencyte3219/videos)) ([Free book PDF](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf))
   - [Blockchain - Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome)
 - **Become Blockchain Developer**
-  - [Solidity for Beginners - Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu) 
+  - [Solidity for Beginners - Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu)
   - [Master Solidity - Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
   - [IPFS Inter Planetary File System  Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgWggD3tKfgwsIPXuIhorXZk)
   - [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial - FreeCodingCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
