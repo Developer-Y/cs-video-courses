@@ -1165,6 +1165,7 @@ Table of Contents
 - [2023 High Performance Computing Course Prof Dr - Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwUBwrFn3SY8vi4AYa2rVTWH) ([2022](https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix))
 - [High Performance Computing | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
 - [UCLA Stats 205 Hierarchical Linear Models spring 2024, by Jingyi Jessica Li](https://www.youtube.com/playlist?list=PLAYxx7zX5F1O2HbRr4gORnscbM9EszYbK)
+- [Stanford AA 203 Optimal and Learning-Based Control, by Marco Pavone, Daniele Gammelli](https://stanfordasl.github.io/aa203/sp2526/) ([Videos - Sp 2026](https://www.youtube.com/playlist?list=PLa9dmHsLK9dg))
 - [FSU EML 4930 / 5930 Applied Optimal Control spring 2025, by Christian Hubicki](https://www.youtube.com/playlist?list=PLvtFIs65UftHma3iGabhZBCfi1a3flkRg) ([Spring 2023](https://www.youtube.com/playlist?list=PLvtFIs65UftFPw2ueT-NYi7szOTkEH7pX))
 - [UF EML 6934 Optimal Control spring 2012, by Anil V. Rao](https://www.youtube.com/playlist?list=PLIygTcviGPKBCJ9JyHfBi4ftc9FDCtaBc)
 - [Real-World Algorithms for IoT and Data Science - UIUC](https://rrc-uiuc.notion.site/Real-World-Algorithms-for-IoT-and-Data-Science-74d8f612f74a4c1689760dafa31ef93d)
