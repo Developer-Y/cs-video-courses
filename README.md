@@ -433,6 +433,7 @@ Table of Contents
   - [ECE 364 - Programming Methods for Machine Learning, Spring 2025, UIUC](https://www.youtube.com/playlist?list=PLIygTcviGPKD0WT5NEsD6AIqaeV4azJwN)
   - [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
   - [CS 229 - Machine Learning - Stanford University](https://see.stanford.edu/Course/CS229) ([Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU))
+  - [CSE 151A Introduction to Machine Learning, Prof Jingbo Shang - UCSD](https://shangjingbo1226.github.io/teaching/2025-winter-CSE151A-ML)
   - [CS 189/289A Introduction to Machine Learning, Prof Jonathan Shewchuk - UCBerkeley](https://people.eecs.berkeley.edu/~jrs/189/)
   - [CS 189/289A: Intro to Machine Learning - UC Berkeley - Spring 2026](https://eecs189.org/sp26/)
   - [CPSC 340: Machine Learning and Data Mining (2018) - UBC](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b)
