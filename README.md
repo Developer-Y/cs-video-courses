@@ -431,6 +431,7 @@ Table of Contents
   - [CS 582 - Machine Learning for Bioinformatics, Fall 2024, UIUC](https://www.youtube.com/playlist?list=PLIygTcviGPKBtxPX875Z8suCYGJkrPQ2Z)
   - [CMPUT 267 Machine Learning - Fall 2024 - University of Alberta](https://vladtkachuk4.github.io/machinelearning1/) ([Youtube](https://www.youtube.com/playlist?list=PLv_4EzuTPftra9U1UyjzMZABTPY50TGO0))
   - [ECE 364 - Programming Methods for Machine Learning, Spring 2025, UIUC](https://www.youtube.com/playlist?list=PLIygTcviGPKD0WT5NEsD6AIqaeV4azJwN)
+  - [EML 4930/5930 - Machine Learning: Introduction and Application, Fall 2025, FSU](https://www.youtube.com/playlist?list=PLDkq9pwUThV0)
   - [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
   - [CS 229 - Machine Learning - Stanford University](https://see.stanford.edu/Course/CS229) ([Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU))
   - [CSE 151A Introduction to Machine Learning, Prof Jingbo Shang - UCSD](https://shangjingbo1226.github.io/teaching/2025-winter-CSE151A-ML)
