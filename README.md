@@ -553,6 +553,7 @@ Table of Contents
   - [CAP6673 - Data Mining and Machine Learning - FAU](http://www.cse.fau.edu/~taghi/classes/cap6673/)([Video lectures](https://vimeo.com/album/1505953))
   - [CS 412 - Introduction to Data Mining - UIUC](https://www.youtube.com/playlist?list=PLIygTcviGPKDZi44-yuH2XH9UaHdaJkxs)
   - [CS 512 - Data Mining Principles - UIUC](https://github.com/spacemanidol/CS512DM/tree/main/lectures) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKABUzEm9v1PuKLlb0AQ9tdH))
+  - [MGTA 415 - Analyzing Unstructured Data - UCSD](https://shangjingbo1226.github.io/teaching/2025-winter-MGTA415-Unstructured-Data)
   
 - #### **Probabilistic Graphical Modeling**
   - [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
