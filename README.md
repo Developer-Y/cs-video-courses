@@ -905,6 +905,7 @@ Table of Contents
   - [Vector Calculus for Engineers - HKUST](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
 - **Discrete Math**
   - [6.042J - Mathematics for Computer Science, MIT OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/) 
+  - [6.1200J - Mathematics for Computer Science, MIT OCW](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/video_galleries/lecture-videos/) ([Spring 24 videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d))
   - [18.200 - Principles of Discrete Applied Mathematics, MIT OCW](https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/video_galleries/lecture-videos/)
   - [CS 2050 Discrete Mathematics, Georgia Tech](https://faculty.cc.gatech.edu/~ladha/discrete/) [Videos - Su 2024](https://www.youtube.com/playlist?list=PLerMEx1Met7tdZvHntzJ731A6amAvs7S8)
   - [UC Berkeley Computer Science 70, Discrete Mathematics and Probability Theory - Fall 2025](https://www.eecs70.org/) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKDV7TrbTokEDN0haWwiV_xp))
