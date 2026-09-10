@@ -972,6 +972,7 @@ Table of Contents
 - **Linear Algebra**
   - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
   - [Mathematical Foundations of Machine Learning (Fall 2025) - Rebecca Willett - University of Chicago](https://www.youtube.com/playlist?list=PLcwJ7lE9nSHNy5cAZvIHFstwM37ztUXXB)
+  - [NSF CBMS 2025 - Computational Mathematics and AI, Lars Ruthotto, Emory University](https://www.math.emory.edu/~lruthot/workshops/computational-math-ai-2025/) ([Fall 25 videos](https://www.youtube.com/playlist?list=PLPre92Pl4X2A5xj5-nNWU1r1pAuwykI1V))
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
   - [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/)
   - [University of Wisconsin-Madison ECE/CS/ME 532 Matrix Methods in Machine Learning fall 2017, by Laurent Lessard](https://laurentlessard.com/teaching/532-matrix-methods/)
