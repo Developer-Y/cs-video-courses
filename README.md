@@ -552,6 +552,7 @@ Table of Contents
   - [Information Retrieval - Spring 2018 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1ktkDvNurPSDwTQ_oGQisn)
   - [Information Retrieval - WS 2022/23 - Universität Freiburg](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS2223)
   - [CAP6673 - Data Mining and Machine Learning - FAU](http://www.cse.fau.edu/~taghi/classes/cap6673/)([Video lectures](https://vimeo.com/album/1505953))
+  - [DSC 148 - Introduction to Data Mining - UCSD](https://shangjingbo1226.github.io/teaching/2026-spring-DSC148-DM)
   - [CS 412 - Introduction to Data Mining - UIUC](https://www.youtube.com/playlist?list=PLIygTcviGPKDZi44-yuH2XH9UaHdaJkxs)
   - [CS 512 - Data Mining Principles - UIUC](https://github.com/spacemanidol/CS512DM/tree/main/lectures) ([YouTube](https://www.youtube.com/playlist?list=PLIygTcviGPKABUzEm9v1PuKLlb0AQ9tdH))
   - [MGTA 415 - Analyzing Unstructured Data - UCSD](https://shangjingbo1226.github.io/teaching/2025-winter-MGTA415-Unstructured-Data)
