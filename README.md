@@ -1469,6 +1469,7 @@ Table of Contents
 - [CMU 16-715 Robot Dynamics 2022 - CMU](https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY)
 - [CMU 16-745 Optimal Control 2024 - CMU](https://www.youtube.com/playlist?list=PLZnJoM76RM6Jv4f7E7RnzW4rijTUTPI4u) ([Lecture notebooks](https://github.com/Optimal-Control-16-745/lecture-notebooks)) ([YouTube-2023](https://www.youtube.com/playlist?list=PLZnJoM76RM6KugDT9sw5zhAmqKnGeoLRa)) ([YouTube-2022](https://www.youtube.com/playlist?list=PLZnJoM76RM6Iaf59ICcU9-DzztGZvK_52))
 - [CMU 16-745 Optimal Control Recitations 2024 - CMU](https://www.youtube.com/playlist?list=PLR-CEg9er7kFfMQU9c3P8J77H3yKb4pTK) ([YouTube-2023](https://www.youtube.com/playlist?list=PLR-CEg9er7kH11A7Sg1rATCf5Noa7wauu))
+- [CMU 16-831 Introduction to Robot Learning 2025 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=5be851b0-e674-48c5-996c-b344011151c5)
 - [CE 356 Elements of Hydraulic Engineering Spring 2025 - UT Austin](https://www.youtube.com/playlist?list=PLHovUGJUgy1Dtpt8QBt1sxK_SAPasG3g2)
 - [CE 397 Control Theory for Smart Infrastructure Spring 2023 - UT Austin](https://www.youtube.com/playlist?list=PLHovUGJUgy1DvJoaJuBWdF_maE1-YzOfm)
 - [CS235 - Applied Robot Design for Non-Robot-Designers - Stanford University](https://www.youtube.com/user/StanfordCS235/videos)
