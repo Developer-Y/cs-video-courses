@@ -1317,6 +1317,7 @@ Table of Contents
 - [CS 543 - Computer Vision – Spring 2017](https://courses.engr.illinois.edu/cs543/sp2017/) ([Recordings](https://echo360.org/section/283b0471-3d9f-4efb-9c51-bc00e778735e/home))
 - [CAP 5415 - Computer Vision - University of Central Florida](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/)([Video Lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9))
 - [EE637 - Digital Image Processing I - Purdue University](https://engineering.purdue.edu/~bouman/ece637/) ([Videos - Sp 2011](https://www.youtube.com/user/ModelBasedImaging),[Videos - Sp 2007](https://engineering.purdue.edu/~bouman/ece637/lectures/lectures07/))
+- [EE641 - Digital Image Processing II - Purdue University](https://engineering.purdue.edu/~bouman/ece641/) ([Videos - Fa 2013](https://www.youtube.com/playlist?list=PL3ZrjaBngMS2KagbAut9eTGZV4oL8Y-PF),[Videos - Fa 2020](https://www.youtube.com/playlist?list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3))
 - [Computer Vision I: Variational Methods - TU München](https://vision.in.tum.de/teaching/ws2015/vmcv2015) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI))
 - [Computer Vision II: Multiple View Geometry (IN2228), SS 2016 - TU München](https://vision.in.tum.de/teaching/ss2016/mvg2016) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4))
 - [EENG 512/CSCI 512 - Computer Vision - Colorado School of Mines](https://www.youtube.com/playlist?list=PL4B3F8D4A5CAD8DA3)
