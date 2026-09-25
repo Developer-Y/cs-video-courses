@@ -1246,7 +1246,8 @@ Table of Contents
 
 - [Internet Security (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1227/)
 - [6.1600 Foundations of Computer Security - MIT Fall 2023](https://61600.csail.mit.edu/2023/)
-- [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video_galleries/video-lectures/)
+- [6.858 Computer Systems Security - MIT OCW Fall 2014](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video_galleries/video-lectures/)
+- [6.566 Computer Systems Security - MIT OCW Spring 2026](https://css.csail.mit.edu/6.566/2026/) ([Videos](https://www.youtube.com/playlist?list=PLA6Ht2dJt3SId7vE9P5mppWdj65_l6hl7))
 - [CS 253 Web Security - Stanford University](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
 - [CS 161: Computer Security, UC Berkeley](https://fa23.cs161.org/) ([Videos - Fall 2023](https://www.youtube.com/playlist?list=PLfBkt1-_BHX_VxOWlmstguFxojSN742vz)) ([Videos - Fall 2025](https://www.youtube.com/playlist?list=PLfBkt1-_BHX8kQZhisgrCLAnuAd3-Ek5U)) ([Spring 2025](https://sp25.cs161.org/))
 - [6.875 - Cryptography - Fall 2021 - MIT](https://mit6875.github.io/fall2021.html) ([Spring 2018](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH))
