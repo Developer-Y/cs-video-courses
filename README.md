@@ -1391,7 +1391,7 @@ Table of Contents
 - [BioMedical Informatics 258 Genomics, Bioinformatics & Medicine, Stanford University](http://biochem158.stanford.edu/)
 - [03-251: Introduction to Computational Molecular Biology - Carnegie Mellon University](https://www.youtube.com/playlist?list=PLUKmtlUTHfBPoI70nVz3C-82N4nznc3Iz)
 - [03-712: Biological Modeling and Simulation - Carnegie Mellon University](https://www.youtube.com/playlist?list=PLUKmtlUTHfBOgpZFmTvsTwkUh2K1RAse-)
-- [MOOC - Bioinformatics Algorithms: An Active Learning Approach - UC San Diego/Coursera](http://bioinformaticsalgorithms.com/videos.htm)
+- [MOOC - Bioinformatics Algorithms: An Active Learning Approach - UC San Diego/Coursera](https://www.bioinformaticsalgorithms.org/lecture-videos)
 - [Neural Networks and Biological Modeling - Lecturer: Prof. Wulfram Gerstner - EPFL](http://www.klewel.com/conferences/epfl-neural-networks/)
 - [Video Lectures of Wulfram Gerstner: Computational Neuroscience - EPFL](http://lcn.epfl.ch/~gerstner/VideoLecturesGerstner.html)
 - [An Introduction To Systems Biology](http://www.weizmann.ac.il/mcb/UriAlon/introduction-systems-biology-design-principles-biological-circuits)
