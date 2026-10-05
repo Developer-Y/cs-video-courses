@@ -674,6 +674,7 @@ Table of Contents
   - [Information Retrieval in High Dimensional Data](https://www.youtube.com/playlist?list=PLaE1lKCe0jH3ePp9wCU1ygTquVOXY-UYv)
   - [Trustworthy Machine Learning - Winter Semester 2023-2024, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2324/)
   - [Trustworthy Machine Learning - Winter Semester 2024-2025, University of Tübingen](https://scalabletrustworthyai.github.io/courses/tml_winter_2425/)
+  - [Introduction to High Dimensional Statistics and Probability, by Christophe Giraud](https://www.imo.universite-paris-saclay.fr/~christophe.giraud/Orsay/HDPS.html) ([Lecture videos](https://www.youtube.com/playlist?list=PLhH-yRX5JhWf1k73zFeGafkPDi0iyAuwu))
   - [ETH Zürich Advanced Machine Learning fall 2019, by Joachim M. Buhmann](https://video.ethz.ch/lectures/d-infk/2019/autumn/252-0535-00L.html)
   - [CS 159 Advanced Topics in Machine Learning, Spring 2021 - Caltech](https://1five9.github.io/)
   - [CS 229br Advanced Topics in the theory of machine learning, Spring 2021 - Harvard](https://boazbk.github.io/mltheoryseminar/cs229br.html)
