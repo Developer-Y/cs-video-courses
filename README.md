@@ -1497,6 +1497,7 @@ Table of Contents
 - [Robotics - IIT Bombay](https://nptel.ac.in/courses/112101099/)
 - [Introduction to Machine Vision](https://www.youtube.com/playlist?list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY)
 - [6.834J Cognitive Robotics - MIT OCW](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/)
+- [16.S897 Spacecraft Attitude Determination and Control - MIT OCW](https://github.com/zacmanchester/spacecraft-attitude-course) ([Spring 2026](https://www.youtube.com/playlist?list=PLZnJoM76RM6L4_G7ViuutMNxEqNL_IOYg))
 - [Hello (Real) World with ROS – Robot Operating System - TU Delft](https://ocw.tudelft.nl/courses/hello-real-world-ros-robot-operating-system/)
 - [Programming for Robotics (ROS) - ETH Zurich](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
 - [Mechatronic System Design - TU Delft](https://ocw.tudelft.nl/courses/mechatronic-system-design/)
