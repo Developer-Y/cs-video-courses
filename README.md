@@ -616,7 +616,7 @@ Table of Contents
   - [CMSC 828W Foundations of Deep Learning (Fall 2020) - UMD](https://www.cs.umd.edu/class/fall2020/cmsc828W/) ([YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf))
   - [TUM IN2346 Introduction to Deep Learning Fall 2024, by Daniel Cremers](https://cvg.cit.tum.de/teaching/ws2024/i2dl) ([Summer 2023](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_pGm2QAwF625E6nmcRu2sU))
   - [UT Austin - Advances in Deep Learning](https://ut.philkr.net/advances_in_deeplearning/)
-  - [HKU - Data 8014 Principles of Deep Representation Learning Fall 2025, by Yi Ma](https://ma-lab-berkeley.github.io/deep-representation-learning-book/community.html)
+  - [HKU - Data 8014 Principles of Deep Representation Learning Fall 2025, by Yi Ma](https://ma-lab-berkeley.github.io/deep-representation-learning-book/community.html) ([Fa 26, Bilibili](https://space.bilibili.com/3744977603530519/lists/9211682?type=season))
   - [Local Explanations for Deep Learning Models (Fall 2023)](https://www.youtube.com/playlist?list=PLbuogVdPnkCoto690B1eTReTznuSC9qYX)
   - [CS 6966/5966 Interpretability of LLMs (Spring 2026) - University of Utah](https://utah-llm-interpretability.notion.site/s26)
   - [Deep Graph Learning (DGL, 2025) - Prof. Islem Rekik - Imperial College London](https://www.youtube.com/playlist?list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T)
