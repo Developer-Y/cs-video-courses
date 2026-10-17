@@ -380,7 +380,7 @@ Table of Contents
 - [10-202: Introduction to Modern AI - CMU](https://modernaicourse.org/)
 - [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2026, by Dan Klein, Stuart Russell](https://inst.eecs.berkeley.edu/~cs188/sp26/) ([Spring 2025](https://inst.eecs.berkeley.edu/~cs188/sp25/)) ([Spring 2024](https://inst.eecs.berkeley.edu/~cs188/sp24/)) ([Spring 2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz))
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
-- [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+- [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2025 - Stanford University](https://stanford-cs221.github.io/autumn2025/) ([Slides - Autumn 2025](https://github.com/stanford-cs221/lectures)) ([Recordings - Autumn 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)) ([Recordings - Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX))
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
 - [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](https://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
 - [CS322 - Introduction to Artificial Intelligence, Winter 2012-13 - UBC](http://www.cs.ubc.ca/~mack/CS322/) ([YouTube](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU))
