@@ -1178,7 +1178,7 @@ Table of Contents
 - [Stanford AA 203 Optimal and Learning-Based Control, by Marco Pavone, Daniele Gammelli](https://stanfordasl.github.io/aa203/sp2526/) ([Videos - Sp 2026](https://www.youtube.com/playlist?list=PLa9dmHsLK9dg))
 - [FSU EML 4930 / 5930 Applied Optimal Control spring 2025, by Christian Hubicki](https://www.youtube.com/playlist?list=PLvtFIs65UftHma3iGabhZBCfi1a3flkRg) ([Spring 2023](https://www.youtube.com/playlist?list=PLvtFIs65UftFPw2ueT-NYi7szOTkEH7pX))
 - [UF EML 6934 Optimal Control spring 2012, by Anil V. Rao](https://www.youtube.com/playlist?list=PLIygTcviGPKBCJ9JyHfBi4ftc9FDCtaBc)
-- [Real-World Algorithms for IoT and Data Science - UIUC](https://rrc-uiuc.notion.site/Real-World-Algorithms-for-IoT-and-Data-Science-74d8f612f74a4c1689760dafa31ef93d)
+- [Real-World Algorithms for IoT and Data Science spring 2024 - UIUC](https://rrc-uiuc.notion.site/Real-World-Algorithms-for-IoT-and-Data-Science-Sp24-1b94156dae404cb3a1c3e22073618d4e) ([Spring 2023](https://rrc-uiuc.notion.site/Real-World-Algorithms-for-IoT-and-Data-Science-74d8f612f74a4c1689760dafa31ef93d))
 
 ------------------------------
 
