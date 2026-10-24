@@ -1382,6 +1382,7 @@ Table of Contents
 
 - [ECS 124 - Foundations of Algorithms for Bioinformatics - Dan Gusfield, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs124videos/videolist.html) ([YouTube](https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL))
 - [CSE549 - Computational Biology - Steven Skiena - 2010 SBU](https://www.youtube.com/playlist?list=PLA48145CC64FE7990)
+- [CS 594 - Algorithms of Bioinformatics - Sebastian Wild - 2025 Marburg University](https://www.wild-inter.net/teaching/algbio/) ([YouTube](https://www.youtube.com/playlist?list=PLzL0t_-LZiYnHsn7Khbh_z1JzW8U8OWad))
 - [7.32 Systems Biology, Fall 2014 - MIT OCW](https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/)
 - [6.802J/ 6.874J Foundations of Computational and Systems Biology - MIT OCW](https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video_galleries/video-lectures/)
 - [6.S897 Machine Learning For Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/)
