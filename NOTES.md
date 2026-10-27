@@ -10,3 +10,5 @@
   - [Stanford Course and Requirement Overview](https://cs.stanford.edu/degrees/ug/Requirements.shtml)
   - [UMN Computer Science Course Prerequisite Chart](https://onestop.umn.edu/registration/register-classes/course-prerequisites)
 - Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, YouTube channels for Universities, University pages, Google, itunes U, blog posts, and similar sites like awesome-courses, etc. If you are University Professor for any course listed in this repository and You would like your course to be removed from the list, please raise a pull request with comment stating its your content and you would like it to be removed.
+
+The markdown compilation in this repository is dedicated to the public domain under [CC0 1.0](LICENSE). Linked lecture videos remain under their original institutions' terms.
