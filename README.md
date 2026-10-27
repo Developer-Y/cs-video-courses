@@ -533,7 +533,7 @@ Table of Contents
   - [Algorithms for Big Data - IIT Madras](https://nptel.ac.in/courses/106106142/)
   - [Python Data Science with the TCLab](https://github.com/APMonitor/data_science) ([YouTube](https://www.youtube.com/watch?v=pAgW_bZVo88&list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy))
   - [Foundations of Data Analysis (Fall 2020)- University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCqB1sx1eheVmLtp2EN7osYt)
-  - [Introduction to Data Science (IDS) - Wil van der Aalst (RWTH Aachen University)](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0vReKHuzL-n--f4iO2JIjcJ) ([2021-2022 edition](PLG_1ZxIPXO0vTTfheRNDhq4vNYAdJBUyC))
+  - [Introduction to Data Science (IDS) - Wil van der Aalst (RWTH Aachen University)](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0vReKHuzL-n--f4iO2JIjcJ) ([2021-2022 edition](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0vTTfheRNDhq4vNYAdJBUyC))
   - [Machine Learning Class (Winter 2019-2020) - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kTOLHk3a2ySNujmjan_AcZ1)
   - [Toronto ECE 1513 Introduction to Machine Learning winter 2026, by Ali Bereyhi](https://youtube.com/playlist?list=PLcFgNUo9s_Aj9a8fXwMdqfEk3_h5RtoLs)
 
