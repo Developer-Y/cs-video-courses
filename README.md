@@ -111,7 +111,7 @@ Table of Contents
 - [Cornell CS 1110 Introduction to Computing using Python fall 2020, by Walker White](https://www.cs.cornell.edu/courses/cs1110/2020fa/lessons/) ([Lecture Videos](https://vod.video.cornell.edu/channel/CS+1110+Fall+2020/179890731))
 - [Cornell ECE 4960 Computational and Software Engineering spring 2017, by Edwin Kan](https://www.youtube.com/playlist?list=PLcVqWUh-bHiFN2CY1KMTw0-L39iDXlemi)
 
-* [CS50: Introduction to Computer Science](https://www.youtube.com/playlist?list=PLhQjrBD2ND5Kq2tHnB1UaJ32mYUp21d_5) - Harvard University's legendary intro course covering computer science and programming fundamentals.
+* [MIT 6.0001: Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - Introduction to computer science and programming for students with little or no programming experience.
 
 ---
 
