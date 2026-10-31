@@ -153,6 +153,7 @@ Table of Contents
 - [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
 - [CS 224 - Advanced Algorithms, Harvard University](https://people.seas.harvard.edu/~cs224/fall14/index.html) ([Lecture Videos](https://people.seas.harvard.edu/~cs224/fall14/lec.html)) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf))
 - [CS 627 - Advanced Algorithms, Marburg University](https://www.wild-inter.net/teaching/advalg/) ([Videos - Su 2025](https://www.youtube.com/playlist?list=PLzL0t_-LZiYkkGbS_IB6Oz3CH2_5-FipK))
+- [CS 650 - Advanced Data Structures, Marburg University](https://www.wild-inter.net/teaching/advds/) ([Videos - Su 2026](https://www.youtube.com/playlist?list=PLzL0t_-LZiYkpmVM9MUPVUkAci2-YLqJP))
 - [CS 6150 - Advanced Algorithms (Fall 2016), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCp8X9FHOglnLqFjyvqGLftx)
 - [CS 6150 - Advanced Algorithms (Fall 2017), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCqS9Z419eky9m6gJP7zfhO9)
 - [ECS 222A - Graduate Level Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
