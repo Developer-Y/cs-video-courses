@@ -1116,6 +1116,7 @@ Table of Contents
 - [Analysis of Boolean Functions at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YypJNaF6sRAf2zC1QzMuTA)
 - [Theoretical Computer Science (Bridging Course)(Tutorial) - SS 2015](http://ais.informatik.uni-freiburg.de/teaching/ss15/bridging/)
 - [Languages & Translators - UCLouvain LINFO2132](https://norswap.com/compilers/)
+- [Stochastic Optimization - UCLouvain LINMA2491](https://www.youtube.com/playlist?list=PLwFFn-1kM3vN2o13UgczxbD6o-P7TPlLX)
 - [Compiler Design by Sorav Bansal](https://www.youtube.com/playlist?list=PLf3ZkSCyj1tf3rPAkOKY5hUzDrDoekAc7)
 - [OCaml Programming: Correct + Efficient + Beautiful](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 - [Columbia IEOR E4004 Introduction to Operations Research: Deterministic Models summer 2005, by Jay Sethuraman](https://www.youtube.com/playlist?list=PLIygTcviGPKCVGq8cQ9MCBEm5wVXGsDpw)
