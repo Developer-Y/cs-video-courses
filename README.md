@@ -1472,6 +1472,7 @@ Table of Contents
 - [Autorob Winter 2022 - University of Michigan](https://m.youtube.com/playlist?list=PLf_SmXJixhnWMMU6_xYW7iS08-7h9kENY)
 - [DeepRob Winter 2023 - University of Michigan](https://m.youtube.com/playlist?list=PLf_SmXJixhnXoMs0Qvxe500BrjfbIOwSg)
 - [CS 223A - Introduction to Robotics, Stanford University](https://see.stanford.edu/Course/CS223A)
+- [AA 274A - Principles of Robotic Autonomy, Stanford University](https://stanfordasl.github.io/PoRA-I/aa174a_aut2627/) ([Youtube - Autumn 2019](https://www.youtube.com/playlist?list=PLR9iNyexfIkk)
 - [6.832 Underactuated Robotics - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/)
 - [6.801 Machine Vision, MIT Fall 2020 - Berthold Horn](https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/) ([YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O))
 - [CS287 Advanced Robotics at UC Berkeley Fall 2019 -- Instructor: Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
