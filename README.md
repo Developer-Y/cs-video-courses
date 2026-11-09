@@ -140,6 +140,7 @@ Table of Contents
 - [ECS 122A - Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
 - [CSE 373 - Data Structures and Algorithms, Winter 2024 - University of Washington](https://courses.cs.washington.edu/courses/cse373/24wi/) ([Winter 2024, Youtube](https://www.youtube.com/playlist?list=PLEcoVsAaONjd5n69K84sSmAuvTrTQT_Nl)) ([Spring 2023, Notes](https://courses.cs.washington.edu/courses/cse373/23sp/)) ([Spring 2023, Youtube](https://www.youtube.com/playlist?list=PLEcoVsAaONjfHSAbP1AsVjAxIOFue6uWh))
 - [CSEP 521 - Applied Algorithms, Winter 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep521/13wi/) ([Videos](https://courses.cs.washington.edu/courses/csep521/13wi/video/))
+- [Oxford Algorithms and Data Structures (ADS), Hilary 2026 - University of Oxford](https://www.youtube.com/playlist?list=PLzZlJT-UOiwDCw7TDmww4hk5waSTkjhDh)
 - [Data Structures And Algorithms - IIT Delhi](https://nptel.ac.in/courses/106102064/)
 - [Design and Analysis of Algorithms - IIT Bombay](https://nptel.ac.in/courses/106101060/)
 - [Programming, Data Structures and Algorithms - IIT Madras](https://nptel.ac.in/courses/106106127/)
