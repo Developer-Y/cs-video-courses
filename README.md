@@ -925,6 +925,7 @@ Table of Contents
   - [Discrete Mathematical Structures - IIT Madras](https://nptel.ac.in/courses/106106094/)
   - [Discrete Structures - Pepperdine University](https://itunes.apple.com/us/course/discrete-structures/id546468789)
   - [CMU 21 228 Discrete Mathematics spring 2021, by Po-Shen Loh](https://www.youtube.com/playlist?list=PLgTkKBA6LRqYuuQ-LboerRblBoD_q_eUM)
+  - [COMP2711: Honors Discrete Mathematics fall 2024, HKUST](https://www.youtube.com/playlist?list=PLzZlJT-UOiwDKYdM9JFkyWZHmzC8RZ6-p)
   - [COMP2804: Discrete Structures II](https://cglab.ca/~morin/teaching/2804/)
 - **Probability & Statistics**
   - [Statistics - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
