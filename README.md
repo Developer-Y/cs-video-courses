@@ -219,6 +219,7 @@ Table of Contents
 - [18.225 - Graph Theory and Additive Combinatorics - MIT - Fall 2023](https://ocw.mit.edu/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/)
 - [Extremal graph theory at KAIST](https://www.youtube.com/playlist?list=PLu06QHBZ8gatHvSQIApVQCCQmtPTiIQhP)
 - [Advanced graph theory, KAIST 2020](https://www.youtube.com/playlist?list=PLu06QHBZ8gavJ4UJqiXn8nYJbENQ_cAJP)
+- [CS3510 Algorithms SU25 - Abrahim Ladha - Georgia Tech](https://www.youtube.com/playlist?list=PLerMEx1Met7ugIMoHZojyqhWe8X5S3Dzb)
 
 
 ------------------------------
@@ -232,6 +233,8 @@ Table of Contents
 - [CS 4400 – Computer Systems   Fall 2016 - UoUtah](https://www.eng.utah.edu/~cs4400/)
 - [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
 - [CS110: Principles of Computer Systems - Stanford](https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/)
+- [CMU Principles of Computing (Spring 2026)](https://www.youtube.com/playlist?list=PLB27aM0tkAQs)
+- [CMU Principles of Software Construction (Spring 2026)](https://www.youtube.com/playlist?list=PLBDTyW_Uan_k)
 - #### **Operating Systems**
   - [Gatech CS6200 Intro to OS](https://www.youtube.com/playlist?list=PLTsf9UeqkReZbK7xqIYn_mXmsQZIb011T)
   - [APS 105 - Computer Fundamentals - Winter 2025 - Jon Eyolfson - University of Toronto](https://www.youtube.com/playlist?list=PLunILarQwxnm3ycdZKCg5Ex6DeuJhEWaG) ([Winter 2024](https://www.youtube.com/playlist?list=PLunILarQwxnma-0Z_0DZ3nkWKpZN7HGbw))
@@ -352,6 +355,7 @@ Table of Contents
   - [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
   - [MOOC - Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
   - [CS-310 Scalable Software Architectures](https://www.youtube.com/playlist?list=PLWl7jvxH18r0u5VRZsOjhghNXc_Ec4dZz)
+  - [CMU Software Architectures (Spring 2026)](https://www.youtube.com/playlist?list=PLBXWgYnejeLU)
 - #### **Concurrency**
   - [CS176 - Multiprocessor Synchronization - Brown University](http://cs.brown.edu/courses/cs176/course_information.shtml) ([Videos from 2012](http://www.brown.edu/cis/sta/dev/herlihy_csci1760_fa12/#vid))
   - [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
@@ -542,6 +546,9 @@ Table of Contents
   - [Introduction to Data Science (IDS) - Wil van der Aalst (RWTH Aachen University)](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0vReKHuzL-n--f4iO2JIjcJ) ([2021-2022 edition](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0vTTfheRNDhq4vNYAdJBUyC))
   - [Machine Learning Class (Winter 2019-2020) - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kTOLHk3a2ySNujmjan_AcZ1)
   - [Toronto ECE 1513 Introduction to Machine Learning winter 2026, by Ali Bereyhi](https://youtube.com/playlist?list=PLcFgNUo9s_Aj9a8fXwMdqfEk3_h5RtoLs)
+  - [CMU Machine Learning with Large Datasets (Fall 2026)](https://www.youtube.com/playlist?list=PLOz411Ejgqdw)
+  - [CMU Machine Learning in Production (Fall 2026)](https://www.youtube.com/playlist?list=PLDOc_XHH9ABE)
+  - [CMU Machine Learning Systems (Spring 2026)](https://www.youtube.com/playlist?list=PLSH_5v_OOfP8)
 
   
 - #### **Data Mining**
@@ -757,6 +764,7 @@ Table of Contents
   - [ECE1508: Deep Generative Models - Summer 2025 - UofT](https://www.youtube.com/playlist?list=PLcFgNUo9s_AgUro3pIv1BoGOzNIVh4mpP)
   - [6.S980 Machine Learning for Inverse Graphics - Fall 2022 - MIT](https://scenerepresentations.org/courses/2023/fall/inverse-graphics/)
   - [6.S087 - Foundation Models and Generative AI - MIT](https://www.futureofai.mit.edu/)
+  - [CMU AI Agents (Fall 2026)](https://www.youtube.com/playlist?list=PLf0BEPn2BGr0)
   
 - #### **Computer Vision**
   - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -931,6 +939,7 @@ Table of Contents
   - [CMU 21 228 Discrete Mathematics spring 2021, by Po-Shen Loh](https://www.youtube.com/playlist?list=PLgTkKBA6LRqYuuQ-LboerRblBoD_q_eUM)
   - [COMP2711: Honors Discrete Mathematics fall 2024, HKUST](https://www.youtube.com/playlist?list=PLzZlJT-UOiwDKYdM9JFkyWZHmzC8RZ6-p)
   - [COMP2804: Discrete Structures II](https://cglab.ca/~morin/teaching/2804/)
+  - [CS2050 Discrete Mathematics F26 - Abrahim Ladha - Georgia Tech](https://www.youtube.com/playlist?list=PLdiAUntej_Zo)
 - **Probability & Statistics**
   - [Statistics - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
   - [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
@@ -1142,6 +1151,7 @@ Table of Contents
 - [KAIST CS420: Compiler Design](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0)
 - [CS402 Introduction to Logic for Computer Science (Spring 2020, KAIST)](https://www.youtube.com/playlist?list=PLvV9DPeJV9xzhy0Ti3P4DrfmtfXfLalW6)
 - [CS520 Theories of Programming Languages (Fall 2020, KAIST)](https://www.youtube.com/playlist?list=PLvV9DPeJV9xx0NegrG4gNu8WXSXibDICu)
+- [CS4510 Automata and Complexity SU25 - Abrahim Ladha - Georgia Tech](https://www.youtube.com/playlist?list=PLerMEx1Met7uOtmjvLr7v9XbYwjtNoOF2)
 
 ------------------------------
 
