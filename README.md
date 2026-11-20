@@ -575,6 +575,7 @@ Table of Contents
   - [Full Stack Deep Learning - Course 2021](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
   - [NYU Deep Learning Spring 2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
   - [NYU Deep Learning Spring 2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+  - [NYU CSCI-UA 480 075 Introduction to Deep Learning Research Fall 2025](https://atcold.github.io/NYU-DLFL25U/)
   - [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
   - [15.773: Hands-On Deep Learning Spring 2024 - MIT](https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/video_galleries/lecture-videos/)
   - [6.7960: Deep Learning Fall 2024 - MIT](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos/)
