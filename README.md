@@ -1505,6 +1505,7 @@ Table of Contents
 - [Lecture: Visual Navigation for Flying Robots](https://vision.in.tum.de/teaching/ss2012/visnav2012) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha))
 - [CS 205A: Mathematical Methods for Robotics, Vision, and Graphics (Fall 2013)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvQ_VzflHYKhAqZiTxOkSwi)
 - [Optimization and Learning for Robot Control - University of Trento, Italy](https://andreadelprete.github.io/courses/olrc/) ([YouTube-2025](https://www.youtube.com/playlist?list=PL4nPbSX5VFGjA3ZSbdtcVEeUSIzYeF0Xw))
+- [Optimization based Control of Legged Robots - University of Trento, Italy](https://andreadelprete.github.io/courses/oclr/) ([YouTube-2023](https://www.youtube.com/playlist?list=PL4nPbSX5VFGhjPfdWK3nFhjtkY4yfjBnF)) ([YouTube-2019](https://www.youtube.com/playlist?list=PL4nPbSX5VFGg5Izt8hjyQ_2R8rdnn6qWg))
 - [Robotics 1, Prof. De Luca, Università di Roma](http://www.dis.uniroma1.it/~deluca/rob1_en/material_rob1_en_2014-15.html) ([YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt))
 - [Robotics 2, Prof. De Luca, Università di Roma](http://www.diag.uniroma1.it/~deluca/rob2_en/material_rob2_en.html) ([YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcya6LnIF83QlJTqvpYmJXnDm))
 - [Robot Mechanics and Control, SNU](https://www.youtube.com/playlist?list=PLkjy3Accn-E7mlbuSF4aajcMMckG4wLvW)
