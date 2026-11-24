@@ -105,7 +105,7 @@ Table of Contents
 - [UW Madison CS 354 Machine Organization and Programming spring 2020, 2021, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg32r5MZ-HfpA2Tr8Ke2lDYwI)
 - [Cornell CS 1110 Introduction to Computing using Python fall 2020, by Walker White](https://www.cs.cornell.edu/courses/cs1110/2020fa/lessons/) ([Lecture Videos](https://vod.video.cornell.edu/channel/CS+1110+Fall+2020/179890731))
 - [Cornell ECE 4960 Computational and Software Engineering spring 2017, by Edwin Kan](https://www.youtube.com/playlist?list=PLcVqWUh-bHiFN2CY1KMTw0-L39iDXlemi)
-
+- [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 ------------------------------
 
 ### Data Structures and Algorithms
