@@ -220,7 +220,7 @@ Table of Contents
 - [Extremal graph theory at KAIST](https://www.youtube.com/playlist?list=PLu06QHBZ8gatHvSQIApVQCCQmtPTiIQhP)
 - [Advanced graph theory, KAIST 2020](https://www.youtube.com/playlist?list=PLu06QHBZ8gavJ4UJqiXn8nYJbENQ_cAJP)
 - [CS3510 Algorithms SU25 - Abrahim Ladha - Georgia Tech](https://www.youtube.com/playlist?list=PLerMEx1Met7ugIMoHZojyqhWe8X5S3Dzb)
-
+- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 
 ------------------------------
 
