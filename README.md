@@ -285,6 +285,7 @@ Table of Contents
   - [Programming Parallel Computers - Jukka Suomela](https://www.youtube.com/playlist?list=PL2RY7P3JxZN-Pz1nwvnoJ9uEHmOmv4jmi)
   - [Gatech CS7210 Distributed Computing](https://www.youtube.com/playlist?list=PLTsf9UeqkReZwDtqm1WePRLlXCnh1hPQt)
 - #### **Real-Time Systems**
+  - [COMP 4330 - Real-Time & Embedded Systems - ANU](https://www.youtube.com/playlist?list=PLIygTcviGPKANPTF_IYRdM7eYgJhxdAQy)
   - [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
   - [Real Time Systems - IIT Kharagpur](https://nptel.ac.in/courses/106105036/)
 - [6.172 Performance Engineering of Software Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)
