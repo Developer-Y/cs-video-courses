@@ -261,6 +261,7 @@ Table of Contents
   - [Operating System - IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYcwlZ7GPCBzbowmiiF4BYR)
   - [CS 153 Frontier Systems - Stanford University - Spring 2026](https://cs153.stanford.edu/)
   - [EE415: Introduction to Operating Systems (KAIST)](https://www.youtube.com/playlist?list=PLoeerdvt7Rcx5oKGUI7SxAsltRPWhouFA)
+  - [CS 162: Operating Systems and System Programming](https://cs162.org/)
 - #### **Distributed Systems**
   - [CS 677 - Distributed Operating Systems, Spring 24 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbBpWHfKUU9Dfdk8RmQ7B9EH)
   - [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
