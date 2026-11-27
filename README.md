@@ -735,6 +735,7 @@ Table of Contents
   - [A Course on Generative AI - Diffusion Models - Israel Institute of Technology](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ)
   - [MIT 6.S184 Flow Matching and Diffusion Models, 2025](https://diffusion.csail.mit.edu)
   - [Course on Diffusion Models for Generative AI - UT Austin](https://www.youtube.com/playlist?list=PL8lIiiIWuabLxhJreBRZwNW-d02dJwbMb)
+  - [AIC 313/CS 378 Introduction to Generative Models - Fall 2026 - KAIST](https://generative-models.kaist.ac.kr/)
   - [CS 492(C) Diffusion and Flow Models - Fall 2025 - KAIST](https://diffusion.kaist.ac.kr/) ([YouTube](https://www.youtube.com/playlist?list=PLyi5FHzX7hBzC698EjqgxQJG7pNPQyYyc))
   - [Stanford CS329A Self-Improving AI Agents 2025 - Stanford](https://cs329a.stanford.edu/#schedule) ([YouTube](https://www.youtube.com/playlist?list=PLangBM27OtEA))
   - [Stanford CS329Z Engineering AI Agents 2026 - Stanford](https://cs329z.stanford.edu/#schedule) ([YouTube](https://www.youtube.com/playlist?list=PLPRcF5HR02_U))
