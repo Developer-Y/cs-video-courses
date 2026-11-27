@@ -626,6 +626,7 @@ Table of Contents
   - [Mathematics of Deep Learning (2021) - FAU](https://www.fau.tv/course/id/878)
   - [CS7015 - Deep Learning - Prof. Mitesh M. Khapra - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
   - [ETH Zürich | Deep Learning in Scientific Computing 2023](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
+  - [University of Stuttgart | Analyzing Software using Deep Learning Summer 2020](https://software-lab.org/teaching/summer2020/asdl/)
   - [Deep Learning François Fleuret](https://fleuret.org/dlc/)
   - [Applied Deep Learning Maziar Raissi](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
   - [UC Berkeley CS 182 / 282a Deep Learning spring 2023, by Anant Sahai](https://www.youtube.com/playlist?list=PLIygTcviGPKAaj_UAJcazYN4964xZ7Lt1)
